@@ -10,12 +10,20 @@ explains the framework once; each topic page then applies it to that condition.
     framework**, not the authority. Always confirm the specifics against the **current**
     governing publications for the member's service and duty:
 
-    - **AR 40-501, *Standards of Medical Fitness*** (retention/fitness standards). In the
-      **27 June 2019** edition, the neurological retention standards are **para 3-31** (subpara **g**
-      = migraine/tension/cluster headache; also MS, stroke, seizure, narcolepsy, and **k** = other
-      neurologic conditions with residual deficits), and vision — including **binocular diplopia** —
-      is **para 3-7**. Aviation/special-duty standards are in **Chapter 4** (head injury: table 4-2).
-    - **DoDI 1332.18** and the **Integrated Disability Evaluation System (IDES)** guidance.
+    - **DoDI 6130.03 — Medical Standards for Military Service** (joint, all-Service). Two volumes:
+      **Vol 1 = Appointment, Enlistment, or Induction (accession)** and **Vol 2 = Retention.** The
+      neurologic standards live in **para 6.26** (Vol 1) and **5.26** (Vol 2); vision/diplopia in
+      **6.x / 5.4**; vestibular disease in **6.5** (Ears). These are the DoD floor that the Services
+      implement.
+    - **AR 40-501, *Standards of Medical Fitness*** — the Army's implementation. In the **27 June
+      2019** edition, neurological retention standards are **para 3-31** (subpara **g** = migraine/
+      tension/cluster headache; also MS, stroke, seizure, narcolepsy, and **k** = other neurologic
+      residuals), vision/**binocular diplopia** is **para 3-7**, and aviation/special-duty is
+      **Chapter 4** (head injury: table 4-2). *Where DoD says "frequent," the Army often supplies the
+      number* (e.g., headaches ≥3 incapacitating days/month).
+    - **DoDI 1332.18** and **DoD Manual 1332.18** — the Disability Evaluation System. **DoDM 1332.18
+      Vol 1 (Processes, 2023)** and **Vol 2 (Quality Assurance, 2024)** govern how a member who fails
+      a retention standard moves through the **DES** (the **IDES** integrates the VA exam).
     - Applicable **deployment medical standards / MOD** (e.g., CENTCOM MOD) for the theater.
     - **Aeromedical policy** (Aeromedical Policy Letters / service equivalents) for flight and
       other special-duty status.

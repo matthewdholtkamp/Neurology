@@ -116,20 +116,26 @@ in an older vasculopath, image before discharge. Admit anyone with focal finding
 central screen.
 
 !!! military "Military medicine — dizziness & vertigo"
-    *Framework only — verify against current AR 40-501, DoDI 1332.18, and aeromedical/dive policy.*
+    *Standards below are quoted from **DoDI 6130.03 Vol 1 (accession)** and **AR 40-501**; verify
+    current editions, DoDI 1332.18, and aeromedical/dive policy.*
 
-    - **Aeromedical & special duty are the crux here.** Vertigo and **spatial disorientation** are
-      flight-safety-critical: **recurrent vertigo, Ménière, and vestibular migraine are generally
-      disqualifying** for flight, dive, airborne, and other special-duty status and require waiver.
-      **BPPV** that fully resolves after repositioning is more favorable.
+    - **Accession — DoDI 6130.03 Vol 1, para 6.5 (Ears):** **any history of Ménière's syndrome,
+      recurrent labyrinthitis, or other chronic vestibular disease**, or **recurrent/persistent
+      vertigo in the last 12 months**, is **disqualifying for entry**. Vestibular disease is a
+      hard stop for applicants, not just a duty limitation.
+    - **Aeromedical & special duty are the crux for serving members.** Vertigo and **spatial
+      disorientation** are flight-safety-critical: **recurrent vertigo, Ménière, and vestibular
+      migraine are generally disqualifying** for flight, dive, airborne, and other special-duty
+      status and require waiver. **BPPV** that fully resolves after repositioning is more favorable.
     - **Deployability:** acute vertigo is temporarily non-deployable; recurrent/unpredictable
       vertigo limits duty in operational, maritime, and aviation environments.
     - **Profile (DA Form 3349):** temporary during work-up/recovery; permanent for chronic or
       recurrent vestibular disease with functional limits.
     - **EPTS / LOD:** document onset and triggers (blast/noise exposure, head injury) — relevant to
       both LOD and any co-existing [post-traumatic](../headache/post-traumatic.md) picture.
-    - **Retention / MEB:** refractory Ménière, chronic vestibulopathy, or PPPD with duty impact may
-      warrant board referral; document objective testing (audiogram, VNG) and failed treatment.
+    - **Retention / DES:** refractory Ménière, chronic vestibulopathy, or PPPD with duty impact may
+      warrant **referral to the DES** (MEB/PEB); document objective testing (audiogram, VNG) and
+      failed treatment.
 
 ---
 

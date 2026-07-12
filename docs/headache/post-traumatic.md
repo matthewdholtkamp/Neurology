@@ -90,9 +90,9 @@ multidisciplinary follow-up (headache + sleep + behavioral health + vestibular/P
 cases.
 
 !!! military "Military medicine — post-traumatic headache / concussion (mTBI)"
-    *Framework only — **verify against the current VA/DoD Clinical Practice Guideline for
-    mild TBI, DoDI 6490.11, AR 40-501, and applicable aeromedical policy.** mTBI is protocolized
-    in DoD; follow the mandated pathway, not just this page.*
+    *Standards below are quoted from **DoDI 6130.03 Vol 1/Vol 2**, **AR 40-501**, the **VA/DoD mTBI
+    CPG**, and **DoDI 6490.11**; the DES process is governed by **DoDI 1332.18 / DoDM 1332.18**.
+    mTBI is protocolized in DoD — follow the mandated pathway, not just this page.*
 
     - **Event-driven protocol:** after a potentially concussive event (blast, vehicle, fall,
       blunt), DoD policy mandates evaluation and a mandatory recovery period — **screen with
@@ -106,11 +106,16 @@ cases.
       persistent, functionally limiting PTH/post-concussive syndrome.
     - **EPTS / LOD:** combat/duty-incurred TBI is typically **in the line of duty** — document
       the event, mechanism, and timeline carefully; it drives both LOD and VA rating.
-    - **Retention — AR 40-501:** a migraine-phenotype PTH that is incapacitating ≥3 days/month
-      falls under **para 3-31g** (neurology referral → up to 6 months prophylaxis → DES if
-      uncontrolled). Residual **persistent severe headaches** after adequate treatment are captured
-      by **para 3-31k** (other neurologic conditions) → **referral to the DES** (MEB/PEB). Document
-      objective frequency, failed trials, neuropsych findings, and duty impact.
+    - **Retention — DoD & Army:** the joint standard (**DoDI 6130.03 Vol 2, para 5.26.h**) places
+      **TBI with persistent sequelae** — including **severe headaches**, sensory/cognitive/motor
+      impairment, or seizures — below retention standards. For the Army, a migraine-phenotype PTH
+      incapacitating ≥3 days/month falls under **AR 40-501 para 3-31g**, and residual **persistent
+      severe headaches** under **para 3-31k** → **referral to the DES** (MEB/PEB). Document objective
+      frequency, failed trials, neuropsych findings, and duty impact.
+    - **Accession — DoDI 6130.03 Vol 1, para 6.26:** for *applicants*, **persistent post-concussive
+      symptoms interfering with normal activities or lasting > 1 month** (headache, dizziness,
+      cognitive/memory problems), a history of head trauma with persistent focal deficit, or **≥3
+      mild brain injuries**, are **disqualifying for entry**.
     - **Aeromedical / special duty (AR 40-501 ch. 4, table 4-2):** head-injury standards are graded
       by **how long the headache/post-traumatic syndrome persists** — e.g., **PTH resolving within
       ~14 days** causes a temporary aviation suspension (≈1–3 months by class), while **post-
@@ -154,6 +159,6 @@ cases.
 
 *Verified July 2026: DoDI 6490.11 (mandates MACE screening across the Services), MACE2, the 2021
 VA/DoD mTBI CPG, and the 6-stage Progressive Return to Activity framework are current and correctly
-characterized. Retention (AR 40-501, 27 June 2019, para 3-31g/k) and the graded aviation head-injury
-standards (ch. 4, table 4-2) are quoted from that edition — confirm the exact table-4-2 tier and any
-newer edition at sign-off.*
+characterized. Retention/accession standards are quoted from DoDI 6130.03 Vol 2 (5.26.h) / Vol 1
+(6.26) and AR 40-501 (3-31g/k); the graded aviation head-injury standards are AR 40-501 ch. 4,
+table 4-2 — confirm the exact table-4-2 tier at sign-off.*

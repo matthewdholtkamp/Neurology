@@ -75,8 +75,9 @@ Outpatient. The wins are diagnostic (don't miss an indomethacin-responsive TAC) 
 (get the patient home oxygen and a verapamil plan with ECG monitoring).
 
 !!! military "Military medicine — cluster & TACs"
-    *Retention standard below is quoted from **AR 40-501 (27 June 2019), para 3-31g**; confirm
-    against the current edition and verify DoDI 1332.18 and aeromedical policy.*
+    *Standards below are quoted from **DoDI 6130.03 Vol 1/Vol 2** and **AR 40-501 (27 June 2019)**;
+    the DES process is governed by **DoDI 1332.18 / DoDM 1332.18**. Confirm current editions and
+    aeromedical policy.*
 
     - **Deployability:** an **active cluster bout** is severely disabling and typically
       deployment-limiting — the regimen (home/therapeutic **oxygen dependence**, **verapamil with
@@ -85,11 +86,14 @@ Outpatient. The wins are diagnostic (don't miss an indomethacin-responsive TAC) 
     - **Profile (DA Form 3349):** temporary profile during a bout; permanent profile for **chronic
       cluster** or refractory TACs with duty impact.
     - **EPTS / LOD:** document onset and periodicity.
-    - **Retention — AR 40-501 para 3-31g:** the headache standard explicitly names "migraine,
-      tension, **or cluster** headaches" — **incapacitating attacks interfering with duty or social
-      activities ≥3 days/month** require **neurologist referral**, permit up to **6 months** of
-      prophylaxis, and mandate **referral to the DES** (MEB/PEB) if not adequately controlled at
-      6 months. Cluster's clustered attack pattern easily meets the frequency threshold during a bout.
+    - **Retention — DoD & Army:** both the joint standard (**DoDI 6130.03 Vol 2, para 5.26.g**) and
+      **AR 40-501 para 3-31g** explicitly name "migraine, tension, **or cluster** headaches" —
+      **frequent incapacitating attacks** (Army: interfering with duty/social activities ≥3 days/
+      month) require **neurologist referral**, permit up to **6 months** of prophylaxis, and mandate
+      **referral to the DES** (MEB/PEB) if not controlled at 6 months. A cluster bout easily meets
+      the frequency threshold.
+    - **Accession — DoDI 6130.03 Vol 1, para 6.26.g:** a **history of cluster headaches** is
+      **disqualifying for entry**.
     - **Aeromedical / special duty:** active cluster and its medications (verapamil, triptans,
       lithium, topiramate) are generally **disqualifying/waiver-dependent**, and a history of
       chronic/recurrent/incapacitating headache is disqualifying for flying duty (AR 40-501, ch. 4).

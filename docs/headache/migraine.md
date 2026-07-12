@@ -153,9 +153,9 @@ Migraine is an **outpatient diagnosis.** Treat the attack, start/adjust preventi
 follow-up, and give a written acute-med limit. Admission is rarely helpful for a known migraineur.
 
 !!! military "Military medicine — migraine"
-    *Retention standard below is quoted from **AR 40-501 (27 June 2019), para 3-31g**; confirm it
-    against the current edition and verify DoDI 1332.18, service MOD/deployment standards, and
-    aeromedical policy before you counsel or document.*
+    *Standards below are quoted from **DoDI 6130.03 Vol 1 (accession) / Vol 2 (retention)** and
+    **AR 40-501 (27 June 2019)**; the DES process is governed by **DoDI 1332.18 / DoDM 1332.18**.
+    Confirm current editions and service-specific aeromedical policy before you counsel or document.*
 
     - **Deployability:** most controlled migraine is deployable. **Frequent/incapacitating** attacks,
       or a regimen not maintainable in theater, can be deployment-limiting. Consider environment:
@@ -165,11 +165,16 @@ follow-up, and give a written acute-med limit. Admission is rarely helpful for a
       profile** for chronic/refractory disease with functional limits documented.
     - **EPTS / LOD:** migraine often predates service — document **onset and pre-service history**;
       it affects existed-prior-to-service and line-of-duty determinations.
-    - **Retention — AR 40-501 para 3-31g:** migraine, tension, **or** cluster headaches "manifested
-      by **incapacitating attacks that interfere with duty or social activities three or more days
-      per month**" require **mandatory referral to a neurologist**. The neurologist may trial
-      **prophylactic therapy for up to 6 months**; **if not adequately controlled at 6 months, the
-      Soldier is referred to the DES** (MEB/PEB) — or directly, if judged unlikely to respond.
+    - **Retention — DoD & Army:** the joint standard (**DoDI 6130.03 Vol 2, para 5.26.g**) places
+      migraine, tension, **or** cluster headaches with **frequent incapacitating attacks** below
+      retention standards. **AR 40-501 para 3-31g** operationalizes "frequent" for the Army as
+      **incapacitating attacks interfering with duty or social activities ≥3 days/month** →
+      **mandatory neurologist referral**, up to **6 months** of prophylaxis, and **referral to the
+      DES** (MEB/PEB) if not adequately controlled at 6 months (or directly, if unlikely to respond).
+    - **Accession — DoDI 6130.03 Vol 1, para 6.26.e:** for *applicants*, a history in the prior
+      24 months of headaches that caused missed activity >2×/12 months, required prescription meds
+      >2×/12 months, or needed prophylaxis is **disqualifying for entry** (relevant to recruiting/
+      waivers).
     - **Document what the standard turns on:** a **headache diary** showing ≥3 incapacitating
       days/month, the **neurology referral**, the prophylaxis trial and its outcome, and concrete
       **duty impact**.
@@ -219,5 +224,6 @@ follow-up, and give a written acute-med limit. Admission is rarely helpful for a
 *Verified July 2026: the acute agents (zavegepant nasal, ubrogepant, rimegepant, lasmiditan with its
 ≥8-hour driving restriction) and preventives (anti-CGRP mAbs; oral atogepant/rimegepant) named here
 match current FDA approvals, and gepants are not associated with medication-overuse headache. The
-retention standard is quoted from AR 40-501 (27 June 2019) para 3-31g; DoDI 1332.18 process details
-and current aeromedical waiver specifics still warrant confirmation before final sign-off.*
+retention/accession standards are quoted from DoDI 6130.03 Vol 2 (5.26.g) / Vol 1 (6.26.e) and
+AR 40-501 (3-31g); the DES process is governed by DoDI 1332.18 / DoDM 1332.18. Service-specific
+aeromedical waiver specifics still warrant confirmation before final sign-off.*

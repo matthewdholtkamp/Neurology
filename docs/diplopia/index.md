@@ -109,8 +109,9 @@ outpatient neuro-ophthalmology work-up with symptomatic prisms/patching and inte
 confirm a presumed microvascular palsy actually resolves.
 
 !!! military "Military medicine — diplopia"
-    *Retention standard below is quoted from **AR 40-501 (27 June 2019), para 3-7b**; confirm
-    against the current edition and verify DoDI 1332.18 and aeromedical policy.*
+    *Standards below are quoted from **DoDI 6130.03 Vol 1/Vol 2** and **AR 40-501 (27 June 2019)**;
+    the DES process is governed by **DoDI 1332.18 / DoDM 1332.18**. Confirm current editions and
+    aeromedical policy.*
 
     - **Diplopia is duty- and safety-limiting** — persistent double vision is generally
       disqualifying for flight, dive, and weapons/vehicle-dependent duty, and non-deployable while
@@ -122,11 +123,14 @@ confirm a presumed microvascular palsy actually resolves.
       misalignment or an underlying disqualifying diagnosis.
     - **EPTS / LOD:** document mechanism — **head trauma** (classic for CN IV) ties into the
       [post-traumatic](../headache/post-traumatic.md) picture and LOD determination.
-    - **Retention — AR 40-501 (27 June 2019) para 3-7b:** **binocular diplopia not correctable by
+    - **Retention — DoD & Army (identical language):** **binocular diplopia not correctable by
       surgery, that is severe, constant, and in a zone less than 20 degrees from the primary
-      position** falls below retention standards → **referral to the DES** (MEB/PEB). A disqualifying
-      underlying condition (e.g., myasthenia) drives the board on its own terms; document the
-      localization and imaging/antibody work-up.
+      position** falls below retention standards (**DoDI 6130.03 Vol 2, para 5.4.e** = **AR 40-501
+      para 3-7b**) → **referral to the DES** (MEB/PEB). A disqualifying underlying condition (e.g.,
+      myasthenia) drives the board on its own terms; document the localization and imaging/antibody
+      work-up.
+    - **Accession — DoDI 6130.03 Vol 1, para 6.5 (ocular motility):** **current or recurrent
+      diplopia** is **disqualifying for entry**.
     - **Aeromedical / special duty:** binocular diplopia and impaired stereopsis are
       **disqualifying/waiver-dependent** for flying and special duty — consult the governing policy.
 
