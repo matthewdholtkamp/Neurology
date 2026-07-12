@@ -123,27 +123,60 @@ dose**), track response with the diary, and taper when stable.
 
 ## Order set — status migrainosus / ER
 
-!!! orderset "ER protocol for the refractory/prolonged attack"
-    After red flags are excluded. Give in stepwise phases; **avoid opioids/butalbital**.
+Graded to the **2025 American Headache Society guideline for parenteral migraine treatment in the
+ED** (Robblee et al.). Two headline points: **prochlorperazine** and the **greater occipital nerve
+block** are now **Level A "must offer,"** and **opioids are to be avoided** (IV hydromorphone is a
+Level A *"must NOT offer"*). Nerve blocks are opioid-sparing, fast, and safe in pregnancy — reach
+for them early, not just as a last resort.
 
-    **Phase 1 (give together):**
+!!! orderset "Tier 1 — first-line (offer to everyone; exclude red flags first)"
+    Give a dopamine antagonist **+** an NSAID **+ a nerve block**, not one drug in isolation.
 
-    - IV fluids — normal saline bolus (e.g., 1 L)
-    - **Metoclopramide 10 mg IV** *or* **prochlorperazine 10 mg IV** — **plus diphenhydramine
-      25 mg IV** to prevent akathisia/dystonia
-    - **Ketorolac 30 mg IV**
-    - **Magnesium sulfate 1–2 g IV** (especially migraine with aura)
+    - **Prochlorperazine 10 mg IV** *(Level A — first choice)*, or **metoclopramide 10 mg IV**
+      *(Level B — if prochlorperazine unavailable)*. Infuse over ~15 min.
+        - *Akathisia/dystonia:* many co-give **diphenhydramine 25 mg IV**; note the 2025 guideline
+          rates diphenhydramine "may not offer" as a *migraine treatment* and evidence that it
+          prevents akathisia is mixed — use it for the reaction, not for the headache.
+    - **Ketorolac 15–30 mg IV** *(Level B)* — or IV dexketoprofen / diclofenac IM where available.
+    - **Sumatriptan 6 mg SC** *(Level B)* — if not already used and no vascular contraindication.
+    - **IV fluids** only if the patient is dehydrated — fluids alone are **not** a migraine treatment.
 
-    **Phase 2 (if inadequate):**
+!!! orderset "Tier 1 — nerve blocks (do these early; opioid-sparing, pregnancy-safe)"
+    - **Greater occipital nerve block (GONB)** *(Level A — must offer)*. **Bilateral**, ~**2–3 mL of
+      bupivacaine 0.5%** (or 1–2% lidocaine) per side over the greater occipital nerve — landmark:
+      ~1/3 of the way from the occipital protuberance toward the mastoid, medial to the occipital
+      artery pulse. Onset ~10–15 min. Strong **adjunct** (a 2025 RCT: ~95% vs ~48% ≥50% relief at
+      2 h as add-on); especially useful with **occipital tenderness** or when avoiding systemic drugs.
+    - **Supraorbital / supratrochlear nerve blocks** *(Level B)* — for frontal pain.
+    - **Sphenopalatine ganglion (SPG) block** *(emerging; heterogeneous evidence)* — transnasal
+      **2–4% lidocaine** via a long cotton-tipped applicator or catheter device (e.g., ~1–2 mL per
+      nostril); simple and low-risk, reasonable as an adjunct.
 
-    - **Valproate (e.g., 500–1000 mg IV)** *or* **DHE 0.5–1 mg IV** (pre-treat nausea; DHE
-      contraindicated in vascular disease, recent triptan, pregnancy)
+!!! orderset "Tier 2 — inadequate response after ~30–60 min"
+    - **Magnesium sulfate 1–2 g IV** — best evidence in **migraine with aura**.
+    - **Dexamethasone 10 mg IV** *(Level C)* — modest acute benefit **and** reduces 24–72 h
+      recurrence (NNT ~9); give before discharge regardless.
+    - **Valproate 500–1000 mg IV** *(Level C)* — avoid in pregnancy/childbearing potential.
+    - **Chlorpromazine IV** *(Level C)* — alternative neuroleptic (watch sedation/hypotension; fluids).
 
-    **Before discharge:**
+!!! orderset "Tier 3 — truly refractory / status migrainosus (consider neurology)"
+    - **Droperidol 2.5 mg IV** *(Level C)* or **haloperidol 2.5–5 mg IV** *(Level C)* — potent
+      neuroleptics (droperidol relieves ~90% of refractory attacks). **Get a baseline ECG for QT**
+      (droperidol carries a QT black-box warning); co-treat akathisia.
+    - **Dihydroergotamine (DHE) 0.5–1 mg IV** with antiemetic pretreatment — **contraindicated** in
+      coronary/peripheral vascular disease, uncontrolled HTN, a triptan within 24 h, or pregnancy.
+      For **admitted** status migrainosus, the inpatient **Raskin protocol** (repeated IV DHE q8h
+      over 2–3 days) can break the cycle.
+    - **IV lidocaine, propofol, or low-dose ketamine** — refractory-headache options in a
+      **monitored** setting; specialist/neurology-directed.
 
-    - **Dexamethasone 10 mg IV/IM once** — reduces early headache recurrence
-    - Speak to the nurse directly to sequence meds; if admitted, add scheduled antiemetic,
-      sleep hygiene, and a clear acute-med cap.
+!!! orderset "Before discharge & what to avoid"
+    - **Dexamethasone 10 mg IV/IM once** if not already given — reduces early recurrence.
+    - Start/adjust a **preventive**, give a **written acute-medication cap**, and arrange follow-up.
+    - **Avoid opioids and butalbital** — Level A *must-not-offer* (hydromorphone); they worsen
+      outcomes and seed medication-overuse headache.
+    - Speak to the nurse directly to sequence meds; if admitted, add scheduled antiemetic and sleep
+      hygiene.
 
 ## Medication overuse headache (MOH)
 
@@ -209,6 +242,11 @@ follow-up, and give a written acute-med limit. Admission is rarely helpful for a
   ditan lasmiditan work **without vasoconstriction**, making them options in cardiovascular/
   cerebrovascular disease where triptans are contraindicated. **Gepants do not cause MOH.**
 - **OnabotulinumtoxinA (PREEMPT)** remains a first-tier preventive for **chronic** migraine only.
+- **ED care leads with dopamine antagonists + nerve blocks, not opioids.** The **2025 AHS
+  parenteral-ED guideline** (Robblee et al.) elevated **prochlorperazine** and the **greater
+  occipital nerve block** to **Level A "must offer,"** kept metoclopramide/ketorolac/SC sumatriptan
+  as "should offer," and made **IV hydromorphone a Level A "must-NOT-offer."** Nerve blocks are
+  fast, opioid-sparing, and safe in pregnancy.
 - **Avoid opioids and butalbital** — they worsen the disease and drive medication-overuse headache.
 - **Prevention only works if trialed adequately** — 8–12 weeks at target dose before judging failure.
 
@@ -230,14 +268,21 @@ follow-up, and give a written acute-med limit. Admission is rarely helpful for a
    Headache. 2024](https://headachejournal.onlinelibrary.wiley.com/doi/10.1111/head.14692).
 3. American Headache Society. *2021 Consensus Statement — integrating new migraine treatments*
    (acute/preventive thresholds).
-4. PREEMPT clinical program — onabotulinumtoxinA for chronic migraine (155 units/31 sites q12wk;
+4. Robblee J, et al. [*2025 guideline update to acute treatment of migraine for adults in the
+   emergency department: the AHS evidence assessment of parenteral pharmacotherapies.* Headache.
+   2026](https://headachejournal.onlinelibrary.wiley.com/doi/full/10.1111/head.70016).
+5. Friedman BW, et al. *Greater occipital nerve block vs IV metoclopramide for ED migraine* (RCT);
+   and 2025 adjunctive-GONB RCT.
+6. PREEMPT clinical program — onabotulinumtoxinA for chronic migraine (155 units/31 sites q12wk;
    up to 195 units/39 sites with follow-the-pain).
 
 *Verified July 2026: the acute agents (zavegepant nasal, ubrogepant, rimegepant, lasmiditan with its
 ≥8-hour driving restriction) and preventives (anti-CGRP mAbs; oral atogepant/rimegepant) named here
 match current FDA approvals; **CGRP therapies are first-line for prevention per the 2024 AHS position
 statement** (no requirement to fail older orals first); preventive-initiation thresholds (≥4 MHD, or
-≥2 with disability) follow the AHS consensus; and gepants are not associated with medication-overuse
+≥2 with disability) follow the AHS consensus; **the ER protocol is graded to the 2025 AHS parenteral-
+ED guideline** (prochlorperazine and greater occipital nerve block are Level A "must offer,"
+hydromorphone Level A "must-not-offer"); and gepants are not associated with medication-overuse
 headache. The
 retention/accession standards are quoted from DoDI 6130.03 Vol 2 (5.26.g) / Vol 1 (6.26.e) and
 AR 40-501 (3-31g); the DES process is governed by DoDI 1332.18 / DoDM 1332.18. Service-specific
