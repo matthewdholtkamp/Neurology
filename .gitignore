@@ -13,6 +13,7 @@ __pycache__/
 # Local editor / tooling settings
 .claude/
 
-# Source material — copyrighted PDFs / drafts, kept local, never published
-Headache/
-SCUTBOOK/
+# Source material — copyrighted PDFs / drafts, kept local, never published.
+# Anchored to the repo root and named distinctly so it can NEVER collide with
+# a content path like docs/headache/ (macOS gitignore matching is case-insensitive).
+/_source/
