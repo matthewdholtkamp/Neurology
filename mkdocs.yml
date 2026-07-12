@@ -1,9 +1,8 @@
 site_name: Neuro Scutbook
 site_description: A bedside neurology consult reference and evidence briefs for MDs, NPs, PAs, and medics — with a military-medicine layer.
-# TODO: set these to your real GitHub username/repo before first deploy
-site_url: https://USERNAME.github.io/neuro-scutbook/
-repo_url: https://github.com/USERNAME/neuro-scutbook
-repo_name: neuro-scutbook
+site_url: https://matthewdholtkamp.github.io/Neurology/
+repo_url: https://github.com/matthewdholtkamp/Neurology
+repo_name: matthewdholtkamp/Neurology
 copyright: >
   Educational clinical decision-support — not a substitute for professional
   judgment or individual medical advice. Verify against current guidelines.

@@ -37,5 +37,5 @@ else. Content is being converted from a working scutbook and **updated to curren
 - [Military medicine — deployability & MEB/IDES](military/deployability.md)
 
 More topics (stroke, seizure, altered mental status, weakness/neuromuscular, and the rest
-of the neurology consult service) are on the [roadmap](https://github.com/USERNAME/neuro-scutbook)
+of the neurology consult service) are on the [roadmap](https://github.com/matthewdholtkamp/Neurology)
 and will be added one at a time, each updated to current evidence before publishing.
