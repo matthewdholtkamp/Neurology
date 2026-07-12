@@ -25,7 +25,7 @@ fast, in order: **last-known-well → glucose → CT → blood pressure → repe
 
 ## Acute stroke checklist — what I want done, in order
 
-!!! orderset "Code stroke — the sequence (target door-to-needle ≤30 min)"
+!!! orderset "Code stroke — the sequence"
     1. **LKW + glucose** — the two numbers that gate everything.
     2. **Focused exam + NIHSS** (compact scale below). Note anticoagulant/antiplatelet use.
     3. **STAT non-contrast CT head; CTA head & neck** (skip CTA only if true contrast contraindication
@@ -39,6 +39,21 @@ fast, in order: **last-known-well → glucose → CT → blood pressure → repe
     7. **Weigh the patient** (dosing is weight-based; don't guess high).
     8. **If LVO:** activate neuro-interventional / arrange transfer **immediately** — in parallel with
        giving lytic ("drip and ship").
+
+!!! orderset "Time goalposts (AHA/ASA *Target: Stroke*)"
+    Beat these clocks — every step is a race:
+
+    | Milestone | Goal |
+    |---|---|
+    | Door → stroke team / physician | ≤10–15 min |
+    | **Door → CT initiated** | **≤25 min** |
+    | Door → CT read | ≤45 min |
+    | **Door → needle (thrombolysis)** | **≤60 min (standard); ≤45 min aspirational** |
+    | Door → arterial puncture (EVT) | ≤90 min (direct arrivals) |
+    | Door-in–door-out (transfer for EVT) | ≤60 min |
+
+    *The published guideline standard is **door-to-needle ≤60 min**, with **≤45 min** aspirational;
+    some centers push a ≤30-min institutional goal, but that is not the guideline benchmark.*
 
 ### Compact NIHSS (rapid field version)
 
@@ -72,12 +87,19 @@ Two independent decisions, made in parallel — **a patient can get both:**
 ## Reperfusion — Step 1: IV thrombolysis
 
 !!! orderset "IV thrombolysis — offer within 4.5 h of LKW (Class 1)"
-    **Two equivalent agents (2026 AHA/ASA — both Class 1); tenecteplase is the practical default:**
+    **Two agents, co-equal Class 1 within 4.5 h (2026 AHA/ASA); tenecteplase is the practical default:**
 
     - **Tenecteplase (TNK) 0.25 mg/kg IV, single bolus (max 25 mg)** — one push, no infusion, no
       line to babysit; easier for transfers. **Preferred where available.**
     - **Alteplase (tPA) 0.9 mg/kg IV (max 90 mg)** — **10% as a bolus over 1 min, remainder over
       60 min.**
+
+    !!! warning "Label vs. guideline — TNK is FDA-approved only to 3 h"
+        The **FDA label for tenecteplase approves it within 3 h** of onset/LKW. Using TNK in the
+        **3–4.5 h** window is **guideline-supported (2026 AHA/ASA, Class 1) but off-label** — fine to
+        do, just know the distinction and document it. Alteplase carries the same practical
+        ≤4.5 h use (its own labeling is ≤3 h with 3–4.5 h by guideline/evidence). The agents are
+        clinically co-equal across 4.5 h; they are **not** fully *regulatorily* equivalent.
 
     **Before you push, confirm the four:** *"Do I have the CT, the glucose, the blood pressure
     (<185/110), and the ECG?"* Weight-based dose — **weigh, don't eyeball.**
@@ -105,17 +127,26 @@ Two independent decisions, made in parallel — **a patient can get both:**
 
     !!! quote "Consent, in plain language (benefit is at 90 days, not at the bedside)"
         Thrombolysis is the best chance of returning to independence after stroke — roughly a **~10%
-        absolute increase in good outcome at 3 months.** The risk is bleeding: about **6% symptomatic
-        intracranial hemorrhage** vs ~1% without. **Overall mortality is not increased.** The benefit
-        is not seen immediately — it shows up over the following weeks.
+        absolute increase in good outcome at 3 months.** The risk is bleeding: symptomatic
+        intracranial hemorrhage — historically **~6% with alteplase** (NINDS), but **~2–3% with
+        modern tenecteplase 0.25 mg/kg** — vs ~1% without. **Overall mortality is not increased.**
+        The benefit is not seen immediately — it shows up over the following weeks.
 
-!!! orderset "Extended-window thrombolysis (perfusion-guided) — 'reasonable' (not first-line)"
-    When >4.5 h or wake-up/unknown onset **with a favorable perfusion/DWI–FLAIR mismatch:**
+!!! orderset "Extended-window thrombolysis (perfusion-guided) — the window now stretches to 24 h"
+    When >4.5 h or wake-up/unknown onset **with a favorable perfusion or DWI–FLAIR mismatch.** The
+    evidence is now **tenecteplase-based and reaches 24 h**, including **non-LVO** patients:
 
-    - **Wake-up / unknown onset:** DWI–FLAIR mismatch (WAKE-UP) **or** perfusion mismatch → lytic is
-      reasonable up to **~9 h from the sleep midpoint**.
-    - **4.5–9 h from LKW** with salvageable penumbra on automated perfusion (EXTEND) → reasonable.
-    - Always weigh **thrombectomy** in parallel for an LVO — it's often the better late option.
+    - **Wake-up / unknown onset, ≤~9 h:** DWI–FLAIR mismatch (WAKE-UP) **or** perfusion mismatch
+      (EXTEND, 4.5–9 h from LKW) → lytic is reasonable.
+    - **4.5–24 h, LVO without access to thrombectomy — TNK:** **TRACE-III** (NEJM 2024) showed
+      benefit for **tenecteplase** with perfusion mismatch (mRS 0–1: 33% vs 24%). This is the
+      "thrombectomy isn't available/transfer is too far" scenario.
+    - **4.5–24 h, non-LVO with perfusion mismatch — TNK:** **OPTION** (JAMA 2026) showed benefit
+      (mRS 0–1: 44% vs 34%, NNT 11) **but with more sICH (2.8% vs 0%)**.
+    - **TNK-PLUS** (JAMA 2026): tenecteplase **bridging before EVT** in the 4.5–24 h window.
+    - **Caveat:** extended-window lysis **raises sICH risk** — reserve it for genuine mismatch and
+      counsel accordingly. And **if thrombectomy is immediately available for an LVO, do that** —
+      **TIMELESS was negative** for TNK when EVT was on hand (lysis didn't add benefit).
 
 ## Reperfusion — Step 2: endovascular thrombectomy (LVO)
 
@@ -123,14 +154,19 @@ Two independent decisions, made in parallel — **a patient can get both:**
     Thrombolysis and thrombectomy are **not either/or** — a lytic-eligible LVO patient gets **both**
     (don't wait to see if the lytic works). Activate neuro-IR / transfer the moment CTA shows an LVO.
 
-    - **Anterior LVO (ICA, M1 ± proximal M2), 0–6 h:** thrombectomy, **Class I** (with ASPECTS
-      generally ≥6).
+    - **Anterior LVO (ICA, M1 ± proximal M2), 0–6 h:** thrombectomy, **Class I** (standard-window
+      trials enrolled **ASPECTS ≥6**).
     - **6–16 h:** **Class I** if **DAWN or DEFUSE-3** clinical–imaging mismatch met (perfusion/DWI).
     - **16–24 h:** **Class IIa** by DAWN criteria.
-    - **Large-core infarct (low ASPECTS 3–5):** still benefits — **SELECT2, ANGEL-ASPECT** (2023)
-      expanded eligibility; select with imaging, involve neuro-IR.
-    - **Basilar-artery occlusion:** thrombectomy up to **~12 h (ATTENTION)** and **~24 h (BAOCHE)** —
-      posterior strokes are devastating and under-treated; **don't anchor on a low NIHSS.**
+    - **Large-core infarct — thrombectomy still helps, down to ASPECTS 3:** the large-core trials
+      (**SELECT2, ANGEL-ASPECT, TENSION** [to 12 h], **TESLA**) specifically enrolled **ASPECTS 3–5**
+      (some 0–5), and benefit held down to **ASPECTS 3**. The **ATLAS** individual-patient
+      meta-analysis (Lancet 2026, 6 RCTs) is the definitive pooled evidence: **NNT 4.2** for ≥1-point
+      mRS shift, **NNT 8.6** for functional independence, and **reduced mortality (NNT 14.6)**. Don't
+      write off a low-ASPECTS patient — get neuro-IR involved.
+    - **Basilar-artery occlusion:** thrombectomy up to **~12 h (ATTENTION)** and **~24 h (BAOCHE)**
+      (both 2023) — posterior strokes are devastating and under-treated; **don't anchor on a low
+      NIHSS.**
 
 ## After reperfusion — the post-lytic order set
 
@@ -162,8 +198,14 @@ Two independent decisions, made in parallel — **a patient can get both:**
 |---|---|---|
 | **Before thrombolysis** | **<185/110** | Labetalol 10–20 mg IV, or nicardipine 5–15 mg/h gtt |
 | **After thrombolysis (24 h)** | **<180/105** | Same; nicardipine/clevidipine gtt if labile |
-| **Post-thrombectomy** | Individualized (often **<180**, lower if fully reperfused) | Avoid over-lowering a still-occluded vessel |
+| **Post-thrombectomy, successful reperfusion** | Individualized, usually **≤180**; **do NOT drive SBP <140** | Over-lowering a reperfused brain harms — see warning |
 | **No reperfusion (permissive HTN)** | **Treat only if >220/120**, then lower ~15% | Restart home meds ~24–48 h once stable |
+
+!!! warning "Don't over-lower after a successful thrombectomy"
+    The **2025 ACC/AHA hypertension guideline** carries a **Class 3: Harm** recommendation **against
+    lowering SBP <140 mmHg in the first 24–72 h after successful EVT reperfusion** — intensive
+    lowering worsened outcomes. Keep it controlled (≤180) but **don't chase a low number.** For an
+    *incompletely* reperfused vessel, avoid over-lowering to preserve collateral flow.
 
 ## Not a reperfusion candidate? Start antiplatelet therapy
 
@@ -188,10 +230,13 @@ Two independent decisions, made in parallel — **a patient can get both:**
 === "Cardioembolic (atrial fibrillation)"
     - **Anticoagulate — a DOAC** (apixaban/rivaroxaban/dabigatran/edoxaban) preferred over warfarin
       for non-valvular AF.
-    - **Timing:** modern trials (**ELAN, OPTIMAS, TIMING**) show **early DOAC start is safe** — no
-      need for the old rigid "1-3-6-12" wait. Reasonable to start **within a few days** (sooner for
-      small strokes, a bit later for large infarcts / hemorrhagic transformation). Individualize on
-      infarct size and bleeding risk.
+    - **Timing — start early (within ~4 days), and it's not just "safe."** The **CATALYST**
+      individual-patient meta-analysis (Lancet 2025, pooling **ELAN, OPTIMAS, TIMING** + others) found
+      **early DOAC (≤4 days) reduced** the 30-day composite of recurrent ischemic stroke / sICH /
+      unclassified stroke (**2.1% vs 3.0%, OR 0.70**) **with no increase in sICH** — so early is now
+      **preferred**, not merely permissible. The old rigid "1-3-6-12" wait is out. Still individualize
+      the exact day on infarct size and hemorrhagic transformation (sooner for small strokes, a touch
+      later for large infarcts).
     - **Left-atrial-appendage occlusion** if anticoagulation is truly contraindicated.
 
 === "Large-artery atherosclerosis"
@@ -271,22 +316,37 @@ risk is real.
 - **The whole field is time + vessel.** Two parallel decisions: **thrombolysis** (drug, ≤4.5 h or
   perfusion-selected later) and **thrombectomy** (large-vessel occlusion, out to 24 h). Eligible
   patients get **both.**
-- **Tenecteplase has arrived.** The **2026 AHA/ASA guideline** makes **TNK 0.25 mg/kg** and
-  **alteplase 0.9 mg/kg** co-equal Class 1 within 4.5 h; TNK's single bolus is operationally simpler,
-  especially for transfers.
-- **Late windows opened up.** **DAWN** and **DEFUSE-3** established 6–24 h thrombectomy with
-  perfusion mismatch; **SELECT2/ANGEL-ASPECT** extended it to **large-core** infarcts; **ATTENTION/
-  BAOCHE** to **basilar** occlusion. **WAKE-UP/EXTEND** support perfusion-guided late thrombolysis.
+- **Tenecteplase has arrived** (with a label caveat). The **2026 AHA/ASA guideline** makes **TNK
+  0.25 mg/kg** and **alteplase 0.9 mg/kg** co-equal Class 1 within 4.5 h; TNK's single bolus is
+  operationally simpler. Note the **FDA label approves TNK only to 3 h** — 3–4.5 h is guideline-based
+  but off-label. **Reteplase** may be next: **RAISE** (2025) found reteplase (two 18 mg boluses)
+  **superior** to alteplase for excellent 90-day outcome (79.5% vs 70.4%) without more sICH — not yet
+  in guidelines, but a signal that the thrombolytic field is still moving.
+- **Extended-window lysis now reaches 24 h — and it's tenecteplase.** Beyond WAKE-UP/EXTEND (~9 h),
+  **TRACE-III** (LVO without EVT access) and **OPTION** (non-LVO with mismatch) show **TNK benefit out
+  to 24 h** with perfusion selection — at the cost of **more sICH** (OPTION 2.8% vs 0%). **TNK-PLUS**
+  studies pre-EVT bridging. **But if EVT is immediately available, do EVT — TIMELESS was negative** for
+  adding TNK.
+- **Late thrombectomy windows opened up.** **DAWN** and **DEFUSE-3** established 6–24 h thrombectomy
+  with mismatch; **SELECT2, ANGEL-ASPECT, TENSION (≤12 h), TESLA** extended it to **large-core**
+  infarcts (**ASPECTS 3–5, benefit down to 3**); the **ATLAS** meta-analysis (Lancet 2026) pooled it
+  (**NNT 4.2** mRS shift, **8.6** independence, **14.6** mortality). **ATTENTION/BAOCHE** (2023) cover
+  **basilar** occlusion.
 - **Short DAPT, not long.** For minor stroke / high-risk TIA, **21 days** of aspirin+clopidogrel
   (CHANCE/POINT) beats aspirin alone; beyond 21 days you only add bleeding. **THALES** offers
   ticagrelor+ASA.
-- **Anticoagulate AF earlier than we used to.** **ELAN/OPTIMAS/TIMING** show early DOAC initiation is
-  safe — the rigid 1-3-6-12 wait is out; individualize on infarct size.
+- **Anticoagulate AF early — it reduces recurrence.** **CATALYST** (Lancet 2025; pooling ELAN/OPTIMAS/
+  TIMING) shows **early DOAC ≤4 days lowers** recurrent ischemic stroke/sICH at 30 days **with no
+  excess sICH** — early is now preferred, not just tolerated. The 1-3-6-12 wait is out.
+- **Post-EVT, don't over-lower BP.** The **2025 ACC/AHA hypertension guideline** flags **SBP <140 in
+  the first 24–72 h after successful reperfusion as Class 3: Harm.**
 - **Chase LDL <70** with a high-intensity statin (± ezetimibe/PCSK9); treat the **mechanism**, not
   just "a stroke."
 
-**Key sources:** 2026 AHA/ASA acute ischemic stroke guideline; DAWN; DEFUSE-3; SELECT2; ANGEL-ASPECT;
-ATTENTION; BAOCHE; WAKE-UP; EXTEND; CHANCE; POINT; THALES; ELAN; OPTIMAS; TIMING; SPARCL/TST (lipids).
+**Key sources:** 2026 AHA/ASA acute ischemic stroke guideline & *Target: Stroke* time goals; DAWN;
+DEFUSE-3; SELECT2; ANGEL-ASPECT; TENSION; TESLA; ATLAS (meta-analysis); ATTENTION; BAOCHE; WAKE-UP;
+EXTEND; TRACE-III; OPTION; TNK-PLUS; TIMELESS; RAISE (reteplase); CHANCE; POINT; THALES; ELAN;
+OPTIMAS; TIMING; CATALYST; 2025 ACC/AHA hypertension guideline; SPARCL/TST (lipids).
 
 ## References
 
@@ -294,22 +354,35 @@ ATTENTION; BAOCHE; WAKE-UP; EXTEND; CHANCE; POINT; THALES; ELAN; OPTIMAS; TIMING
    Stroke. 2026](https://www.ahajournals.org/doi/10.1161/STR.0000000000000513).
 2. Nogueira RG, et al. [*Thrombectomy 6–24 h after stroke with mismatch (DAWN).* NEJM. 2018](https://www.nejm.org/doi/full/10.1056/NEJMoa1706442);
    Albers GW, et al. *DEFUSE-3.* NEJM. 2018.
-3. SELECT2 and ANGEL-ASPECT investigators (2023) — thrombectomy for **large-core** infarct;
-   ATTENTION (2022) and BAOCHE (2022) — **basilar** occlusion thrombectomy.
-4. Wang Y, et al. *CHANCE*; Johnston SC, et al. *POINT* — 21-day DAPT in minor stroke/high-risk TIA;
+3. **Large-core thrombectomy:** SELECT2, ANGEL-ASPECT (2023), TENSION (≤12 h), TESLA — ASPECTS 3–5;
+   pooled in the **ATLAS** individual-patient meta-analysis (Lancet 2026; NNT 4.2 mRS shift, 8.6
+   independence, 14.6 mortality). **Basilar:** ATTENTION and BAOCHE (both 2023).
+4. **Extended-window tenecteplase:** TRACE-III (NEJM 2024, LVO 4.5–24 h without EVT); OPTION (JAMA
+   2026, non-LVO mismatch 4.5–24 h); TNK-PLUS (JAMA 2026, pre-EVT bridging); **TIMELESS** (negative
+   when EVT immediately available). **Reteplase:** RAISE (2025) — superior to alteplase for 90-day
+   excellent outcome.
+5. Wang Y, et al. *CHANCE*; Johnston SC, et al. *POINT* — 21-day DAPT in minor stroke/high-risk TIA;
    *THALES* — ticagrelor+aspirin.
-5. Fischer U, et al. [*Early vs later anticoagulation for stroke with AF (ELAN).* NEJM. 2023](https://www.nejm.org/doi/full/10.1056/NEJMoa2303048);
-   OPTIMAS and TIMING.
-6. Source scutbook: *STROKE* (M. Holtkamp) — acute checklist, "million-dollar presentation," consent
+6. Fischer U, et al. [*Early vs later anticoagulation for stroke with AF (ELAN).* NEJM. 2023](https://www.nejm.org/doi/full/10.1056/NEJMoa2303048);
+   OPTIMAS; TIMING; and the **CATALYST** individual-patient meta-analysis ([Lancet. 2025](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25)00439-8/fulltext))
+   — early DOAC ≤4 days reduces recurrence without excess sICH.
+7. **2025 ACC/AHA hypertension guideline** — Class 3: Harm against SBP <140 mmHg 24–72 h after
+   successful EVT reperfusion.
+8. Source scutbook: *STROKE* (M. Holtkamp) — acute checklist, "million-dollar presentation," consent
    framing, and post-lytic order set (modernized to the 2026 guideline).
-7. **JTS Clinical Practice Guideline:** [*Management of Stroke and Cerebrovascular Emergencies in the
+9. **JTS Clinical Practice Guideline:** [*Management of Stroke and Cerebrovascular Emergencies in the
    Deployed Setting* (03 Jul 2024)](https://jts.health.mil/assets/docs/cpgs/Stroke_Cerebrovascular_Emergencies_Deployed_Setting_03_July_2024.pdf).
 
 *Verified July 2026: dual thrombolytic option (tenecteplase 0.25 mg/kg or alteplase 0.9 mg/kg, both
-Class 1 ≤4.5 h) and extended-window/late-thrombectomy criteria follow the **2026 AHA/ASA acute
-ischemic stroke guideline**; thrombectomy windows (0–6 h Class I; 6–16 h DAWN/DEFUSE-3 Class I;
-16–24 h DAWN Class IIa; large-core SELECT2/ANGEL-ASPECT; basilar ATTENTION/BAOCHE) and BP targets
-(<185/110 pre-lytic, <180/105 post-lytic, permissive <220/120) are current; 21-day DAPT (CHANCE/
-POINT) and early DOAC initiation (ELAN/OPTIMAS/TIMING) are correctly characterized. **AR 40-501
-stroke-specific retention paragraph and the TRICARE preferred DOAC were not pinned to a citable
-source here — verify both before counseling.** The deployed-stroke framing follows the JTS 2024 CPG.*
+Class 1 ≤4.5 h) follows the **2026 AHA/ASA guideline** — but **TNK is FDA-labeled only to 3 h**, so
+3–4.5 h use is off-label. Extended-window lysis now reaches **24 h** and is tenecteplase-based
+(TRACE-III, OPTION, TNK-PLUS) with **increased sICH**; TIMELESS was negative when EVT was available;
+RAISE (reteplase) is emerging, not yet guideline-incorporated. Thrombectomy windows (0–6 h Class I;
+6–16 h DAWN/DEFUSE-3 Class I; 16–24 h DAWN Class IIa; large-core SELECT2/ANGEL-ASPECT/TENSION/TESLA
+down to ASPECTS 3, pooled in ATLAS; basilar ATTENTION/BAOCHE, both 2023) are current. BP targets
+(<185/110 pre-lytic, <180/105 post-lytic, permissive <220/120; **no SBP <140 within 24–72 h of
+successful EVT** per 2025 ACC/AHA) and time goals (door-to-CT ≤25 min, door-to-needle ≤60/≤45 min per
+*Target: Stroke*) are current; 21-day DAPT (CHANCE/POINT) and **early DOAC ≤4 days (CATALYST reduces
+recurrence)** are correctly characterized. **AR 40-501 stroke-specific retention paragraph and the
+TRICARE preferred DOAC were not pinned to a citable source here — verify both before counseling.**
+The deployed-stroke framing follows the JTS 2024 CPG.*
