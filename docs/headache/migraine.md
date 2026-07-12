@@ -129,17 +129,26 @@ block** are now **Level A "must offer,"** and **opioids are to be avoided** (IV 
 Level A *"must NOT offer"*). Nerve blocks are opioid-sparing, fast, and safe in pregnancy — reach
 for them early, not just as a last resort.
 
+**Escalation cadence:** give the whole of Tier 1 together up front, then **reassess pain every
+30 minutes**. At **30 min**, if only partial relief, you may **repeat the dopamine antagonist once**
+(prochlorperazine 10 mg or metoclopramide 10 mg). If still inadequate at **~60 min**, move to
+**Tier 2**; reassess again at **~30–60 min** before **Tier 3**. Nerve blocks act within 10–15 min,
+so they help decide escalation quickly.
+
 !!! orderset "Tier 1 — first-line (offer to everyone; exclude red flags first)"
     Give a dopamine antagonist **+** an NSAID **+ a nerve block**, not one drug in isolation.
 
-    - **Prochlorperazine 10 mg IV** *(Level A — first choice)*, or **metoclopramide 10 mg IV**
-      *(Level B — if prochlorperazine unavailable)*. Infuse over ~15 min.
+    - **Prochlorperazine 10 mg IV** *(Level A — first choice)*, or **metoclopramide 10–20 mg IV**
+      *(Level B — if prochlorperazine unavailable)*. Infuse each over ~15 min. **May repeat once at
+      30 min** if partial response.
         - *Akathisia/dystonia:* many co-give **diphenhydramine 25 mg IV**; note the 2025 guideline
           rates diphenhydramine "may not offer" as a *migraine treatment* and evidence that it
           prevents akathisia is mixed — use it for the reaction, not for the headache.
-    - **Ketorolac 15–30 mg IV** *(Level B)* — or IV dexketoprofen / diclofenac IM where available.
+    - **Ketorolac 15–30 mg IV** *(Level B)* — or **dexketoprofen 50 mg IV** or **diclofenac 75 mg
+      IM** where available.
     - **Sumatriptan 6 mg SC** *(Level B)* — if not already used and no vascular contraindication.
-    - **IV fluids** only if the patient is dehydrated — fluids alone are **not** a migraine treatment.
+    - **IV fluids — normal saline ~1 L** only if the patient is dehydrated (or before chlorpromazine);
+      fluids alone are **not** a migraine treatment.
 
 !!! orderset "Tier 1 — nerve blocks (do these early; opioid-sparing, pregnancy-safe)"
     - **Greater occipital nerve block (GONB)** *(Level A — must offer)*. **Bilateral**, ~**2–3 mL of
@@ -147,28 +156,36 @@ for them early, not just as a last resort.
       ~1/3 of the way from the occipital protuberance toward the mastoid, medial to the occipital
       artery pulse. Onset ~10–15 min. Strong **adjunct** (a 2025 RCT: ~95% vs ~48% ≥50% relief at
       2 h as add-on); especially useful with **occipital tenderness** or when avoiding systemic drugs.
-    - **Supraorbital / supratrochlear nerve blocks** *(Level B)* — for frontal pain.
+    - **Supraorbital / supratrochlear nerve blocks** *(Level B)* — for frontal pain; ~**1–2 mL of
+      bupivacaine 0.5% or 1–2% lidocaine per site**.
     - **Sphenopalatine ganglion (SPG) block** *(emerging; heterogeneous evidence)* — transnasal
       **2–4% lidocaine** via a long cotton-tipped applicator or catheter device (e.g., ~1–2 mL per
       nostril); simple and low-risk, reasonable as an adjunct.
 
-!!! orderset "Tier 2 — inadequate response after ~30–60 min"
-    - **Magnesium sulfate 1–2 g IV** — best evidence in **migraine with aura**.
+!!! orderset "Tier 2 — add if inadequate at ~60 min; reassess again at 30–60 min"
+    - **Magnesium sulfate 1–2 g IV** over ~15–30 min — best evidence in **migraine with aura**.
     - **Dexamethasone 10 mg IV** *(Level C)* — modest acute benefit **and** reduces 24–72 h
       recurrence (NNT ~9); give before discharge regardless.
     - **Valproate 500–1000 mg IV** *(Level C)* — avoid in pregnancy/childbearing potential.
-    - **Chlorpromazine IV** *(Level C)* — alternative neuroleptic (watch sedation/hypotension; fluids).
+    - **Chlorpromazine 12.5–25 mg IV** *(Level C)* — alternative neuroleptic; **give a ~1 L saline
+      preload** and watch sedation/orthostatic hypotension. May repeat after ~30 min.
 
-!!! orderset "Tier 3 — truly refractory / status migrainosus (consider neurology)"
+!!! orderset "Tier 3 — refractory / status migrainosus (monitored; consider neurology)"
     - **Droperidol 2.5 mg IV** *(Level C)* or **haloperidol 2.5–5 mg IV** *(Level C)* — potent
       neuroleptics (droperidol relieves ~90% of refractory attacks). **Get a baseline ECG for QT**
-      (droperidol carries a QT black-box warning); co-treat akathisia.
-    - **Dihydroergotamine (DHE) 0.5–1 mg IV** with antiemetic pretreatment — **contraindicated** in
-      coronary/peripheral vascular disease, uncontrolled HTN, a triptan within 24 h, or pregnancy.
-      For **admitted** status migrainosus, the inpatient **Raskin protocol** (repeated IV DHE q8h
-      over 2–3 days) can break the cycle.
-    - **IV lidocaine, propofol, or low-dose ketamine** — refractory-headache options in a
-      **monitored** setting; specialist/neurology-directed.
+      (droperidol carries a QT black-box warning); co-treat akathisia. May repeat once after
+      ~30–60 min.
+    - **Dihydroergotamine (DHE) 0.5–1 mg IV**, preceded by an **antiemetic** (e.g., metoclopramide
+      10 mg or ondansetron 4 mg IV); may repeat **0.5–1 mg q8h**. **Contraindicated** in coronary/
+      peripheral vascular disease, uncontrolled HTN, a triptan/ergot within 24 h, or pregnancy. For
+      **admitted** status migrainosus, the inpatient **Raskin protocol** (IV DHE q8h over 2–3 days,
+      with an antiemetic) can break the cycle.
+    - **Specialist/monitored infusions** (procedural-sedation monitoring where relevant):
+        - **IV lidocaine** — 1 mg/kg bolus, then ~2 mg/min infusion (do not exceed 4 mg/min; keep
+          level < 5 µg/mL); status-migrainosus courses may run up to ~2 days.
+        - **Propofol** — 0.5 mg/kg bolus, then 0.25 mg/kg every 10 min for up to 1 h.
+        - **Low-dose ketamine** — subacute infusion ~0.1–0.4 mg/kg/h (note: a single **low-dose ED
+          bolus was negative** in an RCT, so reserve ketamine for monitored refractory use).
 
 !!! orderset "Before discharge & what to avoid"
     - **Dexamethasone 10 mg IV/IM once** if not already given — reduces early recurrence.
