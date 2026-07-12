@@ -28,10 +28,13 @@ migraine — it is almost never "just tension."
 moderate/severe, aggravated by routine activity} **and ≥1 of** {nausea/vomiting, *or* photophobia
 **and** phonophobia}, not better explained by another diagnosis.
 
-**Migraine with aura:** ≥2 attacks with fully reversible aura (visual, sensory, speech, motor,
-brainstem, or retinal) spreading over ≥5 min and/or in succession, each symptom 5–60 min, usually
-followed by headache. **Motor aura = hemiplegic migraine; brainstem aura** — both are red flags to
-distinguish from TIA/stroke on first presentation and both **contraindicate triptans/ergots**.
+**Migraine with aura:** ≥2 attacks with **≥1 fully reversible aura symptom** (visual, sensory,
+speech/language, motor, brainstem, or retinal) **and ≥3 of these 6 characteristics:** (1) at least
+one symptom spreads gradually over ≥5 min; (2) two or more symptoms occur in succession; (3) each
+symptom lasts 5–60 min; (4) at least one symptom is **unilateral**; (5) at least one symptom is
+**positive** (e.g., scintillations, pins-and-needles); (6) aura is accompanied by, or followed
+within 60 min by, headache. **Motor aura = hemiplegic migraine; brainstem aura** — both are red
+flags to distinguish from TIA/stroke on first presentation and both **contraindicate triptans/ergots**.
 
 **Chronic migraine:** headache ≥15 days/month for >3 months, with migrainous features ≥8 days/month.
 Screen for **medication overuse** in every chronic patient.
@@ -55,9 +58,19 @@ red flags, atypical/persistent aura, or a change in pattern. Do not order EEG fo
 **Four rules that matter more than drug choice:** (1) **treat early** — at the first sign of pain,
 while it is still mild; (2) **match strength to severity** (stratified care — don't make a severe
 attack fail acetaminophen first); (3) **give an adequate dose and route** — under-dosing and a
-vomited pill are the two commonest "triptan failures"; (4) **cap acute days** at **≤2 days/week
-(≤10 days/month** for triptans/gepants/combinations, **≤15** for plain NSAIDs) to prevent
-medication-overuse headache.
+vomited pill are the two commonest "triptan failures"; (4) **cap acute days to prevent
+medication-overuse headache (MOH)** — and note the *prevention cap* is stricter than the
+*diagnostic threshold*:
+
+- **Recommended cap (to prevent MOH):** **triptans, ergots, opioids, and combination analgesics
+  ≤2 days/week (≈8–10 days/month)**; **plain NSAIDs/simple analgesics ≤3 days/week (≈10–15
+  days/month)**.
+- **ICHD-3 diagnostic threshold for MOH** (a higher bar — this is when you *label* it, see MOH
+  section): **≥10 days/month** for triptans/ergots/opioids/combinations, **≥15 days/month** for
+  simple NSAIDs/acetaminophen.
+- **Gepants are exempt — they are not associated with MOH, so no monthly cap applies.** This makes
+  them the acute agent of choice for patients who are already overusing or who need frequent
+  treatment.
 
 !!! orderset "Step 1 — mild-to-moderate attack (start here for most)"
     Any one of these, taken **early**, with an antiemetic if nauseated:
@@ -299,6 +312,14 @@ so they help decide escalation quickly.
         - **Propofol** — 0.5 mg/kg bolus, then 0.25 mg/kg every 10 min for up to 1 h.
         - **Low-dose ketamine** — subacute infusion ~0.1–0.4 mg/kg/h (note: a single **low-dose ED
           bolus was negative** in an RCT, so reserve ketamine for monitored refractory use).
+
+!!! note "Eptinezumab (Vyepti) IV — not a routine ED drug"
+    The 2025 AHS guideline evaluated **eptinezumab 100 mg IV** for acute treatment: it beat placebo
+    for 2-h headache freedom (23.5% vs 12.0%), but the pivotal RCT was run **mostly outpatient**. So
+    the guideline rates it **Level B ("should offer") *only* for patients matching that trial
+    population**, and **Level U (no recommendation) for the general ED population**. Practically:
+    **don't reach for it in a typical ED visit** — it's slow-onset, costly, and unproven for acute
+    ED use. Its real role is **outpatient prevention** (see the preventive ladder).
 
 !!! orderset "Before discharge & what to avoid"
     - **Dexamethasone 10 mg IV/IM once** if not already given — reduces early recurrence.
