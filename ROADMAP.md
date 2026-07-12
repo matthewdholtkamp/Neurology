@@ -110,7 +110,8 @@ Each page's specifics get checked against current sources at build time.
 - [ ] Increased ICP Management (nudge toward hypertonic saline)
 - [ ] Hypercoag workup (drop MTHFR)
 - [ ] Coma workup
-- [ ] Dizziness & Diplopia (HINTS holds up)
+- [x] Dizziness — built; reframed to timing-and-triggers (TiTrATE/ATTEST) + HINTS.
+      *(Diplopia half of the source doc still to build as its own page.)*
 - [ ] Radiculopathy & Plexopathy
 - [ ] AMS workup
 - [ ] IVIG / PLEX / Rituximab order sets
