@@ -5,9 +5,10 @@ A neurology reference for MDs, NPs, PAs, and medics: a bedside consult "scutbook
 with a standardized military-medicine layer (deployability, profiles, EPTS/LOD,
 retention, MEB/IDES). Hosted free on GitHub Pages.
 
-> **Status:** Phase 0 built (MkDocs scaffold + disclaimer + Military-box styling +
-> canonical Migraine page + auto-deploy). Not yet pushed to GitHub. This file is the
-> living build checklist.
+> **Status: LIVE** at https://matthewdholtkamp.github.io/Neurology/ (public repo
+> github.com/matthewdholtkamp/Neurology). 11 pages across Headache (6), Dizziness,
+> Diplopia + military primer. Auto-deploys on push to main via strict-build CI.
+> This file is the living build checklist.
 > Last updated: 2026-07-11
 
 ---
