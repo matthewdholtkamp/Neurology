@@ -1,0 +1,18 @@
+# Build output
+site/
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+
+# Local editor / tooling settings
+.claude/
+
+# Source material — copyrighted PDFs / drafts, kept local, never published
+Headache/
+SCUTBOOK/
