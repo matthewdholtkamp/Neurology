@@ -41,21 +41,39 @@ retention, MEB/IDES). Hosted free on GitHub Pages.
 
 ---
 
-## Standard topic template
+## Standard topic template — the "Headache" format (CANONICAL)
 
-Every clinical page follows this skeleton so users build muscle memory:
+**Every clinical page follows the tiered, prescriptive "Headache" format.** Reference
+implementation: `docs/headache/migraine.md`. Fill-in skeleton: `includes/topic-template.md`.
+Contributor guide: `docs/contributing.md`. **This is locked — all write-ups from now on use it.**
+
+Format hallmarks (non-negotiable):
+
+- **Prescriptive > comprehensive** — the reader knows *exactly* what to do first / second / third.
+- A **"The prescriptive flow (what I want done, in order)"** numbered block.
+- **Tiered `!!! orderset` boxes — Step 1 → 2 → 3 — with a DOSE on every drug** and explicit
+  escalation triggers between tiers.
+- **Decision tables** + `=== "tabs"` for comorbidity-keyed option sets.
+- A **`!!! tip "TRICARE — …"` box wherever drugs are prescribed** (preferred/no-PA vs PA-gated;
+  verify at the TRICARE Formulary Search).
+- The standardized **`!!! military`** box (fixed 5 fields).
+- **Discover brief + linked References + a `*Verified MON YYYY*` footer** (audit trail; flag
+  anything unconfirmed).
+
+Section order:
 
 1. One-liner + who this is for
-2. RED FLAGS / when to image now
-3. Rapid approach (numbered algorithm)
-4. Focused H&P + exam
-5. Workup (labs / imaging / LP)
-6. Management by diagnosis
-7. Order set (copy-pasteable)
-8. Disposition (admit vs discharge)
-9. Military box (standardized snippet)
-10. Discover: evidence summary + key trials
-11. References
+2. RED FLAGS / when to image now (`!!! danger`)
+3. Diagnosis / classification (quote criteria exactly)
+4. Rapid approach (numbered)
+5. **The prescriptive flow (what I want done, in order)**
+6. Workup (labs / imaging / LP)
+7. Management — **tiered Step 1→2→3 order sets with doses** + decision tables + `Avoid` box
+8. **TRICARE prescribing box** wherever drugs appear
+9. Disposition (admit vs discharge)
+10. Military box (standardized snippet)
+11. Discover: evidence brief + key trials
+12. References + `*Verified MON YYYY*` footer
 
 ### Military box — fixed 5 fields
 1. **Deployability** — deployment-limiting per MOD/CENTCOM standards?

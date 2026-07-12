@@ -1,26 +1,49 @@
 # How to add a topic
 
-Every clinical page follows the same skeleton so users build muscle memory. To add one:
+**Every clinical page follows the "Headache" format** — the tiered, prescriptive style used across
+the Headache and Stroke pages. The canonical reference implementation is
+[`docs/headache/migraine.md`](headache/migraine.md); the fill-in skeleton is
+`includes/topic-template.md`. To add a page:
 
 1. Copy `includes/topic-template.md` to `docs/<area>/<topic>.md`.
-2. Fill in each section. Delete sections that truly don't apply, but keep the **order**.
+2. Fill in each section. Delete sections that truly don't apply, but keep the **order** and the
+   **format hallmarks** below.
 3. Add the page to the `nav:` list in `mkdocs.yml`.
-4. Preview locally (`mkdocs serve`), then commit and push — the site redeploys automatically.
+4. Preview locally (`mkdocs serve`), build with `mkdocs build --strict`, then commit and push — the
+   site redeploys automatically.
 
-## The standard sections
+## Format hallmarks (the "Headache" style — don't drop these)
+
+- **Prescriptive, not just comprehensive.** The reader should know **exactly what to do at each
+  step** — this is "what the neurologist wants you to do first, second, third."
+- **A "The prescriptive flow (what I want done, in order)" numbered block** near the top of
+  management.
+- **Tiered `!!! orderset` boxes — Step 1 → 2 → 3 — with a DOSE on every drug** and an explicit
+  "what defines failure / when to escalate" between tiers.
+- **Decision tables** (comorbidity → agent, situation → target) and `=== "tabs"` for parallel
+  option sets.
+- **A `!!! tip "TRICARE — …"` box wherever drugs are prescribed** — name the preferred/no-PA go-to
+  vs the PA-gated agents (and what the PA requires); always tell the reader to verify at the TRICARE
+  Formulary Search.
+- **The standardized `!!! military` box** (fixed 5 fields).
+- **A "📚 Discover" evidence brief, linked References, and a `*Verified MON YYYY: …*` footer** that
+  states what was source-checked and flags anything that could not be confirmed.
+
+## The standard sections (in order)
 
 1. Title + `Last reviewed: MON YYYY` stamp
 2. One-liner + who it's for
 3. 🚩 Red flags / when to image now (`!!! danger`)
-4. Rapid approach (numbered algorithm)
-5. Focused H&P + exam
-6. Workup (labs / imaging / LP)
-7. Management by diagnosis
-8. Order set (`!!! orderset`)
-9. Disposition
-10. Military box (`!!! military`)
-11. 📚 Discover — evidence brief
-12. References
+4. Diagnosis / classification (quote criteria exactly)
+5. Rapid approach (numbered)
+6. **The prescriptive flow (what I want done, in order)**
+7. Workup (labs / imaging / LP — an `!!! orderset` if there's a mandatory set)
+8. Management — **tiered `!!! orderset` Step 1→2→3 with doses**, decision tables, `Avoid` box
+9. **TRICARE prescribing box** (`!!! tip`) wherever drugs appear
+10. Disposition
+11. Military box (`!!! military`)
+12. 📚 Discover — evidence brief
+13. References + `*Verified MON YYYY*` footer
 
 ## Custom callout boxes
 
@@ -30,11 +53,14 @@ This site defines two custom admonitions in addition to the Material defaults:
 !!! danger "🚩 Red flags"
     Emergent / must-not-miss items.
 
-!!! orderset "Order set"
-    Copy-pasteable orders.
+!!! orderset "Step 1 — first-line"
+    Copy-pasteable, dosed orders. Tier as Step 1 → 2 → 3.
+
+!!! tip "TRICARE — <topic> prescribing"
+    Preferred/no-PA go-to vs PA-gated agents; verify at the TRICARE Formulary Search.
 
 !!! military "Military medicine — <topic>"
-    The five questions: deployability, profile, EPTS/LOD, retention, MEB/IDES.
+    The five fields: deployability, profile, EPTS/LOD, retention, MEB/IDES.
 ```
 
 ## Ground rules
