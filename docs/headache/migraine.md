@@ -81,8 +81,10 @@ Principles: **treat early**, match agent to severity (stratified care), pre-trea
 
 ## Preventive treatment
 
-**Start prevention** when migraine is frequent (roughly ≥4 headache days/month **with disability**,
-or fewer if very disabling), when acute treatment is overused/contraindicated, or by patient
+**Start prevention** (AHS consensus) for **≥4 migraine headache days/month**, or **≥2 days/month
+with significant disability** despite acute treatment — and regardless of frequency for **atypical
+aura** (hemiplegic, brainstem) or migraine **complications** (persistent aura, migrainous infarction,
+status migrainosus). Also start when acute treatment is overused/contraindicated, or by patient
 preference. **Set expectations:** give any preventive an adequate trial (**8–12 weeks at target
 dose**), track response with the diary, and taper when stable.
 
@@ -95,17 +97,21 @@ dose**), track response with the diary, and taper when stable.
     - **Amitriptyline / nortriptyline** — helpful with insomnia or comorbid tension-type/anxiety.
     - **Candesartan** or **valproate/divalproex** (avoid valproate in people who may become pregnant).
 
-=== "CGRP-targeted (when first-line fails or is not tolerated)"
+=== "CGRP-targeted (a first-line option — AHS 2024)"
     - **Anti-CGRP monoclonal antibodies:** erenumab (receptor), fremanezumab, galcanezumab (SC,
       monthly/quarterly), eptinezumab (IV, quarterly). Well tolerated; watch constipation
       (erenumab) and injection-site reactions.
     - **Oral gepants for prevention:** **atogepant** (daily) or **rimegepant** (every other day) —
       rimegepant uniquely doubles as acute + preventive.
-    - Increasingly used **earlier** rather than after many failures (see Discover).
+    - **Per the 2024 American Headache Society position statement, CGRP-targeting therapies are now
+      a first-line option** — there is **no requirement to fail two trials of older oral preventives
+      first.** Choose between an oral first-line agent and a CGRP therapy based on the patient,
+      comorbidities, contraindications, and access (see Discover).
 
 === "Chronic migraine"
-    - **OnabotulinumtoxinA (PREEMPT protocol):** 155–195 units across 31+ fixed sites every
-      12 weeks — **for chronic migraine only** (≥15 headache days/month), not episodic.
+    - **OnabotulinumtoxinA (PREEMPT protocol):** **155 units across 31 fixed sites every 12 weeks**
+      (up to **195 units/39 sites** with the optional "follow-the-pain" additions) — **for chronic
+      migraine only** (≥15 headache days/month), not episodic.
     - CGRP mAbs and Botox are both first-tier for chronic migraine and can be combined in
       refractory cases.
 
@@ -193,10 +199,12 @@ follow-up, and give a written acute-med limit. Admission is rarely helpful for a
 
 - **Stratified beats step care.** Match acute-drug strength to attack severity from the start;
   a **triptan + NSAID** combination outperforms either agent alone for moderate/severe attacks.
-- **The CGRP era.** Anti-CGRP monoclonal antibodies (erenumab, fremanezumab, galcanezumab,
-  eptinezumab) and oral gepants (atogepant, rimegepant) are now core preventives, not last resorts,
-  and are increasingly offered **earlier** in the treatment ladder rather than only after multiple
-  oral failures.
+- **CGRP therapies are now first-line for prevention.** The **2024 American Headache Society
+  position statement** (Charles et al., *Headache*) makes anti-CGRP mAbs (erenumab, fremanezumab,
+  galcanezumab, eptinezumab) and oral gepants (atogepant, rimegepant) **a first-line option** and
+  **removed the prior requirement to fail two 8-week trials of older oral preventives first.** They
+  are "a first-line option," not "the" only first-line — choose between an oral agent and a CGRP
+  therapy by patient factors and access.
 - **Gepants and ditans expand acute options.** Gepants (ubrogepant, rimegepant, zavegepant) and the
   ditan lasmiditan work **without vasoconstriction**, making them options in cardiovascular/
   cerebrovascular disease where triptans are contraindicated. **Gepants do not cause MOH.**
@@ -217,13 +225,20 @@ follow-up, and give a written acute-med limit. Admission is rarely helpful for a
 
 1. Headache Classification Committee of the International Headache Society. *The International
    Classification of Headache Disorders, 3rd edition (ICHD-3).*
-2. American Headache Society. *Consensus and position statements on acute and preventive migraine
-   treatment and CGRP-targeting therapies* (use the most recent update).
-3. PREEMPT clinical program — onabotulinumtoxinA for chronic migraine.
+2. Charles A, et al. [*Calcitonin gene-related peptide-targeting therapies are a first-line option
+   for the prevention of migraine: An American Headache Society position statement update.*
+   Headache. 2024](https://headachejournal.onlinelibrary.wiley.com/doi/10.1111/head.14692).
+3. American Headache Society. *2021 Consensus Statement — integrating new migraine treatments*
+   (acute/preventive thresholds).
+4. PREEMPT clinical program — onabotulinumtoxinA for chronic migraine (155 units/31 sites q12wk;
+   up to 195 units/39 sites with follow-the-pain).
 
 *Verified July 2026: the acute agents (zavegepant nasal, ubrogepant, rimegepant, lasmiditan with its
 ≥8-hour driving restriction) and preventives (anti-CGRP mAbs; oral atogepant/rimegepant) named here
-match current FDA approvals, and gepants are not associated with medication-overuse headache. The
+match current FDA approvals; **CGRP therapies are first-line for prevention per the 2024 AHS position
+statement** (no requirement to fail older orals first); preventive-initiation thresholds (≥4 MHD, or
+≥2 with disability) follow the AHS consensus; and gepants are not associated with medication-overuse
+headache. The
 retention/accession standards are quoted from DoDI 6130.03 Vol 2 (5.26.g) / Vol 1 (6.26.e) and
 AR 40-501 (3-31g); the DES process is governed by DoDI 1332.18 / DoDM 1332.18. Service-specific
 aeromedical waiver specifics still warrant confirmation before final sign-off.*
