@@ -31,7 +31,14 @@
 *[SUNCT]: Short-lasting Unilateral Neuralgiform headache with Conjunctival injection and Tearing
 *[TTH]: Tension-Type Headache
 *[DoDI]: Department of Defense Instruction
+*[EOM]: Extraocular Movements
 *[EPTS]: Existed Prior To Service
+*[INO]: Internuclear Ophthalmoplegia
+*[MuSK]: Muscle-Specific Kinase
+*[AChR]: Acetylcholine Receptor
+*[PComm]: Posterior Communicating Artery
+*[TFT]: Thyroid Function Test
+*[TSI]: Thyroid-Stimulating Immunoglobulin
 *[ICHD-3]: International Classification of Headache Disorders, 3rd edition
 *[ICP]: Intracranial Pressure
 *[IDES]: Integrated Disability Evaluation System

@@ -79,6 +79,8 @@ nav:
       - Post-traumatic headache: headache/post-traumatic.md
   - Dizziness & vertigo:
       - Overview & HINTS: dizziness/index.md
+  - Diplopia:
+      - Overview & localization: diplopia/index.md
   - Military medicine:
       - Deployability & MEB/IDES: military/deployability.md
   - Contributing:
