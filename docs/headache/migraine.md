@@ -211,4 +211,8 @@ follow-up, and give a written acute-med limit. Admission is rarely helpful for a
    treatment and CGRP-targeting therapies* (use the most recent update).
 3. PREEMPT clinical program — onabotulinumtoxinA for chronic migraine.
 
-*Add DOIs/links as each source is verified at review time.*
+*Verified July 2026: the acute agents (zavegepant nasal, ubrogepant, rimegepant, lasmiditan with its
+≥8-hour driving restriction) and preventives (anti-CGRP mAbs; oral atogepant/rimegepant) named here
+match current FDA approvals, and gepants are not associated with medication-overuse headache. The
+military box (AR 40-501 thresholds, aeromedical specifics) still needs confirmation against current
+publications before final sign-off.*

@@ -141,9 +141,14 @@ cases.
 ## References
 
 1. Headache Classification Committee of the International Headache Society. *ICHD-3.*
-2. Department of Veterans Affairs / Department of Defense. *Clinical Practice Guideline for the
-   Management of Concussion/Mild Traumatic Brain Injury* (use the most recent version).
-3. Traumatic Brain Injury Center of Excellence (TBICoE). *Progressive Return to Activity* clinical
+2. VA/DoD. [*Clinical Practice Guideline for the Management and Rehabilitation of Post-Acute Mild
+   Traumatic Brain Injury* (2021)](https://www.healthquality.va.gov/guidelines/rehab/mtbi/).
+3. DoD. [*DoDI 6490.11 — Policy Guidance for Management of mTBI/Concussion in the Deployed
+   Setting*](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/649011p.pdf).
+4. Traumatic Brain Injury Center of Excellence (TBICoE). *Progressive Return to Activity* clinical
    recommendation and provider tools.
 
-*Add DOIs/links as each source is verified at review time.*
+*Verified July 2026: DoDI 6490.11 (mandates MACE screening across the Services), MACE2, the 2021
+VA/DoD mTBI CPG, and the 6-stage Progressive Return to Activity framework are current and correctly
+characterized. AR 40-501 retention thresholds and aeromedical specifics remain to be confirmed
+against the current publications before final sign-off.*
