@@ -9,7 +9,14 @@ retention, MEB/IDES). Hosted free on GitHub Pages.
 > github.com/matthewdholtkamp/Neurology). 11 pages across Headache (6), Dizziness,
 > Diplopia + military primer. Auto-deploys on push to main via strict-build CI.
 > This file is the living build checklist.
-> Last updated: 2026-07-11
+> Last updated: 2026-07-12
+>
+> **Headache vertical now rebuilt in a "tiered prescriptive" style** — every treatment
+> section is a numbered "what I want done, in order" flow + `Step 1→2→3` order-set boxes
+> with doses, plus a **TRICARE formulary layer** (preferred/no-PA vs PA-gated agents,
+> neurologist requirements). Source-verified against current guidelines (AHS/EAN/ICHD-3)
+> with linked references. This is the **new canonical template** — propagate the tiered
+> flow + TRICARE box to all future drug/protocol pages.
 
 ---
 
@@ -93,9 +100,11 @@ Each page's specifics get checked against current sources at build time.
 - [ ] **Seizure** — status epilepticus rewritten by ESETT; new ASMs; ILAE 2017.
 
 ### Drug/protocol update (skeleton holds, add what's new)
-- [x] **Headache** *(PILOT — vertical complete)* — triage hub + 6 pages (migraine,
-      cluster/TACs, trigeminal neuralgia, MOH, NDPH, post-traumatic), updated to 2026
-      evidence. Drug details still to be source-verified before final "reviewed" sign-off.
+- [x] **Headache** *(PILOT — vertical complete + source-verified)* — triage hub + 6 pages
+      (migraine, cluster/TACs, trigeminal neuralgia, MOH, NDPH, post-traumatic), rebuilt in
+      the tiered prescriptive style with a TRICARE layer; drug details source-verified against
+      current AHS/EAN guidelines + ICHD-3 (2026). Remaining: overview/triage hub (index.md)
+      still in the older format — reformat into a tap-to-topic decision grid if desired.
 - [ ] **Intracranial Hemorrhage** — andexanet/idarucizumab reversal; INTERACT3;
       ENRICH minimally-invasive surgery.
 - [ ] **Movement Disorder** — VMAT2 inhibitors for TD; newer PD adjuncts.
@@ -128,7 +137,8 @@ Each page's specifics get checked against current sources at build time.
   Remaining before public: set real GitHub username/repo in `mkdocs.yml`, `git init` +
   push to a private repo, enable Pages on the `gh-pages` branch, then PII scrub + flip public.
 - **Phase 1 — Headache vertical:** ✅ DONE — triage hub + 6 sub-pages, each with a
-  Discover brief and military box. Git repo initialized locally (3 commits); not yet pushed.
+  Discover brief and military box. **Live and pushed** to github.com/matthewdholtkamp/Neurology;
+  all 6 treatment pages rebuilt in the tiered prescriptive + TRICARE style and source-verified.
 - **Phase 2 — Military layer:** standalone deployability/MEB/IDES primer;
   wire military box into headache (post-traumatic HA is the bridge).
 - **Phase 3 — Green pile:** fast-follow the 7 light-touch topics for early breadth.
