@@ -111,7 +111,7 @@ Each page's specifics get checked against current sources at build time.
 - [ ] Hypercoag workup (drop MTHFR)
 - [ ] Coma workup
 - [x] Dizziness — built; reframed to timing-and-triggers (TiTrATE/ATTEST) + HINTS.
-      *(Diplopia half of the source doc still to build as its own page.)*
+- [x] Diplopia — built as its own page (monocular-vs-binocular, CN III/IV/VI, Parks 3-step).
 - [ ] Radiculopathy & Plexopathy
 - [ ] AMS workup
 - [ ] IVIG / PLEX / Rituximab order sets
