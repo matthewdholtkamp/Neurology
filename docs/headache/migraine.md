@@ -153,8 +153,9 @@ Migraine is an **outpatient diagnosis.** Treat the attack, start/adjust preventi
 follow-up, and give a written acute-med limit. Admission is rarely helpful for a known migraineur.
 
 !!! military "Military medicine — migraine"
-    *Framework only — **verify against the current AR 40-501, DoDI 1332.18, applicable service
-    MOD/deployment standards, and aeromedical policy** before you counsel or document.*
+    *Retention standard below is quoted from **AR 40-501 (27 June 2019), para 3-31g**; confirm it
+    against the current edition and verify DoDI 1332.18, service MOD/deployment standards, and
+    aeromedical policy before you counsel or document.*
 
     - **Deployability:** most controlled migraine is deployable. **Frequent/incapacitating** attacks,
       or a regimen not maintainable in theater, can be deployment-limiting. Consider environment:
@@ -164,14 +165,18 @@ follow-up, and give a written acute-med limit. Admission is rarely helpful for a
       profile** for chronic/refractory disease with functional limits documented.
     - **EPTS / LOD:** migraine often predates service — document **onset and pre-service history**;
       it affects existed-prior-to-service and line-of-duty determinations.
-    - **Retention (AR 40-501):** recurrent migraine that is **incapacitating despite adequate
-      treatment** and interferes with duty may fail retention standards → consider **MEB**.
-    - **MEB / IDES:** refer when frequent, incapacitating, and inadequately controlled after
-      adequate trials. Documentation that carries a board: **headache diary/frequency**, failed
-      medication trials, ER visits, and specific **duty impact**.
-    - **Aeromedical / special duty:** migraine (especially **with aura**) and many migraine
-      medications are **disqualifying or waiver-dependent** for flight and other special-duty
-      status — consult the governing aeromedical policy before prescribing.
+    - **Retention — AR 40-501 para 3-31g:** migraine, tension, **or** cluster headaches "manifested
+      by **incapacitating attacks that interfere with duty or social activities three or more days
+      per month**" require **mandatory referral to a neurologist**. The neurologist may trial
+      **prophylactic therapy for up to 6 months**; **if not adequately controlled at 6 months, the
+      Soldier is referred to the DES** (MEB/PEB) — or directly, if judged unlikely to respond.
+    - **Document what the standard turns on:** a **headache diary** showing ≥3 incapacitating
+      days/month, the **neurology referral**, the prophylaxis trial and its outcome, and concrete
+      **duty impact**.
+    - **Aeromedical / special duty:** a **history of chronic, recurrent, or incapacitating headaches
+      — including ocular or acephalic migraine with visual disturbance — is disqualifying for flying
+      duty** (AR 40-501, ch. 4). Many migraine medications are independently disqualifying/waiver-
+      dependent; confirm current aeromedical policy before prescribing.
 
 ---
 
@@ -214,5 +219,5 @@ follow-up, and give a written acute-med limit. Admission is rarely helpful for a
 *Verified July 2026: the acute agents (zavegepant nasal, ubrogepant, rimegepant, lasmiditan with its
 ≥8-hour driving restriction) and preventives (anti-CGRP mAbs; oral atogepant/rimegepant) named here
 match current FDA approvals, and gepants are not associated with medication-overuse headache. The
-military box (AR 40-501 thresholds, aeromedical specifics) still needs confirmation against current
-publications before final sign-off.*
+retention standard is quoted from AR 40-501 (27 June 2019) para 3-31g; DoDI 1332.18 process details
+and current aeromedical waiver specifics still warrant confirmation before final sign-off.*

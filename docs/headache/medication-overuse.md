@@ -74,8 +74,10 @@ Outpatient for most, with clear written instructions and follow-up. A minority w
       implications — an added reason to avoid these classes and taper existing use.
     - **Deployability:** the **underlying primary headache** (usually migraine) drives
       deployability; treating MOH often restores function.
-    - **Profile / retention / MEB:** frame around the underlying disorder once overuse is corrected;
-      persistent disability after adequate treatment may warrant board referral.
+    - **Retention — AR 40-501 para 3-31g:** frame around the **underlying primary headache** once
+      overuse is corrected — if incapacitating attacks still interfere with duty ≥3 days/month after
+      an adequate neurology-directed trial (up to 6 months prophylaxis), the standard directs
+      **referral to the DES** (MEB/PEB).
     - **Aeromedical / special duty:** sedating acute meds and opioids/barbiturates are
       **disqualifying/waiver-dependent**; correcting overuse can support return to status.
 

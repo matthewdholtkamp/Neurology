@@ -109,7 +109,8 @@ outpatient neuro-ophthalmology work-up with symptomatic prisms/patching and inte
 confirm a presumed microvascular palsy actually resolves.
 
 !!! military "Military medicine — diplopia"
-    *Framework only — verify against current AR 40-501, DoDI 1332.18, and aeromedical policy.*
+    *Retention standard below is quoted from **AR 40-501 (27 June 2019), para 3-7b**; confirm
+    against the current edition and verify DoDI 1332.18 and aeromedical policy.*
 
     - **Diplopia is duty- and safety-limiting** — persistent double vision is generally
       disqualifying for flight, dive, and weapons/vehicle-dependent duty, and non-deployable while
@@ -121,11 +122,13 @@ confirm a presumed microvascular palsy actually resolves.
       misalignment or an underlying disqualifying diagnosis.
     - **EPTS / LOD:** document mechanism — **head trauma** (classic for CN IV) ties into the
       [post-traumatic](../headache/post-traumatic.md) picture and LOD determination.
-    - **Retention / MEB:** persistent diplopia with functional impairment, or a disqualifying
-      underlying condition, warrants board referral; document the localization and imaging/antibody
-      work-up.
+    - **Retention — AR 40-501 (27 June 2019) para 3-7b:** **binocular diplopia not correctable by
+      surgery, that is severe, constant, and in a zone less than 20 degrees from the primary
+      position** falls below retention standards → **referral to the DES** (MEB/PEB). A disqualifying
+      underlying condition (e.g., myasthenia) drives the board on its own terms; document the
+      localization and imaging/antibody work-up.
     - **Aeromedical / special duty:** binocular diplopia and impaired stereopsis are
-      **disqualifying/waiver-dependent** — consult the governing policy.
+      **disqualifying/waiver-dependent** for flying and special duty — consult the governing policy.
 
 ---
 

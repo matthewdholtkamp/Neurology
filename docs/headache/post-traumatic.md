@@ -106,12 +106,16 @@ cases.
       persistent, functionally limiting PTH/post-concussive syndrome.
     - **EPTS / LOD:** combat/duty-incurred TBI is typically **in the line of duty** — document
       the event, mechanism, and timeline carefully; it drives both LOD and VA rating.
-    - **Retention (AR 40-501) & MEB/IDES:** persistent post-concussive symptoms — headache plus
-      cognitive/vestibular/behavioral impairment — that don't recover with adequate treatment may
-      fail retention standards → **MEB**. Document objective frequency, failed trials, neuropsych
-      findings, and duty impact.
-    - **Aeromedical / special duty:** TBI/concussion grounds flight and many special-duty roles;
-      return requires meeting the governing aeromedical recovery criteria and waiver process.
+    - **Retention — AR 40-501:** a migraine-phenotype PTH that is incapacitating ≥3 days/month
+      falls under **para 3-31g** (neurology referral → up to 6 months prophylaxis → DES if
+      uncontrolled). Residual **persistent severe headaches** after adequate treatment are captured
+      by **para 3-31k** (other neurologic conditions) → **referral to the DES** (MEB/PEB). Document
+      objective frequency, failed trials, neuropsych findings, and duty impact.
+    - **Aeromedical / special duty (AR 40-501 ch. 4, table 4-2):** head-injury standards are graded
+      by **how long the headache/post-traumatic syndrome persists** — e.g., **PTH resolving within
+      ~14 days** causes a temporary aviation suspension (≈1–3 months by class), while **post-
+      traumatic syndrome persisting beyond ~6 weeks** causes **permanent disqualification / 2-year
+      termination of aviation service**. Confirm the exact tier in table 4-2 for the class involved.
 
 ---
 
@@ -150,5 +154,6 @@ cases.
 
 *Verified July 2026: DoDI 6490.11 (mandates MACE screening across the Services), MACE2, the 2021
 VA/DoD mTBI CPG, and the 6-stage Progressive Return to Activity framework are current and correctly
-characterized. AR 40-501 retention thresholds and aeromedical specifics remain to be confirmed
-against the current publications before final sign-off.*
+characterized. Retention (AR 40-501, 27 June 2019, para 3-31g/k) and the graded aviation head-injury
+standards (ch. 4, table 4-2) are quoted from that edition — confirm the exact table-4-2 tier and any
+newer edition at sign-off.*

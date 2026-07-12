@@ -75,7 +75,8 @@ Outpatient. The wins are diagnostic (don't miss an indomethacin-responsive TAC) 
 (get the patient home oxygen and a verapamil plan with ECG monitoring).
 
 !!! military "Military medicine — cluster & TACs"
-    *Framework only — verify against current AR 40-501, DoDI 1332.18, and aeromedical policy.*
+    *Retention standard below is quoted from **AR 40-501 (27 June 2019), para 3-31g**; confirm
+    against the current edition and verify DoDI 1332.18 and aeromedical policy.*
 
     - **Deployability:** an **active cluster bout** is severely disabling and typically
       deployment-limiting — the regimen (home/therapeutic **oxygen dependence**, **verapamil with
@@ -84,11 +85,14 @@ Outpatient. The wins are diagnostic (don't miss an indomethacin-responsive TAC) 
     - **Profile (DA Form 3349):** temporary profile during a bout; permanent profile for **chronic
       cluster** or refractory TACs with duty impact.
     - **EPTS / LOD:** document onset and periodicity.
-    - **Retention / MEB:** refractory chronic cluster or a disabling TAC not controlled by adequate
-      treatment may warrant board referral; document attack frequency and failed regimens.
+    - **Retention — AR 40-501 para 3-31g:** the headache standard explicitly names "migraine,
+      tension, **or cluster** headaches" — **incapacitating attacks interfering with duty or social
+      activities ≥3 days/month** require **neurologist referral**, permit up to **6 months** of
+      prophylaxis, and mandate **referral to the DES** (MEB/PEB) if not adequately controlled at
+      6 months. Cluster's clustered attack pattern easily meets the frequency threshold during a bout.
     - **Aeromedical / special duty:** active cluster and its medications (verapamil, triptans,
-      lithium, topiramate) are generally **disqualifying/waiver-dependent** — consult the governing
-      policy.
+      lithium, topiramate) are generally **disqualifying/waiver-dependent**, and a history of
+      chronic/recurrent/incapacitating headache is disqualifying for flying duty (AR 40-501, ch. 4).
 
 ---
 

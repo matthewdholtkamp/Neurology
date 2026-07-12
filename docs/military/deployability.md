@@ -10,7 +10,11 @@ explains the framework once; each topic page then applies it to that condition.
     framework**, not the authority. Always confirm the specifics against the **current**
     governing publications for the member's service and duty:
 
-    - **AR 40-501, *Standards of Medical Fitness*** (retention/fitness standards).
+    - **AR 40-501, *Standards of Medical Fitness*** (retention/fitness standards). In the
+      **27 June 2019** edition, the neurological retention standards are **para 3-31** (subpara **g**
+      = migraine/tension/cluster headache; also MS, stroke, seizure, narcolepsy, and **k** = other
+      neurologic conditions with residual deficits), and vision — including **binocular diplopia** —
+      is **para 3-7**. Aviation/special-duty standards are in **Chapter 4** (head injury: table 4-2).
     - **DoDI 1332.18** and the **Integrated Disability Evaluation System (IDES)** guidance.
     - Applicable **deployment medical standards / MOD** (e.g., CENTCOM MOD) for the theater.
     - **Aeromedical policy** (Aeromedical Policy Letters / service equivalents) for flight and
@@ -34,6 +38,10 @@ Every clinical page answers these in order:
    (objective frequency/severity, failed adequate treatment trials, and concrete duty impact).
 
 ## Process orientation (high level)
+
+*AR 40-501 refers to sending a Soldier who fails a retention standard to **the DES (Disability
+Evaluation System)** — the umbrella for the MEB → PEB sequence below, which the **IDES** integrates
+with the VA disability exam.*
 
 - **MEB (Medical Evaluation Board):** documents the condition(s) and whether the member meets
   retention standards.

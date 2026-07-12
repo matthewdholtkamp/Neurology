@@ -65,8 +65,11 @@ follow-up. Consider a headache-specialist referral for refractory cases.
     - **Profile (DA Form 3349):** temporary during work-up/treatment trials; permanent if it
       persists with functional limitation.
     - **EPTS / LOD:** the distinct onset date helps establish timing relative to service.
-    - **Retention / MEB:** refractory, disabling NDPH after an adequate work-up and treatment trials
-      may warrant board referral; document frequency, failed trials, and duty impact.
+    - **Retention — AR 40-501:** an NDPH with a **migraine/tension phenotype** that is
+      incapacitating ≥3 days/month is handled under **para 3-31g** (neurology referral → up to
+      6 months prophylaxis → DES if uncontrolled); refractory **persistent severe headache** after
+      adequate treatment is captured by **para 3-31k** (other neurologic conditions) → **DES**
+      (MEB/PEB). Document the exclusion work-up, frequency, failed trials, and duty impact.
     - **Aeromedical / special duty:** an active daily headache and its medications are generally
       **disqualifying/waiver-dependent**.
 
