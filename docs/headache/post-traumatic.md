@@ -55,32 +55,67 @@ does not need routine imaging. There is no blood or imaging test that "rules in"
 
 ## Management
 
-Treat the **phenotype**, then dismantle the **perpetuators**.
+### The prescriptive flow (what I want done, in order)
 
-=== "Treat the phenotype"
-    - **Migraine-like PTH:** use the [migraine](migraine.md) playbook — stratified acute therapy
-      (NSAID/triptan, or a **gepant/lasmiditan** where triptans are unsuitable) and, if frequent,
-      a **preventive** (amitriptyline/nortriptyline, topiramate, propranolol; CGRP-targeted agents
-      where first-line fails).
-    - **Tension-type-like PTH:** analgesic sparing, amitriptyline, and address neck/sleep drivers.
+1. **Exclude structural injury** (red-flag table / validated head-CT rule) — always first.
+2. **Classify the phenotype** — migraine-like or tension-type-like.
+3. **Treat the phenotype** on the matching migraine/tension ladder (Step 1).
+4. **Dismantle the perpetuators in parallel** — sleep, mood/PTSD, cervicogenic, vestibular, and
+   **medication overuse** (Step 2). *This is where persistent PTH is won or lost.*
+5. **Return to activity, graded** — brief relative rest, then progress; step back on symptom
+   recurrence. Not open-ended rest.
+6. **Refractory?** Nerve blocks, CGRP therapy, and IV bridges (Step 3); build a **multidisciplinary**
+   team (headache + sleep + behavioral health + vestibular/PT).
+7. **Avoid opioids/butalbital** throughout — PTH is a high-risk MOH setting.
 
-=== "Treat the perpetuators"
-    - **Sleep:** treat insomnia/OSA first — poor sleep alone sustains PTH.
+!!! orderset "Step 1 — treat the phenotype (there is no PTH-specific drug — borrow the ladder)"
+    - **Migraine-like PTH** → the [migraine acute + preventive ladders](migraine.md):
+        - **Acute:** stratified — NSAID → **triptan**, or a **gepant/lasmiditan** where triptans are
+          unsuitable. **Cap acute days; prefer a gepant** (no MOH) given the high overuse risk here.
+        - **Preventive (if frequent/disabling):** **amitriptyline or nortriptyline 10–50 mg qHS**
+          (helps comorbid sleep/mood — often the best first pick in PTH), **topiramate 50–100 mg/day**,
+          or **propranolol**; escalate to **CGRP therapy** if first-line fails.
+    - **Tension-type-like PTH** → **amitriptyline/nortriptyline** + analgesic sparing, and treat the
+      neck and sleep drivers directly.
+
+!!! orderset "Step 2 — dismantle the perpetuators (every visit; this is the real work)"
+    - **Sleep:** treat insomnia/OSA **first** — poor sleep alone sustains PTH.
     - **Mood / PTSD:** co-treat; PTH and PTSD strongly track together in service members.
-    - **Cervicogenic:** targeted physical therapy; consider occipital/greater-occipital nerve blocks.
-    - **Vestibular:** vestibular rehabilitation for dizziness/oculomotor symptoms.
-    - **Medication overuse:** cap/withdraw overused acute meds; start a preventive.
+    - **Cervicogenic:** targeted **physical therapy**; **greater/lesser occipital nerve blocks** for
+      occipital tenderness.
+    - **Vestibular:** **vestibular rehabilitation** for dizziness/oculomotor symptoms.
+    - **Medication overuse:** cap or withdraw overused acute meds and start a preventive
+      ([MOH page](medication-overuse.md)).
 
-=== "Avoid"
-    - **Opioids and butalbital** — ineffective and drive MOH and dependence.
-    - Prolonged strict rest — brief relative rest, then a **graded return to activity**.
+!!! orderset "Step 3 — refractory persistent PTH (specialist / multidisciplinary)"
+    Evidence is largely extrapolated from migraine — set expectations. Reasonable options:
 
-## Order set / acute flare
+    - **Nerve blocks** — occipital ± other cranial blocks; fast, low-risk, repeatable.
+    - **CGRP therapies** — worth trying, but note the PTH-specific signal: a **fremanezumab (ligand)**
+      phase-2 trial was **negative**, while **erenumab (receptor)** showed an **open-label** benefit —
+      so if you use a CGRP for PTH, the **receptor**-targeting agents (erenumab, or an oral gepant)
+      are the more rational bet (low-certainty).
+    - **OnabotulinumtoxinA** — only if it meets the **chronic-migraine** phenotype (limited PTH-specific
+      data).
+    - **IV bridge** for a severe refractory flare — see the acute-flare box.
 
-!!! orderset "Refractory PTH flare (migraine phenotype)"
+!!! orderset "Acute refractory PTH flare (migraine phenotype)"
     Use the [status migrainosus ER protocol](migraine.md#order-set-status-migrainosus-er)
-    (IV fluids + antiemetic + diphenhydramine + ketorolac + magnesium; dexamethasone before
-    discharge). **No opioids.** Ensure a structural cause has been excluded first.
+    (dopamine antagonist + NSAID + nerve block; magnesium; **dexamethasone** before discharge).
+    **No opioids or butalbital.** **Ensure a structural cause has been excluded first** — a
+    post-traumatic patient with a *new* or escalating headache gets imaged, not just medicated.
+
+!!! warning "Avoid"
+    - **Opioids and butalbital** — ineffective and drive MOH and dependence.
+    - **Prolonged strict rest** — brief relative rest, then a **graded return to activity**.
+
+!!! tip "TRICARE — PTH prescribing"
+    Prescribe by phenotype: **amitriptyline, nortriptyline, topiramate, propranolol** are
+    **generic/formulary, no PA**, and the TCAs are an efficient first pick (headache + sleep + mood).
+    For a CGRP, **galcanezumab (Emgality) is the preferred, no-PA** option — but the PTH evidence
+    favors **receptor**-targeting agents, and **erenumab (Aimovig) / atogepant (Qulipta)** are
+    **PA-gated + neurologist**. Nerve blocks, PT, vestibular rehab, and behavioral health go through
+    normal specialty/rehab referral.
 
 ## Disposition
 
@@ -136,8 +171,11 @@ cases.
 - **Rest is not the treatment.** Brief relative rest followed by a **graded return to activity**
   beats prolonged rest.
 - **Avoid opioids/butalbital;** guard against medication-overuse headache, which is common here.
-- **CGRP-targeted therapies** are of active interest for PTH given its migrainous biology; use
-  established migraine indications and follow the evidence as it matures.
+- **CGRP-targeted therapies** are of active interest given PTH's migrainous biology, but the
+  PTH-specific evidence is **mixed and mechanism-relevant:** a **fremanezumab (ligand)** phase-2
+  trial was **negative** while **erenumab (receptor)** showed an **open-label** signal — hinting the
+  **CGRP receptor** may matter more than the peptide in PTH. Reasonable to try (receptor-targeting
+  agents preferred), but temper expectations; treatment remains extrapolated from migraine.
 
 **Key sources to cite (verify current versions):**
 
@@ -156,9 +194,16 @@ cases.
    Setting*](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/649011p.pdf).
 4. Traumatic Brain Injury Center of Excellence (TBICoE). *Progressive Return to Activity* clinical
    recommendation and provider tools.
+5. Ashina H, et al. *Persistent post-traumatic headache — CGRP-targeted therapy:* erenumab
+   open-label signal vs a **negative fremanezumab phase-2 trial** (receptor vs ligand in PTH).
+6. **TRICARE / DoD Uniform Formulary:** phenotype-directed oral preventives (amitriptyline,
+   nortriptyline, topiramate, propranolol) generic/formulary; galcanezumab (Emgality) preferred/no-PA;
+   erenumab/atogepant PA + neurologist. *Verify at the TRICARE Formulary Search.*
 
 *Verified July 2026: DoDI 6490.11 (mandates MACE screening across the Services), MACE2, the 2021
 VA/DoD mTBI CPG, and the 6-stage Progressive Return to Activity framework are current and correctly
-characterized. Retention/accession standards are quoted from DoDI 6130.03 Vol 2 (5.26.h) / Vol 1
+characterized. PTH treatment is extrapolated from migraine (no PTH-specific approved drug); the CGRP
+evidence is mixed — fremanezumab (ligand) negative in a phase-2 PTH trial, erenumab (receptor)
+positive open-label. Retention/accession standards are quoted from DoDI 6130.03 Vol 2 (5.26.h) / Vol 1
 (6.26) and AR 40-501 (3-31g/k); the graded aviation head-injury standards are AR 40-501 ch. 4,
 table 4-2 — confirm the exact table-4-2 tier at sign-off.*
