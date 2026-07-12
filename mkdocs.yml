@@ -72,6 +72,10 @@ nav:
   - Headache:
       - Overview & triage: headache/index.md
       - Migraine: headache/migraine.md
+      - Cluster & TACs: headache/cluster-tac.md
+      - Trigeminal neuralgia: headache/trigeminal-neuralgia.md
+      - Medication overuse headache: headache/medication-overuse.md
+      - New daily persistent headache: headache/new-daily-persistent.md
       - Post-traumatic headache: headache/post-traumatic.md
   - Military medicine:
       - Deployability & MEB/IDES: military/deployability.md

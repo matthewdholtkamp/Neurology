@@ -5,7 +5,20 @@
 *[CTA]: CT Angiography
 *[CTH]: CT Head
 *[CTV]: CT Venography
+*[CVST]: Cerebral Venous Sinus Thrombosis
 *[DHE]: Dihydroergotamine
+*[GCA]: Giant Cell Arteritis
+*[GON]: Greater Occipital Nerve
+*[HC]: Hemicrania Continua
+*[IIH]: Idiopathic Intracranial Hypertension
+*[MVD]: Microvascular Decompression
+*[NDPH]: New Daily Persistent Headache
+*[nVNS]: Non-invasive Vagus Nerve Stimulation
+*[PH]: Paroxysmal Hemicrania
+*[SIH]: Spontaneous Intracranial Hypotension
+*[SUNA]: Short-lasting Unilateral Neuralgiform headache with cranial Autonomic symptoms
+*[SUNCT]: Short-lasting Unilateral Neuralgiform headache with Conjunctival injection and Tearing
+*[TTH]: Tension-Type Headache
 *[DoDI]: Department of Defense Instruction
 *[EPTS]: Existed Prior To Service
 *[ICHD-3]: International Classification of Headache Disorders, 3rd edition
