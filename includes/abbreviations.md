@@ -14,6 +14,12 @@
 *[LOD]: Line of Duty
 *[LP]: Lumbar Puncture
 *[mAb]: Monoclonal Antibody
+*[MACE2]: Military Acute Concussion Evaluation, 2nd version
+*[mTBI]: Mild Traumatic Brain Injury
+*[OSA]: Obstructive Sleep Apnea
+*[PTH]: Post-Traumatic Headache
+*[PTSD]: Post-Traumatic Stress Disorder
+*[TBICoE]: Traumatic Brain Injury Center of Excellence
 *[MEB]: Medical Evaluation Board
 *[MOD]: Medical Operational Definition (deployment standards)
 *[MOH]: Medication Overuse Headache
