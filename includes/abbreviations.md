@@ -1,5 +1,16 @@
 *[ADL]: Activities of Daily Living
+*[AICA]: Anterior Inferior Cerebellar Artery
 *[AR]: Army Regulation
+*[AVS]: Acute Vestibular Syndrome
+*[BPPV]: Benign Paroxysmal Positional Vertigo
+*[DWI]: Diffusion-Weighted Imaging
+*[HINTS]: Head-Impulse, Nystagmus, Test-of-Skew
+*[PICA]: Posterior Inferior Cerebellar Artery
+*[PPPD]: Persistent Postural-Perceptual Dizziness
+*[SCA]: Superior Cerebellar Artery
+*[TIA]: Transient Ischemic Attack
+*[VNG]: Videonystagmography
+*[VOR]: Vestibulo-Ocular Reflex
 *[ASM]: Anti-Seizure Medication
 *[CGRP]: Calcitonin Gene-Related Peptide
 *[CTA]: CT Angiography

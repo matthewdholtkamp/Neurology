@@ -92,7 +92,9 @@ Each page's specifics get checked against current sources at build time.
 - [ ] **Seizure** — status epilepticus rewritten by ESETT; new ASMs; ILAE 2017.
 
 ### Drug/protocol update (skeleton holds, add what's new)
-- [ ] **Headache** *(PILOT)* — CGRP mAbs, gepants, ditans/lasmiditan.
+- [x] **Headache** *(PILOT — vertical complete)* — triage hub + 6 pages (migraine,
+      cluster/TACs, trigeminal neuralgia, MOH, NDPH, post-traumatic), updated to 2026
+      evidence. Drug details still to be source-verified before final "reviewed" sign-off.
 - [ ] **Intracranial Hemorrhage** — andexanet/idarucizumab reversal; INTERACT3;
       ENRICH minimally-invasive surgery.
 - [ ] **Movement Disorder** — VMAT2 inhibitors for TD; newer PD adjuncts.
@@ -123,7 +125,8 @@ Each page's specifics get checked against current sources at build time.
   **fully-built Migraine page (updated to 2026 evidence) as the canonical template.**
   Remaining before public: set real GitHub username/repo in `mkdocs.yml`, `git init` +
   push to a private repo, enable Pages on the `gh-pages` branch, then PII scrub + flip public.
-- **Phase 1 — Headache vertical:** remaining headache sub-pages + Discover brief.
+- **Phase 1 — Headache vertical:** ✅ DONE — triage hub + 6 sub-pages, each with a
+  Discover brief and military box. Git repo initialized locally (3 commits); not yet pushed.
 - **Phase 2 — Military layer:** standalone deployability/MEB/IDES primer;
   wire military box into headache (post-traumatic HA is the bridge).
 - **Phase 3 — Green pile:** fast-follow the 7 light-touch topics for early breadth.

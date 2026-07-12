@@ -77,6 +77,8 @@ nav:
       - Medication overuse headache: headache/medication-overuse.md
       - New daily persistent headache: headache/new-daily-persistent.md
       - Post-traumatic headache: headache/post-traumatic.md
+  - Dizziness & vertigo:
+      - Overview & HINTS: dizziness/index.md
   - Military medicine:
       - Deployability & MEB/IDES: military/deployability.md
   - Contributing:
