@@ -3,7 +3,8 @@
 <span class="reviewed-stamp">Last reviewed: July 2026</span>
 
 **One-liner:** sudden focal neurologic deficit from arterial occlusion — **"time is brain."** Every
-minute of a large-vessel occlusion loses ~1.9 million neurons. Your job on the code is to move
+minute of an untreated large-vessel occlusion loses ~1.9 million neurons (Saver's oft-cited
+MCA-territory estimate). Your job on the code is to move
 fast, in order: **last-known-well → glucose → CT → blood pressure → reperfusion decision.**
 
 > *The ER consult usually sounds like:* "Older patient, weak on one side, started a couple hours
@@ -94,12 +95,15 @@ Two independent decisions, made in parallel — **a patient can get both:**
     - **Alteplase (tPA) 0.9 mg/kg IV (max 90 mg)** — **10% as a bolus over 1 min, remainder over
       60 min.**
 
-    !!! warning "Label vs. guideline — TNK is FDA-approved only to 3 h"
-        The **FDA label for tenecteplase approves it within 3 h** of onset/LKW. Using TNK in the
-        **3–4.5 h** window is **guideline-supported (2026 AHA/ASA, Class 1) but off-label** — fine to
-        do, just know the distinction and document it. Alteplase carries the same practical
-        ≤4.5 h use (its own labeling is ≤3 h with 3–4.5 h by guideline/evidence). The agents are
-        clinically co-equal across 4.5 h; they are **not** fully *regulatorily* equivalent.
+    !!! warning "Label vs. guideline — a 3-hour nuance for tenecteplase"
+        The FDA approved **TNKase (tenecteplase) for AIS on 3 Mar 2025.** The *indication* itself is
+        broad — "acute ischemic stroke in adults," **no time window stated** — but the label's
+        **Recommended Dosage section says to "initiate treatment as soon as possible and within
+        3 hours after onset."** So using TNK in the **3–4.5 h** window is **guideline-supported
+        (2026 AHA/ASA, Class 1) but beyond the labeled dosing timing** — fine to do, just know the
+        distinction and document it. (Alteplase is similar: ≤3 h labeled, 3–4.5 h by guideline/
+        evidence.) The agents are clinically co-equal across 4.5 h; the labeling nuance is a
+        timing footnote, not a reason to prefer one drug.
 
     **Before you push, confirm the four:** *"Do I have the CT, the glucose, the blood pressure
     (<185/110), and the ECG?"* Weight-based dose — **weigh, don't eyeball.**
@@ -128,9 +132,11 @@ Two independent decisions, made in parallel — **a patient can get both:**
     !!! quote "Consent, in plain language (benefit is at 90 days, not at the bedside)"
         Thrombolysis is the best chance of returning to independence after stroke — roughly a **~10%
         absolute increase in good outcome at 3 months.** The risk is bleeding: symptomatic
-        intracranial hemorrhage — historically **~6% with alteplase** (NINDS), but **~2–3% with
-        modern tenecteplase 0.25 mg/kg** — vs ~1% without. **Overall mortality is not increased.**
-        The benefit is not seen immediately — it shows up over the following weeks.
+        intracranial hemorrhage — historically **~6% with alteplase** (NINDS definition) vs ~1%
+        without, though **contemporary series (and the stricter ECASS-III definition) run ~2–3%,
+        including with tenecteplase.** *Part of that "6% → 2–3%" gap is definitional, not purely the
+        drug.* **Overall mortality is not increased.** The benefit is not seen immediately — it shows
+        up over the following weeks.
 
 !!! orderset "Extended-window thrombolysis (perfusion-guided) — the window now stretches to 24 h"
     When >4.5 h or wake-up/unknown onset **with a favorable perfusion or DWI–FLAIR mismatch.** The
@@ -268,7 +274,10 @@ Two independent decisions, made in parallel — **a patient can get both:**
 
 !!! orderset "Stroke-unit admission bundle"
     - **Dysphagia screen before any PO** (meds, food, water) — aspiration is a top early killer.
-    - **Glucose 140–180**; treat fever (worsens outcome); **normoxia** (O₂ only if <94%).
+    - **Glucose:** avoid hypoglycemia and treat hyperglycemia — the 2026 guideline doesn't set a
+      stroke-specific number; the general inpatient **140–180** target is reasonable (and SHINE
+      showed no benefit from tight <110 control). Treat fever (worsens outcome); **normoxia**
+      (O₂ only if <94%).
     - **DVT prophylaxis** — **intermittent pneumatic compression** immediately; pharmacologic
       prophylaxis once bleeding risk allows (and ≥24 h post-lytic).
     - **Early mobilization + therapy** (PT/OT/SLP); swallow eval; secondary-prevention teaching.
@@ -374,10 +383,14 @@ OPTIMAS; TIMING; CATALYST; 2025 ACC/AHA hypertension guideline; SPARCL/TST (lipi
    Deployed Setting* (03 Jul 2024)](https://jts.health.mil/assets/docs/cpgs/Stroke_Cerebrovascular_Emergencies_Deployed_Setting_03_July_2024.pdf).
 
 *Verified July 2026: dual thrombolytic option (tenecteplase 0.25 mg/kg or alteplase 0.9 mg/kg, both
-Class 1 ≤4.5 h) follows the **2026 AHA/ASA guideline** — but **TNK is FDA-labeled only to 3 h**, so
-3–4.5 h use is off-label. Extended-window lysis now reaches **24 h** and is tenecteplase-based
-(TRACE-III, OPTION, TNK-PLUS) with **increased sICH**; TIMELESS was negative when EVT was available;
-RAISE (reteplase) is emerging, not yet guideline-incorporated. Thrombectomy windows (0–6 h Class I;
+Class 1 ≤4.5 h) follows the **2026 AHA/ASA guideline**. **TNKase gained its FDA AIS indication on
+3 Mar 2025** — the indication states no time window, but the label's Recommended Dosage section says
+to **initiate within 3 h**, so 3–4.5 h use is guideline-based (Class 1) yet beyond labeled timing
+(confirmed against the TNKase prescribing information). Extended-window lysis now reaches **24 h** and
+is tenecteplase-based (TRACE-III, OPTION, TNK-PLUS) with **increased sICH**; TIMELESS was negative
+when EVT was available; RAISE (reteplase) is emerging, not yet guideline-incorporated. **The precise
+RAISE outcome figures and the ATLAS meta-analysis NNTs were supplied by expert review and are not yet
+independently re-verified here — confirm before final sign-off.** Thrombectomy windows (0–6 h Class I;
 6–16 h DAWN/DEFUSE-3 Class I; 16–24 h DAWN Class IIa; large-core SELECT2/ANGEL-ASPECT/TENSION/TESLA
 down to ASPECTS 3, pooled in ATLAS; basilar ATTENTION/BAOCHE, both 2023) are current. BP targets
 (<185/110 pre-lytic, <180/105 post-lytic, permissive <220/120; **no SBP <140 within 24–72 h of
