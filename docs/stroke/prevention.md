@@ -34,14 +34,16 @@ column. Use the tabs below.
     | Risk factor | Target / action | Notes |
     |---|---|---|
     | **Hypertension** | **<130/80** (stage 2, or stage 1 with high ASCVD risk) | Lifestyle + antihypertensive; the dominant modifiable risk |
-    | **Lipids** | **Statin** per 10-yr ASCVD risk; healthy LDL | Higher-risk → high-intensity |
-    | **Diabetes + high CV risk / CVD (A1c ≥7%)** | **GLP-1 RA** (semaglutide, dulaglutide) — **Class 1** | SUSTAIN-6 / REWIND showed stroke reduction; **SGLT2i** for HF/CKD |
-    | **Atrial fibrillation** | **Anticoagulate (DOAC)** if **CHA₂DS₂-VASc ≥2 (men) / ≥3 (women)** | DOAC over warfarin for non-valvular AF |
+    | **Lipids** | **Statin** by ACC/AHA eligibility: LDL ≥190, diabetes age 40–75, 10-yr ASCVD ≥7.5–20% (intermediate: use risk enhancers), or ≥20% (high) → moderate–high intensity | Higher-risk → high-intensity |
+    | **Diabetes + high CV risk / CVD (A1c ≥7%)** | **GLP-1 RA** (semaglutide, dulaglutide) — **Class 1** | SUSTAIN-6 / REWIND cut stroke. **SGLT2i is for HF/CKD — it is *neutral* on stroke**, so don't pick it *for* stroke prevention |
+    | **Atrial fibrillation** | **Anticoagulate (DOAC)** — **Class 1 if CHA₂DS₂-VASc ≥2 (men) / ≥3 (women)**; **Class 2a ("reasonable") at 1 (men) / 2 (women)** | DOAC over warfarin for non-valvular AF; not a hard cutoff |
     | **Overweight/obesity** | Weight loss; consider GLP-1 | |
     | **Tobacco** | Cessation (counseling + pharmacotherapy) | |
     | **Diet** | **Mediterranean diet + nuts/olive oil** (PREDIMED) | |
     | **Physical activity** | ≥150 min/wk moderate | Reduce sedentary time |
     | **Alcohol** | Limit (no "cardioprotective" license) | |
+    | **Salt substitution** | **Potassium-based salt substitute** — **Class 2a** | SSaSS: ~22% relative stroke reduction (avoid in CKD/hyperkalemia risk) |
+    | **Inflammation (established CVD)** | **Low-dose colchicine 0.5 mg/day** — **Class 2b** (uncertain benefit) | Anti-inflammatory pathway; optional add-on |
 
     !!! warning "Aspirin is NOT for routine primary prevention"
         **Do not start aspirin to prevent a first stroke in most people** — ASPREE, ARRIVE, and
@@ -81,10 +83,11 @@ column. Use the tabs below.
     7. **Lifestyle + adherence** (the intervention patients most often drop).
 
     !!! orderset "Every patient (start in hospital)"
-        - **High-intensity statin — atorvastatin 80 mg** (or rosuvastatin 20–40); **target LDL <70**
-          (TST); add **ezetimibe → PCSK9 inhibitor** to get there.
+        - **High-intensity statin — atorvastatin 80 mg** (or **rosuvastatin 20 mg**, up to 40);
+          **target LDL <70** (TST); add **ezetimibe → PCSK9 inhibitor** to get there.
         - **BP <130/80** once stable; restart/optimize antihypertensives.
-        - **Diabetes:** A1c control; **GLP-1 RA / SGLT2i** for their vascular benefit.
+        - **Diabetes:** A1c control; **GLP-1 RA** for its **stroke** benefit. **SGLT2i is for HF/CKD
+          — neutral on stroke** (use it for those indications, not as a stroke-prevention drug).
         - **Lifestyle:** Mediterranean diet, activity, tobacco cessation, alcohol moderation, weight.
         - **Adherence & follow-up** — reconcile meds; this is where secondary prevention fails.
 
@@ -93,18 +96,25 @@ column. Use the tabs below.
     | Mechanism | Antithrombotic |
     |---|---|
     | **Non-cardioembolic (most)** | **Single antiplatelet** — aspirin, clopidogrel, or ASA-dipyridamole |
-    | **Minor stroke (NIHSS ≤3) / high-risk TIA (ABCD² ≥4)** | **21-day DAPT** (ASA + clopidogrel), then single agent (CHANCE/POINT); **ticagrelor+ASA** (THALES) if CYP2C19 LOF |
+    | **Minor stroke (NIHSS ≤3) / high-risk TIA (ABCD² ≥4)** | **21-day DAPT** (ASA + clopidogrel), then single agent (CHANCE/POINT); **ticagrelor+ASA** (THALES) if CYP2C19 LOF — *watch the extra severe-bleeding/ICH risk* |
     | **Symptomatic intracranial atherosclerosis** | **90-day DAPT** + aggressive risk-factor control (**SAMMPRIS**); avoid stenting first-line |
     | **Cardioembolic (AF)** | **DOAC** (apixaban/rivaroxaban/dabigatran/edoxaban) over warfarin |
-    | **Symptomatic carotid 70–99% (or 50–69% selected men)** | **CEA or CAS within 2 weeks** + medical therapy |
-    | **ESUS / cryptogenic** | Antiplatelet + **prolonged rhythm monitoring**; treat AF if found |
-    | **PFO, age <60, otherwise-cryptogenic** | **PFO closure** (RESPECT/CLOSE/REDUCE) + antiplatelet |
+    | **Symptomatic carotid 70–99% (or 50–69% selected patients)** | **CEA or CAS within 2 weeks** + medical therapy — greater benefit in men; less in women and retinal-only events |
+    | **ESUS / cryptogenic** | Antiplatelet (**not** anticoagulation — see box) + **prolonged rhythm monitoring** (≥30-day external or implantable monitor; 24–48 h telemetry misses most paroxysmal AF); anticoagulate only if AF is found |
+    | **PFO, age <60, otherwise-cryptogenic** | **PFO closure** (RESPECT/CLOSE/REDUCE) + antiplatelet — use the **PASCAL classification** to select ("probable" benefits; "unlikely" does not) |
 
     !!! tip "AF timing — start the DOAC early"
         Don't sit on the old rigid "1-3-6-12" wait. The **CATALYST** meta-analysis (2025) shows
         **early DOAC (≤4 days) reduces recurrence with no excess sICH.** Individualize the exact day
         on infarct size / hemorrhagic transformation (sooner for small strokes, a touch later for
         large infarcts). **LAAO** if anticoagulation is truly contraindicated.
+
+    !!! danger "Do NOT empirically anticoagulate ESUS"
+        Embolic stroke of undetermined source is **not** an indication for empiric anticoagulation.
+        **Four RCTs — NAVIGATE ESUS, RE-SPECT ESUS, ARCADIA, ATTICUS — all failed** to beat aspirin,
+        and NAVIGATE ESUS was **stopped early for excess bleeding** (rivaroxaban). Per the 2021 AHA/ASA
+        guideline: use an **antiplatelet**, and **hunt for AF** with prolonged monitoring — anticoagulate
+        only if you actually find it.
 
     !!! warning "Don't double up without a reason"
         **Long-term DAPT is not secondary prevention** — after the 21-day (or 90-day ICAD) window,
@@ -146,19 +156,25 @@ prevention is *started* during that admission and *owned* in clinic afterward.
 - **Primary prevention got its first refresh since 2014 (2024 AHA/ASA).** Headlines: **aspirin is
   out** for routine primary prevention (ASPREE/ARRIVE/ASCEND); **GLP-1 receptor agonists are in**
   (Class 1) for diabetes with high CV risk (SUSTAIN-6/REWIND); **BP <130/80**; the **Life's Essential
-  8** framework; and new, explicit emphasis on **women's risk (adverse pregnancy outcomes)** and
+  8** framework; **potassium salt substitution** (Class 2a, SSaSS) and **low-dose colchicine** (Class
+  2b) as newer additions; and explicit emphasis on **women's risk (adverse pregnancy outcomes)** and
   **social determinants of health.**
+- **Know what does NOT reduce stroke.** **SGLT2 inhibitors are stroke-neutral** (use them for HF/CKD,
+  not for stroke); and **empiric anticoagulation for ESUS failed** in four RCTs (NAVIGATE ESUS,
+  RE-SPECT ESUS, ARCADIA, ATTICUS) — treat ESUS with an antiplatelet and hunt for AF.
 - **Secondary prevention is mechanism-driven.** Antiplatelet for non-cardioembolic (short DAPT only
   in the CHANCE/POINT window; 90-day DAPT for ICAD per SAMMPRIS), **DOAC for AF started early**
-  (CATALYST), carotid revascularization for symptomatic high-grade stenosis, and PFO closure under 60.
+  (CATALYST), carotid revascularization for symptomatic high-grade stenosis within 2 weeks, and PFO
+  closure under 60 (select with the **PASCAL** classification).
 - **Lipids: lower is better after atherosclerotic stroke** — high-intensity statin to **LDL <70**
   (TST), escalating with ezetimibe/PCSK9.
 - **Blood pressure is the common denominator** — the highest-yield lever in both columns.
 
 **Key sources:** 2024 AHA/ASA Primary Prevention of Stroke guideline; 2021 AHA/ASA Secondary
 Prevention guideline; PREDIMED (Mediterranean diet); ASPREE/ARRIVE/ASCEND (aspirin); SUSTAIN-6/REWIND
-(GLP-1); CHANCE/POINT/THALES (DAPT); SAMMPRIS (ICAD); CATALYST/ELAN (AF timing); TST (LDL target);
-NASCET (carotid); RESPECT/CLOSE/REDUCE (PFO).
+(GLP-1); SSaSS (salt substitution); CHANCE/POINT/THALES (DAPT); SAMMPRIS (ICAD); NAVIGATE ESUS/
+RE-SPECT ESUS/ARCADIA (ESUS negatives); CATALYST/ELAN (AF timing); TST (LDL target); NASCET (carotid);
+RESPECT/CLOSE/REDUCE + PASCAL (PFO); 2024 ACC arrhythmia-monitoring-after-stroke pathway.
 
 ## References
 
@@ -167,14 +183,21 @@ NASCET (carotid); RESPECT/CLOSE/REDUCE (PFO).
    TIA: AHA/ASA.* Stroke. 2021](https://www.ahajournals.org/doi/10.1161/STR.0000000000000375).
 3. **DAPT / antiplatelet:** CHANCE; POINT; THALES; SAMMPRIS (intracranial atherosclerosis).
 4. **AF timing:** the **CATALYST** individual-patient meta-analysis ([Lancet. 2025](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25)00439-8/fulltext)); ELAN.
-5. **Lipids:** Treat Stroke to Target (TST) — LDL <70 mg/dL after ischemic stroke.
-6. **TRICARE / DoD Uniform Formulary:** statins/aspirin/clopidogrel/ezetimibe generic-formulary;
+5. **ESUS (all negative for empiric anticoagulation):** NAVIGATE ESUS; RE-SPECT ESUS; ARCADIA; ATTICUS.
+6. **PFO:** RESPECT/CLOSE/REDUCE; **PASCAL** classification (Kent et al.) for patient selection.
+   **Arrhythmia monitoring:** 2024 ACC Expert Consensus Pathway (≥30-day/implantable for cryptogenic).
+7. **Lipids:** Treat Stroke to Target (TST) — LDL <70 mg/dL after ischemic stroke.
+8. **Newer primary-prevention additions:** SSaSS (potassium salt substitution); low-dose colchicine.
+9. **TRICARE / DoD Uniform Formulary:** statins/aspirin/clopidogrel/ezetimibe generic-formulary;
    preferred DOAC + GLP-1/PCSK9 PA status — *verify at the TRICARE Formulary Search.*
 
 *Verified July 2026: primary-prevention content (no routine aspirin per ASPREE/ARRIVE/ASCEND; GLP-1 RA
-Class 1 for diabetes + high CV risk; BP <130/80; Life's Essential 8; women/SDOH emphasis) follows the
-**2024 AHA/ASA Primary Prevention of Stroke guideline**; secondary-prevention antithrombotic-by-
-mechanism, LDL <70 (TST), 21-day DAPT (CHANCE/POINT), 90-day DAPT for ICAD (SAMMPRIS), early DOAC
-(CATALYST), and PFO closure <60 (RESPECT/CLOSE/REDUCE) are current. **AR 40-501 stroke retention
-paragraph and the TRICARE preferred DOAC were not pinned to a citable source — verify before
+Class 1 for diabetes + high CV risk; **SGLT2i stroke-neutral**; BP <130/80; Life's Essential 8;
+**potassium salt substitution Class 2a / colchicine Class 2b**; AF anticoagulation **Class 1 at
+CHA₂DS₂-VASc ≥2/≥3 and Class 2a at 1/2**; women/SDOH emphasis) follows the **2024 AHA/ASA Primary
+Prevention of Stroke guideline**. Secondary-prevention antithrombotic-by-mechanism, LDL <70 (TST),
+21-day DAPT (CHANCE/POINT), 90-day DAPT for ICAD (SAMMPRIS), early DOAC (CATALYST), carotid within
+2 weeks, **no empiric anticoagulation for ESUS (NAVIGATE ESUS/RE-SPECT ESUS/ARCADIA/ATTICUS negative)**,
+and PFO closure <60 selected by **PASCAL** (RESPECT/CLOSE/REDUCE) are current. **AR 40-501 stroke
+retention paragraph and the TRICARE preferred DOAC were not pinned to a citable source — verify before
 counseling.**
