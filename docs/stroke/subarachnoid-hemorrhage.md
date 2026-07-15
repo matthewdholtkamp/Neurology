@@ -48,7 +48,11 @@ ischemia, hydrocephalus, and hyponatremia in a neuro-ICU.
     - **Blood pressure:** avoid hypertensive surges — a common target is **SBP <160** (or MAP-guided)
       until secured; use a **titratable IV agent** (nicardipine/clevidipine/labetalol). Balance against
       cerebral perfusion.
-    - **Reverse any anticoagulation**; treat pain and agitation (both spike BP).
+    - **Reverse any anticoagulation** — **4-factor PCC** for warfarin **and for factor Xa inhibitors**
+      (apixaban/rivaroxaban; *andexanet alfa was withdrawn from the U.S. market in Dec 2025*),
+      **idarucizumab** for dabigatran, **protamine** for heparin (see the
+      [ICH reversal table](intracerebral-hemorrhage.md#anticoagulation-antiplatelet-reversal)).
+      Treat pain and agitation (both spike BP).
     - **Secure early** — definitive re-bleed prevention is **treating the aneurysm within 24 h.**
     - *Short-course antifibrinolytic (tranexamic acid) before securing is **not routinely
       recommended** — **ULTRA** showed no functional benefit; reserve for special circumstances.*
