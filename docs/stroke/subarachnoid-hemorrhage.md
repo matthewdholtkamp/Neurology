@@ -39,8 +39,9 @@ ischemia, hydrocephalus, and hyponatremia in a neuro-ICU.
 2. **Pre-securing:** BP control, analgesia/antiemetics, reverse anticoagulation, bed rest.
 3. **Secure the aneurysm <24 h** (coil preferred when equivalent — ISAT; clip for some MCA/wide-neck).
 4. **Nimodipine 60 mg PO q4h × 21 days.**
-5. **Neuro-ICU:** EVD for hydrocephalus; monitor for **DCI days 4–14**; manage Na⁺, seizures, fever.
-6. **DCI management:** euvolemia → **induced hypertension** → endovascular rescue.
+5. **Neuro-ICU:** CSF diversion (**lumbar drain preferred** — EARLYDRAIN; EVD for hydrocephalus);
+   monitor for **DCI days 4–14**; manage Na⁺, seizures, fever, Hb.
+6. **DCI management:** euvolemia → **induced hypertension** → endovascular rescue (± IV milrinone).
 
 ## Before the aneurysm is secured
 
@@ -73,13 +74,35 @@ ischemia, hydrocephalus, and hyponatremia in a neuro-ICU.
       **not** reliably reverse angiographic vasospasm). If it drops BP, split to **30 mg q2h**.
     - **DCI surveillance (days 4–14):** serial exams ± **transcranial Doppler**/CTP; **maintain
       euvolemia** (avoid prophylactic hypervolemia / old "triple-H").
+    - **Prophylactic CSF drainage lowers DCI — and a *lumbar* drain is preferred:** **EARLYDRAIN**
+      (RCT, all grades) — **lumbar drainage 5 mL/h started within 72 h** cut unfavorable outcome by
+      **~12% absolute** and secondary infarction by **~11%**; higher lumbar-drain volumes tracked with
+      better outcomes (and higher *EVD* volumes with worse). Now the **preferred CSF-diversion strategy
+      for DCI prevention** in suitable patients (no mass lesion / herniation risk).
     - **Symptomatic DCI → induced hypertension** (vasopressors to raise BP); **refractory →
-      endovascular** intra-arterial vasodilators / balloon angioplasty.
+      endovascular** intra-arterial vasodilators / balloon angioplasty. **IV milrinone** is an
+      **emerging** adjunct (retrospective data: less delayed infarction and less need for endovascular
+      rescue; **no RCT** — the 2023 guideline calls it "promising," not standard).
     - **Hydrocephalus → EVD** (common; acute or delayed).
+    - **Transfusion:** **SAHARA** (NEJM 2025) found **no significant difference** between liberal
+      (Hb ≤10) and restrictive (Hb ≤8) thresholds, though pooled neuro-ICU data (TRAIN/HEMOTION) trend
+      toward liberal. Reasonable to **transfuse at Hb ≤9–10**, especially during the DCI-risk window.
     - **Hyponatremia** (cerebral salt wasting / SIADH) is common — **treat with isotonic/hypertonic
       saline; do NOT fluid-restrict** (worsens DCI). **Fludrocortisone** for salt wasting.
-    - **Seizures:** treat clinical seizures; routine long-term prophylaxis not recommended (a short
-      peri-hemorrhage course is sometimes used). Watch for **neurogenic stunned myocardium** and fever.
+    - **Seizures:** treat clinical seizures with an ASM for **≤7 days (Class 1)**; **avoid phenytoin**
+      (worse cognitive outcomes — use **levetiracetam**). **Prophylaxis is reasonable (Class 2b) only
+      in high-risk patients** — **HH ≥3, MCA aneurysm, intraparenchymal hemorrhage, hydrocephalus, or
+      cortical infarct.** **cEEG** for depressed/fluctuating consciousness (nonconvulsive seizures).
+      Watch for **neurogenic stunned myocardium** and fever.
+
+    !!! warning "Explicitly NOT recommended after SAH (don't extrapolate from ischemic-stroke protocols)"
+        The 2023 AHA/ASA guideline recommends **against routine statin therapy** and **against IV
+        magnesium** after aSAH — don't start a statin reflexively here. **Clazosentan** (endothelin
+        antagonist) reduces *angiographic* vasospasm but **did not improve functional outcomes**
+        internationally (**REACT** negative; approved in **Japan only**) — not for routine use.
+        **Cilostazol 100–300 mg/day** is a *promising* oral adjunct (meta-analyses: less vasospasm,
+        infarction, and unfavorable outcome) but the evidence is small and predominantly Asian — **not
+        yet guideline-endorsed.**
 
 !!! tip "TRICARE — SAH prescribing"
     **Nimodipine is generic/formulary** — the one drug you must not skip. Acute BP agents and reversal
@@ -121,13 +144,22 @@ outpatient aneurysm/imaging follow-up.
   selected anatomy.
 - **Nimodipine 60 mg q4h × 21 days is Class 1** — improves outcome (neuroprotection, not
   vasospasm reversal).
-- **DCI (days 4–14):** euvolemia → induced hypertension → endovascular rescue; **abandon prophylactic
-  triple-H.** **Treat hyponatremia with salt, never fluid restriction.**
+- **DCI (days 4–14):** euvolemia → induced hypertension → endovascular rescue (± emerging **IV
+  milrinone**); **abandon prophylactic triple-H.** **Treat hyponatremia with salt, never fluid
+  restriction.**
+- **New: prophylactic lumbar drainage prevents DCI.** **EARLYDRAIN** (2023) — lumbar drainage 5 mL/h
+  within 72 h cut unfavorable outcome ~12% absolute; a *lumbar* drain beats an EVD for this, and it's
+  now the preferred CSF-diversion strategy in suitable patients.
+- **Transfusion is a toss-up (lean slightly liberal).** **SAHARA** (2025) found no significant
+  difference between Hb ≤10 and Hb ≤8 thresholds; pooled data trend toward liberal — transfuse ~Hb ≤9–10.
+- **Know what NOT to do:** routine **statins and IV magnesium are not recommended**; **clazosentan**
+  fails to improve function (REACT; Japan-only); **cilostazol** is a promising but unproven adjunct.
 - **Re-bleed prevention is early securing** — routine antifibrinolytics are not recommended (**ULTRA**
   negative).
 
 **Key sources:** 2023 AHA/ASA aneurysmal SAH guideline; ISAT (coil vs clip); ULTRA (tranexamic acid);
-nimodipine trials; modified Fisher / Hunt-Hess grading.
+nimodipine trials; **EARLYDRAIN** (lumbar drainage); **SAHARA** (transfusion); REACT (clazosentan);
+milrinone and cilostazol series; modified Fisher / Hunt-Hess grading.
 
 ## References
 
@@ -136,12 +168,23 @@ nimodipine trials; modified Fisher / Hunt-Hess grading.
 2. Molyneux A, et al. *International Subarachnoid Aneurysm Trial (ISAT)* — coiling vs clipping.
 3. Post R, et al. *Ultra-early tranexamic acid in aSAH (ULTRA)* — no functional benefit.
 4. Pickard JD, et al. *Nimodipine in SAH* — improved outcome (basis for the 21-day course).
-5. **TRICARE / DoD:** nimodipine generic-formulary; acute BP/reversal agents inpatient-stocked.
+5. Wolf S, et al. [*Lumbar CSF drainage in aSAH (EARLYDRAIN).* JAMA Neurol. 2023](https://jamanetwork.com/journals/jamaneurology/fullarticle/2807367)
+   — prophylactic lumbar drainage improved 6-month outcome.
+6. English SW, et al. *Transfusion thresholds in aSAH (SAHARA).* NEJM. 2025 — liberal vs restrictive,
+   no significant difference; pooled neuro-ICU data (TRAIN/HEMOTION) trend liberal.
+7. *REACT* (clazosentan, negative internationally; approved Japan only); milrinone retrospective
+   cohorts; cilostazol meta-analyses (small, predominantly Asian).
+8. **TRICARE / DoD:** nimodipine generic-formulary; acute BP/reversal agents inpatient-stocked.
    *Verify at the TRICARE Formulary Search.*
 
 *Verified July 2026: diagnostic pathway (non-contrast CT <6 h → LP/CTA), early aneurysm securing with
 coiling generally preferred (ISAT), **nimodipine 60 mg q4h × 21 days (Class 1)**, euvolemia +
 induced-hypertension DCI management, salt (not restriction) for hyponatremia, and no routine
-antifibrinolytics (ULTRA) follow the 2023 AHA/ASA aneurysmal SAH guideline. **Retention confirmed
-against the source: DoDI 6130.03 Vol 2 para 5.26.b(1) (subarachnoid hemorrhage) and b(4) (aneurysm),
-gated by 5.26.a, Army AR 40-501 3-31f/k.**
+antifibrinolytics (ULTRA) follow the 2023 AHA/ASA aneurysmal SAH guideline; **pre-securing BP target
+is SBP ≤160 (an SAH target — the ICH INTERACT3 <140 bundle does not apply here).** Newer additions —
+**EARLYDRAIN** (prophylactic lumbar drainage), **SAHARA** (transfusion), milrinone, clazosentan
+(REACT negative / Japan-only), cilostazol, and the seizure-prophylaxis nuance (≤7-day treatment,
+Class 2b prophylaxis in high-risk, avoid phenytoin) — were supplied by expert review with citations;
+confirm the specific figures before relying on them. **Retention confirmed against the source: DoDI
+6130.03 Vol 2 para 5.26.b(1) (subarachnoid hemorrhage) and b(4) (aneurysm), gated by 5.26.a, Army
+AR 40-501 3-31f/k.**
