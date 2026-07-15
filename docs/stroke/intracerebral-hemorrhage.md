@@ -53,9 +53,12 @@ on the phone, and protect against expansion. Do them **together**, not in sequen
 
 !!! orderset "BP target — SBP <140, and don't overshoot"
     - **Target SBP <140 within 1 h**, then **keep 130–150 for ≥7 days.** **Lowering below 130 is
-      potentially harmful** — and **avoid big swings** (variability worsens outcome).
-    - **Titratable IV agents:** **nicardipine** or **clevidipine** infusion (smooth control), or
-      **labetalol** boluses. Use an arterial line for moderate/large bleeds.
+      potentially harmful.**
+    - **BP variability is independently harmful** (INTERACT2/ATACH-2) — so **use a titratable
+      *infusion* (nicardipine or clevidipine) for smooth, sustained control, not intermittent
+      boluses.** Add labetalol only as needed. Use an arterial line for moderate/large bleeds.
+    - **Avoid venous vasodilators — nitroprusside, nitroglycerin, hydralazine** — they can **raise
+      ICP**, impair hemostasis, and give unpredictable control.
 
 ## Anticoagulation & antiplatelet reversal
 
@@ -64,11 +67,26 @@ on the phone, and protect against expansion. Do them **together**, not in sequen
     |---|---|
     | **Warfarin / VKA** | **4-factor PCC** (preferred over FFP — faster, lower volume) **+ IV vitamin K 10 mg** |
     | **Dabigatran** | **Idarucizumab 5 g IV** |
-    | **Apixaban / rivaroxaban / edoxaban (factor Xa inhibitors)** | **Andexanet alfa** (ANNEXA-I: less hematoma expansion, **but more thrombotic events** — weigh it) **or 4-factor PCC** as the guideline alternative |
+    | **Apixaban / rivaroxaban / edoxaban (factor Xa inhibitors)** | **4-factor PCC (~50 units/kg)** — **now the primary U.S. reversal agent.** *(Consider activated charcoal if the last dose was within ~2–4 h.)* |
     | **Unfractionated / LMW heparin** | **Protamine** |
     | **Antiplatelet (aspirin/clopidogrel)** | **Do NOT transfuse platelets** — PATCH showed **harm** — unless a neurosurgical procedure is planned; DDAVP may be considered |
 
+    !!! danger "Andexanet alfa (Andexxa) was WITHDRAWN from the U.S. market — 22 Dec 2025"
+        The FDA determined the **excess thrombotic risk outweighed benefit** (thrombotic events
+        ~10% vs 5.6%; more ischemic strokes and MIs), and AstraZeneca withdrew it. **It is no longer
+        available in the U.S. — use 4-factor PCC** for factor Xa-inhibitor-associated ICH. (ANNEXA-I
+        showed better hemostasis but the benefit was in *small* expansions only, with no mortality/
+        disability benefit and nearly doubled thrombosis.) A retrospective comparison found
+        **PCC had lower thrombotic risk (4.2% vs 7.9%)** with similar hemostasis once severe injuries
+        were excluded. *Andexanet retains conditional EMA approval in Europe (apixaban/rivaroxaban).*
+
     Recheck coagulation after reversal; **goal INR <1.5.** Recheck a **CT at ~6 h** for expansion.
+
+    !!! note "Tranexamic acid — not standard of care"
+        TXA does **not** improve functional outcome in unselected ICH (**TICH-2, STOP-AUST** — at most
+        a marginal reduction in expansion). It **may** reduce expansion in **CTA spot-sign-positive**
+        patients (meta-analysis OR ~0.65), and **TICH-3** (early-mortality endpoint) is ongoing — but
+        **don't give it routinely** outside a trial.
 
 ## Surgery
 
@@ -76,12 +94,20 @@ on the phone, and protect against expansion. Do them **together**, not in sequen
     - **Cerebellar hemorrhage >3 cm, or with brainstem compression / hydrocephalus → emergent
       surgical evacuation** (Class 1). **Do not** temporize these with an EVD alone.
     - **Hydrocephalus / large IVH → external ventricular drain (EVD).**
-    - **Supratentorial lobar or anterior basal-ganglia clot, ~30–80 mL, presenting early:**
-      **minimally invasive evacuation** improved outcomes in **ENRICH** (2024) — refer to a center
-      that does trans-sulcal parafascicular surgery. (Routine **open craniotomy is not** beneficial
-      for most supratentorial ICH — STICH/STICH II negative; MISTIE III neutral.)
-    - **Deteriorating / herniating:** osmotherapy (hypertonic saline or mannitol), head up, treat
-      the cause; decompression is a salvage option.
+    - **Minimally invasive evacuation — benefit is LOCATION-dependent:**
+        - **Lobar or anterior basal-ganglia clot, ~30–80 mL, early → refer** for trans-sulcal
+          parafascicular surgery: **ENRICH** (2024) was positive for these locations.
+        - **Deep bleeds → don't expect benefit:** **MIND** (2025, Artemis device, 70% deep) was
+          **negative** at 180 days — early disability gains faded. So MIS is for the lobar/anterior
+          basal-ganglia phenotype, not routine deep ICH.
+    - **Routine open craniotomy is not beneficial** for most supratentorial ICH (STICH/STICH II
+      negative; MISTIE III neutral).
+    - **Severe deep ICH (30–100 mL):** **decompressive craniectomy *without* clot evacuation** showed
+      a **trend** toward less death/severe disability in **SWITCH** (2024; RR 0.77, p=0.057) but was
+      underpowered and **most survivors remained severely disabled** — reasonable to *consider* in
+      selected patients, with frank goals-of-care discussion.
+    - **Deteriorating / herniating:** osmotherapy (hypertonic saline or mannitol), head up, treat the
+      cause; decompression is a salvage option.
 
 ## Supportive care
 
@@ -93,7 +119,19 @@ on the phone, and protect against expansion. Do them **together**, not in sequen
       prophylaxis after 24–48 h** once the bleed is stable.
     - **Dysphagia screen before PO**; head of bed 30°; bowel/skin care; avoid steroids.
     - **Don't limit care early** — prognostic pessimism in the first 24–48 h is self-fulfilling; use
-      the ICH score to communicate, not to withdraw.
+      a score to communicate, not to withdraw (below).
+
+!!! orderset "Prognosis — score it, but don't let it become a self-fulfilling prophecy"
+    **ICH score (0–6)** — one point each unless noted: **GCS 3–4 = 2, GCS 5–12 = 1** (GCS 13–15 = 0);
+    **volume ≥30 mL = 1**; **IVH present = 1**; **infratentorial origin = 1**; **age ≥80 = 1**.
+    Higher score → higher 30-day mortality.
+
+    - **Estimate volume fast with ABC/2** (A × B × C ÷ 2, in cm on CT) — the key input for the score
+      *and* for surgical decisions.
+    - **Caveat:** the ICH score was derived in cohorts with **frequent early care limitation**, so it
+      **overestimates mortality when aggressive care is given.** The **Max-ICH score** was built to
+      reduce that confounding and is better for *treatment* decisions. **Give the patient 24–48 h of
+      full care before any prognostic conversation.**
 
 ## Secondary prevention & restarting antithrombotics
 
@@ -101,17 +139,24 @@ on the phone, and protect against expansion. Do them **together**, not in sequen
   (deep/hypertensive bleeds especially).
 - **CAA (lobar, elderly, microbleeds)** carries a **high re-bleed risk** — be cautious with any
   antithrombotic; avoid anticoagulation where possible.
-- **Restarting anticoagulation after ICH (e.g., for AF):** individualize; if restarting, typically
-  **defer ~4–8 weeks** and weigh the thrombotic indication against re-bleed risk (**LAAO** is an
-  option when anticoagulation is too risky). Deep, hypertensive, well-controlled bleeds tolerate
-  resumption better than lobar/CAA bleeds.
+- **Restarting anticoagulation after ICH (e.g., for AF) — genuinely uncertain, individualize.**
+  Observational and small-RCT data (**COCROACH** meta-analysis) suggest resuming an oral
+  anticoagulant **cuts ischemic events (HR ~0.27)** but with a **non-significant trend toward more
+  re-bleeding**; **APACHE-AF** and **SoSTART** showed high event rates either way and did **not**
+  prove anticoagulation safe (SoSTART: 8% vs 4% recurrent ICH). **Phase-3 trials (ASPIRE, ENRICH-AF,
+  PRESTIGE-AF) are pending** for a definitive answer.
+    - If restarting, a common practice is to **defer ~4–8 weeks** and weigh the thrombotic indication
+      against re-bleed risk.
+    - **Location matters:** **lobar / CAA bleeds carry a substantially higher re-bleed risk** than
+      deep/hypertensive bleeds — lean *away* from anticoagulation in CAA. **LAAO** is an option when
+      anticoagulation is too risky.
 
 !!! tip "TRICARE — ICH prescribing"
-    Acute reversal agents (**4F-PCC, idarucizumab, andexanet alfa, protamine, IV vitamin K**) are
-    **inpatient/pharmacy-stocked**, not outpatient-formulary items — **andexanet is high-cost and
-    often restricted**, so know your facility's stock and the 4F-PCC alternative. Outpatient
-    **antihypertensives are generic/formulary.** *Verify agent availability with your inpatient
-    pharmacy.*
+    Acute reversal agents (**4F-PCC, idarucizumab, protamine, IV vitamin K**) are **inpatient/
+    pharmacy-stocked**, not outpatient-formulary items. **Andexanet alfa is no longer stocked — it
+    was withdrawn from the U.S. market (Dec 2025)** — so **4-factor PCC is the factor-Xa-inhibitor
+    reversal agent** in U.S. military pharmacies. Outpatient **antihypertensives are generic/
+    formulary.** *Verify agent availability with your inpatient pharmacy.*
 
 ## Disposition
 
@@ -142,19 +187,28 @@ capability** if you don't have it. Early rehab once stable.
 - **Care bundles beat single interventions.** **INTERACT3** (Lancet 2023) showed a goal-directed
   bundle — **early intensive BP lowering (<140), glucose and temperature control, and rapid
   anticoagulation reversal**, all within an hour and held 7 days — improved survival and function.
-- **BP: aim <140, not lower.** Per the **2022 AHA/ASA guideline**, target SBP <140 (keep 130–150);
-  **<130 is potentially harmful**, and **variability** matters — go smooth and sustained.
-- **Reverse by agent.** 4F-PCC + vitamin K (VKA), idarucizumab (dabigatran), **andexanet alfa or
-  4F-PCC** (factor Xa inhibitors — **ANNEXA-I**: less expansion, more thrombosis), protamine
-  (heparin). **Don't transfuse platelets** for antiplatelet-associated ICH (**PATCH** = harm).
-- **Surgery is selective.** **Cerebellar >3 cm / brainstem compression / hydrocephalus → operate.**
-  **ENRICH** (2024) supports **minimally invasive** evacuation of 30–80 mL lobar/anterior
-  basal-ganglia clots; routine open craniotomy (STICH/STICH II) and MISTIE III were not beneficial.
-- **Don't call it early** — avoid early care limitation; prognostic nihilism is self-fulfilling.
+- **BP: aim <140, not lower — and smooth.** Target SBP <140 (keep 130–150); **<130 is potentially
+  harmful.** **Variability is independently harmful** — use a **titratable infusion, not boluses**,
+  and **avoid nitroprusside/nitroglycerin/hydralazine** (ICP, hemostasis).
+- **Reverse by agent — and note the big change: andexanet alfa was WITHDRAWN from the U.S. market
+  (Dec 2025)** for excess thrombosis. **4F-PCC is now the primary factor-Xa-inhibitor reversal
+  agent**; idarucizumab for dabigatran; 4F-PCC + vitamin K for VKA; protamine for heparin.
+  **Don't transfuse platelets** for antiplatelet-associated ICH (**PATCH** = harm). **TXA is not
+  standard** (TICH-2/STOP-AUST negative; TICH-3 ongoing).
+- **Surgery is selective and location-dependent.** Cerebellar >3 cm / brainstem compression /
+  hydrocephalus → **operate**. Minimally invasive evacuation helps **lobar/anterior basal-ganglia**
+  clots (**ENRICH** positive) but **not deep** ICH (**MIND** negative). **SWITCH** (2024): decompressive
+  craniectomy for severe deep ICH trended toward benefit but was underpowered (most survivors severely
+  disabled). Open craniotomy (STICH/STICH II) and MISTIE III were not beneficial.
+- **Restarting anticoagulation is unresolved** — COCROACH/APACHE-AF/SoSTART are inconclusive;
+  ASPIRE/ENRICH-AF/PRESTIGE-AF pending. Lobar/CAA bleeds re-bleed more — lean away from anticoagulation.
+- **Don't call it early** — the ICH score overestimates mortality when full care is given (use
+  **Max-ICH** for treatment decisions); prognostic nihilism is self-fulfilling.
 
-**Key sources:** 2022 AHA/ASA spontaneous ICH guideline; INTERACT3 (bundle); ANNEXA-I (andexanet);
-PATCH (platelets); ENRICH (minimally invasive surgery); STICH/STICH II, MISTIE III; ESO/EANS ICH
-guideline.
+**Key sources:** 2022 AHA/ASA spontaneous ICH guideline; INTERACT3 (bundle); **FDA andexanet
+withdrawal (Dec 2025)** + ANNEXA-I; PATCH (platelets); ENRICH (positive lobar) and MIND (negative
+deep) MIS trials; SWITCH (decompressive craniectomy); TICH-2/STOP-AUST (TXA); COCROACH/APACHE-AF/
+SoSTART (anticoagulation resumption); ICH score / Max-ICH.
 
 ## References
 
@@ -163,16 +217,27 @@ guideline.
 2. Ma L, et al. [*The third Intensive Care Bundle with Blood Pressure Reduction in Acute Cerebral
    Haemorrhage (INTERACT3).* Lancet. 2023](https://www.thelancet.com/article/S0140-6736(23)00806-1/fulltext).
 3. Connolly SJ, et al. [*Andexanet for Factor Xa Inhibitor–Associated Acute ICH (ANNEXA-I).* NEJM.
-   2024](https://www.nejm.org/doi/full/10.1056/NEJMoa2313040).
-4. Pradilla G, et al. *Minimally invasive surgery for ICH (ENRICH).* NEJM. 2024 — 30–80 mL supratentorial.
+   2024](https://www.nejm.org/doi/full/10.1056/NEJMoa2313040); **FDA Safety Communication —
+   [Update on the Safety of Andexxa](https://www.fda.gov/safety/medical-product-safety-information/update-safety-andexxa-astrazeneca-fda-safety-communication)
+   (U.S. market withdrawal, 22 Dec 2025).** Panos NG, et al. *PCC vs andexanet for FXa-inhibitor ICH*
+   (Crit Care Med 2025) — PCC lower thrombotic risk.
+4. **Surgery:** Pradilla G, et al. *ENRICH* (NEJM 2024, positive lobar/anterior basal-ganglia);
+   Arthur AS, et al. *MIND* (JAMA Neurol 2025, negative for deep ICH); Beck J, et al. *SWITCH*
+   (Lancet 2024, decompressive craniectomy for severe deep ICH).
 5. Baharoglu MI, et al. *Platelet transfusion in antiplatelet-associated ICH (PATCH)* — harm.
-6. **TRICARE / DoD:** reversal agents are inpatient-stocked (andexanet high-cost/restricted; 4F-PCC
-   alternative); antihypertensives generic-formulary. *Verify with inpatient pharmacy.*
+   **TXA:** TICH-2, STOP-AUST (negative); TICH-3 (ongoing).
+6. **Anticoagulation resumption:** Al-Shahi Salman R, et al. *COCROACH* (Lancet Neurol 2023);
+   APACHE-AF; SoSTART; ongoing ASPIRE / ENRICH-AF / PRESTIGE-AF.
+7. **TRICARE / DoD:** reversal agents inpatient-stocked; **andexanet no longer available (withdrawn
+   Dec 2025) → 4F-PCC**; antihypertensives generic-formulary. *Verify with inpatient pharmacy.*
 
-*Verified July 2026: the ICH care bundle (INTERACT3), BP target SBP <140 with harm below 130, and
-agent-specific reversal follow the 2022 AHA/ASA guideline and subsequent trials (ANNEXA-I andexanet;
-PATCH against platelet transfusion); surgical indications (cerebellar >3 cm/brainstem/hydrocephalus →
-operate; ENRICH minimally invasive for 30–80 mL supratentorial; open craniotomy not routinely
-beneficial) are current. **Retention confirmed against the source: DoDI 6130.03 Vol 2 para 5.26.b(1)
+*Verified July 2026: the ICH care bundle (INTERACT3), BP target SBP <140 with harm below 130 (smooth
+control, avoid variability and venous vasodilators), and agent-specific reversal follow the 2022
+AHA/ASA guideline and later data. **Andexanet alfa was withdrawn from the U.S. market on 22 Dec 2025
+(FDA Safety Communication) — 4-factor PCC is now the primary factor-Xa-inhibitor reversal agent**
+(confirmed via FDA). Surgery is location-dependent (ENRICH positive lobar; MIND negative deep; SWITCH
+craniectomy trend); TXA is not standard (TICH-2/STOP-AUST); anticoagulation resumption is unresolved
+(COCROACH/APACHE-AF/SoSTART; phase-3 pending); ICH score overestimates mortality under full care
+(Max-ICH). **Retention confirmed against the source: DoDI 6130.03 Vol 2 para 5.26.b(1)
 (intracerebral/subarachnoid hemorrhage) and 5.26.c (persistent sequelae), Army AR 40-501 3-31f/k.**
 TRICARE inpatient stocking of andexanet was not pinned to a citable source — verify locally.*
