@@ -6,8 +6,9 @@ with a standardized military-medicine layer (deployability, profiles, EPTS/LOD,
 retention, MEB/IDES). Hosted free on GitHub Pages.
 
 > **Status: LIVE** at https://matthewdholtkamp.github.io/Neurology/ (public repo
-> github.com/matthewdholtkamp/Neurology). 12 pages across Headache (6), Stroke (1),
-> Dizziness, Diplopia + military primer. Auto-deploys on push to main via strict-build CI.
+> github.com/matthewdholtkamp/Neurology). 13 pages across Headache (6), Stroke (2:
+> acute + prevention), Dizziness, Diplopia + military primer. Auto-deploys on push to main
+> via strict-build CI.
 > This file is the living build checklist.
 > Last updated: 2026-07-12
 >
@@ -111,8 +112,10 @@ Each page's specifics get checked against current sources at build time.
       tenecteplase/alteplase co-first-line, extended-window thrombolysis, thrombectomy to 24h
       (DAWN/DEFUSE-3) incl. large-core (SELECT2/ANGEL-ASPECT) & basilar (ATTENTION/BAOCHE),
       21-day DAPT (CHANCE/POINT), early DOAC (ELAN), LDL<70, TIA, JTS deployed-stroke military
-      box. *Still to do: TIA as its own page? ICH page (separate roadmap item); confirm AR 40-501
-      stroke retention paragraph + TRICARE preferred DOAC.*
+      box. **+ Prevention page (primary & secondary)** with a tabbed split (2024 AHA/ASA
+      primary-prevention guideline + 2021 secondary-prevention guideline). *Still to do: TIA as its
+      own page? ICH page (separate roadmap item); confirm AR 40-501 stroke retention paragraph +
+      TRICARE preferred DOAC; independently re-verify RAISE/ATLAS figures on the acute page.*
 - [ ] **Major Stroke Trials Cliffs (2018-19)** — append 2020–2025 trials.
 - [ ] **Demyelinating / MS** — 2017/2024 McDonald; new DMT era; NMOSD split off
       (eculizumab/satralizumab/inebilizumab); MOGAD as distinct disease.
