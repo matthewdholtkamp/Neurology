@@ -27,6 +27,20 @@ and treatment response.** Get these right and the treatment falls out of the dia
 it is paroxysmal hemicrania or hemicrania continua — a diagnosis you don't want to miss because it
 is so treatable (the "indomethacin test").*
 
+!!! note "It's under-diagnosed — that's why the clock matters"
+    Mean **delay from onset to correct diagnosis is ~5–6 years**; cluster is routinely mislabeled as
+    **migraine (~25%), tension-type (~19%), or sinusitis (~14%)**, and **women are misdiagnosed more
+    often than men (~61% vs 46%)**. If a patient describes strictly unilateral, autonomic, clockwork
+    attacks with agitation — call it cluster and treat it, don't recycle a sinusitis diagnosis.
+
+!!! danger "🚩 Screen for depression and suicidality — the "suicide headache""
+    Cluster carries a **markedly elevated suicide risk** — attempted suicide **~3.9× the general
+    population (95% CI 2.6–5.8)**, *independent of comorbid depression*, and a 2025 cohort confirmed
+    elevated attempted **and completed** suicide across headache disorders (strongest in ED/inpatient
+    settings). The driver is **demoralization during attacks**, not classic depression. **Ask every
+    cluster patient about mood and suicidal ideation, and treat the headache aggressively** — control
+    is the intervention.
+
 ## Rapid approach
 
 1. Confirm strictly **unilateral** pain with **ipsilateral autonomic** features and a **normal
@@ -58,8 +72,10 @@ is so treatable (the "indomethacin test").*
 
     - **High-flow oxygen: 100% at 12–15 L/min via a true non-rebreather mask, 15–20 min, sitting
       forward.** NNT ≈ 2. *The commonest "oxygen failure" is a setup failure* — a standard nasal
-      cannula or a mask without a reservoir bag won't work. Insist on a **non-rebreather** (or a
-      demand valve where available).
+      cannula or a mask without a reservoir bag won't work. Insist on a **non-rebreather**. A
+      **demand-valve (or Optimask) system may beat a simple mask** — patient-preferred (~62%) and it
+      cut rescue-medication use in a crossover trial — so **try a demand valve before declaring oxygen
+      a failure.**
     - **Sumatriptan 6 mg SC** — fastest and most effective (relief in ~15 min). Max 2 injections/24 h.
     - **Zolmitriptan 5–10 mg nasal** or **sumatriptan 20 mg nasal** — when SC isn't available or is
       declined (10 mg zolmitriptan NNT ≈ 2–3).
@@ -91,18 +107,41 @@ is so treatable (the "indomethacin test").*
     - **Constipation** is the dose-limiting nuisance — start a bowel regimen.
 
     === "If verapamil is inadequate or contraindicated"
-        - **Galcanezumab (Emgality) 300 mg SC monthly** — FDA-approved for **episodic** cluster
-          (note: **300 mg**, not the 120 mg migraine dose; the **chronic**-cluster trial was
-          negative). Give at the start of the bout and continue through it.
+        - **Galcanezumab (Emgality) 300 mg SC monthly** — the **only FDA-approved CGRP mAb for
+          cluster, and only for *episodic*** cluster (**300 mg**, not the 120 mg migraine dose). Give
+          at the start of the bout and continue through it.
         - **Lithium** — effective (esp. chronic cluster); needs **level, renal, and thyroid
           monitoring**.
         - **Topiramate** — alternative/add-on.
         - **Melatonin 10 mg qHS** — reasonable adjunct, exploits the circadian biology.
 
+        !!! warning "CGRP mAbs have failed in *chronic* cluster — don't count on them"
+            **Every CGRP mAb RCT in chronic cluster has been negative** — galcanezumab, **erenumab
+            (CHERUB01)**, **eptinezumab (ALLEVIATE)**, and **fremanezumab** (episodic + chronic trials
+            stopped for futility); a 2026 network meta-analysis found **no significant reduction** in
+            weekly attacks for any mAb (numerical signals only, mostly in episodic). Open-label
+            eptinezumab (CHRONICLE) looked tolerable but had no placebo control. **For chronic cluster,
+            rely on verapamil/lithium and refractory options — not a CGRP antibody.**
+
     !!! info "Clusters remit — plan for it"
         In **episodic** cluster, stop the preventive once the bout ends and the patient is
         attack-free for ~2 weeks; **restart at the first sign of the next bout.** In **chronic**
         cluster, maintain continuously.
+
+!!! orderset "Refractory chronic cluster (specialist territory)"
+    When verapamil ± lithium/topiramate and galcanezumab (episodic) fail — refer to a headache
+    specialist:
+
+    - **Occipital nerve stimulation** — the best-supported neuromodulation for refractory chronic
+      cluster in specialist hands.
+    - **Sphenopalatine-ganglion (SPG) stimulation** — showed **RCT-level efficacy** (≈62–67% pain
+      relief at 15 min vs sham), **but is currently unavailable** — the device manufacturer left the
+      market; **new devices are in development**, so know it as a *future* option, not a present one.
+    - **Emerging — psychedelics (psilocybin, LSD):** small trials and strong patient interest; a
+      pulse-dosing psilocybin RCT extension signaled reduced attack frequency, and phase-2 LSD trials
+      are ongoing — **but the evidence is underpowered and this is not yet a clinical recommendation.**
+      **Many patients self-treat — ask about it** (interactions, and it's a candid conversation worth
+      having).
 
 ### Paroxysmal hemicrania · hemicrania continua · SUNCT/SUNA
 
@@ -112,9 +151,14 @@ is so treatable (the "indomethacin test").*
       protection (PPI)**. A **complete** response confirms the diagnosis and is the treatment; taper
       to the lowest effective dose. Consider **"indotest"** (IM indomethacin 50–100 mg) where the oral
       trial is ambiguous.
+        - **If indomethacin isn't tolerated** (GI, renal, or neuropsychiatric effects — common):
+          the best-supported alternatives (case-report level, no consensus guideline) are
+          **melatonin 6–21 mg/day**, **celecoxib** (or other COX-2 inhibitor), **acemetacin**,
+          **topiramate**, **greater occipital nerve blocks** (relief lasting months), and
+          **non-invasive vagus nerve stimulation** as an indomethacin-sparing strategy.
     - **SUNCT / SUNA** — do **not** respond to indomethacin. **Lamotrigine** (titrate slowly for
       rash), then **gabapentin, topiramate, or oxcarbazepine**. **IV lidocaine** (monitored) for a
-      status-like crisis; occipital-nerve or SPG procedures in refractory cases.
+      status-like crisis; occipital-nerve procedures in refractory cases.
 
 ## Order set — quick reference
 
@@ -171,14 +215,22 @@ Outpatient. The wins are diagnostic (don't miss an indomethacin-responsive TAC) 
 - **Cluster acute therapy = oxygen + subcutaneous/nasal triptan** (both **Level A**); oral agents
   are too slow. Oxygen fails most often for **setup** reasons — insist on a non-rebreather.
 - **Verapamil is first-line prevention** and mandates **ECG surveillance** for dose-dependent
-  conduction block. **Galcanezumab 300 mg monthly** is FDA-approved for **episodic** cluster (the
-  chronic-cluster trial was negative).
+  conduction block.
+- **CGRP mAbs work only for *episodic* cluster — and only galcanezumab (300 mg).** In **chronic**
+  cluster the class has **uniformly failed** in RCTs (galcanezumab, erenumab/CHERUB01, eptinezumab/
+  ALLEVIATE, fremanezumab; 2026 network meta-analysis negative) — don't rely on a mAb there.
 - **Transition with a GON block or a short prednisone taper** while the preventive ramps up.
-- **Non-invasive vagus nerve stimulation** has a role as an adjunct/abortive in episodic cluster.
+- **Under-recognized and dangerous:** ~5–6-year diagnostic delay, frequent misdiagnosis (more so in
+  women), and a **~3.9× suicide-attempt risk** — **screen mood/SI and treat aggressively.**
+- **Refractory:** occipital-nerve stimulation (best-supported); **SPG stimulation is RCT-proven but
+  currently unavailable** (manufacturer exited); **psilocybin/LSD are investigational** — ask, because
+  patients self-treat. For indomethacin-intolerant PH/HC: melatonin, celecoxib, topiramate, GON blocks.
 - **Always image a new TAC once** to exclude pituitary/structural mimics.
 
-**Key sources:** ICHD-3 (TAC criteria); the AHS 2016 evidence-based cluster guideline; the EAN 2023
-cluster-headache guideline; the galcanezumab episodic-cluster trial; nVNS cluster trials.
+**Key sources:** ICHD-3 (TAC criteria); AHS 2016 & EAN 2023 cluster guidelines; galcanezumab
+episodic-cluster trial; negative chronic-cluster mAb RCTs (CHERUB01/erenumab, ALLEVIATE/eptinezumab,
+fremanezumab) + 2026 network meta-analysis; cluster-headache suicide-risk cohorts; demand-valve-oxygen
+crossover trial; indomethacin-alternative and psilocybin cluster series.
 
 ## References
 
@@ -189,12 +241,23 @@ cluster-headache guideline; the galcanezumab episodic-cluster trial; nVNS cluste
    Eur J Neurol. 2023;30:2955–2979](https://www.uems-neuroboard.org/web/images/docs/exam/2024/papers/06-EAN-guideline-cluster-headache2023.pdf).
 4. Goadsby PJ, et al. *Galcanezumab in episodic cluster headache* (pivotal RCT; FDA approval 2019,
    300 mg SC monthly).
-5. **TRICARE / DoD Uniform Formulary:** galcanezumab (Emgality) preferred/no-PA; verapamil,
+5. **Negative chronic-cluster CGRP-mAb trials:** CHERUB01 (erenumab, JAMA Netw Open 2025);
+   ALLEVIATE (eptinezumab, JAMA Neurol 2025); fremanezumab (episodic + chronic, terminated for
+   futility); CHRONICLE (open-label eptinezumab, Lancet Neurol 2025); 2026 network meta-analysis.
+6. **Suicide risk:** Norwegian cohort (attempted suicide OR ~3.9) and Danish cohort (JAMA Neurol
+   2025, attempted + completed suicide across headache disorders).
+7. **Emerging / adjuncts:** psilocybin pulse-dosing cluster RCT extension and sleep study; ongoing
+   phase-2 LSD trials; demand-valve-oxygen crossover trial; indomethacin-alternative reviews
+   (melatonin, COX-2 inhibitors, acemetacin, topiramate); SPG-stimulation RCTs (device now unavailable).
+8. **TRICARE / DoD Uniform Formulary:** galcanezumab (Emgality) preferred/no-PA; verapamil,
    prednisone, lithium, topiramate generic-formulary; home oxygen requires documented diagnosis and
    flow rate. *Verify current status at the TRICARE Formulary Search.*
 
 *Verified July 2026: acute oxygen (100%, ≥12 L/min, NNT ≈ 2), sumatriptan 6 mg SC, and nasal
 zolmitriptan are Level A per the AHS 2016 and EAN 2023 cluster guidelines; verapamil ≥240 mg/day
-with ECG monitoring is first-line prevention; galcanezumab is FDA-approved at **300 mg SC monthly
-for episodic cluster only.** Service-specific aeromedical and TRICARE DME (oxygen) specifics warrant
-confirmation before final sign-off.*
+with ECG monitoring is first-line prevention; galcanezumab is FDA-approved at **300 mg SC monthly for
+episodic cluster only**, and **all CGRP mAbs have failed in chronic-cluster RCTs.** The suicide-risk,
+demand-valve-oxygen, indomethacin-alternative, SPG-unavailability, and psychedelic points were supplied
+by expert review with citations and are characterized as emerging/case-level where noted — confirm the
+specific figures before relying on them. Service-specific aeromedical and TRICARE DME (oxygen)
+specifics warrant confirmation before final sign-off.*
