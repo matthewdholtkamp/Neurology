@@ -27,7 +27,7 @@ its place.
     | **P** — **Positional** — worse **lying / on waking** | **High pressure (IIH, mass)** | MRI/MRV → LP opening pressure |
     | **P** — **Precipitated** by Valsalva / exertion / sex | SAH, RCVS, posterior-fossa lesion | CT + **CTA head/neck**; MRI |
     | **P** — **Pregnancy / puerperium** | Pre-eclampsia, CVST, RCVS, PRES, apoplexy | See the pregnancy box below |
-    | **P** — **Painful eye** with autonomic features | Angle-closure, cavernous sinus, Tolosa-Hunt, posterior-fossa/pituitary | MRI + **ophthalmology** |
+    | **P** — **Painful red eye** ± autonomic features | **Acute angle-closure glaucoma** (fixed mid-dilated pupil, nausea — vision loss in hours), cavernous sinus, Tolosa-Hunt, pituitary | **Check IOP / ophthalmology STAT**; MRI |
     | **P** — **Post-traumatic** onset | Structural injury / [PTH](post-traumatic.md) | Head-CT rule; see PTH page |
     | **P** — **Pathology of the immune system** | Opportunistic infection, PML, lymphoma | LP + MRI with contrast |
     | **P** — **Painkiller overuse** or a **new drug** | [MOH](medication-overuse.md); drug effect | Medication review; count acute-med days |
@@ -43,6 +43,17 @@ its place.
       suspicion remains, and **CTA/MRV** for RCVS/dissection/CVST.
     - The **Ottawa SAH Rule** (100% sensitive) can screen out low-likelihood patients before imaging.
 
+!!! tip "When NOT to image (AHS Grade A) — avoid the reflex MRI"
+    **Neuroimaging is not needed for headaches consistent with migraine when the neurologic exam is
+    normal and there are no atypical features or red flags** (AHS 2020). The prevalence of a
+    significant intracranial abnormality in that group is **~0.2%.** Over-imaging drives cost,
+    incidental findings, and anxiety — reserve it for a red-flag hit (relevant where imaging access is
+    limited, e.g., deployed/austere settings).
+
+    *On the horizon (not clinic-ready):* blood biomarkers (**GFAP, neurofilament light**) are being
+    studied to separate serious secondary from primary headache — promising, **not yet validated for
+    use.**
+
 ## Rapid approach
 
 1. **Screen for red flags** (SNNOOP10 table). Any hit → secondary work-up pathway.
@@ -50,6 +61,15 @@ its place.
 3. **Route to the diagnosis:**
     - Recurrent, moderate–severe, disabling, ± photophobia/phonophobia/nausea/aura →
       **[Migraine](migraine.md)** *(if it reached neurology, it is almost never "just tension")*
+        - **Quick screen — ID Migraine** (<2 min, AHS-endorsed): in the last 3 months, did headaches
+          (1) **limit your activities ≥1 day?** (2) **cause nausea?** (3) **make you sensitive to
+          light?** **≥2 "yes" → migraine** (≈84% sensitive, **93% PPV**).
+        - **"Sinus headache" is migraine until proven otherwise** — up to **88%** of self-diagnosed
+          sinus headaches meet migraine criteria (recurrent, predictable, photophobia/nausea, normal
+          exam → migraine, not antibiotics).
+    - Headache **during or after SARS-CoV-2 infection** → **treat by phenotype** (usually migraine- or
+      tension-type-like); COVID is a recognized trigger for **[NDPH](new-daily-persistent.md)** —
+      re-work up if the pattern changes.
     - **Bilateral, pressing/tightening, mild–moderate, NOT worsened by activity, no nausea** →
       **tension-type headache** — analgesics (ibuprofen, high-dose acetaminophen) ± **amitriptyline**
       if frequent (VA/DoD 2023). *But if it's disabling or frequent enough to reach you, reconsider
@@ -106,12 +126,17 @@ its place.
     - Activate a **maternal stroke team** (vascular neurology + maternal-fetal medicine + obstetric
       anesthesiology) for stroke-like symptoms (2026 AHA/ASA).
 
-## Exam essentials
+## History & exam essentials
 
-Vitals (including **BP** and temperature), **fundoscopy for papilledema**, cranial nerves,
-visual fields, focal motor/sensory screen, gait, neck stiffness, and **temporal artery**
-palpation in older patients. A normal neuro exam is a large part of what makes a primary
-headache diagnosis safe.
+**History — cover the core elements:** **onset & tempo**, **character**, **location**, **severity**,
+**duration & frequency**, **associated symptoms** (aura, nausea, photophobia, autonomic), **triggers**,
+**medications** (including **acute-med days/month** — the MOH screen), and **comorbidities** (mood,
+sleep, prior head/neck trauma). **Have every patient keep a headache diary** (frequency, duration,
+acute-med days, triggers) for ≥1 month — it's the single most useful diagnostic *and* monitoring tool.
+
+**Exam:** vitals (including **BP** and temperature), **fundoscopy for papilledema**, cranial nerves,
+visual fields, focal motor/sensory screen, gait, neck stiffness, and **temporal artery** palpation in
+older patients. A normal neuro exam is a large part of what makes a primary headache diagnosis safe.
 
 ---
 
@@ -129,11 +154,20 @@ The headache vertical is complete: **[Migraine](migraine.md)**,
    DoD/VA guideline (TTH, cervicogenic, MOH, gepants/ditans, neuromodulation).
 3. GBD 2023 Headache Collaborators. *Global burden of headache disorders, 1990–2023.* Lancet Neurol.
    2025 (~2.9 billion affected; 6th leading cause of health loss).
-4. Robbins MS. [*Diagnosis and Management of Headache: A Review.* JAMA. 2021](https://jamanetwork.com/journals/jama/fullarticle/2778238).
-5. Rocha EA, et al. *RCVS² score.* Neurology. 2019; Singhal AB. *RCVS review.* Int J Stroke. 2023.
-6. **SAH work-up:** 2023 AHA/ASA aneurysmal SAH guideline; Dubosh NM, et al. *6-h CT sensitivity*
+4. Robbins MS. [*Diagnosis and Management of Headache: A Review.* JAMA. 2021](https://jamanetwork.com/journals/jama/fullarticle/2778238)
+   ("sinus headache" = migraine pitfall).
+5. **Screening & imaging:** Schwedt TJ, et al. *Routine migraine screening — AHS position statement*
+   (Headache 2025) and Lipton RB, et al. *ID Migraine validation* (Neurology 2003); Evans RW, et al.
+   *AHS neuroimaging-for-migraine guideline* (Headache 2020 — Grade A, no imaging if normal exam/no
+   flags).
+6. Rocha EA, et al. *RCVS² score.* Neurology. 2019; Singhal AB. *RCVS review.* Int J Stroke. 2023.
+7. **SAH work-up:** 2023 AHA/ASA aneurysmal SAH guideline; Dubosh NM, et al. *6-h CT sensitivity*
    (Stroke 2016); Perry JJ, et al. *Ottawa SAH Rule / 6-h CT rule* (Stroke 2020).
-7. **Pregnancy:** ACOG *Headaches in Pregnancy and Postpartum* CPG No. 3 (2022); AHA *Maternal Stroke*
+8. **CVT:** Saposnik G, et al. *Diagnosis and Management of Cerebral Venous Thrombosis — AHA scientific
+   statement* (Stroke 2024; D-dimer sensitivity falls to ~74% in isolated-headache presentations).
+9. **COVID:** Mitsikostas DD, et al. *Headache attributed to SARS-CoV-2 — systematic review* (Eur J
+   Neurol 2024); AAPM&R PASC guidance (2023).
+10. **Pregnancy:** ACOG *Headaches in Pregnancy and Postpartum* CPG No. 3 (2022); AHA *Maternal Stroke*
    scientific statement (2026).
 
 *Verified July 2026: the red-flag screen follows the full **SNNOOP10** list (Do 2019); the
@@ -141,5 +175,8 @@ The headache vertical is complete: **[Migraine](migraine.md)**,
 SAH guidance; TTH and cervicogenic headache are added per the **2023 VA/DoD Headache CPG**; RCVS
 (RCVS² score, no-steroids rule), the IIH-vs-SIH positional distinction, GCA, and the pregnancy/
 postpartum differential follow current review/guideline sources; burden figures are from GBD 2023.
-Specific epidemiologic and score figures were drawn from the cited sources — confirm before quoting
-in a formal document.*
+**ID Migraine** (≥2/3 → migraine), the **AHS Grade-A "don't image stable migraine"** rule, the
+**"sinus headache = migraine"** pitfall, post-COVID headache, the headache-diary/structured-history
+recommendation, acute angle-closure glaucoma, and the emerging (not-clinic-ready) GFAP/NfL biomarker
+note were added from the cited sources. Specific epidemiologic and score figures were drawn from those
+sources — confirm before quoting in a formal document.*
