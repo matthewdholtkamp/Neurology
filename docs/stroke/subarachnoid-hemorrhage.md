@@ -25,13 +25,53 @@ ischemia, hydrocephalus, and hyponatremia in a neuro-ICU.
 5. **Start nimodipine** and admit to a **neuro-ICU** for the DCI watch.
 6. **Manage complications:** hydrocephalus (EVD), delayed cerebral ischemia, hyponatremia, seizures.
 
-## Grade it (drives prognosis and vasospasm risk)
+## Grade it — score every patient on arrival
 
-| Scale | What it measures |
-|---|---|
-| **Hunt-Hess** (1–5) | Clinical severity (headache → coma) |
-| **WFNS** (1–5) | GCS ± focal deficit |
-| **Modified Fisher** (0–4) | **Blood/IVH burden on CT → delayed cerebral ischemia (DCI) risk** |
+Two *different* jobs, so **score both**: a **clinical** grade (Hunt-Hess *or* WFNS) captures how sick
+the patient is at presentation and **predicts mortality/outcome and prognosis**; a **radiographic**
+grade (**modified Fisher**) measures the blood burden on CT and **predicts vasospasm / delayed
+cerebral ischemia (DCI)**. "**Poor grade**" = Hunt-Hess 4–5 or WFNS 4–5 — worse prognosis, but still
+treat aggressively (benefit of securing + lumbar drainage holds across grades).
+
+=== "Clinical — Hunt-Hess (1–5): severity → prognosis"
+
+    | Grade | Clinical findings |
+    |---|---|
+    | **1** | Asymptomatic, or **mild headache** + slight nuchal rigidity |
+    | **2** | **Moderate–severe headache**, nuchal rigidity; **no deficit except a cranial-nerve palsy** |
+    | **3** | **Drowsiness / confusion**, or **mild focal deficit** |
+    | **4** | **Stupor**, moderate–severe hemiparesis, early decerebrate posturing |
+    | **5** | **Coma**, decerebrate posturing / moribund |
+
+    *Add **+1 grade** for serious systemic disease (HTN, diabetes, severe atherosclerosis, COPD) or
+    severe angiographic vasospasm. Higher grade → higher mortality.*
+
+=== "Clinical — WFNS (1–5): GCS-based, more objective"
+
+    | Grade | GCS | Motor deficit |
+    |---|---|---|
+    | **1** | **15** | No |
+    | **2** | **13–14** | No |
+    | **3** | **13–14** | **Yes** |
+    | **4** | **7–12** | ± (either) |
+    | **5** | **3–6** | ± (either) |
+
+    *WFNS is reproducible (built on the GCS) and is the scale the 2023 guideline leans on. Grades 1–2
+    are "good grade," 4–5 "poor grade."*
+
+=== "Radiographic — modified Fisher (0–4): blood → vasospasm/DCI risk"
+
+    | Grade | CT appearance | Approx. symptomatic-vasospasm risk |
+    |---|---|---|
+    | **0** | No SAH and no IVH | ~0% |
+    | **1** | **Thin** SAH (<1 mm), **no** IVH | low (~6–24%) |
+    | **2** | **Thin** SAH **+ IVH** | intermediate |
+    | **3** | **Thick** SAH (≥1 mm), **no** IVH | high (~33%) |
+    | **4** | **Thick** SAH **+ IVH** | highest (~40%) |
+
+    *"Thick" = cisternal/fissural blood ≥1 mm (filling a cistern/fissure). The **modified** Fisher
+    improved on the original by counting **IVH** and by rising monotonically with risk — use it to
+    anticipate the DCI watch, not to decide whether to secure the aneurysm.*
 
 ## The prescriptive flow (what I want done, in order)
 
@@ -168,13 +208,16 @@ milrinone and cilostazol series; modified Fisher / Hunt-Hess grading.
 2. Molyneux A, et al. *International Subarachnoid Aneurysm Trial (ISAT)* — coiling vs clipping.
 3. Post R, et al. *Ultra-early tranexamic acid in aSAH (ULTRA)* — no functional benefit.
 4. Pickard JD, et al. *Nimodipine in SAH* — improved outcome (basis for the 21-day course).
-5. Wolf S, et al. [*Lumbar CSF drainage in aSAH (EARLYDRAIN).* JAMA Neurol. 2023](https://jamanetwork.com/journals/jamaneurology/fullarticle/2807367)
+5. **Grading scales:** Hunt WE, Hess RM (1968, clinical grade); Teasdale GM, et al. *WFNS scale*
+   (GCS-based); Frontera JA, et al. *Modified Fisher scale* — cisternal blood/IVH → symptomatic
+   vasospasm risk.
+6. Wolf S, et al. [*Lumbar CSF drainage in aSAH (EARLYDRAIN).* JAMA Neurol. 2023](https://jamanetwork.com/journals/jamaneurology/fullarticle/2807367)
    — prophylactic lumbar drainage improved 6-month outcome.
-6. English SW, et al. *Transfusion thresholds in aSAH (SAHARA).* NEJM. 2025 — liberal vs restrictive,
+7. English SW, et al. *Transfusion thresholds in aSAH (SAHARA).* NEJM. 2025 — liberal vs restrictive,
    no significant difference; pooled neuro-ICU data (TRAIN/HEMOTION) trend liberal.
-7. *REACT* (clazosentan, negative internationally; approved Japan only); milrinone retrospective
+8. *REACT* (clazosentan, negative internationally; approved Japan only); milrinone retrospective
    cohorts; cilostazol meta-analyses (small, predominantly Asian).
-8. **TRICARE / DoD:** nimodipine generic-formulary; acute BP/reversal agents inpatient-stocked.
+9. **TRICARE / DoD:** nimodipine generic-formulary; acute BP/reversal agents inpatient-stocked.
    *Verify at the TRICARE Formulary Search.*
 
 *Verified July 2026: diagnostic pathway (non-contrast CT <6 h → LP/CTA), early aneurysm securing with
