@@ -26,6 +26,16 @@ Persistent headache, **daily and continuous from onset (or within 24 h)**, prese
 not better accounted for by another diagnosis. Many patients report a **trigger around onset** — an
 infection (classically viral), a stressful life event, or surgery.
 
+!!! note "Prognostic subtypes (quantify it when you counsel)"
+    Per the Robbins classification: **~76% have a persisting (refractory) course**; **~15% remit**
+    (median ~21 months); **~8% relapse-remit** (median first remission ~5.5 months). Persisting course
+    associates with younger onset and anxiety/depression. So **most need long-term management, but a
+    real minority improve** — say both.
+
+    *Pathophysiology note:* the **neuroinflammation ("post-viral cytokine") hypothesis is unproven** —
+    a prospective 30-cytokine panel found **no NDPH-specific signature** vs chronic migraine or
+    controls (Cheema 2024). Empiric anti-inflammatory treatment (steroids, doxycycline) stays anecdotal.
+
 ## Rapid approach
 
 1. **Confirm the ICHD-3 profile:** daily and continuous within 24 h of a **distinct remembered
@@ -42,12 +52,13 @@ infection (classically viral), a stressful life event, or surgery.
 2. **Complete the exclusion work-up** (order set below) — this is the deliverable that lets the
    diagnosis stand and that any board will scrutinize.
 3. **Classify the phenotype:** migraine-like or tension-type-like.
-4. **Treat by phenotype** — run the matching preventive/acute ladder (Step 1).
+4. **Treat early and in parallel — don't wait for the 3-month threshold.** At the same visit, start
+   **a transitional bridge AND a phenotype-matched preventive** (Step 1). Delay independently predicts
+   worse outcomes.
 5. **Fix perpetuators:** sleep, mood, and **medication overuse** (screen every visit).
-6. **Set expectations honestly** up front — many cases are refractory; some post-infectious cases
-   remit.
-7. **Refractory?** Bridges, nerve blocks, CGRP therapy, neuromodulation, **headache-specialist
-   referral** (Step 3).
+6. **Set expectations with the numbers:** ~¾ persist (refractory), ~15% remit, ~8% relapse-remit.
+7. **Refractory?** Escalate the transitional therapies, nerve blocks, Botox, CGRP, neuromodulation,
+   **headache-specialist referral** (Step 3).
 
 ## Workup — the mandatory exclusion set
 
@@ -65,32 +76,55 @@ infection (classically viral), a stressful life event, or surgery.
 
 ## Management
 
-!!! orderset "Step 1 — treat the phenotype (there is no NDPH-specific drug)"
-    NDPH has **no established evidence-based treatment**; borrow the ladder that matches the
-    phenotype:
+There's **no NDPH-specific approved drug**, so borrow the phenotype ladder — but the emerging theme
+is **treat aggressively and early**: a **transitional bridge produces the highest initial response
+(~57% benefit at first use)**, delay predicts worse outcomes, and the biology of refractoriness may
+begin *before* the 3-month diagnostic threshold. So don't slow-walk it.
 
-    - **Migraine-like NDPH** → run the [migraine acute + preventive ladders](migraine.md) (e.g.,
-      **nortriptyline/amitriptyline, topiramate**, then **CGRP therapy**; **onabotulinumtoxinA** if
-      it meets the chronic-migraine phenotype).
-    - **Tension-type-like NDPH** → **amitriptyline/nortriptyline** + non-drug measures (sleep, PT,
-      posture, stress).
+!!! orderset "Step 1 — start a transitional bridge AND a preventive at the same visit (early)"
+    **Do both together, don't sequence them.**
+
+    - **Transitional bridge (highest first-use response — start it):**
+        - **Greater occipital ± other nerve blocks** — fast, low-risk, repeatable.
+        - **IV bridge (monitored):** **methylprednisolone**, **DHE** (Raskin-style), or **IV
+          lidocaine**. Per the **2026 ASRA inpatient-headache Practice Advisory**: **IV lidocaine
+          0.5–1.5 mg/kg/h** (or 1–2 mg/min), **cardiac monitoring** (~51% get ≥50% relief, ~43%
+          sustained at 1 month); **IV ketamine ≤1 mg/kg/h outside the ICU** (Grade C) with
+          **continuous respiratory/hemodynamic monitoring**, ± **clonidine and/or low-dose
+          benzodiazepine** to blunt psychotomimetic effects.
+    - **Phenotype-matched preventive (start concurrently):**
+        - **Migraine-like** → migraine [preventive ladder](migraine.md) (nortriptyline/amitriptyline,
+          topiramate; **CGRP therapy** — but temper expectations, below).
+        - **Tension-type-like** → **amitriptyline/nortriptyline** + non-drug measures (sleep, PT,
+          posture, stress).
+    - **OnabotulinumtoxinA — reach for it earlier than "last resort":** it now has the **strongest
+      NDPH-specific data** — ~**one-third of adults** improve (Cheema 2025, comparable to chronic
+      migraine) and up to **70% of pediatric** NDPH (Abuhalaweh 2026), with a **favorable safety
+      profile.** Consider it early, especially in the migraine-like phenotype.
+    - **Supplements:** riboflavin, magnesium; **CoQ10** was the *only* treatment significantly
+      associated with resolution in a pediatric cohort (17% vs 4%, p=0.01) — cheap and reasonable to add.
+
+    !!! warning "CGRP mAbs help fewer NDPH patients than you'd expect — NDPH ≠ chronic migraine"
+        In the largest prospective series, CGRP mAbs gave ≥30% improvement in only **~23% of NDPH**
+        vs **46–84% in chronic migraine** (subjective improvement ~54%). Worth trying, but **set
+        realistic expectations** — NDPH is not equivalent to CM in treatment response. (Case reports
+        favor eptinezumab/rimegepant/atogepant over erenumab/galcanezumab — low-certainty.)
 
 !!! orderset "Step 2 — fix the perpetuators (every visit)"
     - **Screen and treat medication overuse** ([MOH page](medication-overuse.md)) — it silently
       sustains NDPH.
     - **Sleep, mood, anxiety** — treat comorbid depression/insomnia; they gate any response.
-    - **Post-infectious subset** — reassure that some (post-viral/COVID) cases remit over months.
+    - **Post-COVID NDPH** — treat by phenotype (migraine-like vs tension-type-like); **CGRP mAbs show
+      promise** in case series. **Headache persisting >3 months post-infection predicts a refractory
+      course** — don't over-promise resolution.
 
 !!! orderset "Step 3 — refractory NDPH (specialist territory)"
-    No high-quality evidence — these are reasonable, commonly used options; **refer to a headache
-    specialist**:
+    Escalate the Step-1 tools and **refer to a headache specialist**:
 
-    - **Nerve blocks** — greater occipital ± other cranial nerve blocks (fast, low-risk, repeatable).
-    - **IV bridges** (monitored) — **methylprednisolone**, **DHE** (Raskin-style), or **lidocaine**
-      to try to break a refractory continuous headache.
-    - **CGRP therapies** — mAbs and gepants have case-series support; effectiveness is **variable**,
-      with **eptinezumab, rimegepant, and atogepant** more often reported helpful than erenumab or
-      galcanezumab in NDPH specifically (low-certainty).
+    - **Repeat/optimize nerve blocks and IV bridges** (ASRA dosing above); admit for a monitored
+      lidocaine or DHE course.
+    - **OnabotulinumtoxinA** if not already tried (see Step 1 — it belongs earlier).
+    - **CGRP therapies** — reasonable trial despite the modest NDPH response rate.
     - **Neuromodulation** (e-TNS, remote electrical neuromodulation, nVNS) — low-risk adjuncts.
 
 !!! warning "Avoid"
@@ -137,14 +171,22 @@ plus follow-up. Consider a **headache-specialist referral** for refractory cases
 - **It is fundamentally a diagnosis of exclusion:** the priority is ruling out **CSF-pressure
   disorders (SIH/IIH), CVST, and GCA** with MRI/MRV, LP with opening pressure, and inflammatory
   markers.
-- **There is no NDPH-specific, evidence-based drug.** Treatment is **phenotype-directed** and often
-  refractory; **CGRP therapies help some** (eptinezumab/rimegepant/atogepant reported more often
-  effective — low certainty); some **post-infectious** cases remit.
-- **Set expectations early**, fix perpetuators (sleep, mood, medication overuse), and **avoid
-  opioids/butalbital**.
+- **No NDPH-specific approved drug — but treat early and hit it with a bridge + preventive together.**
+  Transitional therapy has the **highest first-use response (~57%)**, and **delayed treatment
+  independently predicts worse outcomes** — don't wait for the 3-month threshold.
+- **OnabotulinumtoxinA now has the strongest NDPH-specific evidence** (~⅓ of adults, ~70% of children
+  respond; good safety) — use it earlier, not as a last resort.
+- **CGRP mAbs are less effective in NDPH than in chronic migraine** (~23% vs 46–84% ≥30% response) —
+  worth trying, but **NDPH ≠ CM**; set expectations.
+- **Prognosis:** ~76% persist, ~15% remit (median ~21 mo), ~8% relapse-remit. The **neuroinflammation
+  hypothesis is unproven** (no NDPH-specific cytokine signature).
+- **The IV bridge now has formal guidance** — 2026 ASRA advisory (lidocaine, ketamine dosing/monitoring).
+- **Diagnosis of exclusion first** (SIH/IIH, CVST, GCA); fix perpetuators; **CoQ10** is a cheap
+  pediatric signal; **avoid opioids/butalbital**.
 
-**Key sources:** ICHD-3 (NDPH criteria); *Continuum* 2024 review of NDPH; tertiary-center real-world
-series; guidance on secondary-headache exclusion (SIH, IIH, CVST, GCA).
+**Key sources:** ICHD-3; *Continuum* 2024 NDPH review; Cheema et al. (onabotulinumtoxinA 2025; CGRP
+mAb 2025; cytokine 2024); Abuhalaweh/Szperka pediatric NDPH cohorts (2024–2026); Robbins prognostic
+subforms (2010); 2026 ASRA inpatient-headache Practice Advisory; secondary-headache exclusion guidance.
 
 ## References
 
@@ -152,12 +194,23 @@ series; guidance on secondary-headache exclusion (SIH, IIH, CVST, GCA).
 2. [*New Daily Persistent Headache.* Continuum (Minneap Minn). 2024](https://continuum.aan.com/doi/10.1212/CON.0000000000001398).
 3. Linnet A, et al. [*Challenges in the management of NDPH at a tertiary headache center — a
    retrospective real-world study.* Headache. 2024](https://headachejournal.onlinelibrary.wiley.com/doi/10.1111/head.14715).
-4. **TRICARE / DoD Uniform Formulary:** phenotype-directed oral preventives generic/formulary;
-   galcanezumab (Emgality) preferred/no-PA; other CGRP agents PA + neurologist. *Verify at the
-   TRICARE Formulary Search.*
+4. **Treatment evidence:** Cheema S, et al. *OnabotulinumtoxinA for primary NDPH* (Cephalalgia 2025)
+   and *CGRP mAb treatment for NDPH* (J Headache Pain 2025) and *Serum cytokines in NDPH* (Front
+   Neurol 2024); Abuhalaweh N, et al. *Treatment outcomes in pediatric NDPH* (Cephalalgia 2026);
+   Szperka CL, et al. *Headache trajectories in new-onset continuous headache* (Cephalalgia 2024);
+   Takle M, et al. *CoQ10 and NDPH resolution* (J Child Neurol 2025).
+5. Robbins MS, et al. *Clinical and prognostic subforms of NDPH.* Neurology. 2010.
+6. Hoydonckx Y, et al. *Practice Advisory for IV management of headache in hospitalized patients
+   (ASRA).* Reg Anesth Pain Med. 2026 — IV lidocaine/ketamine dosing and monitoring.
+7. **TRICARE / DoD Uniform Formulary:** phenotype-directed oral preventives generic/formulary;
+   galcanezumab (Emgality) preferred/no-PA; other CGRP agents + onabotulinumtoxinA (needs
+   chronic-migraine phenotype for on-label) PA + neurologist. *Verify at the TRICARE Formulary Search.*
 
-*Verified July 2026: NDPH remains a clinical diagnosis of exclusion with **no established
-evidence-based treatment**; management is phenotype-directed (migraine or tension-type ladders), CGRP
-therapies help a subset with variable effect, and the secondary-headache exclusion set (MRI/MRV, LP
-with opening pressure, ESR/CRP) is the diagnostic core. Service-specific aeromedical/retention
-specifics warrant confirmation before final sign-off.*
+*Verified July 2026: NDPH remains a clinical diagnosis of exclusion with no NDPH-specific approved
+drug. The newer treatment emphases — **early combined transitional + preventive therapy** (delay
+worsens outcomes), **onabotulinumtoxinA as the best NDPH-specific evidence** (~⅓ adults / ~70%
+children), **lower CGRP-mAb response than in chronic migraine** (~23%), the **2026 ASRA IV
+lidocaine/ketamine** parameters, the **negative neuroinflammation biomarker** data, prognostic
+subforms (~76% persisting), the CoQ10 pediatric signal, and post-COVID phenotype-directed care — were
+supplied by expert review with citations; confirm the specific figures before relying on them.
+Service-specific aeromedical/retention specifics warrant confirmation before final sign-off.*
