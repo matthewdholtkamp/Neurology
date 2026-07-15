@@ -68,22 +68,58 @@ does not need routine imaging. There is no blood or imaging test that "rules in"
    team (headache + sleep + behavioral health + vestibular/PT).
 7. **Avoid opioids/butalbital** throughout — PTH is a high-risk MOH setting.
 
+!!! note "Who persists — and why to treat early"
+    Most acute PTH resolves, but a substantial fraction chronifies (**TRACK-TBI:** ~60% acute PTH at
+    2 weeks → **~52% still present at 3 months → ~29% at 12 months**). **Risk factors for persistence:**
+    **female sex, prior migraine history, fewer years of education, acute PTH lasting >30 consecutive
+    days, HIT-6 >45, and cognitive symptoms** (difficulty concentrating — the strongest single
+    association, OR >3), plus comorbid anxiety/depression/sleep disorders.
+
+    **Treat early — don't wait for it to become "persistent."** Scheduled analgesics in the **first
+    ~72 h** may reduce acute severity; **starting a preventive within ~4–6 weeks** may prevent central
+    sensitization/chronification (and preclinical data show **early onabotulinumtoxinA fully prevented**
+    the transition to persistent PTH, while delayed dosing only partly did). Be most aggressive in the
+    high-risk patients above.
+
 !!! orderset "Step 1 — treat the phenotype (there is no PTH-specific drug — borrow the ladder)"
+    **Lifestyle first (2025 AAPM&R):** regular sleep schedule, no skipped meals, hydration, limit
+    alcohol, low-intensity aerobic exercise, and relaxation strategies — start these at the first visit.
+
+    **Prophylaxis threshold (2025 AAPM&R):** offer a daily preventive when headaches are **≥10 days/
+    month or disabling.**
+
     - **Migraine-like PTH** → the [migraine acute + preventive ladders](migraine.md):
         - **Acute:** stratified — NSAID → **triptan**, or a **gepant/lasmiditan** where triptans are
           unsuitable. **Cap acute days; prefer a gepant** (no MOH) given the high overuse risk here.
         - **Preventive (if frequent/disabling):** **amitriptyline or nortriptyline 10–50 mg qHS**
-          (helps comorbid sleep/mood — often the best first pick in PTH), **topiramate 50–100 mg/day**,
-          or **propranolol**; escalate to **CGRP therapy** if first-line fails.
+          (helps comorbid sleep/mood — often the best first pick in PTH); **venlafaxine (SNRI)**;
+          **candesartan (ARB)**; or **propranolol**; escalate to **CGRP therapy** or
+          **onabotulinumtoxinA** (below) if first-line fails.
     - **Tension-type-like PTH** → **amitriptyline/nortriptyline** + analgesic sparing, and treat the
       neck and sleep drivers directly.
 
+    !!! warning "Prefer cognitively-neutral preventives — go easy on topiramate/valproate"
+        **Topiramate and valproate are not first-line for PTH** — their **cognitive side effects
+        compound the TBI patient's existing cognitive complaints** (Lancet Neurology algorithm; not
+        among the 2025 AAPM&R named options). **Prefer amitriptyline, venlafaxine, candesartan, or
+        propranolol.**
+        **Prazosin** is a useful military-population option — emerging PTH evidence with minimal side
+        effects and a **dual benefit for comorbid PTSD nightmares** (generic/formulary).
+
 !!! orderset "Step 2 — dismantle the perpetuators (every visit; this is the real work)"
+    - **CBT for headache — the strongest non-drug evidence, and it's from *veterans*.** In the
+      **McGeary RCT (JAMA Neurol 2022)** of post-9/11 combat veterans with PTH+PTSD, **8 sessions of
+      headache-specific CBT cut headache disability (HIT-6 −3.4) AND improved PTSD symptoms.**
+      Crucially, **treating the PTSD alone (cognitive processing therapy) improved PTSD but NOT the
+      headache** — so **refer for headache-specific CBT, not just PTSD therapy.**
     - **Sleep:** treat insomnia/OSA **first** — poor sleep alone sustains PTH.
-    - **Mood / PTSD:** co-treat; PTH and PTSD strongly track together in service members.
-    - **Cervicogenic:** targeted **physical therapy**; **greater/lesser occipital nerve blocks** for
+    - **Mood / PTSD:** co-treat; PTH and PTSD strongly track together in service members (**prazosin**
+      helps PTSD nightmares — see Step 1).
+    - **Cervicogenic (a distinct PTH subtype):** **manual therapy of the neck** ("Good Practice,"
+      2025 AAPM&R) + targeted **physical therapy**; **greater/lesser occipital nerve blocks** for
       occipital tenderness.
-    - **Vestibular:** **vestibular rehabilitation** for dizziness/oculomotor symptoms.
+    - **Vestibular:** **cervical + vestibular physical therapy** — facilitates return to activity
+      (HR ~3.9 vs rest) when dizziness/neck pain/headache persist >10 days.
     - **Medication overuse:** cap or withdraw overused acute meds and start a preventive
       ([MOH page](medication-overuse.md)).
 
@@ -95,8 +131,11 @@ does not need routine imaging. There is no blood or imaging test that "rules in"
       phase-2 trial was **negative**, while **erenumab (receptor)** showed an **open-label** benefit —
       so if you use a CGRP for PTH, the **receptor**-targeting agents (erenumab, or an oral gepant)
       are the more rational bet (low-certainty).
-    - **OnabotulinumtoxinA** — only if it meets the **chronic-migraine** phenotype (limited PTH-specific
-      data).
+    - **OnabotulinumtoxinA — the only treatment with a *positive PTH-specific RCT*.** In military
+      veterans (Zirovich 2021 crossover), headaches/week **fell ~43% vs *worsened* ~35% on placebo**
+      (p<0.001), with less pain severity. Combined with the preclinical "early dosing prevents
+      chronification" signal, **consider it earlier — don't wait for a strict chronic-migraine
+      phenotype** (though that's still what on-label TRICARE coverage needs).
     - **IV bridge** for a severe refractory flare — see the acute-flare box.
 
 !!! orderset "Acute refractory PTH flare (migraine phenotype)"
@@ -110,12 +149,14 @@ does not need routine imaging. There is no blood or imaging test that "rules in"
     - **Prolonged strict rest** — brief relative rest, then a **graded return to activity**.
 
 !!! tip "TRICARE — PTH prescribing"
-    Prescribe by phenotype: **amitriptyline, nortriptyline, topiramate, propranolol** are
-    **generic/formulary, no PA**, and the TCAs are an efficient first pick (headache + sleep + mood).
-    For a CGRP, **galcanezumab (Emgality) is the preferred, no-PA** option — but the PTH evidence
-    favors **receptor**-targeting agents, and **erenumab (Aimovig) / atogepant (Qulipta)** are
-    **PA-gated + neurologist**. Nerve blocks, PT, vestibular rehab, and behavioral health go through
-    normal specialty/rehab referral.
+    Prescribe by phenotype: **amitriptyline, nortriptyline, venlafaxine, candesartan, propranolol,
+    and prazosin** are all **generic/formulary, no PA** — the TCAs are an efficient first pick
+    (headache + sleep + mood), and prazosin is a two-for-one with PTSD nightmares. **Topiramate is
+    formulary but cognitively costly in TBI** — not first-line here. For a CGRP, **galcanezumab
+    (Emgality) is the preferred, no-PA** option — but the PTH evidence favors **receptor**-targeting
+    agents, and **erenumab (Aimovig) / atogepant (Qulipta)** are **PA-gated + neurologist**.
+    **OnabotulinumtoxinA** needs the chronic-migraine phenotype for on-label coverage. Nerve blocks,
+    manual/vestibular PT, and **headache-specific CBT** go through normal specialty/rehab referral.
 
 ## Disposition
 
@@ -170,20 +211,26 @@ cases.
   alongside the headache, which is why **multidisciplinary** care is the standard for persistent PTH.
 - **Rest is not the treatment.** Brief relative rest followed by a **graded return to activity**
   beats prolonged rest.
-- **Avoid opioids/butalbital;** guard against medication-overuse headache, which is common here.
-- **CGRP-targeted therapies** are of active interest given PTH's migrainous biology, but the
-  PTH-specific evidence is **mixed and mechanism-relevant:** a **fremanezumab (ligand)** phase-2
-  trial was **negative** while **erenumab (receptor)** showed an **open-label** signal — hinting the
-  **CGRP receptor** may matter more than the peptide in PTH. Reasonable to try (receptor-targeting
-  agents preferred), but temper expectations; treatment remains extrapolated from migraine.
+- **Treat early and identify who's at risk.** ~52% of acute PTH persists at 3 months (TRACK-TBI);
+  female sex, prior migraine, acute PTH >30 days, HIT-6 >45, and cognitive symptoms predict
+  persistence. Scheduled early analgesia + preventive within 4–6 weeks may prevent chronification.
+- **The first formal PTH treatment guidance arrived (2025 AAPM&R Action Collaborative):** lifestyle
+  first, **preventive at ≥10 headache days/month or disabling**, named options **amitriptyline,
+  venlafaxine, candesartan, and CGRP inhibitors**, and **manual therapy for cervicogenic** PTH.
+- **OnabotulinumtoxinA is the only positive PTH-specific RCT** (Zirovich 2021, veterans: ~43% fewer
+  headaches vs worsening on placebo) — consider it earlier than "chronic-migraine only."
+- **Headache-specific CBT is the strongest non-drug evidence** (McGeary 2022: HIT-6 −3.4 + PTSD
+  benefit in veterans) — and **treating PTSD alone did not fix the headache.**
+- **Avoid opioids/butalbital**, and **avoid topiramate/valproate first-line** (cognitive cost in TBI).
+- **CGRP evidence is mechanism-relevant:** **fremanezumab (ligand)** phase-2 negative vs **erenumab
+  (receptor)** open-label positive — prefer receptor-targeting agents if using a CGRP.
+- **The evidence base is still thin** — a 2026 systematic review found only 2 low-bias RCTs (1
+  PTH-specific); nearly all treatment is extrapolated.
 
-**Key sources to cite (verify current versions):**
-
-- ICHD-3 — headache attributed to trauma or injury to the head and/or neck.
-- VA/DoD Clinical Practice Guideline for the Management of Concussion/mild TBI.
-- DoD concussion-management policy for the deployed setting (DoDI 6490.11) and the Progressive
-  Return to Activity clinical recommendation (TBICoE).
-- American Headache Society guidance on post-traumatic headache management.
+**Key sources:** ICHD-3; **2025 AAPM&R Action Collaborative TBI guideline**; VA/DoD mTBI CPG (2021);
+DoDI 6490.11 + TBICoE Progressive Return to Activity; **Zirovich 2021** (onabotulinumtoxinA RCT);
+**McGeary 2022** (CBT RCT); **TRACK-TBI** / McIntosh 2025 (risk factors); Ashina 2021 (Lancet Neurology
+review); **Saleh 2026** systematic review.
 
 ## References
 
@@ -194,16 +241,34 @@ cases.
    Setting*](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/649011p.pdf).
 4. Traumatic Brain Injury Center of Excellence (TBICoE). *Progressive Return to Activity* clinical
    recommendation and provider tools.
-5. Ashina H, et al. *Persistent post-traumatic headache — CGRP-targeted therapy:* erenumab
-   open-label signal vs a **negative fremanezumab phase-2 trial** (receptor vs ligand in PTH).
-6. **TRICARE / DoD Uniform Formulary:** phenotype-directed oral preventives (amitriptyline,
-   nortriptyline, topiramate, propranolol) generic/formulary; galcanezumab (Emgality) preferred/no-PA;
-   erenumab/atogepant PA + neurologist. *Verify at the TRICARE Formulary Search.*
+5. Ashina H, et al. [*Post-traumatic headache attributed to TBI: classification, clinical
+   characteristics, and treatment.* Lancet Neurol. 2021](https://www.thelancet.com/journals/laneur/article/PIIS1474-4422(21)00094-6/fulltext)
+   — early-treatment/chronification hypothesis; topiramate/valproate caution; erenumab vs
+   fremanezumab (receptor vs ligand).
+6. Silverberg ND, et al. *Action Collaborative on TBI Care — Adapted CPG* (Ann Fam Med 2025) — first
+   formal PTH treatment synthesis (prophylaxis ≥10 d/mo; amitriptyline/venlafaxine/candesartan/CGRP;
+   manual therapy for cervicogenic).
+7. Zirovich MD, et al. *Botulinum toxin type A for PTH — RCT* (Mil Med 2021, positive in veterans);
+   McGeary DD, et al. *CBT for veterans with PTH+PTSD — RCT* (JAMA Neurol 2022).
+8. Ashina H, et al. *PTH prevalence/risk factors (TRACK-TBI)* (Mayo Clin Proc 2023); McIntosh SJ,
+   et al. *Factors associated with persisting symptoms after concussion* (JAMA Netw Open 2025);
+   Saleh S, et al. *Pharmacological treatments for post-TBI headache — systematic review*
+   (Cephalalgia 2026).
+9. **TRICARE / DoD Uniform Formulary:** phenotype-directed oral preventives (amitriptyline,
+   nortriptyline, venlafaxine, candesartan, propranolol, prazosin) generic/formulary; galcanezumab
+   (Emgality) preferred/no-PA; erenumab/atogepant + onabotulinumtoxinA PA + neurologist. *Verify at
+   the TRICARE Formulary Search.*
 
 *Verified July 2026: DoDI 6490.11 (mandates MACE screening across the Services), MACE2, the 2021
 VA/DoD mTBI CPG, and the 6-stage Progressive Return to Activity framework are current and correctly
-characterized. PTH treatment is extrapolated from migraine (no PTH-specific approved drug); the CGRP
-evidence is mixed — fremanezumab (ligand) negative in a phase-2 PTH trial, erenumab (receptor)
-positive open-label. Retention/accession standards are quoted from DoDI 6130.03 Vol 2 (5.26.h) / Vol 1
-(6.26) and AR 40-501 (3-31g/k); the graded aviation head-injury standards are AR 40-501 ch. 4,
-table 4-2 — confirm the exact table-4-2 tier at sign-off.*
+characterized. PTH treatment is still largely extrapolated (no robust PTH-specific approved drug — a
+2026 systematic review found only 2 low-bias RCTs). The newer emphases — the **2025 AAPM&R** treatment
+synthesis (prophylaxis ≥10 d/mo; amitriptyline/venlafaxine/candesartan/CGRP; manual therapy for
+cervicogenic; topiramate/valproate cognitive caution), **onabotulinumtoxinA as the only positive
+PTH-specific RCT** (Zirovich 2021), **headache-specific CBT** (McGeary 2022, > PTSD-only therapy),
+**risk factors for persistence** (TRACK-TBI/McIntosh), early-treatment/chronification prevention, and
+**prazosin** for the military population — were supplied by expert review with citations; confirm the
+specific figures before relying on them. CGRP mechanism note (fremanezumab-ligand negative vs
+erenumab-receptor open-label) stands. Retention/accession standards are quoted from DoDI 6130.03 Vol 2
+(5.26.h) / Vol 1 (6.26) and AR 40-501 (3-31g/k); the graded aviation head-injury standards are AR
+40-501 ch. 4, table 4-2 — confirm the exact table-4-2 tier at sign-off.*
