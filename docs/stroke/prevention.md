@@ -43,7 +43,7 @@ column. Use the tabs below.
     | **Physical activity** | ≥150 min/wk moderate | Reduce sedentary time |
     | **Alcohol** | Limit (no "cardioprotective" license) | |
     | **Salt substitution** | **Potassium-based salt substitute** — **Class 2a** | SSaSS: ~22% relative stroke reduction (avoid in CKD/hyperkalemia risk) |
-    | **Inflammation (established CVD)** | **Low-dose colchicine 0.5 mg/day** — **Class 2b** (uncertain benefit) | Anti-inflammatory pathway; optional add-on |
+    | **Inflammation (established CVD)** | **Low-dose colchicine 0.5 mg/day** — **Class 2b** (uncertain benefit) | Stroke-*specific* trials neutral (CONVINCE, CHANCE-3); pooled benefit is coronary-driven. **Avoid in symptomatic intracranial atherosclerosis** (CHANCE-3 subgroup: possible harm) |
 
     !!! warning "Aspirin is NOT for routine primary prevention"
         **Do not start aspirin to prevent a first stroke in most people** — ASPREE, ARRIVE, and
@@ -103,11 +103,22 @@ column. Use the tabs below.
     | **ESUS / cryptogenic** | Antiplatelet (**not** anticoagulation — see box) + **prolonged rhythm monitoring** (≥30-day external or implantable monitor; 24–48 h telemetry misses most paroxysmal AF); anticoagulate only if AF is found |
     | **PFO, age <60, otherwise-cryptogenic** | **PFO closure** (RESPECT/CLOSE/REDUCE) + antiplatelet — use the **PASCAL classification** to select ("probable" benefits; "unlikely" does not) |
 
+    !!! note "CYP2C19 genotyping is moving into practice"
+        Clopidogrel is a prodrug: **~25% of White and ~60% of East Asian patients carry a CYP2C19
+        loss-of-function variant** and under-activate it. Genotyping is increasingly used to guide
+        antiplatelet choice — **if a LOF variant is found, ticagrelor + ASA is preferred over
+        clopidogrel + ASA** for the minor-stroke/high-risk-TIA window (CHANCE-2).
+
     !!! tip "AF timing — start the DOAC early"
         Don't sit on the old rigid "1-3-6-12" wait. The **CATALYST** meta-analysis (2025) shows
         **early DOAC (≤4 days) reduces recurrence with no excess sICH.** Individualize the exact day
         on infarct size / hemorrhagic transformation (sooner for small strokes, a touch later for
         large infarcts). **LAAO** if anticoagulation is truly contraindicated.
+
+        - **Stroke despite adequate anticoagulation (OAC failure):** **LAAO is an emerging option** —
+          observational data (STR-OAC LAAO) show a large risk reduction (HR ~0.33) added to OAC, and
+          surgical LAAO cut stroke on top of anticoagulation (LAAOS III). **RCT confirmation is
+          pending** (CHAMPION-AF, OPTION, OCCLUSION-AF) — reasonable to consider, not yet proven.
 
     !!! danger "Do NOT empirically anticoagulate ESUS"
         Embolic stroke of undetermined source is **not** an indication for empiric anticoagulation.
@@ -116,10 +127,23 @@ column. Use the tabs below.
         guideline: use an **antiplatelet**, and **hunt for AF** with prolonged monitoring — anticoagulate
         only if you actually find it.
 
+        **When monitoring detects *brief* device AF, the episode duration decides** (2023 ACC/AHA AF
+        guideline): **≥24 h + CHA₂DS₂-VASc ≥2 → anticoagulation reasonable (2a)**; **5 min–24 h +
+        CHA₂DS₂-VASc ≥3 → may be reasonable (2b)**; **<5 min → do not anticoagulate (Class 3)**.
+
     !!! warning "Don't double up without a reason"
         **Long-term DAPT is not secondary prevention** — after the 21-day (or 90-day ICAD) window,
         drop to a single agent; extended DAPT only adds bleeding. And **don't combine an antiplatelet
         with an anticoagulant** unless there's a separate, explicit indication.
+
+    !!! note "On the horizon — factor XIa inhibition (watch this space)"
+        **OCEANIC-STROKE** (NEJM 2026) is the first positive phase-3 trial of a new antithrombotic
+        class for stroke prevention in over a decade: **asundexian 50 mg/day (a factor XIa inhibitor)
+        added to antiplatelet** therapy for **non-cardioembolic** stroke / high-risk TIA cut ischemic
+        stroke **26%** (HR 0.74) **with no increase in major bleeding** — the long-sought uncoupling of
+        antithrombotic efficacy from bleeding risk. **Not yet guideline-incorporated**, and the
+        companion milvexian trial (**LIBREXIA-STROKE**) is pending — but this may reshape
+        non-cardioembolic prevention. Don't prescribe it off-study yet; know it's coming.
 
 ## The full acute-stroke workup and reperfusion algorithm
 
@@ -169,6 +193,12 @@ prevention is *started* during that admission and *owned* in clinic afterward.
 - **Lipids: lower is better after atherosclerotic stroke** — high-intensity statin to **LDL <70**
   (TST), escalating with ezetimibe/PCSK9.
 - **Blood pressure is the common denominator** — the highest-yield lever in both columns.
+- **On the horizon (not yet guideline):** **factor XIa inhibition** — OCEANIC-STROKE (asundexian)
+  cut ischemic stroke 26% with no excess bleeding in non-cardioembolic prevention (LIBREXIA/milvexian
+  pending); **CYP2C19 genotyping** to steer clopidogrel vs ticagrelor (CHANCE-2); **LAAO for OAC
+  failure** (observational, RCTs pending); and **duration-based** anticoagulation for device-detected
+  subclinical AF. **Colchicine** is stroke-neutral in stroke-specific trials (CONVINCE, CHANCE-3) and
+  possibly harmful in intracranial atherosclerosis — the pooled "benefit" is coronary-driven.
 
 **Key sources:** 2024 AHA/ASA Primary Prevention of Stroke guideline; 2021 AHA/ASA Secondary
 Prevention guideline; PREDIMED (Mediterranean diet); ASPREE/ARRIVE/ASCEND (aspirin); SUSTAIN-6/REWIND
@@ -187,9 +217,15 @@ RESPECT/CLOSE/REDUCE + PASCAL (PFO); 2024 ACC arrhythmia-monitoring-after-stroke
 6. **PFO:** RESPECT/CLOSE/REDUCE; **PASCAL** classification (Kent et al.) for patient selection.
    **Arrhythmia monitoring:** 2024 ACC Expert Consensus Pathway (≥30-day/implantable for cryptogenic).
 7. **Lipids:** Treat Stroke to Target (TST) — LDL <70 mg/dL after ischemic stroke.
-8. **Newer primary-prevention additions:** SSaSS (potassium salt substitution); low-dose colchicine.
-9. **TRICARE / DoD Uniform Formulary:** statins/aspirin/clopidogrel/ezetimibe generic-formulary;
-   preferred DOAC + GLP-1/PCSK9 PA status — *verify at the TRICARE Formulary Search.*
+8. **Newer primary-prevention additions:** SSaSS (potassium salt substitution); colchicine — with
+   stroke-specific caveats from **CONVINCE** (Lancet 2024) and **CHANCE-3** (BMJ 2024, sICAS harm signal).
+9. **Emerging (not yet guideline):** **OCEANIC-STROKE** — asundexian (FXIa inhibitor) for
+   non-cardioembolic secondary prevention (NEJM 2026); LIBREXIA-STROKE (milvexian) pending.
+   **CHANCE-2** — ticagrelor+ASA in CYP2C19 LOF carriers.
+   **STR-OAC LAAO** / **LAAOS III** — LAAO with OAC failure. **2023 ACC/AHA AF guideline** —
+   duration-tiered anticoagulation for device-detected AF.
+10. **TRICARE / DoD Uniform Formulary:** statins/aspirin/clopidogrel/ezetimibe generic-formulary;
+    preferred DOAC + GLP-1/PCSK9 PA status — *verify at the TRICARE Formulary Search.*
 
 *Verified July 2026: primary-prevention content (no routine aspirin per ASPREE/ARRIVE/ASCEND; GLP-1 RA
 Class 1 for diabetes + high CV risk; **SGLT2i stroke-neutral**; BP <130/80; Life's Essential 8;
@@ -198,6 +234,9 @@ CHA₂DS₂-VASc ≥2/≥3 and Class 2a at 1/2**; women/SDOH emphasis) follows t
 Prevention of Stroke guideline**. Secondary-prevention antithrombotic-by-mechanism, LDL <70 (TST),
 21-day DAPT (CHANCE/POINT), 90-day DAPT for ICAD (SAMMPRIS), early DOAC (CATALYST), carotid within
 2 weeks, **no empiric anticoagulation for ESUS (NAVIGATE ESUS/RE-SPECT ESUS/ARCADIA/ATTICUS negative)**,
-and PFO closure <60 selected by **PASCAL** (RESPECT/CLOSE/REDUCE) are current. **AR 40-501 stroke
-retention paragraph and the TRICARE preferred DOAC were not pinned to a citable source — verify before
+and PFO closure <60 selected by **PASCAL** (RESPECT/CLOSE/REDUCE) are current. **Emerging items
+(OCEANIC-STROKE/asundexian, CHANCE-2/CYP2C19, LAAO-for-OAC-failure, device-AF duration thresholds,
+colchicine stroke-specific data) are flagged as not-yet-guideline and their trial figures were
+supplied by expert review — confirm before acting on them clinically. AR 40-501 stroke retention
+paragraph and the TRICARE preferred DOAC were not pinned to a citable source — verify before
 counseling.**
