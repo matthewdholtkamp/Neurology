@@ -63,12 +63,13 @@ on the phone, and protect against expansion. Do them **together**, not in sequen
 ## Anticoagulation & antiplatelet reversal
 
 !!! orderset "Reverse by agent — the highest-yield decision in the room"
-    | On this agent | Give |
+    | On this agent | Give (dose) |
     |---|---|
-    | **Warfarin / VKA** | **4-factor PCC** (preferred over FFP — faster, lower volume) **+ IV vitamin K 10 mg** |
-    | **Dabigatran** | **Idarucizumab 5 g IV** |
-    | **Apixaban / rivaroxaban / edoxaban (factor Xa inhibitors)** | **4-factor PCC (~50 units/kg)** — **now the primary U.S. reversal agent.** *(Consider activated charcoal if the last dose was within ~2–4 h.)* |
-    | **Unfractionated / LMW heparin** | **Protamine** |
+    | **Warfarin / VKA** | **4-factor PCC, INR-based** (Kcentra: **INR 2–<4 → 25 units/kg; 4–6 → 35; >6 → 50**; max 5000 units) **+ vitamin K 10 mg IV** (slow infusion). PCC preferred over FFP — faster, lower volume |
+    | **Dabigatran** | **Idarucizumab 5 g IV** (two 2.5 g vials) |
+    | **Apixaban / rivaroxaban / edoxaban (factor Xa inhibitors)** | **4-factor PCC 50 units/kg** (fixed ~2000 units is an alternative) — **now the primary U.S. reversal agent.** *(Consider activated charcoal if last dose within ~2–4 h.)* |
+    | **Unfractionated heparin** | **Protamine 1 mg IV per 100 units of heparin given in the last ~2–3 h** (**max 50 mg/dose**; give slow — hypotension/anaphylaxis) |
+    | **LMWH (enoxaparin)** | **Protamine 1 mg IV per 1 mg enoxaparin** if within 8 h (**0.5 mg/mg** if >8 h; max 50 mg) — LMWH only ~60% reversed |
     | **Antiplatelet (aspirin/clopidogrel)** | **Do NOT transfuse platelets** — PATCH showed **harm** — unless a neurosurgical procedure is planned; DDAVP may be considered |
 
     !!! danger "Andexanet alfa (Andexxa) was WITHDRAWN from the U.S. market — 22 Dec 2025"
