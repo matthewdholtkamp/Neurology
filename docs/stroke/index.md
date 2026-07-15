@@ -287,9 +287,14 @@ risk is real.
       residual deficit or a high-risk unfixed source is deployment-limiting.
     - **Profile (DA Form 3349):** temporary during recovery; **permanent** for residual
       neuro/cognitive deficit or seizure.
-    - **Retention / MEB:** stroke with **persistent functional deficit, cognitive impairment, or
-      seizures** generally falls below retention standards → **DES (MEB/PEB)**. Document NIHSS/mRS,
-      deficits, etiology, and the secondary-prevention plan.
+    - **Retention / MEB:** **DoDI 6130.03 Vol 2, para 5.26.b** lists cerebrovascular conditions —
+      **(3) stroke** and **(6) recurrent TIA "unless the underlying etiology is identified and
+      definitively treated"** — as below retention standards **when they persist despite treatment and
+      impair duty** (gating clause 5.26.a). The Army implements this at **AR 40-501 para 3-31f
+      (stroke, when residuals affect performance)**. So: define the etiology, treat it, and document
+      NIHSS/mRS, deficits, and the secondary-prevention plan → **DES (MEB/PEB)** if residuals impair
+      duty. *A TIA with a fully identified and definitively treated cause can retain — the etiology
+      work-up is what the standard turns on.*
     - **Aeromedical / special duty:** a history of stroke/TIA is **disqualifying for flying duty**,
       and most secondary-prevention regimens (anticoagulation especially) are independently
       waiver-dependent. Confirm the exact standard for the class involved.
@@ -379,6 +384,7 @@ down to ASPECTS 3, pooled in ATLAS; basilar ATTENTION/BAOCHE, both 2023) are cur
 (<185/110 pre-lytic, <180/105 post-lytic, permissive <220/120; **no SBP <140 within 24–72 h of
 successful EVT** per 2025 ACC/AHA) and time goals (door-to-CT ≤25 min, door-to-needle ≤60/≤45 min per
 *Target: Stroke*) are current; 21-day DAPT (CHANCE/POINT) and **early DOAC ≤4 days (CATALYST reduces
-recurrence)** are correctly characterized. **AR 40-501 stroke-specific retention paragraph and the
-TRICARE preferred DOAC were not pinned to a citable source here — verify both before counseling.**
-The deployed-stroke framing follows the JTS 2024 CPG.*
+recurrence)** are correctly characterized. **Retention citation confirmed against the source
+document: DoDI 6130.03 Vol 2 para 5.26.b (cerebrovascular — stroke .b(3), recurrent TIA .b(6)), gated
+by 5.26.a, implemented at AR 40-501 para 3-31f.** The **TRICARE preferred DOAC was not pinned to a
+citable source — verify before counseling.** The deployed-stroke framing follows the JTS 2024 CPG.*

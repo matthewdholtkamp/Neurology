@@ -94,9 +94,12 @@ anticoagulation follow-up; repeat venous imaging to document recanalization.
       member with a new persistent headache and papilledema.
     - **Deployability:** acute CVST and the anticoagulation that follows are **deployment-limiting**;
       **estrogen contraception should be changed** after CVST.
-    - **Retention / MEB:** residual deficit, seizures, or a thrombophilia requiring **indefinite
-      anticoagulation** generally triggers the **DES (MEB/PEB)**. Document etiology, imaging,
-      anticoagulation plan, and duration.
+    - **Retention / MEB:** CVST isn't named verbatim, but its consequences are — a venous
+      **infarct/hemorrhage** and any persistent sequelae (**severe headaches, seizures, sensory/motor
+      or cognitive deficit**) fall under **DoDI 6130.03 Vol 2 para 5.26.b/5.26.c** (cerebrovascular /
+      CNS sequelae, gated by 5.26.a; Army **AR 40-501 3-31f/k**). Residual deficit, seizures, or a
+      thrombophilia requiring **indefinite anticoagulation** generally triggers the **DES (MEB/PEB)**.
+      Document etiology, imaging, anticoagulation plan, and duration.
     - **Aeromedical:** CVST history, seizures, and chronic anticoagulation are **disqualifying/
       waiver-dependent** for flying duty.
 
@@ -132,6 +135,8 @@ TO-ACT (endovascular); SECRET (rivaroxaban feasibility).
 *Verified July 2026: venous imaging (MRV/CTV) for diagnosis, therapeutic anticoagulation **including
 in the presence of venous hemorrhage** (LMWH preferred over UFH), DOAC transition (dabigatran
 non-inferior — RE-SPECT CVT), non-routine endovascular therapy (TO-ACT negative), and
-decompression for herniating venous infarct reflect current AHA/ASA and ESO guidance. **AR 40-501
-CVST/thrombophilia retention specifics and the TRICARE preferred DOAC were not pinned to a citable
-source — verify before counseling.**
+decompression for herniating venous infarct reflect current AHA/ASA and ESO guidance. **Retention
+framing confirmed against the source: CVST's cerebrovascular/hemorrhage and persistent-sequelae
+consequences fall under DoDI 6130.03 Vol 2 para 5.26.b/5.26.c (Army AR 40-501 3-31f/k) — CVST is not
+named verbatim.** The **TRICARE preferred DOAC was not pinned to a citable source — verify before
+counseling.**

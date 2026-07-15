@@ -126,9 +126,12 @@ capability** if you don't have it. Early rehab once stable.
       anticoagulated, airway, and **urgent MEDEVAC**; definitive care is rear.
     - **Young service member with spontaneous ICH:** **hunt for a secondary cause** (AVM, aneurysm,
       dAVF, CVST, sympathomimetic/stimulant use) — the etiology drives duty and the board.
-    - **Deployability / retention:** ICH with residual deficit, seizures, or an untreated vascular
-      lesion is **deployment-limiting** and generally triggers the **DES (MEB/PEB)**; document
-      volume, deficit, etiology, and BP control.
+    - **Deployability / retention:** **DoDI 6130.03 Vol 2 para 5.26.b(1)** names **intracerebral (and
+      subarachnoid) hemorrhage** a below-retention cerebrovascular condition when it **persists despite
+      treatment and impairs duty** (5.26.a); persistent sequelae — **severe headaches, seizures, sensory/
+      motor or cognitive impairment — fall under 5.26.c** (Army: **AR 40-501 para 3-31f/3-31k**). ICH
+      with residual deficit, seizures, or an untreated vascular lesion is deployment-limiting and
+      generally triggers the **DES (MEB/PEB)**; document volume, deficit, etiology, and BP control.
     - **Aeromedical:** a history of ICH and most vascular lesions are **disqualifying/waiver-
       dependent** for flying duty.
 
@@ -170,5 +173,6 @@ guideline.
 agent-specific reversal follow the 2022 AHA/ASA guideline and subsequent trials (ANNEXA-I andexanet;
 PATCH against platelet transfusion); surgical indications (cerebellar >3 cm/brainstem/hydrocephalus →
 operate; ENRICH minimally invasive for 30–80 mL supratentorial; open craniotomy not routinely
-beneficial) are current. **AR 40-501 retention specifics and TRICARE inpatient stocking of andexanet
-were not pinned to a citable source — verify before counseling.**
+beneficial) are current. **Retention confirmed against the source: DoDI 6130.03 Vol 2 para 5.26.b(1)
+(intracerebral/subarachnoid hemorrhage) and 5.26.c (persistent sequelae), Army AR 40-501 3-31f/k.**
+TRICARE inpatient stocking of andexanet was not pinned to a citable source — verify locally.*

@@ -93,9 +93,13 @@ outpatient aneurysm/imaging follow-up.
 
     - **Deployed:** a thunderclap headache in theater with no CT/neurosurgery is an **urgent MEDEVAC**
       — control BP, analgesia, airway; definitive securing is rear at a neurovascular center.
-    - **Deployability / retention:** a ruptured aneurysm and its recovery are **non-deployable**;
-      residual deficit, seizures, or an **unsecured/untreated aneurysm** generally trigger the **DES
-      (MEB/PEB)**. A **secured aneurysm with full recovery** may return to duty per specialty review.
+    - **Deployability / retention:** **DoDI 6130.03 Vol 2 para 5.26.b** names **subarachnoid
+      hemorrhage (b(1)) and aneurysm (b(4))** below-retention cerebrovascular conditions when they
+      **persist despite treatment and impair duty** (5.26.a); persistent sequelae (severe headaches,
+      seizures, cognitive/motor deficit) fall under **5.26.c** — Army **AR 40-501 3-31f/k**. A ruptured
+      aneurysm and its recovery are **non-deployable**; residual deficit, seizures, or an
+      **unsecured/untreated aneurysm** generally trigger the **DES (MEB/PEB)**. A **secured aneurysm
+      with full recovery** may return to duty per specialty review.
     - **Aeromedical:** a history of SAH / intracranial aneurysm is **disqualifying/waiver-dependent**
       for flying duty; confirm the standard for the class involved.
     - **Screening context:** family history and unruptured-aneurysm findings raise
@@ -134,5 +138,6 @@ nimodipine trials; modified Fisher / Hunt-Hess grading.
 *Verified July 2026: diagnostic pathway (non-contrast CT <6 h → LP/CTA), early aneurysm securing with
 coiling generally preferred (ISAT), **nimodipine 60 mg q4h × 21 days (Class 1)**, euvolemia +
 induced-hypertension DCI management, salt (not restriction) for hyponatremia, and no routine
-antifibrinolytics (ULTRA) follow the 2023 AHA/ASA aneurysmal SAH guideline. **AR 40-501 SAH/aneurysm
-retention specifics were not pinned to a citable source — verify before counseling.**
+antifibrinolytics (ULTRA) follow the 2023 AHA/ASA aneurysmal SAH guideline. **Retention confirmed
+against the source: DoDI 6130.03 Vol 2 para 5.26.b(1) (subarachnoid hemorrhage) and b(4) (aneurysm),
+gated by 5.26.a, Army AR 40-501 3-31f/k.**
