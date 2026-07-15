@@ -62,8 +62,8 @@ does not need routine imaging. There is no blood or imaging test that "rules in"
 3. **Treat the phenotype** on the matching migraine/tension ladder (Step 1).
 4. **Dismantle the perpetuators in parallel** — sleep, mood/PTSD, cervicogenic, vestibular, and
    **medication overuse** (Step 2). *This is where persistent PTH is won or lost.*
-5. **Return to activity, graded** — brief relative rest, then progress; step back on symptom
-   recurrence. Not open-ended rest.
+5. **Prescribe aerobic exercise — it's a treatment, not just "return to activity"** (protocol box
+   below); brief relative rest, then progress. Not open-ended rest.
 6. **Refractory?** Nerve blocks, CGRP therapy, and IV bridges (Step 3); build a **multidisciplinary**
    team (headache + sleep + behavioral health + vestibular/PT).
 7. **Avoid opioids/butalbital** throughout — PTH is a high-risk MOH setting.
@@ -90,7 +90,12 @@ does not need routine imaging. There is no blood or imaging test that "rules in"
 
     - **Migraine-like PTH** → the [migraine acute + preventive ladders](migraine.md):
         - **Acute:** stratified — NSAID → **triptan**, or a **gepant/lasmiditan** where triptans are
-          unsuitable. **Cap acute days; prefer a gepant** (no MOH) given the high overuse risk here.
+          unsuitable. **Cap acute days; prefer a gepant** (no MOH) given the high overuse risk here —
+          *but note the gepant preference is extrapolated from migraine; there are **no PTH-specific
+          gepant efficacy data**.*
+        - **Only positive acute-PTH RCT:** **metoclopramide 10 mg + diphenhydramine 25 mg IV** beat
+          placebo (a modest ~1.4-point pain improvement) — a reasonable **first-line ED** combination
+          for an acute PTH attack.
         - **Preventive (if frequent/disabling):** **amitriptyline or nortriptyline 10–50 mg qHS**
           (helps comorbid sleep/mood — often the best first pick in PTH); **venlafaxine (SNRI)**;
           **candesartan (ARB)**; or **propranolol**; escalate to **CGRP therapy** or
@@ -105,6 +110,18 @@ does not need routine imaging. There is no blood or imaging test that "rules in"
         propranolol.**
         **Prazosin** is a useful military-population option — emerging PTH evidence with minimal side
         effects and a **dual benefit for comorbid PTSD nightmares** (generic/formulary).
+
+!!! orderset "Prescribe sub-threshold aerobic exercise — the best non-drug evidence in concussion/PTH"
+    Exercise is a **specific therapy**, not generic advice — start it **early, even while symptomatic.**
+
+    - **Start within 24–72 h** with light activity (walking); waiting for symptoms to fully resolve is
+      *worse*. Subthreshold aerobic exercise **sped recovery (median 13 vs 17 days)** and **cut
+      persisting symptoms (21% vs 32%)** vs stretching, with a **large effect size (g ≈ 1.0).**
+    - **Dose it to a heart-rate target:** the HR at the patient's **symptom-exacerbation threshold**
+      (Buffalo-type test), or simply **start at ~50% of age-predicted max HR (220 − age)**, 20 min/day,
+      and titrate up as tolerated — stay **below** the level that flares symptoms.
+    - **Works for persisting PTH too**, and **regardless of initial symptom burden.** For service
+      members, this doubles as a structured, documentable **return-to-duty** progression.
 
 !!! orderset "Step 2 — dismantle the perpetuators (every visit; this is the real work)"
     - **CBT for headache — the strongest non-drug evidence, and it's from *veterans*.** In the
@@ -126,16 +143,24 @@ does not need routine imaging. There is no blood or imaging test that "rules in"
 !!! orderset "Step 3 — refractory persistent PTH (specialist / multidisciplinary)"
     Evidence is largely extrapolated from migraine — set expectations. Reasonable options:
 
-    - **Nerve blocks** — occipital ± other cranial blocks; fast, low-risk, repeatable.
-    - **CGRP therapies** — worth trying, but note the PTH-specific signal: a **fremanezumab (ligand)**
-      phase-2 trial was **negative**, while **erenumab (receptor)** showed an **open-label** benefit —
-      so if you use a CGRP for PTH, the **receptor**-targeting agents (erenumab, or an oral gepant)
-      are the more rational bet (low-certainty).
+    - **Nerve blocks — consider these *earlier*, not just when refractory.** PTH-specific data are
+      strong: **~88% average pain improvement immediately, ~73% sustained at 6 months** (File 2025),
+      and GON blocks historically help **PTH more than migraine (72% vs 54%)**. Fast, low-risk,
+      repeatable — a high-yield early move.
+    - **CGRP therapies** — worth trying, but note the PTH-specific signal: the **fremanezumab (ligand)**
+      phase-2 RCT was **negative** (a *non-significant* reduction in moderate-to-severe headache days),
+      while **erenumab (receptor)** showed an **open-label** benefit — so if you use a CGRP for PTH,
+      the **receptor**-targeting agents (erenumab, or an oral gepant) are the more rational bet
+      (low-certainty).
     - **OnabotulinumtoxinA — the only treatment with a *positive PTH-specific RCT*.** In military
       veterans (Zirovich 2021 crossover), headaches/week **fell ~43% vs *worsened* ~35% on placebo**
       (p<0.001), with less pain severity. Combined with the preclinical "early dosing prevents
       chronification" signal, **consider it earlier — don't wait for a strict chronic-migraine
       phenotype** (though that's still what on-label TRICARE coverage needs).
+    - **Repetitive TMS** — small RCTs show short-term benefit (≈58% got ≥50% headache reduction;
+      60% vs 10% return-to-work in one pilot), **but the VA/DoD mTBI CPG suggests *against* it**
+      (small trials, no sustained benefit at 4–6 months, seizure-risk concern) — **reserve for
+      specialist/research settings.**
     - **IV bridge** for a severe refractory flare — see the acute-flare box.
 
 !!! orderset "Acute refractory PTH flare (migraine phenotype)"
@@ -164,6 +189,16 @@ Outpatient with clear **return precautions** for the red flags above. For concus
 **graded, supervised return-to-activity** progression rather than open-ended rest, and arrange
 multidisciplinary follow-up (headache + sleep + behavioral health + vestibular/PT) for persistent
 cases.
+
+!!! note "Concussion return-to-play/duty essentials (2025 NEJM review)"
+    - **Return to school/cognitive work *before* return to sport/full duty** — early, graded cognitive
+      activity speeds recovery; prolonged absence delays it.
+    - **Cervical + vestibular PT** facilitates return (HR ~3.9 vs rest) when dizziness/neck pain/
+      headache persist >10 days.
+    - **SCOAT6** (Sport Concussion Office Assessment Tool-6) is a free office-assessment aid (awaiting
+      prospective validation).
+    - **Blood biomarkers (GFAP, total tau) are NOT ready for routine clinical use** — don't adopt
+      prematurely.
 
 !!! military "Military medicine — post-traumatic headache / concussion (mTBI)"
     *Standards below are quoted from **DoDI 6130.03 Vol 1/Vol 2**, **AR 40-501**, the **VA/DoD mTBI
@@ -209,8 +244,14 @@ cases.
 - **Persistence is multifactorial.** Sleep disturbance, mood/PTSD, cervicogenic pain, vestibular
   dysfunction, and medication overuse perpetuate PTH — outcomes improve when these are treated
   alongside the headache, which is why **multidisciplinary** care is the standard for persistent PTH.
-- **Rest is not the treatment.** Brief relative rest followed by a **graded return to activity**
-  beats prolonged rest.
+- **Rest is not the treatment — prescribed aerobic exercise is.** Subthreshold aerobic exercise
+  started **within 24–72 h** speeds recovery (median 13 vs 17 days) and cuts persisting symptoms
+  (21% vs 32%), effect size **g ≈ 1.0** — dose it to ~50% age-predicted max HR or a symptom threshold.
+  The strongest non-drug evidence in concussion/PTH.
+- **Nerve blocks may be *especially* effective in PTH** (~88% improve, ~73% sustained at 6 months;
+  better than in migraine) — consider them **early**, not just when refractory.
+- **The only positive acute-PTH RCT is metoclopramide + diphenhydramine** (modest ~1.4-point benefit)
+  — a reasonable ED go-to for an attack. **Gepants are the theoretical acute ideal but unproven in PTH.**
 - **Treat early and identify who's at risk.** ~52% of acute PTH persists at 3 months (TRACK-TBI);
   female sex, prior migraine, acute PTH >30 days, HIT-6 >45, and cognitive symptoms predict
   persistence. Scheduled early analgesia + preventive within 4–6 weeks may prevent chronification.
@@ -254,7 +295,13 @@ review); **Saleh 2026** systematic review.
    et al. *Factors associated with persisting symptoms after concussion* (JAMA Netw Open 2025);
    Saleh S, et al. *Pharmacological treatments for post-TBI headache — systematic review*
    (Cephalalgia 2026).
-9. **TRICARE / DoD Uniform Formulary:** phenotype-directed oral preventives (amitriptyline,
+9. **Concussion / exercise / neuromodulation:** Leddy JJ. [*Sport-Related Concussion.* NEJM. 2025](https://www.nejm.org/doi/full/10.1056/NEJMra2400691)
+   (aerobic-exercise Rx, cervical/vestibular PT, SCOAT6, biomarkers); Leddy JJ, et al. *Early
+   subthreshold aerobic exercise RCT* (JAMA Pediatr 2019); File C, et al. *Nerve blocks for refractory
+   PTH* (Pain Physician 2025); Stilling J, et al. *rTMS for persistent PTH — pilot RCT* (J Neurotrauma
+   2020); Minen MT, et al. *PTH treatment review* (Curr Pain Headache Rep 2024 — metoclopramide+
+   diphenhydramine; fremanezumab result).
+10. **TRICARE / DoD Uniform Formulary:** phenotype-directed oral preventives (amitriptyline,
    nortriptyline, venlafaxine, candesartan, propranolol, prazosin) generic/formulary; galcanezumab
    (Emgality) preferred/no-PA; erenumab/atogepant + onabotulinumtoxinA PA + neurologist. *Verify at
    the TRICARE Formulary Search.*
@@ -266,9 +313,12 @@ characterized. PTH treatment is still largely extrapolated (no robust PTH-specif
 synthesis (prophylaxis ≥10 d/mo; amitriptyline/venlafaxine/candesartan/CGRP; manual therapy for
 cervicogenic; topiramate/valproate cognitive caution), **onabotulinumtoxinA as the only positive
 PTH-specific RCT** (Zirovich 2021), **headache-specific CBT** (McGeary 2022, > PTSD-only therapy),
-**risk factors for persistence** (TRACK-TBI/McIntosh), early-treatment/chronification prevention, and
-**prazosin** for the military population — were supplied by expert review with citations; confirm the
-specific figures before relying on them. CGRP mechanism note (fremanezumab-ligand negative vs
+**risk factors for persistence** (TRACK-TBI/McIntosh), early-treatment/chronification prevention,
+**prazosin**, **prescribed subthreshold aerobic exercise** (2025 NEJM/Leddy — strongest non-drug
+evidence), **quantified nerve-block efficacy** (File 2025), **metoclopramide+diphenhydramine as the
+only positive acute-PTH RCT**, the **no-PTH-specific-gepant-data** caveat, and **rTMS** (VA/DoD
+suggests against) — were supplied by expert review with citations; confirm the specific figures
+before relying on them. CGRP mechanism note (fremanezumab-ligand negative vs
 erenumab-receptor open-label) stands. Retention/accession standards are quoted from DoDI 6130.03 Vol 2
 (5.26.h) / Vol 1 (6.26) and AR 40-501 (3-31g/k); the graded aviation head-injury standards are AR
 40-501 ch. 4, table 4-2 — confirm the exact table-4-2 tier at sign-off.*
