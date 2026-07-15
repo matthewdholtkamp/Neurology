@@ -6,9 +6,9 @@ with a standardized military-medicine layer (deployability, profiles, EPTS/LOD,
 retention, MEB/IDES). Hosted free on GitHub Pages.
 
 > **Status: LIVE** at https://matthewdholtkamp.github.io/Neurology/ (public repo
-> github.com/matthewdholtkamp/Neurology). 13 pages across Headache (6), Stroke (2:
-> acute + prevention), Dizziness, Diplopia + military primer. Auto-deploys on push to main
-> via strict-build CI.
+> github.com/matthewdholtkamp/Neurology). 16 pages across Headache (6), Stroke &
+> cerebrovascular (5: acute ischemic, prevention, ICH, SAH, CVST), Dizziness, Diplopia +
+> military primer. Auto-deploys on push to main via strict-build CI.
 > This file is the living build checklist.
 > Last updated: 2026-07-12
 >
@@ -131,8 +131,12 @@ Each page's specifics get checked against current sources at build time.
       the tiered prescriptive style with a TRICARE layer; drug details source-verified against
       current AHS/EAN guidelines + ICHD-3 (2026). Remaining: overview/triage hub (index.md)
       still in the older format — reformat into a tap-to-topic decision grid if desired.
-- [ ] **Intracranial Hemorrhage** — andexanet/idarucizumab reversal; INTERACT3;
-      ENRICH minimally-invasive surgery.
+- [x] **Intracranial Hemorrhage — BUILT** (andexanet/idarucizumab reversal, INTERACT3 bundle,
+      ENRICH minimally-invasive surgery, 2022 AHA/ASA). Part of the Tier-1 cerebrovascular trio.
+- [x] **Subarachnoid hemorrhage — BUILT** (2023 AHA/ASA: secure <24h, nimodipine, DCI).
+- [x] **Cerebral venous sinus thrombosis (CVST) — BUILT** (anticoagulate through hemorrhage;
+      dabigatran RE-SPECT CVT; TO-ACT). *Tier-2 cerebrovascular fast-follows still open: split TIA
+      into its own page; cervical artery dissection; cerebral amyloid angiopathy; carotid disease.*
 - [ ] **Movement Disorder** — VMAT2 inhibitors for TD; newer PD adjuncts.
 - [ ] **Motor Neuron Disease** — edaravone; tofersen (SOD1); Relyvrio saga.
 - [ ] **Acute Myelopathy** — fold in AQP4/MOG + NMOSD/MOGAD.
