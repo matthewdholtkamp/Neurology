@@ -225,41 +225,24 @@ Two independent decisions, made in parallel — **a patient can get both:**
         - **Ticagrelor + aspirin** (THALES) is an alternative, useful with **CYP2C19 loss-of-function**
           (clopidogrel non-responders).
 
-## Secondary prevention — driven by the mechanism (start before discharge)
+## Secondary prevention — start it before discharge
 
-!!! orderset "Every patient"
+Secondary prevention is **owned on this admission** and continued in clinic. The **full
+mechanism-by-mechanism playbook lives on the [Stroke prevention page](prevention.md)** — the
+essentials to start in-hospital:
+
+!!! orderset "Start before discharge (every patient)"
     - **High-intensity statin — atorvastatin 80 mg** (or rosuvastatin 20–40); **target LDL <70**
-      (add ezetimibe ± PCSK9 to get there). Start in hospital.
-    - **BP control** (restart/optimize once stable), **diabetes** management, **smoking cessation**,
-      diet/exercise, **dysphagia screen before anything PO**, DVT prophylaxis, early mobilization.
-
-=== "Cardioembolic (atrial fibrillation)"
-    - **Anticoagulate — a DOAC** (apixaban/rivaroxaban/dabigatran/edoxaban) preferred over warfarin
-      for non-valvular AF.
-    - **Timing — start early (within ~4 days), and it's not just "safe."** The **CATALYST**
-      individual-patient meta-analysis (Lancet 2025, pooling **ELAN, OPTIMAS, TIMING** + others) found
-      **early DOAC (≤4 days) reduced** the 30-day composite of recurrent ischemic stroke / sICH /
-      unclassified stroke (**2.1% vs 3.0%, OR 0.70**) **with no increase in sICH** — so early is now
-      **preferred**, not merely permissible. The old rigid "1-3-6-12" wait is out. Still individualize
-      the exact day on infarct size and hemorrhagic transformation (sooner for small strokes, a touch
-      later for large infarcts).
-    - **Left-atrial-appendage occlusion** if anticoagulation is truly contraindicated.
-
-=== "Large-artery atherosclerosis"
-    - **Antiplatelet + high-intensity statin (LDL <70).**
-    - **Symptomatic carotid stenosis 70–99% (or 50–69% in selected men):** **CEA or CAS**, best
-      **within 2 weeks.**
-    - **Intracranial atherosclerosis:** short-course DAPT (SAMMPRIS) + aggressive risk-factor control;
-      avoid stenting first-line.
-
-=== "Small-vessel (lacunar)"
-    - Antiplatelet + **aggressive BP and lipid control**; short DAPT for the minor-stroke window only.
-
-=== "ESUS / cryptogenic"
-    - **Prolonged rhythm monitoring** (≥30-day or implantable) to catch occult AF.
-    - **PFO** in a patient **<60 with an otherwise-cryptogenic embolic stroke** → **closure** (RESPECT/
-      CLOSE) with antiplatelet.
-    - **Hypercoagulable/young-stroke work-up** as indicated.
+      (add ezetimibe ± PCSK9). Start in hospital.
+    - **Antithrombotic matched to mechanism** — single antiplatelet for most; **21-day DAPT** for
+      minor stroke/high-risk TIA (see above); **DOAC for AF, started early (≤4 days, CATALYST)**;
+      never reflexively combine antiplatelet + anticoagulant.
+    - **BP toward <130/80** once stable; **diabetes** (GLP-1/SGLT2i), **smoking cessation**, diet/
+      exercise, weight.
+    - **Determine the mechanism** (cardioembolic / large-artery / small-vessel / ESUS) — it drives
+      carotid revascularization, PFO closure <60, and prolonged rhythm monitoring. → full detail on
+      the [prevention page](prevention.md).
+    - Inpatient basics: **dysphagia screen before anything PO**, DVT prophylaxis, early mobilization.
 
 ## TIA — a treated emergency, not "a pass"
 
