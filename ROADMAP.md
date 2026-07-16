@@ -6,9 +6,9 @@ with a standardized military-medicine layer (deployability, profiles, EPTS/LOD,
 retention, MEB/IDES). Hosted free on GitHub Pages.
 
 > **Status: LIVE** at https://matthewdholtkamp.github.io/Neurology/ (public repo
-> github.com/matthewdholtkamp/Neurology). 16 pages across Headache (6), Stroke &
-> cerebrovascular (5: acute ischemic, prevention, ICH, SAH, CVST), Dizziness, Diplopia +
-> military primer. Auto-deploys on push to main via strict-build CI.
+> github.com/matthewdholtkamp/Neurology). 20 pages across Headache (7 incl. hub), Stroke &
+> cerebrovascular (9: acute ischemic, TIA, prevention, ICH, SAH, CVST, dissection, CAA, carotid),
+> Dizziness, Diplopia + military primer. Auto-deploys on push to main via strict-build CI.
 > This file is the living build checklist.
 > Last updated: 2026-07-12
 >
@@ -140,8 +140,11 @@ Each page's specifics get checked against current sources at build time.
       ENRICH minimally-invasive surgery, 2022 AHA/ASA). Part of the Tier-1 cerebrovascular trio.
 - [x] **Subarachnoid hemorrhage — BUILT** (2023 AHA/ASA: secure <24h, nimodipine, DCI).
 - [x] **Cerebral venous sinus thrombosis (CVST) — BUILT** (anticoagulate through hemorrhage;
-      dabigatran RE-SPECT CVT; TO-ACT). *Tier-2 cerebrovascular fast-follows still open: split TIA
-      into its own page; cervical artery dissection; cerebral amyloid angiopathy; carotid disease.*
+      dabigatran RE-SPECT CVT; TO-ACT).
+- [x] **Tier-2 cerebrovascular — BUILT:** **TIA** (own page; tissue-based, ABCD², 21-day DAPT),
+      **cervical artery dissection** (CADISS/TREAT-CAD), **cerebral amyloid angiopathy** (Boston v2.0,
+      avoid-anticoagulation, ARIA link), **carotid disease** (symptomatic <2-wk revascularization,
+      CEA vs CAS vs TCAR, CREST-2 2025). **Stroke & cerebrovascular section now = 9 pages.**
 - [ ] **Movement Disorder** — VMAT2 inhibitors for TD; newer PD adjuncts.
 - [ ] **Motor Neuron Disease** — edaravone; tofersen (SOD1); Relyvrio saga.
 - [ ] **Acute Myelopathy** — fold in AQP4/MOG + NMOSD/MOGAD.
