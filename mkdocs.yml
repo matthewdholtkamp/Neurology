@@ -88,6 +88,8 @@ nav:
       - Carotid artery disease: stroke/carotid-disease.md
   - Seizure & epilepsy:
       - Seizure & status epilepticus: seizure/index.md
+      - Epilepsy syndromes: seizure/epilepsy-syndromes.md
+      - Antiseizure medications: seizure/asm.md
   - Dizziness & vertigo:
       - Overview & HINTS: dizziness/index.md
   - Diplopia:
