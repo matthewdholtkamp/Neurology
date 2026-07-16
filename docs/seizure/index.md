@@ -13,8 +13,11 @@ picking an antiseizure medication (ASM).
 > ongoing *nonconvulsive* status.**
 
 !!! danger "🚩 Status epilepticus — recognize it and start the clock"
-    - **Definition (operational):** **≥5 minutes** of continuous seizure, **or ≥2 seizures without
-      recovery** of consciousness between them. Don't wait 30 minutes — **5 minutes = treat.**
+    - **Definition (ILAE two-timepoint):** treat at **t1** (the seizure won't self-terminate) —
+      **5 min for a generalized tonic-clonic** seizure, but **10 min for focal SE with impaired
+      awareness** and 10–15 min for absence; **or ≥2 seizures without recovery** between them. **t2**
+      (risk of long-term injury) is ~30 min for GTC. Bottom line: **GTC at 5 min = treat now**, and
+      don't wait 30 minutes for anything.
     - **"Stopped but won't wake up" = nonconvulsive status until proven otherwise** — get **urgent
       cEEG.** Persistent altered consciousness after visible convulsions stop is NCSE in up to ~20%.
     - **Under-dosing benzodiazepines** (and then blaming the "refractory" seizure) is the classic
@@ -51,15 +54,22 @@ picking an antiseizure medication (ASM).
     - **Valproate 40 mg/kg IV (may add 20 mg/kg)** — **avoid** in hepatic disease and
       pregnancy/childbearing potential.
     - *(Phenobarbital 15 mg/kg IV if none of the above is available.)*
+    - **Broadening landscape:** **IV lacosamide** and **brivaracetam** are increasingly used as
+      second-line (lacosamide was **non-inferior to fosphenytoin** for nonconvulsive seizures in
+      TRENdS, with a **favorable hemodynamic profile**) — reasonable alternatives, though the formal
+      evidence base still rests on the ESETT triad.
     - **Continue the second-line agent** as you escalate; **arrange cEEG.**
 
 !!! orderset "Step 3 — Refractory status (>40 min, or 2 lines failed) — anesthetize + cEEG"
     **Intubate**, admit to **ICU**, start **continuous cEEG**, and begin a **continuous anesthetic
-    infusion** (titrate to seizure suppression, ± burst-suppression):
+    infusion.** **Target seizure suppression, not routine burst-suppression** — induced burst
+    suppression wasn't associated with better outcomes (Fisch 2023), and seizure suppression alone
+    tracked with better function; reserve burst-suppression for **seizures recurring despite adequate
+    anesthetic dosing.**
 
     - **Midazolam** — load 0.2 mg/kg, then 0.05–2.9 mg/kg/h.
-    - **Propofol** — load ~1–2 mg/kg, then 1–15 mg/kg/h (watch propofol-infusion syndrome; limit
-      duration/dose).
+    - **Propofol** — load ~1–2 mg/kg, then 1–15 mg/kg/h (watch **propofol-infusion syndrome** —
+      **avoid in suspected mitochondrial disease or on a ketogenic diet**; limit dose/duration).
     - **Ketamine** — increasingly used (NMDA-mediated late status), usually **with** a
       GABAergic agent.
     - Keep the second-line ASM on board for maintenance.
@@ -69,6 +79,10 @@ picking an antiseizure medication (ASM).
       pressors ready), titrated to seizure/burst suppression.
     - **Hunt hard for the cause** — **autoimmune/paraneoplastic (NORSE/FIRES)**, CNS infection,
       PRES/RCVS, toxic-metabolic; consider **immunotherapy** (steroids/IVIg/PLEX) empirically in NORSE.
+    - **Ketogenic diet** is used adjunctively in super-refractory SE (especially **FIRES/NORSE**).
+    - **Don't reach for unproven add-ons:** **hypothermia adds nothing** beyond standard therapy, and
+      the **allopregnanolone (brexanolone) RCT was negative** — no proven pharmacologic agent exists
+      for super-refractory SE beyond anesthetics (+ immunotherapy for autoimmune causes).
     - Wean anesthetics slowly once seizure-free ~24–48 h; neurology + epileptology on board.
 
 !!! orderset "Copy-paste — first 20 minutes"
@@ -118,23 +132,37 @@ faint; get an ECG/cardiac workup — cardiac syncope can kill), **psychogenic no
 ## Picking an ASM (by seizure type & the patient)
 
 !!! orderset "Match the drug to the seizure *and* the person"
-    In an adult ED with an unknown-etiology first seizure, most have a structural cause — a common
-    default is **levetiracetam.** Then refine:
+    **SANAD II reset the defaults** (Lancet 2021): **lamotrigine is first-line for focal epilepsy**
+    (beat levetiracetam on treatment failure, tolerability, and cost), and **valproate is the most
+    effective for generalized epilepsy** (with the childbearing caveat). **Levetiracetam is the
+    alternative when you need *rapid* titration** (lamotrigine must be titrated slowly for rash) — e.g.,
+    the ED first seizure of unknown type.
 
-    | Situation | Reasonable first choices |
+    | Situation | Preferred → alternative |
     |---|---|
-    | **Focal (most adults)** | **Levetiracetam, lamotrigine, or lacosamide**; oxcarbazepine/carbamazepine |
-    | **Generalized (GTC)** | **Levetiracetam, lamotrigine, valproate** *(valproate most effective — but see childbearing)* |
+    | **Focal (most adults)** | **Lamotrigine** (best tolerated/cost) → **levetiracetam** (when rapid titration needed) or **lacosamide**; oxcarbazepine/carbamazepine |
+    | **Generalized (GTC)** | **Valproate** (most effective) → **lamotrigine** or **levetiracetam** *(valproate off the table in childbearing potential)* |
     | **Absence** | Ethosuximide, valproate, lamotrigine |
-    | **Myoclonic (e.g., JME)** | **Levetiracetam, valproate** *(avoid carbamazepine/oxcarbazepine — worsen myoclonus/absence)* |
+    | **Myoclonic (e.g., JME)** | **Valproate, levetiracetam** *(avoid carbamazepine/oxcarbazepine/phenytoin — worsen myoclonus/absence)* |
     | **Childbearing potential** | **Lamotrigine or levetiracetam** — **avoid valproate** (neural-tube defects, low IQ) |
     | **Older adults** | **Lamotrigine or levetiracetam** (fewer interactions, better tolerated) |
     | **Comorbid depression/mood** | Lamotrigine (avoid levetiracetam's irritability); **renal** → lamotrigine; **hepatic** → levetiracetam/gabapentin |
 
-    - **Screen HLA-B\*15:02** before carbamazepine/oxcarbazepine in at-risk (Southeast Asian) ancestry
-      (SJS/TEN).
-    - **Refractory (failed 2 appropriate ASMs) = drug-resistant epilepsy** → refer to an
-      **epilepsy center** for surgical/VNS/RNS/DBS evaluation and video-EEG.
+    - **Screen HLA-B\*15:02** before carbamazepine/oxcarbazepine in at-risk (Southeast/East Asian)
+      ancestry (SJS/TEN); some guidelines also screen **HLA-A\*31:01** (European/Japanese ancestry —
+      DRESS/SJS).
+
+    !!! tip "Drug-resistant focal epilepsy — cenobamate is the standout newer ASM"
+        Among the newer adjuncts, **cenobamate** gives the **best chance of seizure freedom** (~32% at
+        12 months; out-performs brivaracetam, lacosamide, and perampanel on 50%-responder rate even
+        after many failed ASMs). The trade-offs: **titrate slowly (DRESS risk with fast titration)**
+        and a **higher overall adverse-effect rate.** Worth it for refractory focal epilepsy.
+
+    - **Refractory (failed 2 appropriate ASMs) = drug-resistant epilepsy** → refer to an **epilepsy
+      center.** The **2022 ILAE surgical-referral consensus** is emphatic: **offer a surgical
+      evaluation to *every* drug-resistant patient up to age 70**, regardless of epilepsy duration,
+      seizure type, localization, or comorbidity (including psychiatric disease or comorbid PNES) —
+      plus consider VNS/RNS/DBS and video-EEG.
 
 ## Classify it (ILAE 2017)
 
@@ -143,13 +171,28 @@ motor vs non-motor) → **epilepsy type** (focal / generalized / combined / unkn
 syndrome.** Getting the type right drives ASM choice (e.g., don't give a sodium-channel blocker in a
 generalized/myoclonic syndrome).
 
-## Counseling & driving
+## Counseling, rescue plan & driving
 
 - **Driving is restricted after a seizure** — the seizure-free interval is **state/country-specific
   (commonly ~3–12 months; 6 months is typical)**; some states have **mandatory physician reporting.**
   Document the counseling.
 - **Safety:** no swimming/bathing alone, heights, or operating dangerous machinery until controlled;
-  sleep, alcohol moderation, adherence; **SUDEP** counseling for uncontrolled epilepsy.
+  sleep, alcohol moderation, adherence.
+
+!!! orderset "Give a seizure action plan with a rescue medication (for cluster-prone patients)"
+    Prescribe an **outpatient rescue benzodiazepine** and a written action plan — standard of care for
+    epilepsy at risk of clusters/prolonged seizures. FDA-approved options:
+
+    - **Midazolam nasal spray (Nayzilam)** — age ≥12.
+    - **Diazepam nasal spray (Valtoco)** — age ≥6.
+    - **Rectal diazepam gel (Diastat)** — age ≥2.
+
+!!! warning "SUDEP — discuss it early, not just when uncontrolled"
+    Sudden unexpected death in epilepsy is **~1/1,000 adults with epilepsy per year, rising to ~6–9/
+    1,000 in drug-resistant epilepsy.** Per the ILAE SUDEP task force, **offer SUDEP communication to
+    *every* patient at diagnosis and revisit it periodically** (not only the uncontrolled). **Modifiable
+    risk factors:** **uncontrolled generalized tonic-clonic seizures** (the biggest), **nocturnal
+    seizures**, **medication non-adherence**, and **lack of nocturnal supervision** — target each.
 
 ## Disposition
 
@@ -197,13 +240,25 @@ unsafe home situation.
 - **First seizure:** immediate ASM cuts early recurrence but not long-term remission (**AAN/AES
   2015**) — treat when recurrence risk is high (lesion, epileptiform EEG, nocturnal), otherwise a
   shared decision.
-- **Match the ASM to the syndrome** (avoid sodium-channel blockers in generalized/myoclonic; avoid
-  valproate in childbearing potential) and to the person; **two failed ASMs = refer to an epilepsy
-  center.**
+- **Second-line is broadening** — **lacosamide** (non-inferior to fosphenytoin, TRENdS; kinder
+  hemodynamics) and brivaracetam are increasingly used alongside the ESETT triad.
+- **Refractory SE: target *seizure* suppression, not routine burst-suppression** (Fisch 2023); no
+  proven drug beyond anesthetics (**allopregnanolone RCT negative**; hypothermia adds nothing);
+  ketogenic diet in FIRES/NORSE.
+- **SANAD II reset the maintenance defaults** — **lamotrigine first-line for focal** epilepsy,
+  **valproate most effective for generalized** (levetiracetam is the rapid-titration alternative). For
+  **drug-resistant focal epilepsy, cenobamate** gives the best seizure-freedom odds (slow titration,
+  DRESS risk).
+- **Two failed ASMs = drug-resistant → refer for surgical evaluation** — the **2022 ILAE consensus**:
+  offer it to *every* such patient up to 70, regardless of type/duration/comorbidity.
+- **Give a rescue plan** (Nayzilam/Valtoco/Diastat) and **discuss SUDEP at diagnosis** (biggest
+  modifiable factor: uncontrolled GTC seizures).
 
-**Key sources:** AES 2016 status-epilepticus guideline (Glauser et al.); ESETT (Kapur et al., NEJM
-2019); RAMPART (Silbergleit et al., NEJM 2012); AAN/AES 2015 first-unprovoked-seizure guideline
-(Krumholz et al.); ILAE 2017 seizure/epilepsy classification.
+**Key sources:** AES 2016 status-epilepticus guideline (Glauser et al.); **Gettings et al., Lancet
+Neurol 2025 SE review**; ESETT (Kapur, NEJM 2019); TRENdS (lacosamide); RAMPART (Silbergleit, NEJM
+2012); Fisch et al. (burst-suppression, Neurology 2023); AAN/AES 2015 first-seizure guideline;
+**SANAD II** (Marson, Lancet 2021); cenobamate comparative-effectiveness (JAMA Neurol 2026); ILAE 2022
+surgical-referral consensus; ILAE SUDEP task force (Epilepsia 2026); ILAE 2017 classification.
 
 ## References
 
@@ -213,21 +268,32 @@ unsafe home situation.
    (ESETT).* NEJM. 2019](https://www.nejm.org/doi/full/10.1056/NEJMoa1905795).
 3. Silbergleit R, et al. *Intramuscular vs intravenous therapy for prehospital status epilepticus
    (RAMPART).* NEJM. 2012.
-4. Krumholz A, et al. [*Evidence-based guideline: Management of an unprovoked first seizure in adults
-   (AAN/AES).* Neurology. 2015](https://www.neurology.org/doi/10.1212/WNL.0000000000001487).
-5. Fisher RS, et al. *ILAE 2017 operational classification of seizure types / classification of the
-   epilepsies.*
-6. Source scutbook: *Seizure* (M. Holtkamp) — ER checklist, escalation, toxin antidotes, PNES
+4. Gettings JV, et al. [*Diagnosis and Management of Status Epilepticus.* Lancet Neurol. 2025](https://pubmed.ncbi.nlm.nih.gov/39637874/);
+   Husain AM, et al. *Lacosamide vs fosphenytoin for nonconvulsive seizures (TRENdS)* (Ann Neurol);
+   Fisch U, et al. *Burst suppression & outcomes in refractory SE* (Neurology 2023).
+5. Krumholz A, et al. [*Management of an unprovoked first seizure in adults (AAN/AES).* Neurology.
+   2015](https://www.neurology.org/doi/10.1212/WNL.0000000000001487); Fisher RS, et al. *ILAE 2017
+   classification.*
+6. **Maintenance ASMs:** Marson A, et al. *SANAD II* (focal & generalized, Lancet 2021); Smith PEM
+   *Initial management of seizure* (NEJM 2021); Kanner AM, Bicchi MM (JAMA 2022); Cerulli Irelli E,
+   et al. *Cenobamate vs brivaracetam/lacosamide/perampanel* (JAMA Neurol 2026).
+7. **Epilepsy care:** Jehi L, et al. *ILAE surgical-referral consensus* (Epilepsia 2022); Aschner A,
+   et al. *ILAE SUDEP-communication scoping review* (Epilepsia 2026); seizure-cluster rescue reviews
+   (Nayzilam/Valtoco/Diastat).
+8. Source scutbook: *Seizure* (M. Holtkamp) — ER checklist, escalation, toxin antidotes, PNES
    semiology, first-seizure work-up, ASM-by-population approach (modernized to AES 2016 / ESETT).
-7. **TRICARE / DoD:** core ASMs generic-formulary (no PA); newer agents PA-gated. Retention:
+9. **TRICARE / DoD:** core ASMs generic-formulary (no PA); newer agents PA-gated. Retention:
    **AR 40-501 para 3-31i**, **DoDI 6130.03 Vol 2 para 5.26.c** (accession Vol 1). *Verify at the
    TRICARE Formulary Search.*
 
-*Verified July 2026: the timed status-epilepticus algorithm (stabilize → full-dose benzodiazepine →
-second-line ASM → anesthetic infusion + cEEG) follows the AES 2016 guideline; **ESETT** establishes
-levetiracetam, fosphenytoin, and valproate as equivalent second-line agents; **RAMPART** supports IM
-midazolam; the first-seizure treatment nuance (immediate ASM reduces 2-year recurrence but not
-long-term remission; recurrence ~21–45%) follows the AAN/AES 2015 guideline; ILAE 2017 classification
-is current. **Retention citations (AR 40-501 3-31i seizure disorders; DoDI 6130.03 Vol 2 5.26.c) and
-state-specific driving/reporting rules should be confirmed against the current source before
-counseling.**
+*Verified July 2026: the timed status-epilepticus algorithm follows AES 2016 + the Lancet Neurology
+2025 review; **ESETT** establishes levetiracetam/fosphenytoin/valproate as equivalent second-line
+(lacosamide/brivaracetam emerging — TRENdS); refractory SE targets **seizure** (not routine burst-)
+suppression (Fisch 2023), with allopregnanolone negative and hypothermia unhelpful. The ILAE
+two-timepoint definition (GTC 5 min / focal-impaired-awareness 10 min), **SANAD II** maintenance
+defaults (lamotrigine focal / valproate generalized; levetiracetam for rapid titration), **cenobamate**
+for drug-resistant focal epilepsy, the **2022 ILAE surgical-referral** and **SUDEP-communication**
+consensus, rescue-medication options, and ILAE 2017 classification are current. **The specific
+figures were supplied by expert review with citations — confirm before quoting. Retention citations
+(AR 40-501 3-31i; DoDI 6130.03 Vol 2 5.26.c) and state-specific driving/reporting rules should be
+confirmed against the current source before counseling.**
