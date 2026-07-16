@@ -141,10 +141,12 @@ Each page's specifics get checked against current sources at build time.
 - [x] **Subarachnoid hemorrhage — BUILT** (2023 AHA/ASA: secure <24h, nimodipine, DCI).
 - [x] **Cerebral venous sinus thrombosis (CVST) — BUILT** (anticoagulate through hemorrhage;
       dabigatran RE-SPECT CVT; TO-ACT).
-- [x] **Tier-2 cerebrovascular — BUILT:** **TIA** (own page; tissue-based, ABCD², 21-day DAPT),
-      **cervical artery dissection** (CADISS/TREAT-CAD), **cerebral amyloid angiopathy** (Boston v2.0,
-      avoid-anticoagulation, ARIA link), **carotid disease** (symptomatic <2-wk revascularization,
-      CEA vs CAS vs TCAR, CREST-2 2025). **Stroke & cerebrovascular section now = 9 pages.**
+- [x] **Tier-2 cerebrovascular — BUILT + REVIEWED:** **TIA** (tissue-based, ABCD²-limits, INSPIRES
+      72-h DAPT), **cervical artery dissection** (2024 AHA risk-stratified antithrombotics, STOP-CAD,
+      FMD), **cerebral amyloid angiopathy** (Boston v2.0, 2026 NEJM risk-stratified anticoagulation,
+      Edinburgh, ARIA thresholds, CAA-ri regimen), **carotid disease** (CREST-2 2025, plaque
+      morphology/web/near-occlusion). **All 9 Stroke & cerebrovascular pages have had current-evidence
+      review passes.**
 - [ ] **Movement Disorder** — VMAT2 inhibitors for TD; newer PD adjuncts.
 - [ ] **Motor Neuron Disease** — edaravone; tofersen (SOD1); Relyvrio saga.
 - [ ] **Acute Myelopathy** — fold in AQP4/MOG + NMOSD/MOGAD.
