@@ -8,8 +8,9 @@ have interaction/comorbidity/pregnancy constraints** that pick the agent for you
 monotherapy first.
 
 !!! danger "🚩 Three prescribing traps"
-    - **Narrow (sodium-channel) drugs aggravate generalized/absence/myoclonic seizures** — use
-      **broad-spectrum** if the type is generalized or unknown.
+    - **These aggravate generalized/absence/myoclonic seizures — use broad-spectrum if the type is
+      generalized or unknown:** **carbamazepine, oxcarbazepine, eslicarbazepine, phenytoin,
+      gabapentin, and pregabalin** (and **tiagabine/vigabatrin** can worsen myoclonus).
     - **Enzyme *inducers* (carbamazepine, phenytoin, phenobarbital, primidone) fail oral
       contraceptives** and lower warfarin/DOAC/many drug levels; **valproate is an *inhibitor*** (it
       **doubles lamotrigine** — halve the lamotrigine dose and titrate even slower).
@@ -24,13 +25,21 @@ monotherapy first.
   eslicarbazepine, phenytoin, lacosamide, gabapentin, pregabalin**, tiagabine, vigabatrin.
 - **Absence-specific:** **ethosuximide.**
 
+!!! tip "First-line defaults (SANAD II)"
+    - **Focal epilepsy → lamotrigine** (beat levetiracetam on time-to-remission, tolerability, and
+      cost; per-protocol superior to levetiracetam *and* zonisamide). **Levetiracetam is the alternative
+      when you need rapid titration** (ED, unknown type) or lamotrigine is contraindicated; lacosamide
+      is another option.
+    - **Generalized epilepsy → valproate** (most effective) — but **not** in anyone who could become
+      pregnant → **lamotrigine or levetiracetam** (levetiracetam preferred over lamotrigine in **JME**).
+
 ## The working formulary
 
 | ASM | Spectrum | Mechanism | Typical adult maintenance | Watch for / monitoring | Enzyme effect |
 |---|---|---|---|---|---|
 | **Levetiracetam** | Broad | SV2A | 500–1500 mg BID | **Irritability/mood/psychosis**; renal dose | None (clean) |
-| **Brivaracetam** | Broad | SV2A (higher affinity) | 25–100 mg BID | Better tolerated than LEV; sedation | Minimal |
-| **Lamotrigine** | Broad | Na-channel + others | 100–200 mg BID (titrate **slowly**) | **Rash/SJS** (worse w/ fast titration or valproate); safe in pregnancy | None (UGT; valproate ↑ it, inducers ↓ it) |
+| **Brivaracetam** | Broad | SV2A (higher affinity) | 25–100 mg BID | Fewer behavioral AEs than LEV; **don't co-prescribe with LEV** (shared target); useful **switch from LEV ~10:1–15:1, no titration** | Minimal |
+| **Lamotrigine** | Broad | Na-channel + others | 100–200 mg BID (titrate **slowly**) | **Rash/SJS** (worse w/ fast titration or valproate); **may worsen myoclonus in JME (~4–8%)**; low-risk in pregnancy | None (UGT; valproate ↑ it, inducers ↓ it) |
 | **Valproate** | Broad | Multiple (GABA, etc.) | 500–1500 mg/day (÷) | **Teratogen**, hepatotoxicity, **hyperammonemia**, pancreatitis, tremor, weight, thrombocytopenia | **Inhibitor** (↑ lamotrigine) |
 | **Topiramate** | Broad | Multiple | 50–200 mg BID | **Word-finding/cognition**, paresthesias, **kidney stones, glaucoma**, weight loss, teratogen (cleft) | Weak inducer (high dose) |
 | **Zonisamide** | Broad | Na/Ca | 100–400 mg/day | Stones, oligohidrosis, cognition, weight loss; **sulfa** | Minimal |
@@ -40,10 +49,13 @@ monotherapy first.
 | **Eslicarbazepine** | Narrow | Na-channel | 800–1600 mg **daily** | Hyponatremia; once-daily, fewer interactions | Mild inducer |
 | **Phenytoin** | Narrow* | Na-channel | 300–400 mg/day (**level 10–20**) | **Zero-order kinetics**, gingival hyperplasia, ataxia/nystagmus, hirsutism, SJS, cerebellar atrophy | **Strong inducer** |
 | **Lacosamide** | Narrow | Na-channel (slow) | 100–200 mg BID | **PR prolongation** (ECG); well tolerated | Minimal |
-| **Gabapentin / pregabalin** | Narrow | α2δ Ca-channel | GBP 300–1200 mg TID; PGB 75–300 mg BID | Sedation, weight, edema; **misuse potential**; renal dose | None |
+| **Gabapentin** | Narrow | α2δ Ca-channel | 300–1200 mg TID | Sedation, weight, edema; renal dose | None |
+| **Pregabalin** | Narrow | α2δ Ca-channel | 75–300 mg BID | Sedation, weight, edema; **misuse potential (Schedule V)**; renal dose | None |
 | **Ethosuximide** | Absence only | T-type Ca | 500–1500 mg/day | GI upset, idiosyncratic; **absence only** | Minimal |
 | **Phenobarbital / primidone** | Broad | GABA-A | PB 60–180 mg/day (**level 20–40**) | Sedation, dependence, cognition | **Strong inducer** |
-| **Cenobamate** | Narrow (focal) | Na + GABA-A | Titrate to 200 (–400) mg **daily** | **DRESS if titrated fast — start 12.5 mg, go slow**; best seizure-freedom in refractory focal | Inhibits/induces (adjust others) |
+| **Cenobamate** | Narrow (focal; generalized trials ongoing) | Na + GABA-A | Titrate to 200 (–400) mg **daily** | **DRESS if titrated fast — start 12.5 mg, go slow**; **best seizure-freedom among newer focal ASMs** | Inhibits/induces (adjust others) |
+| **Fenfluramine** | (syndrome-specific) | 5-HT / sigma-1 | per weight | FDA-approved **Dravet + Lennox-Gastaut**; **requires echocardiography** (valvulopathy/pulmonary-HTN monitoring) | Minimal |
+| **Ganaxolone** | (syndrome-specific) | Neurosteroid GABA-A | per weight | FDA-approved for **CDKL5 deficiency disorder**; somnolence | Minimal |
 
 *Phenytoin is sometimes used for generalized convulsive seizures acutely, but is not broad-spectrum
 for absence/myoclonic.*
@@ -83,8 +95,11 @@ same drug IV?"** Only some ASMs have an IV form; those that do convert **1:1** (
 
 !!! orderset "Start · monitor · switch · stop"
     - **Start:** **monotherapy**, lowest effective dose, titrate to seizure control or side effects
-      before adding a second agent. Two failed appropriate ASMs = **drug-resistant → epilepsy-center
-      referral** (see the [seizure page](index.md)).
+      before adding a second agent.
+    - **Drug-resistant epilepsy = failure of 2 tolerated, appropriately-chosen, adequately-dosed ASMs**
+      (mono- or combination; **ILAE/Kwan 2010**) → **refer to an epilepsy center — early.** Median time
+      to surgery is still ~20 years despite better outcomes with earlier referral; don't sit on it (see
+      the [seizure page](index.md)).
     - **Check levels only when useful** — **narrow-therapeutic agents (phenytoin, carbamazepine,
       valproate, phenobarbital)**, suspected toxicity/non-adherence, pregnancy, or renal/hepatic
       change. **Levetiracetam/lacosamide/lamotrigine don't need routine levels.**
@@ -94,22 +109,43 @@ same drug IV?"** Only some ASMs have an IV form; those that do convert **1:1** (
       shared decision — taper slowly, and counsel on driving/recurrence.
 
 !!! warning "Idiosyncratic reactions to know on sight"
-    - **SJS/TEN/DRESS:** lamotrigine (rapid titration), carbamazepine/oxcarbazepine
-      (**HLA-B\*15:02**; also **HLA-A\*31:01** in European/Japanese ancestry), phenytoin, cenobamate
-      (fast titration) → **stop the drug, don't rechallenge.**
+    - **SJS/TEN/DRESS:** lamotrigine (rapid titration), phenytoin, cenobamate (fast titration), and the
+      **carbamazepine/oxcarbazepine/eslicarbazepine** class → **stop the drug, don't rechallenge.**
+        - **HLA screening (broadening):** classically **HLA-B\*15:02** in Southeast/East Asian ancestry
+          before carbamazepine/oxcarbazepine; newer guidance (2026 UK CERSI-PGx) recommends testing
+          **HLA-B\*15:02, HLA-B\*15:11, *and* HLA-A\*31:01 in *all* treatment-naïve patients** before
+          carbamazepine/oxcarbazepine/eslicarbazepine — **HLA-A\*31:01** covers the *full* spectrum
+          (SJS/TEN, DRESS, maculopapular) and is common across ethnicities (~5–9% Japanese, ~2–3%
+          European).
     - **Hepatotoxicity / hyperammonemic encephalopathy / pancreatitis:** valproate.
     - **Aplastic anemia / agranulocytosis:** carbamazepine (and felbamate).
     - **Hyponatremia:** carbamazepine, oxcarbazepine, eslicarbazepine.
     - **Irreversible visual-field loss:** vigabatrin (mandatory eye monitoring).
     - **Behavioral/psychiatric:** levetiracetam (irritability), perampanel (black box).
 
-!!! tip "Pregnancy & people who can become pregnant"
-    - **Avoid valproate** (neural-tube defects, ~30% major-malformation/low-IQ risk) and be wary of
-      **topiramate** (cleft, low birth weight). **Lamotrigine and levetiracetam are preferred.**
-    - **Folic acid** for anyone of childbearing potential on an ASM.
-    - **Lamotrigine levels fall in pregnancy** — often need to *increase* the dose, then **taper back
-      promptly postpartum** (toxicity risk).
+!!! tip "Pregnancy & people who can become pregnant (2024 AAN/AES/SMFM guideline)"
+    - **Level A — avoid valproate** (major congenital malformations, autism, lower IQ) where clinically
+      feasible; **Level A — use lamotrigine, levetiracetam, or oxcarbazepine** as lower-risk options
+      (oxcarbazepine is now explicitly included). **Level B — avoid topiramate** (cleft, small-for-
+      gestational-age) and valproate (SGA).
+    - **Don't destabilize a controlled pregnancy** — **Level B: once pregnant, be cautious about
+      removing/replacing an effective ASM (even valproate)** if it's controlling GTC seizures; a
+      convulsive seizure can be worse than the drug. Optimize *before* pregnancy.
+    - **Many newer ASMs (lacosamide, eslicarbazepine, perampanel, cenobamate) have limited pregnancy
+      data** — counsel accordingly.
+    - **Folic acid ≥0.4 mg/day** for anyone of childbearing potential on an ASM.
+    - **Lamotrigine clearance rises up to ~2–2.7× by the third trimester** — increase the dose with
+      levels, then **taper back within ~2–3 weeks postpartum** to avoid toxicity. (Levetiracetam and
+      oxcarbazepine also fall in pregnancy.)
     - **Enzyme-inducers reduce contraceptive efficacy** — counsel on reliable contraception.
+    - **Valproate in anyone who could become pregnant requires a formal pregnancy-prevention
+      programme / documented counseling** (EMA/FDA).
+
+!!! note "On the horizon"
+    **Azetukalner (XEN1101)** — a **Kv7.2/7.3 potassium-channel opener** (novel mechanism) — cut focal
+    seizures dose-dependently in a phase-2b RCT (~53% vs ~18% placebo) with **no titration needed**
+    (~10-day half-life); **phase-3 trials** (focal and generalized) are ongoing. The most advanced
+    pipeline agent.
 
 ## Emergency IV loading
 
@@ -142,33 +178,51 @@ For **status epilepticus** loading doses (levetiracetam 60 mg/kg, fosphenytoin 2
   **Levetiracetam, lacosamide, gabapentin, pregabalin, brivaracetam** are interaction-light.
 - **Monotherapy, lowest effective dose, cross-taper to switch, don't stop abruptly.** Check levels
   only for narrow-therapeutic drugs or a clinical question.
-- **Pregnancy:** lamotrigine/levetiracetam preferred; avoid valproate; folate; lamotrigine dose rises
-  in pregnancy and must fall postpartum.
-- **Refractory focal epilepsy:** **cenobamate** offers the best seizure-freedom among newer adjuncts
-  (slow titration for DRESS).
+- **Pregnancy (2024 AAN/AES/SMFM):** **lamotrigine, levetiracetam, or oxcarbazepine** preferred; **avoid
+  valproate and topiramate**; folic acid ≥0.4 mg; lamotrigine clearance rises up to ~2.7× and must be
+  tapered back postpartum; **don't destabilize a controlled pregnancy** to switch off valproate.
+- **Refractory focal epilepsy:** **cenobamate** gives the **best seizure-freedom among newer adjuncts**
+  (~32% at 12 mo vs 11–17% for brivaracetam/lacosamide/perampanel; slow titration for DRESS).
+- **Brivaracetam:** don't co-prescribe with levetiracetam; use it as a **switch from levetiracetam**
+  (~10:1) when behavioral side effects are the problem.
+- **Screen HLA broadly** (B\*15:02 / B\*15:11 / A\*31:01) before the carbamazepine class. **Azetukalner**
+  (Kv7 opener) is the notable pipeline agent.
 - **Know which ASMs go IV (1:1) for the NPO/transfer patient:** **levetiracetam, valproate, lacosamide,
   brivaracetam, phenobarbital, phenytoin (as fosphenytoin).** The rest are **PO-only** — bridge with an
   IV agent rather than skip doses.
 
-**Key sources:** author SCUTBOOK ASM formulary (modernized); SANAD II (maintenance choices); AAN/AES
-first-seizure guidance; ILAE syndrome papers; ASM prescribing/pregnancy reviews (NEJM 2021, JAMA 2022).
+**Key sources:** SANAD II (Marson, Lancet 2021 — lamotrigine focal / valproate generalized); Smith
+(NEJM 2021) & Kanner/Bicchi (JAMA 2022) ASM reviews; **AAN/AES/SMFM pregnancy guideline (Pack et al.,
+Neurology 2024)**; cenobamate comparative-effectiveness (JAMA Neurol 2026); UK CERSI-PGx HLA guideline
+(2026); Kwan et al. drug-resistant definition (2010); XEN1101/azetukalner phase-2b (JAMA Neurol 2023).
 
 ## References
 
-1. Smith PEM. [*Initial Management of Seizure in Adults.* NEJM. 2021](https://www.nejm.org/doi/full/10.1056/NEJMcp2024526);
-   Kanner AM, Bicchi MM. [*Antiseizure Medications for Adults With Epilepsy: A Review.* JAMA. 2022](https://jamanetwork.com/journals/jama/fullarticle/2790484).
-2. Marson A, et al. *SANAD II* (lamotrigine focal; valproate generalized). Lancet 2021.
-3. Cerulli Irelli E, et al. *Comparative effectiveness of cenobamate/brivaracetam/lacosamide/
-   perampanel in focal epilepsy* (JAMA Neurol 2026).
-4. Source scutbook: *Seizure* (M. Holtkamp) — per-drug MOA/metabolism/adverse/spectrum formulary.
-5. **TRICARE / DoD:** core ASMs generic-formulary (no PA); newer agents PA-gated. Retention:
+1. Marson A, et al. *SANAD II* (lamotrigine focal; valproate generalized). Lancet 2021; Smith PEM.
+   [*Initial Management of Seizure in Adults.* NEJM. 2021](https://www.nejm.org/doi/full/10.1056/NEJMcp2024526);
+   Kanner AM, Bicchi MM. [*Antiseizure Medications for Adults With Epilepsy.* JAMA. 2022](https://jamanetwork.com/journals/jama/fullarticle/2790484).
+2. Pack AM, et al. *Teratogenesis/neurodevelopmental outcomes after in-utero ASM exposure — AAN/AES/
+   SMFM practice guideline.* Neurology 2024 (avoid valproate/topiramate; use lamotrigine/levetiracetam/
+   oxcarbazepine; folic acid ≥0.4 mg; don't switch mid-pregnancy if GTC-controlled).
+3. Cerulli Irelli E, et al. *Cenobamate vs brivaracetam/lacosamide/perampanel* (JAMA Neurol 2026);
+   Bresnahan R, et al. *Brivaracetam — do not combine with levetiracetam* (Cochrane 2022).
+4. **HLA / pipeline:** UK CERSI-PGx *HLA testing for carbamazepine/oxcarbazepine/eslicarbazepine*
+   (2026, all ancestries; B\*15:02/B\*15:11/A\*31:01); Kwan P, et al. *ILAE drug-resistant definition*
+   (2010); French JA, et al. *Azetukalner (XEN1101) phase-2b* (JAMA Neurol 2023).
+5. Source scutbook: *Seizure* (M. Holtkamp) — per-drug MOA/metabolism/adverse/spectrum formulary.
+6. **TRICARE / DoD:** core ASMs generic-formulary (no PA); newer agents PA-gated. Retention:
    **AR 40-501 3-31i**, **DoDI 6130.03 Vol 2 5.26.c**. *Verify at the TRICARE Formulary Search.*
 
-*Verified July 2026: spectrum classification, enzyme-interaction profiles (inducers vs valproate
-inhibition), narrow-therapeutic-index monitoring, idiosyncratic-reaction and HLA-screening points, the
-pregnancy hierarchy (lamotrigine/levetiracetam preferred, avoid valproate/topiramate), and the
-newer-agent landscape (cenobamate for refractory focal) reflect current references. **Route/IV
-availability and 1:1 PO↔IV conversion** (levetiracetam, valproate, lacosamide, brivaracetam,
-phenobarbital, fosphenytoin) are as labeled — confirm the specific product/formulation locally. Doses
-are typical adult maintenance ranges — confirm against a current drug reference and adjust for renal/
-hepatic function. Retention citations should be confirmed against AR 40-501 / DoDI 6130.03 before counseling.*
+*Verified July 2026: spectrum classification and the aggravation list (CBZ/OXC/ESL/PHT/gabapentinoids),
+enzyme-interaction profiles, narrow-therapeutic-index monitoring, the **SANAD II** first-line defaults
+(lamotrigine focal / valproate generalized; levetiracetam for rapid titration), the **2024 AAN/AES/SMFM
+pregnancy** recommendations (avoid valproate/topiramate; lamotrigine/levetiracetam/oxcarbazepine
+preferred; folic acid ≥0.4 mg; don't destabilize a controlled pregnancy; lamotrigine clearance rises
+~2–2.7×), the **broadened HLA screening** (B\*15:02/B\*15:11/A\*31:01), **cenobamate** as the top newer
+focal agent, the **brivaracetam-vs-levetiracetam** interaction/switch point, fenfluramine/ganaxolone
+indications, and the drug-resistance definition (Kwan 2010) reflect current references; azetukalner is
+investigational. **Route/IV availability and 1:1 PO↔IV conversion** (levetiracetam, valproate,
+lacosamide, brivaracetam, phenobarbital, fosphenytoin) are as labeled. **The specific comparative
+figures were supplied by expert review with citations — confirm before quoting.** Doses are typical
+adult maintenance ranges — confirm against a current drug reference and adjust for renal/hepatic
+function; retention citations should be confirmed against AR 40-501 / DoDI 6130.03 before counseling.*
