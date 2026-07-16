@@ -116,6 +116,9 @@ Each page's specifics get checked against current sources at build time.
       primary-prevention guideline + 2021 secondary-prevention guideline). *Still to do: TIA as its
       own page? ICH page (separate roadmap item); confirm AR 40-501 stroke retention paragraph +
       TRICARE preferred DOAC; independently re-verify RAISE/ATLAS figures on the acute page.*
+      **All 5 stroke pages have since had current-evidence expert-review rounds** (TNK label,
+      extended-window/CATALYST/large-core; SAH EARLYDRAIN/grading-scales; ICH andexanet-withdrawal;
+      CVST DOAC-CVT/VITT/long-term). Retention citations pinned to DoDI 6130.03 Vol 2 para 5.26.b.
 - [ ] **Major Stroke Trials Cliffs (2018-19)** — append 2020–2025 trials.
 - [ ] **Demyelinating / MS** — 2017/2024 McDonald; new DMT era; NMOSD split off
       (eculizumab/satralizumab/inebilizumab); MOGAD as distinct disease.
@@ -126,11 +129,13 @@ Each page's specifics get checked against current sources at build time.
 - [ ] **Seizure** — status epilepticus rewritten by ESETT; new ASMs; ILAE 2017.
 
 ### Drug/protocol update (skeleton holds, add what's new)
-- [x] **Headache** *(PILOT — vertical complete + source-verified)* — triage hub + 6 pages
-      (migraine, cluster/TACs, trigeminal neuralgia, MOH, NDPH, post-traumatic), rebuilt in
-      the tiered prescriptive style with a TRICARE layer; drug details source-verified against
-      current AHS/EAN guidelines + ICHD-3 (2026). Remaining: overview/triage hub (index.md)
-      still in the older format — reformat into a tap-to-topic decision grid if desired.
+- [x] **Headache** *(PILOT — vertical complete + TWO expert-review passes)* — triage hub + 6 pages
+      (migraine, cluster/TACs, trigeminal neuralgia, MOH, NDPH, post-traumatic), tiered prescriptive
+      style + TRICARE layer, source-verified to current AHS/EAN/ICHD-3 (2026). **All 7 pages have had
+      current-evidence expert-review rounds** (e.g. cluster suicidality/chronic-cluster-CGRP; TN
+      suicide risk/eslicarbazepine; MOH MOTS/erenumab/RESOLUTION; NDPH treat-early/Botox/ASRA;
+      PTH AAPM&R/Botox-RCT/veteran-CBT/aerobic-Rx; overview full SNNOOP10/ID-Migraine/RCVS/IIH-vs-SIH).
+      Hub is now fully expanded (not the old format).
 - [x] **Intracranial Hemorrhage — BUILT** (andexanet/idarucizumab reversal, INTERACT3 bundle,
       ENRICH minimally-invasive surgery, 2022 AHA/ASA). Part of the Tier-1 cerebrovascular trio.
 - [x] **Subarachnoid hemorrhage — BUILT** (2023 AHA/ASA: secure <24h, nimodipine, DCI).
