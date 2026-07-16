@@ -246,12 +246,11 @@ essentials to start in-hospital:
 
 ## TIA — a treated emergency, not "a pass"
 
-- **ABCD² score** stratifies early stroke risk; a TIA carries a substantial **90-day stroke risk**,
-  front-loaded to the **first 48 h.**
-- **Expedited work-up same day:** vessel imaging (CTA/MRA neck+head), MRI (up to half of "TIAs" show
-  infarct), ECG/telemetry, echo.
-- **Start secondary prevention immediately** — **21-day DAPT for high-risk TIA (ABCD² ≥4)**, statin,
-  and mechanism-directed therapy. Don't send a real TIA home without a plan.
+A TIA is a transient deficit **without infarction** but with a high, front-loaded early stroke risk —
+**same-day work-up and immediately-started prevention.** Full detail (ABCD², the work-up order set,
+21-day DAPT, mechanism-directed therapy) is on the **[dedicated TIA page](tia.md).** In brief:
+**ABCD²-stratify → MRI + vessel imaging + rhythm monitoring today → start antiplatelet/DAPT + statin
+now → treat the mechanism.** Don't send a real TIA home without a plan.
 
 ## Supportive care & admission
 
