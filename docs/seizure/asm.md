@@ -48,6 +48,37 @@ monotherapy first.
 *Phenytoin is sometimes used for generalized convulsive seizures acutely, but is not broad-spectrum
 for absence/myoclonic.*
 
+## Routes of administration & PO ↔ IV conversion
+
+The bedside question is usually: **"my patient just went NPO / is being transferred — can I keep the
+same drug IV?"** Only some ASMs have an IV form; those that do convert **1:1** (same total daily dose).
+
+| ASM | Routes available | PO ↔ IV conversion |
+|---|---|---|
+| **Levetiracetam** | PO (tab/soln/XR), **IV** | **1:1** (same total daily dose), infuse over 15 min |
+| **Brivaracetam** | PO, **IV** | **1:1**; IV push or short infusion |
+| **Valproate / divalproex** | PO (tab/XR/soln), **IV** | **1:1**; can give as intermittent infusions |
+| **Phenytoin** | PO (cap/susp), **IV** | **1:1**; **use *fosphenytoin* IV** (dosed in **mg PE** = phenytoin-equivalents; safer than IV phenytoin) |
+| **Lacosamide** | PO, **IV** | **1:1**; infuse ~15–30 min (watch PR interval) |
+| **Phenobarbital** | PO, **IV** (also IM) | **1:1** |
+| **Lamotrigine** | **PO only** | *(no IV — plan a bridge if NPO)* |
+| **Carbamazepine / oxcarbazepine / eslicarbazepine** | **PO only** (susp available for CBZ/OXC) | *(no IV)* |
+| **Topiramate / zonisamide / perampanel** | **PO only** | *(no IV)* — perampanel/zonisamide once-daily helps |
+| **Gabapentin / pregabalin** | **PO only** | *(no IV)* |
+| **Ethosuximide** | **PO only** | *(no IV)* |
+| **Cenobamate / primidone** | **PO only** | *(no IV)* |
+
+!!! tip "Practical NPO rules"
+    - **Seamless IV switch (1:1):** **levetiracetam, valproate, lacosamide, brivaracetam, phenobarbital,
+      and phenytoin (as fosphenytoin).** Keep the same total daily dose.
+    - **No IV option:** **lamotrigine, carbamazepine, oxcarbazepine, eslicarbazepine, topiramate,
+      zonisamide, gabapentin/pregabalin, ethosuximide, perampanel, cenobamate, primidone** — for a
+      truly NPO patient, use the **suspension via NG/OG tube** where one exists, or **temporarily bridge
+      with an IV-available broad-spectrum agent** (usually levetiracetam or valproate) until the home
+      drug can be resumed. **Never just skip doses** of a chronic ASM — withdrawal seizures/status.
+    - **Enteral tube:** most tablets/capsules can't be crushed if XR — switch to **immediate-release
+      or a suspension**; separate **phenytoin suspension from tube feeds** (binding lowers absorption).
+
 ## Practical prescribing
 
 !!! orderset "Start · monitor · switch · stop"
@@ -115,6 +146,9 @@ For **status epilepticus** loading doses (levetiracetam 60 mg/kg, fosphenytoin 2
   in pregnancy and must fall postpartum.
 - **Refractory focal epilepsy:** **cenobamate** offers the best seizure-freedom among newer adjuncts
   (slow titration for DRESS).
+- **Know which ASMs go IV (1:1) for the NPO/transfer patient:** **levetiracetam, valproate, lacosamide,
+  brivaracetam, phenobarbital, phenytoin (as fosphenytoin).** The rest are **PO-only** — bridge with an
+  IV agent rather than skip doses.
 
 **Key sources:** author SCUTBOOK ASM formulary (modernized); SANAD II (maintenance choices); AAN/AES
 first-seizure guidance; ILAE syndrome papers; ASM prescribing/pregnancy reviews (NEJM 2021, JAMA 2022).
@@ -133,6 +167,8 @@ first-seizure guidance; ILAE syndrome papers; ASM prescribing/pregnancy reviews 
 *Verified July 2026: spectrum classification, enzyme-interaction profiles (inducers vs valproate
 inhibition), narrow-therapeutic-index monitoring, idiosyncratic-reaction and HLA-screening points, the
 pregnancy hierarchy (lamotrigine/levetiracetam preferred, avoid valproate/topiramate), and the
-newer-agent landscape (cenobamate for refractory focal) reflect current references. Doses are typical
-adult maintenance ranges — confirm against a current drug reference and adjust for renal/hepatic
-function. Retention citations should be confirmed against AR 40-501 / DoDI 6130.03 before counseling.*
+newer-agent landscape (cenobamate for refractory focal) reflect current references. **Route/IV
+availability and 1:1 PO↔IV conversion** (levetiracetam, valproate, lacosamide, brivaracetam,
+phenobarbital, fosphenytoin) are as labeled — confirm the specific product/formulation locally. Doses
+are typical adult maintenance ranges — confirm against a current drug reference and adjust for renal/
+hepatic function. Retention citations should be confirmed against AR 40-501 / DoDI 6130.03 before counseling.*
