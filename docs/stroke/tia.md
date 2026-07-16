@@ -35,8 +35,14 @@ a "come back to clinic next week."
 
 *2-day stroke risk rises with score (~1% at 0–3, ~4% at 4–5, ~8% at 6–7). **ABCD²-I** adds carotid
 stenosis ≥50% and a positive DWI (2 points each) — a positive DWI or a high score means **higher
-risk → admit / urgent work-up.** But **don't use a low score to send a crescendo/recurrent TIA or a
-carotid/AF source home** — those are high-risk regardless.*
+risk → admit / urgent work-up.***
+
+!!! warning "Don't let ABCD² alone gatekeep — it's a weak discriminator"
+    ABCD² performs **sub-optimally** in validation (low sensitivity for "low-risk," low specificity for
+    "high-risk") because it ignores **vascular mechanism and imaging.** **Never use a low score to send
+    home a crescendo/recurrent TIA, a carotid/AF source, or a positive DWI** — those are high-risk
+    regardless. Treat the **mechanism and the imaging**, not the number; newer tools (Canadian TIA
+    Score) and, above all, **vessel + brain imaging** should drive disposition.
 
 ## The prescriptive flow (what I want done, in order)
 
@@ -65,8 +71,13 @@ carotid/AF source home** — those are high-risk regardless.*
     - **High-risk TIA (ABCD² ≥4) or minor stroke: 21-day DAPT.** **Aspirin + clopidogrel** (clopidogrel
       300–600 mg load → 75 mg/day; ASA 81 mg) for **21 days**, then **single agent** — benefit is
       concentrated in the first 21 days (**CHANCE/POINT**); longer DAPT only adds bleeding.
+        - **The window is wider than you think — up to 72 h.** **INSPIRES** (NEJM 2023) showed
+          clopidogrel+aspirin started **within 72 h** of a minor stroke/high-risk TIA still cut 90-day
+          stroke (7.3% vs 9.2%) — at the cost of more (still low) bleeding (0.9% vs 0.4%). So a patient
+          presenting 1–3 days out **can still benefit.**
         - **Ticagrelor + aspirin** (THALES) is an alternative — and **preferred in CYP2C19
-          loss-of-function** carriers (**CHANCE-2**), if genotyping is available.
+          loss-of-function** carriers (**CHANCE-2**, where the benefit was clearest in lower-risk
+          patients), if genotyping is available.
     - **Lower-risk TIA:** **single antiplatelet** (aspirin, clopidogrel, or ASA-dipyridamole).
     - **High-intensity statin — atorvastatin 80 mg**, target **LDL <70**.
     - **Blood pressure** control toward **<130/80** once stable.
@@ -114,8 +125,11 @@ carotid/AF source home** — those are high-risk regardless.*
   it a stroke. **~Half of clinical TIAs are actually infarcts on MRI.**
 - **The danger is immediate** — highest stroke risk in the first 48 h, so **same-day imaging + started
   prevention**; rapid TIA pathways cut recurrent stroke **~80%.**
-- **21-day DAPT** for high-risk TIA/minor stroke (CHANCE/POINT; ticagrelor+ASA / CHANCE-2 for CYP2C19
-  LOF), then single agent; **high-intensity statin to LDL <70**; **BP <130/80.**
+- **21-day DAPT** for high-risk TIA/minor stroke (CHANCE/POINT), then single agent — **and the window
+  extends to 72 h** (INSPIRES), so a patient seen days out still benefits; ticagrelor+ASA / CHANCE-2
+  for CYP2C19 LOF. Add **high-intensity statin to LDL <70**; **BP <130/80.**
+- **Don't over-trust ABCD²** — it's a weak discriminator; let **vessel + brain imaging and the
+  mechanism** drive disposition, not the score.
 - **Treat the mechanism** — early DOAC for AF, carotid revascularization within 2 weeks for
   symptomatic stenosis, monitoring for ESUS. Full detail on the **[prevention page](prevention.md).**
 
@@ -128,15 +142,19 @@ secondary-prevention guideline.
 1. Easton JD, et al. *Definition and evaluation of TIA — AHA/ASA scientific statement* (tissue-based
    definition); AHA/ASA *TIA in the ED* scientific statement (ABCD², expedited work-up).
 2. Johnston SC, et al. *ABCD² score*; ABCD²-I / ABCD3-I refinements.
-3. Wang Y, et al. *CHANCE*; Johnston SC, et al. *POINT*; *THALES*; *CHANCE-2* (CYP2C19) — 21-day DAPT.
+3. Wang Y, et al. *CHANCE*; Johnston SC, et al. *POINT*; *THALES*; *CHANCE-2* (CYP2C19); Gao Y, et al.
+   [*Dual antiplatelet up to 72 h after ischemic stroke (INSPIRES).* NEJM. 2023](https://www.nejm.org/doi/full/10.1056/NEJMoa2309137)
+   — 21-day DAPT, extended to a 72-h start window.
 4. Kleindorfer DO, et al. *2021 AHA/ASA guideline for secondary prevention of stroke/TIA.*
 5. **TRICARE / DoD:** antiplatelets/statins generic-formulary; preferred DOAC per Uniform Formulary
    (verify). Retention: **DoDI 6130.03 Vol 2 para 5.26.b(6)** (recurrent TIA), Army **AR 40-501 3-31f.**
 
 *Verified July 2026: the tissue-based TIA definition, ABCD²/ABCD²-I risk stratification, same-day
 work-up (MRI/vessel imaging/rhythm monitoring), immediate 21-day DAPT for high-risk TIA (CHANCE/POINT;
-CHANCE-2 for CYP2C19 LOF), high-intensity statin to LDL <70, and mechanism-directed prevention (early
-DOAC, carotid revascularization within 2 weeks) reflect current AHA/ASA guidance. **Retention citation
+**INSPIRES extends the start window to 72 h**; CHANCE-2 for CYP2C19 LOF), high-intensity statin to LDL
+<70, and mechanism-directed prevention (early DOAC, carotid revascularization within 2 weeks) reflect
+current AHA/ASA guidance. **ABCD² is a weak discriminator — imaging/mechanism should drive
+disposition** (Canadian TIA Score an alternative). **Retention citation
 confirmed against the source: DoDI 6130.03 Vol 2 para 5.26.b(6) — recurrent TIA unless etiology
 identified and definitively treated — Army AR 40-501 3-31f. TRICARE preferred DOAC not pinned — verify
 before counseling.**

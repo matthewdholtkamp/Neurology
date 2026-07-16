@@ -16,9 +16,23 @@ asymptomatic disease is increasingly a **best-medical-therapy** call.
 ## Grade the stenosis
 
 - **Screen/measure with carotid duplex ultrasound**, **confirm with CTA or MRA** (NASCET method:
-  narrowest lumen vs. the normal distal ICA). Note **near-occlusion** and plaque features.
+  narrowest lumen vs. the normal distal ICA).
 - **Symptomatic categories:** **70–99%** (clear benefit), **50–69%** (benefit in selected patients),
   **<50%** (medical therapy only). **Asymptomatic:** typically discussed at **≥70%.**
+
+!!! info "Look beyond the stenosis number — plaque morphology and two easy-to-miss lesions"
+    Stroke risk depends on **stenosis severity *and* plaque morphology** (ESVS/SVS 2022–23).
+
+    - **Vulnerable-plaque features** — **intraplaque hemorrhage (IPH)**, ulceration, a lipid-rich
+      necrotic core on **MRI vessel-wall imaging** — independently raise recurrent-stroke risk (PARISK).
+      **A *symptomatic* low-grade (<50%) plaque with IPH/ulceration can be the culprit** even though it
+      doesn't meet a revascularization threshold — an evolving area; treat medically and consider
+      vessel-wall imaging in "cryptogenic" ipsilateral events.
+    - **Carotid web** — a shelf-like intimal projection at the carotid bulb; a cause of **recurrent
+      stroke in the young** (notably younger women) that's **easily missed** on routine studies —
+      look for it on CTA in an otherwise-cryptogenic anterior-circulation stroke; antithrombotic ±
+      revascularization.
+    - **Near-occlusion** — revascularization benefit is **uncertain/reduced**; often managed medically.
 
 ## The prescriptive flow (what I want done, in order)
 
@@ -104,6 +118,9 @@ shared-decision revascularization discussion. All → the full
 - **Asymptomatic disease is shifting** — intensive medical therapy is highly competitive; **CREST-2**
   (2025) suggests stenting + IMM lowers stroke vs IMM alone with no added CEA benefit (interpret
   cautiously, very recent).
+- **Beyond the % — morphology matters:** **intraplaque hemorrhage/ulceration** (MRI vessel-wall
+  imaging) raises risk and can make a **symptomatic <50% plaque** the culprit; don't miss a **carotid
+  web** in young cryptogenic stroke; **near-occlusion** gains little from revascularization.
 
 **Key sources:** NASCET/ECST (symptomatic CEA); CREST (CEA vs CAS); CREST-2 (asymptomatic, 2025);
 ESVS 2023 and SVS carotid guidelines; TCAR registry data.
@@ -113,8 +130,10 @@ ESVS 2023 and SVS carotid guidelines; TCAR registry data.
 1. NASCET and ECST — CEA for symptomatic carotid stenosis (70–99%, and selected 50–69%).
 2. Brott TG, et al. *CREST* (CEA vs CAS); CREST-2 program (asymptomatic ≥70%, reported 2025 —
    stenting + intensive medical management vs IMM).
-3. **ESVS 2023** and **SVS** clinical practice guidelines on extracranial carotid disease; TCAR
-   registry (Vascular Quality Initiative).
+3. **ESVS 2023** and **SVS** clinical practice guidelines on extracranial carotid disease (stroke risk
+   = stenosis severity + plaque morphology); **PARISK** study (intraplaque hemorrhage → recurrent
+   ipsilateral events); carotid-web and near-occlusion literature; TCAR registry (Vascular Quality
+   Initiative).
 4. Kleindorfer DO, et al. *2021 AHA/ASA secondary-prevention guideline* (carotid + medical therapy).
 5. **TRICARE / DoD:** statins/antiplatelets generic-formulary. Retention: **DoDI 6130.03 Vol 2 para
    5.26.b** (stenosis b(2), stroke b(3), TIA b(6)), Army **AR 40-501 3-31f.**
@@ -125,4 +144,7 @@ LDL <70, antiplatelet, BP <130/80) applies to all; CEA generally has lower peri-
 transfemoral CAS (TCAR superior to transfemoral CAS in registries). **The CREST-2 2025 readout
 (stenting + IMM > IMM alone; no added CEA benefit in asymptomatic ≥70%) is very recent — confirm
 against the formal guideline update before acting on it.** Retention framing per DoDI 6130.03 Vol 2
-para 5.26.b, Army AR 40-501 3-31f — verify before counseling.*
+para 5.26.b, Army AR 40-501 3-31f — verify before counseling. Plaque-morphology risk (intraplaque
+hemorrhage/ulceration on vessel-wall MRI), carotid web (young cryptogenic stroke), and near-occlusion
+(limited revascularization benefit) are added from current literature — an evolving area beyond the
+stenosis-percentage thresholds.*
