@@ -6,9 +6,9 @@ with a standardized military-medicine layer (deployability, profiles, EPTS/LOD,
 retention, MEB/IDES). Hosted free on GitHub Pages.
 
 > **Status: LIVE** at https://matthewdholtkamp.github.io/Neurology/ (public repo
-> github.com/matthewdholtkamp/Neurology). 21 pages across Headache (7 incl. hub), Stroke &
-> cerebrovascular (9), Seizure & status epilepticus (1), Dizziness, Diplopia + military primer.
-> Auto-deploys on push to main via strict-build CI.
+> github.com/matthewdholtkamp/Neurology). 23 pages across Headache (7 incl. hub), Stroke &
+> cerebrovascular (9), Seizure & epilepsy (3: status epilepticus, syndromes, ASMs), Dizziness,
+> Diplopia + military primer. Auto-deploys on push to main via strict-build CI.
 > This file is the living build checklist.
 > Last updated: 2026-07-12
 >
@@ -126,9 +126,9 @@ Each page's specifics get checked against current sources at build time.
       FcRn inhibitors (efgartigimod, rozanolixizumab); MGTX thymectomy.
 - [ ] **Dementia** — anti-amyloid mAbs (lecanemab, donanemab) + ARIA; plasma/CSF
       biomarkers (p-tau217); RT-QuIC replaces 14-3-3 for CJD.
-- [x] **Seizure — BUILT** (tiered prescriptive; AES 2016 timed ladder, ESETT-equivalent second-line,
-      RAMPART, AAN 2015 first-seizure, ILAE 2017, ASM-by-population, PNES; from the author's SCUTBOOK
-      doc). New "Seizure & epilepsy" nav section.
+- [x] **Seizure & epilepsy — BUILT (3 pages):** status epilepticus (AES 2016 ladder, ESETT, RAMPART,
+      first-seizure, SANAD II, cenobamate, SUDEP), **epilepsy syndromes** (ILAE 2022 IGEs/MTLE/DEEs),
+      and **antiseizure medications** (spectrum + interaction formulary). From the author's SCUTBOOK doc.
 
 ### Drug/protocol update (skeleton holds, add what's new)
 - [x] **Headache** *(PILOT — vertical complete + TWO expert-review passes)* — triage hub + 6 pages
