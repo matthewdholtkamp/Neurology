@@ -6,7 +6,7 @@
 military**, and mostly a **mild TBI (concussion)** problem. The acute event is usually the easy part;
 the value is in **managing the long tail of comorbidities** — headache, sleep, mood/PTSD, cognition,
 dizziness, vision, and the ones people forget (**neuroendocrine, autonomic, suicide risk**). Treat
-them by **domain** (the tabs below), and the patient gets better.
+them by **domain** (each has its own page in the sidebar under TBI), and the patient gets better.
 
 !!! danger "🚩 Acute TBI — exclude a structural emergency first"
     - **Image (non-contrast CT) for red flags:** worsening/severe headache, vomiting, ↓ or fluctuating
@@ -81,9 +81,9 @@ The work-up is completely different by **phase**. Sort the patient into one of t
 
 !!! orderset "Structured multi-domain review (persistent post-concussive / chronic / repeated TBI)"
     1. **Re-confirm the diagnosis and rule out a new/secondary process** if the pattern changed.
-    2. **Systematically screen and treat *every* comorbidity domain** — run the tabs below (headache,
-       sleep, mood/PTSD, cognition, vestibular, vision, neuroendocrine, autonomic, seizures, pain/
-       substance). *This is where persistent TBI is won or lost.*
+    2. **Systematically screen and treat *every* comorbidity domain** — work the domain pages below
+       (headache, sleep, mood/PTSD, cognition, vestibular, vision, neuroendocrine, autonomic, seizures,
+       pain/substance). *This is where persistent TBI is won or lost.*
     3. **Don't miss the quiet ones:** **neuroendocrine (hypopituitarism)**, **OSA**, and **suicide
        risk** — screen deliberately.
     4. **Refer to a multidisciplinary TBI clinic** (neuro + rehab + behavioral health + sleep +
@@ -96,92 +96,19 @@ The work-up is completely different by **phase**. Sort the patient into one of t
 
 Persistent post-TBI symptoms are **multidomain and overlapping** — treat each explicitly (this is the
 engine of **Work-up 3**, and drives symptom care in **Work-up 2**); improving one (sleep, mood,
-headache) lifts the others.
+headache) lifts the others. **Each domain has its own page** (nested under TBI in the sidebar):
 
-Persistent post-TBI symptoms are **multidomain and overlapping** — treat each explicitly; improving one
-(sleep, mood, headache) lifts the others.
-
-=== "Headache"
-    The **most common** post-TBI symptom. **Treat by phenotype** (migraine- vs tension-type-like), start
-    early, prefer non-MOH acute agents, and use the full ladder (incl. **onabotulinumtoxinA**, nerve
-    blocks, aerobic exercise) — see the dedicated **[post-traumatic headache page](../headache/post-traumatic.md).**
-    **Avoid opioids/butalbital.**
-
-=== "Sleep"
-    Sleep disruption **sustains every other TBI symptom — fix it first.**
-
-    - **Insomnia → CBT-I** (first-line); melatonin/low-dose trazodone as adjuncts; avoid chronic
-      benzodiazepines/Z-drugs (cognition, dependence, fall/duty risk).
-    - **Screen for obstructive sleep apnea** — common and under-recognized after TBI; a **sleep study**
-      if snoring/witnessed apneas/refractory fatigue → CPAP.
-    - **Circadian disruption** — sleep-schedule regularity, light timing.
-
-=== "Mood / PTSD"
-    Mood and PTSD **track tightly with TBI** in service members and drive outcome.
-
-    - **Depression/anxiety → CBT + an SSRI/SNRI** (sertraline, escitalopram, venlafaxine); avoid highly
-      anticholinergic/sedating agents.
-    - **PTSD → trauma-focused therapy** (CPT/PE) ± SSRI; **prazosin** for nightmares (a two-for-one with
-      PTH). Note **headache-specific CBT** helps the headache *and* PTSD (see PTH page).
-    - **Irritability/aggression** — behavioral strategies; consider an SSRI, and specialist input for
-      severe cases.
-    - **Screen for suicidal ideation at every visit** — TBI independently raises suicide risk (below).
-
-=== "Cognitive"
-    Attention, processing speed, memory, and executive function.
-
-    - **Treat the treatable contributors first** — sleep, mood/PTSD, pain, medication side effects,
-      substances — much "cognitive impairment" is actually those.
-    - **Cognitive rehabilitation** (speech/OT-led) for persistent deficits; compensatory strategies
-      (calendars, routines).
-    - **Stimulants** (e.g., methylphenidate) can help post-TBI attention/processing in selected patients
-      (specialist-guided; duty/testing implications).
-
-=== "Vestibular / dizziness"
-    - **Look for BPPV** (Dix-Hallpike → **Epley**) — common, curable, and missed.
-    - **Vestibular rehabilitation** for persistent dizziness/imbalance/oculomotor symptoms (facilitates
-      return to activity).
-    - Distinguish from orthostatic/autonomic dizziness (see Autonomic) and from
-      [posterior-circulation](../stroke/index.md)/dissection causes acutely.
-
-=== "Vision / oculomotor"
-    - **Convergence insufficiency and oculomotor dysfunction** are common — screen (near point of
-      convergence, smooth pursuit/saccades); **vision therapy / oculomotor rehab** helps.
-    - **Photophobia** — tinted lenses, gradual light exposure; treat the migraine phenotype driving it.
-    - Refer to neuro-ophthalmology/optometry for persistent diplopia or deficits.
-
-=== "Neuroendocrine"
-    **The quiet, high-yield miss.** Post-traumatic **hypopituitarism** is common after **moderate–severe
-    TBI (and blast mTBI)** and its symptoms (fatigue, low mood, low libido, cognitive fog, weight change)
-    **mimic the rest of the TBI picture** — so it's blamed on "post-concussive syndrome" and missed.
-
-    - **Screen moderate–severe TBI (and symptomatic blast mTBI) in the first year**, and any TBI patient
-      not recovering as expected.
-    - **Send:** morning **cortisol** (± ACTH-stimulation if low), **IGF-1** (GH axis), **testosterone/
-      estradiol + LH/FSH**, **TSH/free T4**, **prolactin**; acutely watch for **adrenal insufficiency**
-      and **diabetes insipidus / SIADH** (sodium).
-    - **Treat with targeted hormone replacement** (endocrine) — it can dramatically improve fatigue,
-      mood, and cognition.
-
-=== "Autonomic"
-    - **Dysautonomia** — orthostatic intolerance, exercise intolerance, palpitations, temperature
-      dysregulation; overlaps the "can't tolerate exertion" concussion picture.
-    - **Manage** with the [aerobic-exercise](../headache/post-traumatic.md) reconditioning protocol,
-      hydration/salt, gradual upright tolerance; treat orthostatic hypotension/POTS if present.
-    - (Acute **paroxysmal sympathetic hyperactivity** — a severe-TBI ICU problem — is distinct.)
-
-=== "Seizures"
-    - **Post-traumatic seizures** — early (≤7 days, provoked) vs **late/post-traumatic epilepsy**
-      (>7 days, unprovoked, higher after penetrating/severe TBI).
-    - **Prophylactic ASM (levetiracetam/phenytoin) for ~7 days** reduces *early* seizures in
-      moderate–severe TBI but **does not prevent epilepsy** — don't continue it long-term for
-      prophylaxis.
-    - A late unprovoked seizure = epilepsy → treat and work up per the **[seizure page](../seizure/index.md).**
-
-=== "Pain / substance"
-    - **Chronic pain** (neck, MSK, headache) is common — multimodal, **opioid-sparing** (opioids worsen
-      cognition, mood, MOH, and duty risk).
-    - **Screen for alcohol/substance use** — bidirectional with TBI; treat and involve behavioral health.
+- **[Headache](headache.md)** — the commonest symptom; phenotype-directed (full detail on the
+  [post-traumatic headache page](../headache/post-traumatic.md)).
+- **[Sleep](sleep.md)** — fix it first; CBT-I, screen for OSA.
+- **[Mood & PTSD](mood-ptsd.md)** — CBT + SSRI/SNRI, prazosin; screen suicide every visit.
+- **[Cognitive](cognitive.md)** — treat the contributors first; cognitive rehab.
+- **[Vestibular / dizziness](vestibular.md)** — BPPV/Epley; vestibular rehab.
+- **[Vision / oculomotor](vision.md)** — convergence insufficiency; vision therapy.
+- **[Neuroendocrine](neuroendocrine.md)** — hypopituitarism screening — the quiet, treatable miss.
+- **[Autonomic](autonomic.md)** — dysautonomia; exercise reconditioning.
+- **[Post-traumatic seizures](seizures.md)** — 7-day prophylaxis ≠ epilepsy prevention.
+- **[Pain & substance](pain-substance.md)** — opioid-sparing; screen substances.
 
 ## Return to activity / duty
 

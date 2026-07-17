@@ -91,7 +91,17 @@ nav:
       - Epilepsy syndromes: seizure/epilepsy-syndromes.md
       - Antiseizure medications: seizure/asm.md
   - Traumatic brain injury:
-      - TBI & comorbidities: tbi/index.md
+      - TBI — work-up & return to duty: tbi/index.md
+      - "— Headache": tbi/headache.md
+      - "— Sleep": tbi/sleep.md
+      - "— Mood & PTSD": tbi/mood-ptsd.md
+      - "— Cognitive": tbi/cognitive.md
+      - "— Vestibular / dizziness": tbi/vestibular.md
+      - "— Vision / oculomotor": tbi/vision.md
+      - "— Neuroendocrine": tbi/neuroendocrine.md
+      - "— Autonomic": tbi/autonomic.md
+      - "— Post-traumatic seizures": tbi/seizures.md
+      - "— Pain & substance": tbi/pain-substance.md
   - Dizziness & vertigo:
       - Overview & HINTS: dizziness/index.md
   - Diplopia:
