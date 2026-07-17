@@ -90,6 +90,8 @@ nav:
       - Seizure & status epilepticus: seizure/index.md
       - Epilepsy syndromes: seizure/epilepsy-syndromes.md
       - Antiseizure medications: seizure/asm.md
+  - Traumatic brain injury:
+      - TBI & comorbidities: tbi/index.md
   - Dizziness & vertigo:
       - Overview & HINTS: dizziness/index.md
   - Diplopia:
