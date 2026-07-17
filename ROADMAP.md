@@ -6,9 +6,9 @@ with a standardized military-medicine layer (deployability, profiles, EPTS/LOD,
 retention, MEB/IDES). Hosted free on GitHub Pages.
 
 > **Status: LIVE** at https://matthewdholtkamp.github.io/Neurology/ (public repo
-> github.com/matthewdholtkamp/Neurology). 23 pages across Headache (7 incl. hub), Stroke &
-> cerebrovascular (9), Seizure & epilepsy (3: status epilepticus, syndromes, ASMs), Dizziness,
-> Diplopia + military primer. Auto-deploys on push to main via strict-build CI.
+> github.com/matthewdholtkamp/Neurology). 24 pages across Headache (7 incl. hub), Stroke &
+> cerebrovascular (9), Seizure & epilepsy (3), Traumatic brain injury (1: TBI + comorbidity tabs),
+> Dizziness, Diplopia + military primer. Auto-deploys on push to main via strict-build CI.
 > This file is the living build checklist.
 > Last updated: 2026-07-12
 >
