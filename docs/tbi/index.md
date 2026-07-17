@@ -27,20 +27,76 @@ them by **domain** (the tabs below), and the patient gets better.
 | **Moderate** | **9–12** | 30 min–24 h | 1–7 days | Often abnormal |
 | **Severe** | **≤8** | >24 h | >7 days | Abnormal |
 
-## The prescriptive flow (what I want done, in order)
+## Which patient is in front of you? — pick the pathway
 
-1. **Exclude a structural emergency** (red-flag CT); classify severity.
-2. **Acute concussion/mTBI:** manage per protocol — brief relative rest, **early sub-threshold aerobic
-   exercise**, graded return; see the [post-traumatic headache page](../headache/post-traumatic.md)
-   (and, in uniform, the DoD MACE2 / recovery pathway — military box).
-3. **Screen for and treat each comorbidity domain** (the tabs) — *this is where persistent TBI is won
-   or lost.*
-4. **Don't miss the quiet ones:** **neuroendocrine (hypopituitarism), OSA, and suicide risk.**
-5. **Graded return to activity/duty**; step back on symptom recurrence.
-6. **Refractory/complex → multidisciplinary TBI clinic** (neuro + rehab + behavioral health + sleep +
-   vestibular/PT + endocrine).
+The work-up is completely different by **phase**. Sort the patient into one of three before anything else:
+
+| Presentation | Setting | Pathway |
+|---|---|---|
+| **Acute head injury, just happened** | ER / aid station / field | **Work-up 1 — Acute TBI (ER)** |
+| **Recent concussion, still symptomatic (days–weeks)** | clinic / concussion cell | **Work-up 2 — Acute-phase mTBI (outpatient)** |
+| **Symptoms persisting >~4 wks, or moderate–severe TBI in the chronic phase, or repeated concussions** | TBI/neuro clinic | **Work-up 3 — Long-term TBI follow-up** |
+
+### Work-up 1 — Acute TBI in the ER
+
+!!! orderset "The acute head-injury evaluation"
+    1. **ABCs + C-spine precautions**; **GCS**, pupils, focal exam; glucose; note **anticoagulation/
+       antiplatelet** use, LOC, and **post-traumatic amnesia.**
+    2. **Decide on CT with a validated rule (e.g., Canadian CT Head Rule).** Get a **non-contrast head
+       CT** for any high-risk feature: **GCS <15 at 2 h**, suspected **open/depressed skull fracture**,
+       any **basilar-skull-fracture sign** (hemotympanum, raccoon eyes, Battle's sign, CSF oto/
+       rhinorrhea), **≥2 episodes of vomiting**, **age ≥65**; or medium-risk: **retrograde amnesia
+       ≥30 min**, **dangerous mechanism.** **Anticoagulation/coagulopathy or post-traumatic seizure →
+       image regardless.** Add **CTA neck** if dissection is a concern.
+    3. **If there's a bleed:** **reverse anticoagulation** (see the
+       [ICH reversal table](../stroke/intracerebral-hemorrhage.md#anticoagulation-antiplatelet-reversal)),
+       BP control, and **neurosurgery** for a surgical lesion (EDH/SDH/contusion) or raised ICP;
+       moderate/severe → trauma bay + ICP pathway.
+    4. **Disposition:** admit/observe for an abnormal CT, GCS <15, persistent vomiting, anticoagulation,
+       or an unsafe home; **a normal CT with a normal exam and improving symptoms can go home** with a
+       reliable observer, **written return precautions**, and **no return to play/duty the same day.**
+    5. **In uniform:** after a potentially concussive event, **MACE2** and the mandated recovery period
+       apply (military box).
+
+### Work-up 2 — Acute-phase outpatient mTBI (days–weeks out, still symptomatic)
+
+!!! orderset "The concussion-clinic / aid-station work-up"
+    1. **History:** mechanism, LOC/PTA, and a **symptom inventory** across domains (headache, dizziness,
+       cognitive, sleep, mood), prior concussions, and **persistence risk factors** (female sex, prior
+       migraine, acute headache >30 days, high initial symptom burden, cognitive symptoms).
+    2. **Targeted exam:** neuro + **cervical spine**, a **vestibular/ocular-motor screen (VOMS)**, and a
+       **balance** check (BESS); use **SCAT6/SCOAT6** (or **MACE2** in uniform) and a symptom scale
+       (PCSS / Neurobehavioral Symptom Inventory).
+    3. **Imaging is usually NOT needed** — a normal exam with improving symptoms doesn't warrant it
+       (AHS/ACR); **image only for red flags, focal deficits, or worsening/atypical course.**
+    4. **Manage:** **brief relative rest (24–48 h) → early sub-threshold aerobic exercise**, sleep
+       hygiene, and **symptom-targeted** treatment (treat the headache phenotype; **avoid opioids/
+       butalbital**). **Reassure** — most recover in days–weeks.
+    5. **Graded return to activity/duty**; **step back a stage on symptom recurrence.** Treat the
+       **high-persistence-risk** patient aggressively and **early.**
+    6. **Follow up**; if **not recovering by ~4 weeks → escalate to Work-up 3** / a multidisciplinary
+       concussion clinic.
+
+### Work-up 3 — Long-term TBI follow-up (persistent — the common military clinic visit)
+
+!!! orderset "Structured multi-domain review (persistent post-concussive / chronic / repeated TBI)"
+    1. **Re-confirm the diagnosis and rule out a new/secondary process** if the pattern changed.
+    2. **Systematically screen and treat *every* comorbidity domain** — run the tabs below (headache,
+       sleep, mood/PTSD, cognition, vestibular, vision, neuroendocrine, autonomic, seizures, pain/
+       substance). *This is where persistent TBI is won or lost.*
+    3. **Don't miss the quiet ones:** **neuroendocrine (hypopituitarism)**, **OSA**, and **suicide
+       risk** — screen deliberately.
+    4. **Refer to a multidisciplinary TBI clinic** (neuro + rehab + behavioral health + sleep +
+       vestibular/PT + endocrine + neuropsych) for refractory/complex cases.
+    5. **Own the disposition:** profile, **MEB/DES**, VA rating documentation, and — for a repeated-
+       impact history — honest **TES/CTE** counseling (below). Track longitudinally with a symptom
+       inventory and **treat to target.**
 
 ## Manage the comorbidities — by domain
+
+Persistent post-TBI symptoms are **multidomain and overlapping** — treat each explicitly (this is the
+engine of **Work-up 3**, and drives symptom care in **Work-up 2**); improving one (sleep, mood,
+headache) lifts the others.
 
 Persistent post-TBI symptoms are **multidomain and overlapping** — treat each explicitly; improving one
 (sleep, mood, headache) lifts the others.
@@ -191,6 +247,10 @@ in uniform, follow the **Progressive Return to Activity** stages (military box).
 
 ## 📚 Discover — evidence brief
 
+- **Sort by phase first** — the work-up is different for **acute TBI in the ER** (CT-rule triage,
+  reversal, neurosurgery/disposition), **acute-phase outpatient mTBI** (symptom inventory + VOMS/balance,
+  usually no imaging, exercise + graded return), and **long-term follow-up** (systematic multi-domain
+  comorbidity review — the common military clinic visit).
 - **TBI is mostly a mild-TBI, chronic-comorbidity problem** — the acute event resolves; the persistent
   symptoms (headache, sleep, mood/PTSD, cognition, dizziness, vision) are what disable, and they're
   **multidomain and interlinked.**
