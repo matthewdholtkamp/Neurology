@@ -79,13 +79,21 @@ The work-up is completely different by **phase**. Sort the patient into one of t
     Highest value where **CT is limited (austere/deployed)** — a negative panel can safely omit
     the scan. It does **not** override a red flag that already mandates imaging.
 
-!!! note "Anticoagulation reversal & TXA (acute bleed)"
-    **Reversal (2024 ACS Best Practices):**
+!!! note "Anticoagulation reversal & TXA (acute bleed) — dosed"
+    **Reversal (2024 ACS Best Practices / Neurocritical Care Society):**
 
-    - **Warfarin** → **4-factor PCC + IV vitamin K.**
-    - **Dabigatran** → **idarucizumab 5 g IV.**
-    - **Factor Xa inhibitors** (apixaban/rivaroxaban) → **4-factor PCC** (*andexanet alfa has been
-      withdrawn from the US market*).
+    - **Warfarin** → **4-factor PCC (Kcentra), INR-based, dosed on actual body weight capped at
+      100 kg:** **INR 2–3.9 → 25 units/kg** (max 2500), **INR 4–6 → 35 units/kg** (max 3500),
+      **INR >6 → 50 units/kg** (max 5000). *(Many trauma centers use a **fixed 1500–2000 units** to
+      save time — give it, then check INR.)* **Plus vitamin K 10 mg IV** by slow infusion over
+      10–30 min (sustains reversal; PCC alone wears off). Recheck **INR at 15–60 min**, target **<1.5**.
+    - **Dabigatran** → **idarucizumab 5 g IV** (two 2.5 g / 50 mL vials, consecutive boluses). If
+      unavailable: **activated PCC (FEIBA) 50 units/kg** and consider **hemodialysis.**
+    - **Factor Xa inhibitors** (apixaban/rivaroxaban) → **4-factor PCC 50 units/kg** (or a **fixed
+      2000 units**) — *andexanet alfa has been **withdrawn from the US market**.*
+    - **Antiplatelet (aspirin/clopidogrel):** **do not routinely transfuse platelets** for
+      spontaneous/traumatic ICH (PATCH-signal harm) unless a **neurosurgical procedure** is planned;
+      consider **desmopressin (DDAVP) 0.4 µg/kg IV ×1**.
     - **Repeat CT at 6–24 h** to check for hematoma progression **before** starting VTE prophylaxis.
 
     **Tranexamic acid — mixed and evolving.** **Consider TXA within 3 h** (1 g IV bolus + 1 g
@@ -96,25 +104,36 @@ The work-up is completely different by **phase**. Sort the patient into one of t
     harm. A 2024 meta-analysis (9 RCTs, n=14,747) found **no overall mortality/disability benefit**,
     though TXA may limit hematoma expansion.
 
-!!! note "VTE prophylaxis timing (2024 ACS Best Practices)"
-    Balance re-bleeding against clot risk; **LMWH is preferred over unfractionated heparin.**
+!!! note "VTE prophylaxis timing (2024 ACS Best Practices) — dosed"
+    Balance re-bleeding against clot risk. **Agent — LMWH preferred over UFH:** **enoxaparin
+    30 mg SC q12h** or **40 mg SC daily** (reduce to **30 mg daily if CrCl <30**), *or* **UFH
+    5000 units SC q8–12h** when LMWH is contraindicated. Start **mechanical prophylaxis (SCDs)
+    on admission** in the meantime.
 
-    - **Low-risk nonoperative TBI:** pharmacologic prophylaxis **within 24 h** if follow-up CT shows
-      **no ICH progression.**
+    - **Low-risk nonoperative TBI:** start **within 24 h** if follow-up CT shows **no ICH progression.**
     - **Moderate/high-risk nonoperative TBI:** **within 24–48 h** if follow-up CT is stable.
     - **Post-craniotomy/craniectomy:** **within 24–48 h** if the postoperative CT is stable.
 
     A 2025 Military TBI Initiative meta-analysis found **no increase in ICH progression** with
     prophylaxis started within 72 h.
 
-!!! note "Moderate–severe TBI — ICP / PbtO₂ / CPP targets"
+!!! note "Moderate–severe TBI — ICP / PbtO₂ / CPP targets (with doses)"
     For **GCS <9 with an abnormal CT**, place **ICP monitoring** (Brain Trauma Foundation, 4th ed.);
     **treat ICP >22 mmHg.** Target **CPP 60–70 mmHg** — **avoid driving CPP >70** (increased ARDS
-    risk). **Brain-tissue oxygen (PbtO₂) monitoring** (target **>20 mmHg**) is an emerging
-    complement: the **OXY-TC trial (Lancet Neurol 2023)** reduced brain-hypoxia time with dual
-    ICP + PbtO₂ monitoring, though 6-month extended-GOS was not significantly improved. Where
-    invasive monitoring is unavailable (**austere/deployed**), the **2025 Brussels (B-ICONIC)
-    consensus** guides **non-invasive ICP** assessment.
+    risk). **PbtO₂ monitoring** target **>20 mmHg** is an emerging complement: **OXY-TC (Lancet
+    Neurol 2023)** cut brain-hypoxia time with dual ICP + PbtO₂ monitoring, though 6-month
+    extended-GOS was not significantly improved. Where invasive monitoring is unavailable
+    (**austere/deployed**), the **2025 Brussels (B-ICONIC) consensus** guides **non-invasive ICP.**
+
+    **Tiered ICP control** — head of bed 30°, normocarbia (PaCO₂ 35–40), sedation/analgesia first;
+    then for a **surge**:
+
+    - **Hyperosmolar bolus (either):** **hypertonic saline 3% 250 mL** (or **23.4% 30 mL via central
+      line**) *or* **mannitol 0.5–1 g/kg IV** — mannitol needs a normal BP (osmotic diuresis) and
+      serum osm <320; hypertonic saline is preferred if hypotensive.
+    - **Brief hyperventilation** (PaCO₂ 30–35) only as a **temporizing bridge** to the OR/definitive care.
+    - **Refractory:** neurosurgery for **decompressive craniectomy / CSF drainage**; **not** routine
+      steroids (harmful in TBI — CRASH).
 
 ### Work-up 2 — Acute-phase outpatient mTBI (days–weeks out, still symptomatic)
 

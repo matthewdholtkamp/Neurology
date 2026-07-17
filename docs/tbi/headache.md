@@ -23,8 +23,8 @@ distinction drives escalation and VA/MEB documentation.
 
 - **Acute:** stratified by severity (NSAID → triptan, or a **gepant/lasmiditan** where triptans are
   unsuitable); **prefer a gepant** (no MOH). The **only positive acute-PTH RCT** is **IV metoclopramide
-  + diphenhydramine** (n=81; 1.4 pts greater pain relief vs placebo). **Scheduled** (not PRN) analgesics
-  in the **first 72 h** post-injury are an emerging way to blunt acute-phase severity.
+  10 mg + diphenhydramine 25 mg** (n=81; 1.4 pts greater pain relief vs placebo). **Scheduled** (not
+  PRN) analgesics in the **first 72 h** post-injury are an emerging way to blunt acute-phase severity.
 - **Preventive** (start at **≥8 monthly headache days** if acute therapy is optimized and headaches
   remain disabling — Lancet Neurol 2021; **>10 days/mo or disabling** — 2025 AAPM&R):
   **amitriptyline/nortriptyline** (also helps sleep/mood), **venlafaxine, candesartan, propranolol**;
