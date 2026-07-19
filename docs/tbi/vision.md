@@ -49,7 +49,8 @@ concussions have **≥1** vision disorder, and **>40%** of blast-TBI veterans re
     **Vision loss or decline, new diplopia, abnormal pupils, abnormal external eye exam, abnormal visual
     behavior** (unexpectedly bumping into things), **nystagmus**, or **acute ocular symptoms** (severe
     eye pain, flashes/floaters, severe photophobia) → **urgent** neuro-ophthalmology/ophthalmology.
-    Exclude a cranial-nerve or structural cause (see the [diplopia page](../diplopia/index.md)).
+    Exclude a cranial-nerve or structural cause — localize the palsy (CN III, IV, VI) before
+    attributing diplopia to convergence insufficiency or accommodative dysfunction.
 
 ## Treat
 

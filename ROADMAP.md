@@ -6,10 +6,10 @@ with a standardized military-medicine layer (deployability, profiles, EPTS/LOD,
 retention, MEB/IDES). Hosted free on GitHub Pages.
 
 > **Status: LIVE** at https://matthewdholtkamp.github.io/Neurology/ (public repo
-> github.com/matthewdholtkamp/Neurology). 37 pages across Headache (7 incl. hub), Stroke &
+> github.com/matthewdholtkamp/Neurology). 35 pages across Headache (7 incl. hub), Stroke &
 > cerebrovascular (9), Seizure & epilepsy (3), Traumatic brain injury (11: hub + 10 nested
-> comorbidity sub-pages), **Demyelinating disease (3: MS + NMOSD + MOGAD)**, Dizziness, Diplopia +
-> the military medicine page. Auto-deploys on push to main via strict-build CI.
+> comorbidity sub-pages), **Demyelinating disease (3: MS + NMOSD + MOGAD)** + the military medicine
+> page. Auto-deploys on push to main via strict-build CI.
 > This file is the living build checklist.
 > Last updated: 2026-07-19
 >
@@ -181,8 +181,20 @@ Each page's specifics get checked against current sources at build time.
 - [ ] Increased ICP Management (nudge toward hypertonic saline)
 - [ ] Hypercoag workup (drop MTHFR)
 - [ ] Coma workup
-- [x] Dizziness — built; reframed to timing-and-triggers (TiTrATE/ATTEST) + HINTS.
-- [x] Diplopia — built as its own page (monocular-vs-binocular, CN III/IV/VI, Parks 3-step).
+- [~] **Dizziness — built, then REMOVED from the site 2026-07-19.** Was reframed to
+      timing-and-triggers (TiTrATE/ATTEST) + HINTS. Pulled because the site settled on a
+      **disorder-based** structure and a standalone presentation page did not fit it.
+      **Content is not lost** — recover with
+      `git checkout b905746 -- docs/dizziness` (also `docs/diplopia`).
+- [~] **Diplopia — built, then REMOVED from the site 2026-07-19** (monocular-vs-binocular,
+      CN III/IV/VI, Parks 3-step). Same reason. Note the retention standard it carried
+      (**AR 40-501 3-7b / DoDI 6130.03 5.4.e**, binocular diplopia within 20° of primary
+      position) is **still on the military page's trigger table** — only the hyperlink was removed.
+    - *Open question when presentation-led topics return (coma, AMS, radiculopathy are all
+      presentations too): either fold their content into the relevant disorder pages, or add a
+      deliberate second axis rather than a couple of orphan pages. The HINTS exam in particular
+      is high-value bedside content that currently has no home — consider folding it into the
+      stroke vertical, where posterior-circulation stroke already lives.*
 - [ ] Radiculopathy & Plexopathy
 - [ ] AMS workup
 - [ ] IVIG / PLEX / Rituximab order sets

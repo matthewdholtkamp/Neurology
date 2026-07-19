@@ -246,7 +246,7 @@ Both citations belong in your note. The **gate** column is what determines wheth
 | Peripheral neuropathy | 5.26.i | 3-31k | **Permanent** functional impairment |
 | Narcolepsy | 5.27.a | **3-31h** (see 3-32c) | Neurologist or sleep specialist evaluation **required** to determine disposition |
 | Chronic insomnia | 5.27.a | **3-32a** | Fails CBT-I, or needs sleep medication ≥3 nights/week, over **6 consecutive months** |
-| [Binocular diplopia](../diplopia/index.md) | 5.4.e | **3-7b** | Not surgically correctable, severe, constant, within **20° of primary position** |
+| Binocular diplopia | 5.4.e | **3-7b** | Not surgically correctable, severe, constant, within **20° of primary position** |
 | Recurrent/unexplained syncope | 5.26.n | 3-31k | Interferes with duty |
 
 !!! note "The 5.26.a gate, stated once"

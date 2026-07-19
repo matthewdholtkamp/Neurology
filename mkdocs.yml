@@ -68,7 +68,7 @@ markdown_extensions:
 
 nav:
   - Home: index.md
-  - By presentation:
+  - By disorder:
     - Headache:
       - Overview & triage: headache/index.md
       - Migraine: headache/migraine.md
@@ -77,11 +77,6 @@ nav:
       - Medication overuse headache: headache/medication-overuse.md
       - New daily persistent headache: headache/new-daily-persistent.md
       - Post-traumatic headache: headache/post-traumatic.md
-    - Dizziness & vertigo:
-      - Overview & HINTS: dizziness/index.md
-    - Diplopia:
-      - Overview & localization: diplopia/index.md
-  - By disorder:
     - Stroke & cerebrovascular:
       - Acute ischemic stroke: stroke/index.md
       - Transient ischemic attack (TIA): stroke/tia.md

@@ -25,7 +25,7 @@ brief** and a standardized **military-medicine layer**.
     labeling, and the governing regulation before acting on it.** Use reflects your own
     professional responsibility.
 
-## Start with the presentation
+## Topics
 
 <div class="grid cards" markdown>
 
@@ -41,29 +41,6 @@ brief** and a standardized **military-medicine layer**.
     [NDPH](headache/new-daily-persistent.md) · [Post-traumatic](headache/post-traumatic.md)
 
     [:octicons-arrow-right-24: Triage hub](headache/index.md)
-
--   :material-rotate-3d-variant:{ .lg .middle } **Dizziness & vertigo**
-
-    ---
-
-    Timing-and-triggers (TiTrATE/ATTEST) rather than "what does it feel like" — and
-    **HINTS** to separate peripheral from posterior-circulation stroke.
-
-    [:octicons-arrow-right-24: Overview & HINTS](dizziness/index.md)
-
--   :material-eye-outline:{ .lg .middle } **Diplopia**
-
-    ---
-
-    Monocular vs binocular first, then localize: CN III, IV, VI, and the Parks 3-step.
-
-    [:octicons-arrow-right-24: Overview & localization](diplopia/index.md)
-
-</div>
-
-## Or start with the disorder
-
-<div class="grid cards" markdown>
 
 -   :material-heart-pulse:{ .lg .middle } **Stroke & cerebrovascular**
 
@@ -155,6 +132,6 @@ the condition — deployability, profile, EPTS/LOD, retention standards, and MEB
     peer-reviewed, and what still needs confirmation before you act on it. Where a
     recommendation rests on observational rather than randomized evidence, the page says so.
 
-    **37 pages** across headache, cerebrovascular disease, seizure, TBI, demyelinating disease,
-    dizziness, diplopia, and military medicine. Build progress is tracked on the
+    **35 pages** across headache, cerebrovascular disease, seizure, traumatic brain injury,
+    demyelinating disease, and military medicine. Build progress is tracked on the
     [roadmap](https://github.com/matthewdholtkamp/Neurology/blob/main/ROADMAP.md).
