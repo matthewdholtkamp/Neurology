@@ -189,9 +189,15 @@ recognition that damage accrued early is not recoverable.
 !!! note "The evidence status, stated honestly"
     The two randomised trials built to settle this — **DELIVER-MS** (36-month brain volume loss)
     and **TREAT-MS** (sustained EDSS-plus worsening) — are the definitive tests, and their
-    **primary results were not yet published as of July 2026.** Current practice leans on
-    observational and real-world comparative data. Say so when you counsel: the direction of travel
-    is clear, the randomised confirmation is pending.
+    **primary results were not yet published as of July 2026.** DELIVER-MS has completed
+    enrolment (816 participants) and published its treatment-decision data in June 2026, so the
+    primary analysis is imminent — notably, **67% of the observational cohort chose early
+    high-efficacy treatment**, which tells you where practice already sits.
+
+    Meanwhile the position has firmed. The July 2026 *NEJM* review by **Hauser** states that
+    long-term prospective trials and real-world experience indicate the most effective control of
+    relapsing disease is achieved by **initiating high-efficacy therapy at the earliest possible
+    time.** Counsel accordingly — but say plainly that randomised confirmation is still pending.
 
 ### The tiers
 
@@ -200,12 +206,40 @@ recognition that damage accrued early is not recoverable.
     **Anti-CD20 monoclonals** — the current workhorses of MS care.
 
     - **Ocrelizumab (Ocrevus)** — 300 mg IV × 2 doses two weeks apart, then **600 mg IV every 6
-      months.** Also the **only agent approved for PPMS** (ORATORIO). **Ocrevus Zunovo** is the
-      subcutaneous formulation. **Approved May 2026 for paediatric RRMS** (≥10 years, ≥55 lb).
+      months.** Also the **only agent approved for PPMS** (ORATORIO).
+        - **Ocrevus Zunovo** is **ocrelizumab coformulated with hyaluronidase**
+          (ocrelizumab/hyaluronidase-zhzo) for **subcutaneous** injection, approved for the **same
+          adult indications** as IV. OCARINA II showed comparable pharmacokinetics and efficacy.
+        - **Paediatric approval, 8 May 2026** — for **relapsing–remitting MS specifically**, ages
+          **≥10 years and ≥25 kg (55 lb)**. Note this is **narrower than the adult label**, which
+          covers *relapsing forms* including CIS and active SPMS. Based on **OPERETTA II** vs
+          fingolimod (non-inferior ARR; 48% fewer new/enlarging T2 and 87% fewer enhancing lesions).
     - **Ofatumumab (Kesimpta)** — **20 mg subcutaneous monthly**, self-administered at home. The
       logistically simplest high-efficacy option and often the right answer for a mobile population.
-    - **Ublituximab (Briumvi)** — IV, 1-hour infusions after the first.
-    - **Rituximab** — off-label but widely used, cheap, and effective.
+    - **Ublituximab (Briumvi)** — IV, 1-hour infusions after the first. **Five-year ULTIMATE I/II
+      open-label extension data** (*JAMA Neurology*, February 2026) confirm sustained low
+      annualised relapse rate and a favourable long-term safety profile.
+    - **Rituximab** — off-label, but **no longer merely "widely used."** **OVERLORD-MS**
+      (*NEJM*, July 2026) is the first head-to-head randomised trial: in 216 newly diagnosed
+      relapsing patients across 12 Norwegian and Swedish centres, **rituximab was non-inferior to
+      ocrelizumab** for freedom from new or enlarging T2 lesions between months 6 and 24
+      (**92.2% vs 94.8%**; risk difference **−2.6 percentage points**, 95% CI −9.4 to 4.3, against
+      a 10-point non-inferiority margin). Clinical activity was minimal in both arms.
+        - **The caveat is infection:** **82% vs 69%** of participants had an infection on rituximab
+          versus ocrelizumab, though serious adverse events were similar (8% vs 7%).
+        - Earlier **observational** data (*JAMA Neurology*, 2023) found **higher relapse rates**
+          with rituximab in routine practice — likely reflecting dosing and interval heterogeneity
+          rather than a true efficacy gap.
+        - **Practical read:** rituximab is a defensible, far cheaper anti-CD20 choice with
+          randomised support, provided the dosing is disciplined and you accept a higher infection
+          burden. This matters a great deal for formulary-constrained care.
+
+    !!! tip "Extended-interval dosing"
+        Extending the interval between anti-CD20 doses — rather than fixed 6-monthly infusions — is
+        increasingly used to **reduce infection risk, hypogammaglobulinaemia, and cost**, typically
+        guided by B-cell repopulation or immunoglobulin levels. It is a proposed general strategy
+        rather than a labelled regimen, so document the rationale. Relevant to the TRICARE cost
+        conversation and to any patient accumulating infections on standard dosing.
 
     **Others:**
 
@@ -215,6 +249,13 @@ recognition that damage accrued early is not recoverable.
     - **Alemtuzumab (Lemtrada)** — induction; durable but carries **secondary autoimmunity**
       (thyroid, ITP, anti-GBM) requiring **monthly monitoring for 4 years** after the last course.
     - **Cladribine (Mavenclad)** — oral short-course induction over two years.
+    - **Autologous haematopoietic stem cell transplantation (aHSCT)** — **off-label**, but it
+      appears to provide **durable long-term benefit in relapsing MS**, and in selected patients
+      with aggressive, highly active disease failing conventional therapy it is a legitimate
+      consideration rather than a fringe option. Requires an experienced transplant centre;
+      treatment-related morbidity is real. A late-stage randomised trial (**NCT04047628**) is
+      ongoing. *Worth raising early in a young service member with aggressive disease, where the
+      alternative is decades of accumulating disability.*
 
 === "Moderate — S1P modulators"
 
@@ -223,7 +264,9 @@ recognition that damage accrued early is not recoverable.
       lymphopenia, and **VZV serology + vaccination before starting.**
     - **Severe rebound disease on discontinuation** is a real hazard — never stop an S1P agent
       abruptly without a bridging plan.
-    - **Siponimod** carries the active-SPMS indication (EXPAND) and requires **CYP2C9 genotyping.**
+    - **Siponimod** is labelled for **relapsing forms** (CIS, RRMS, and active SPMS) — not
+      restricted to SPMS — but **EXPAND** is why it is the usual pick in **active SPMS**. Requires
+      **CYP2C9 genotyping.**
 
 === "Platform / lower-efficacy"
 
@@ -233,22 +276,72 @@ recognition that damage accrued early is not recoverable.
       site reactions, rare post-injection systemic reaction. Also pregnancy-friendly.
     - **Teriflunomide** — **teratogenic**, long half-life, requires **cholestyramine accelerated
       elimination**. Avoid in anyone who may become pregnant.
-    - **Dimethyl/diroximel fumarate** — flushing, GI upset, **lymphopenia** (PML risk if prolonged
-      and severe).
+    - **Fumarates** — all three deliver the same active metabolite, **monomethyl fumarate**, and
+      share flushing, GI upset, and **lymphopenia** (PML risk if prolonged and severe). Check
+      absolute lymphocyte count before starting and periodically.
+        - **Dimethyl fumarate (Tecfidera)** — the original; generic available. GI intolerance is
+          the usual reason for discontinuation.
+        - **Diroximel fumarate (Vumerity)** — second-generation, **bioequivalent monomethyl
+          fumarate exposure** and therefore comparable efficacy, but **substantially better GI
+          tolerability** — EVOLVE-MS-2 showed a **46% reduction in days with GI symptoms of at
+          least moderate severity** versus dimethyl fumarate. The right switch for a patient
+          failing dimethyl fumarate on tolerability rather than efficacy.
+        - **Monomethyl fumarate (Bafiertam)** — the active metabolite given directly; approved for
+          relapsing forms in adults.
 
 === "Progressive disease"
 
-    - **Ocrelizumab** — the only DMT approved for **PPMS**, and the effect is modest, greatest in
-      younger patients with inflammatory activity.
-    - **Siponimod** — for **active SPMS**.
-    - **Tolebrutinib** — a brain-penetrant **BTK inhibitor** targeting smouldering neuroinflammation.
-      HERCULES showed a **31% delay in disability progression** in non-relapsing SPMS. **The FDA
-      issued a Complete Response Letter in December 2025 — it is not approved in the US.** The EMA
-      granted conditional marketing authorisation. A further US decision was anticipated in 2026;
-      **verify current status before discussing it with a patient.**
-    - Otherwise: **there is no good DMT for non-active progressive MS.** Say this plainly rather
-      than implying one exists. Rehabilitation, exercise, symptom management, and vascular risk
-      control are the interventions that change life for these patients.
+    - **Ocrelizumab** — currently the **only DMT approved for PPMS**. The effect is modest and
+      concentrated in younger patients with inflammatory activity.
+    - **Siponimod (Mayzent)** — approved for **relapsing forms of MS in adults**, which by label
+      includes CIS, RRMS, **and active SPMS** — the same broad indication most relapsing-MS DMTs
+      carry. It is **not label-restricted to active SPMS**, though **EXPAND** is the trial that
+      makes it the natural choice there. Requires **CYP2C9 genotyping**.
+
+    **BTK inhibitors — the actual state of play.** This class targets B cells *and* CNS-resident
+    microglia, and because these agents are brain-penetrant they are the leading attempt to reach
+    the **compartmentalised inflammation** behind a closed blood–brain barrier that drives
+    progression. Recent trials have sorted the class sharply.
+
+    - **Fenebrutinib** — a **highly selective, non-covalent** BTK inhibitor, and as of mid-2026
+      the most convincing agent in the class. Three positive phase 3 trials:
+        - **FENtrepid (PPMS)** — met its primary endpoint of **non-inferiority to ocrelizumab** for
+          12-week composite confirmed disability progression, with a **12% risk reduction**
+          (HR 0.88; 95% CI 0.75–1.03). Presented ACTRIMS, February 2026. Genentech/Roche describe
+          it as the first investigational agent in over a decade to reduce disability progression
+          in PPMS.
+        - **FENhance 1 and 2 (relapsing MS)** — both met their primary endpoint versus
+          teriflunomide, with ARR reductions of **51.1%** and **58.5%** (n≈1,497 combined, 96
+          weeks), plus reduced risk of disability worsening (26% and 20%). Presented AAN, 2026.
+          Liver enzyme elevations >3× ULN were comparable to teriflunomide.
+        - **Not yet FDA-approved** — filings were to be submitted together with FENtrepid.
+          If approved it would be the **first high-efficacy oral** covering both relapsing MS
+          and PPMS.
+    - **Tolebrutinib** — brain-penetrant but **relatively non-selective**, and its programme is
+      mixed at best. Present it accurately:
+        - **HERCULES (non-relapsing SPMS)** — **positive**: a **31% reduction in the risk** of
+          6-month confirmed disability progression (**HR 0.69; 95% CI 0.55–0.88; P=0.003**).
+          *Note this is a hazard-ratio risk reduction, not a "delay" — the sponsor's press
+          language differs from the NEJM primary analysis.*
+        - **GEMINI 1 and 2 (relapsing MS)** — **failed.** Not superior to teriflunomide on
+          annualised relapse rate (0.13 vs 0.12 and 0.11 vs 0.11; n=1,873). A pooled 6-month
+          confirmed-disability-worsening signal favoured tolebrutinib (**29% risk reduction,
+          nominal P=0.023**) but **could not be formally tested** because the hierarchical
+          testing plan had already failed.
+        - **PERSEUS (PPMS)** — **failed** its primary endpoint (6-month composite confirmed
+          disability progression); MRI measures improved only. **Sanofi will not pursue PPMS
+          registration.**
+        - **Regulatory:** **FDA Complete Response Letter, December 2025** — **not approved in the
+          US.** EMA granted conditional marketing authorisation, and the UAE approved it for
+          non-relapsing SPMS in August 2025. Given the GEMINI and PERSEUS results, treat near-term
+          US approval as genuinely uncertain rather than imminent.
+    - **Remibrutinib** — in phase 3 (**REMODEL-1** and **REMODEL-2**); no primary results yet.
+
+    **The honest bottom line for non-active progressive MS:** outside ocrelizumab in PPMS and
+    siponimod in active SPMS, **there is still no DMT that clearly helps**, and fenebrutinib —
+    though the most promising candidate the field has had — is not yet approved. Say this plainly
+    rather than implying a treatment exists. **Rehabilitation, exercise, symptom management, and
+    vascular risk control** remain the interventions that change these patients' lives.
 
 ### Choosing — the practical decision table
 
@@ -260,6 +353,9 @@ recognition that damage accrued early is not recoverable.
 | JCV antibody positive, high index | **Avoid natalizumab**; anti-CD20 instead |
 | Needs oral, low monitoring | S1P modulator or fumarate — accept lower efficacy |
 | Established PPMS | **Ocrelizumab** if inflammatory activity; otherwise rehabilitation-led care |
+| **Active SPMS** | **Siponimod** (EXPAND) or an **anti-CD20** — "active" means relapses or new/enhancing lesions, and that activity is what predicts benefit. For **non-relapsing** SPMS there is no approved option in the US (tolebrutinib received a CRL) |
+| Cost or formulary constrained | **Rituximab** — now supported by randomised non-inferiority data (OVERLORD-MS), accepting a higher infection rate |
+| Aggressive disease failing high-efficacy therapy | Consider **aHSCT** referral to an experienced centre |
 | Breakthrough on a platform agent | **Escalate to high-efficacy** — do not switch laterally |
 
 !!! warning "Before the first dose of any DMT"
@@ -371,6 +467,16 @@ patients who reach an EDSS milestone rarely come back. The observational literat
 favours early high-efficacy therapy; **DELIVER-MS** and **TREAT-MS** are the randomised tests, and
 they had not reported primary results as of July 2026.
 
+**Where the field is heading.** Two frontiers are worth knowing about even though neither is
+standard care. **BTK inhibitors** are the first serious attempt to modulate CNS-compartmentalised
+disease — the *Lancet Neurology* 2026 class review describes them as potential harbingers of
+treatments that reach processes behind an intact blood–brain barrier, and fenebrutinib's three
+positive phase 3 trials are the strongest evidence yet that the strategy works. **CD19-directed
+therapy** is the other: anti-CD20 agents spare CD20-negative plasmablasts and plasma cells, and
+CD19-targeted monoclonals or **CAR T cells** reach that compartment. Case series in autoimmune
+disease have reported dramatic benefit, and MS trials are beginning. Neither belongs in a
+counselling conversation yet, but both explain where the next decade of DMTs comes from.
+
 **Key trials and evidence:**
 
 - **OPERA I/II** — ocrelizumab vs interferon beta-1a in RRMS; superior relapse and MRI outcomes.
@@ -381,8 +487,19 @@ they had not reported primary results as of July 2026.
 - **AFFIRM / SENTINEL** — natalizumab efficacy, and the trials that surfaced **PML**.
 - **CARE-MS I/II** — alemtuzumab; durable effect, secondary autoimmunity.
 - **EXPAND** — siponimod in SPMS; benefit concentrated in **active** disease.
-- **HERCULES** — tolebrutinib in non-relapsing SPMS; 31% delay in disability progression.
-  **US regulatory outcome: Complete Response Letter, December 2025.**
+- **ULTIMATE I/II** — ublituximab; **5-year extension data**, *JAMA Neurology* 2026.
+- **OVERLORD-MS** — **rituximab non-inferior to ocrelizumab** in newly diagnosed relapsing MS
+  (*NEJM*, July 2026); more infections with rituximab. The first anti-CD20 head-to-head.
+- **HERCULES** — tolebrutinib in non-relapsing SPMS; **31% reduction in risk** of 6-month confirmed
+  disability progression (HR 0.69). **US outcome: Complete Response Letter, December 2025.**
+- **GEMINI 1/2** — tolebrutinib **failed** vs teriflunomide in relapsing MS.
+- **PERSEUS** — tolebrutinib **failed** in PPMS; PPMS registration abandoned.
+- **FENtrepid** — **fenebrutinib non-inferior to ocrelizumab in PPMS** (HR 0.88), ACTRIMS 2026.
+- **FENhance 1/2** — fenebrutinib vs teriflunomide in relapsing MS; **51.1%** and **58.5%** ARR
+  reductions, AAN 2026.
+- **OPERETTA II** — ocrelizumab vs fingolimod in paediatric RRMS; basis of the May 2026 approval.
+- **EVOLVE-MS-2** — diroximel vs dimethyl fumarate; **46% fewer** days with moderate-or-worse GI
+  symptoms.
 - **Bjornevik et al., Science 2022** — EBV and MS causality, from the DoD serum repository.
 - **2024 revisions of the McDonald criteria**, *Lancet Neurology*, September 2025.
 
@@ -400,13 +517,43 @@ they had not reported primary results as of July 2026.
 4. [The 2024 update to the McDonald criteria: a guide for radiologists](https://www.ajronline.org/doi/10.2214/AJR.25.33997) — *AJR*
 5. Bjornevik K, et al. **Longitudinal analysis reveals high prevalence of Epstein-Barr virus
    associated with multiple sclerosis.** *Science*, 2022.
-6. [DELIVER-MS](https://clinicaltrials.gov/study/NCT03535298) and
-   [TREAT-MS](https://clinicaltrials.gov/study/NCT03500328) — early high-efficacy vs escalation.
-7. [Sanofi — tolebrutinib US regulatory update, December 2025](https://www.sanofi.com/en/media-room/press-releases/2025/2025-12-24-06-00-00-3210238)
-   (Complete Response Letter).
-8. [FDA approves Ocrevus for paediatric MS, May 2026](https://www.nationalmssociety.org/news-and-magazine/news/fda-approves-ocrevus-zunovo)
-9. **AR 40-501**, *Standards of Medical Fitness*, 27 June 2019 — para **3-31e**.
-   **DoDI 6130.03 Vol 2** — para **5.26.f** (gated by **5.26.a**).
+6. Hauser SL. **Advances in multiple sclerosis.** *N Engl J Med.* 2026;394(1).
+   [Article](https://www.nejm.org/doi/full/10.1056/NEJMra2501195) — the current state-of-the-art
+   review; source for the early-high-efficacy position, extended-interval dosing, aHSCT, and
+   CD19-directed strategies.
+7. Torkildsen Ø, Brustad HK, Høgestøl EA, et al. **Rituximab versus ocrelizumab in newly diagnosed
+   relapsing multiple sclerosis (OVERLORD-MS).** *N Engl J Med.* 2026;395(1):44-53.
+   [Article](https://www.nejm.org/doi/full/10.1056/NEJMoa2600993)
+8. Roos I, Hughes S, McDonnell G, et al. **Rituximab vs ocrelizumab in relapsing-remitting MS.**
+   *JAMA Neurol.* 2023 — observational; higher relapse rates with rituximab.
+   [Article](https://jamanetwork.com/journals/jamaneurology/fullarticle/10.1001/jamaneurol.2023.1625)
+9. Oh J, Bar-Or A, Montalban X, et al. **Bruton's tyrosine kinase inhibitors: a new class of
+   multiple sclerosis therapeutics.** *Lancet Neurol.* 2026.
+   [PubMed](https://pubmed.ncbi.nlm.nih.gov/42309088)
+10. Fox RJ, Bar-Or A, Traboulsee A, et al. **Tolebrutinib in nonrelapsing secondary progressive
+    multiple sclerosis (HERCULES).** *N Engl J Med.* 2025.
+    [Article](https://www.nejm.org/doi/full/10.1056/NEJMoa2415988)
+11. Oh J, Arnold DL, Cree BAC, et al. **Tolebrutinib versus teriflunomide in relapsing multiple
+    sclerosis (GEMINI 1 and 2).** *N Engl J Med.* 2025.
+    [Article](https://www.nejm.org/doi/full/10.1056/NEJMoa2415985)
+12. [Sanofi — tolebrutinib PPMS (PERSEUS) update, December 2025](https://www.sanofi.com/en/media-room/press-releases/2025/2025-12-15-06-05-00-3205094)
+    and [US regulatory update (Complete Response Letter), December 2025](https://www.sanofi.com/en/media-room/press-releases/2025/2025-12-24-06-00-00-3210238)
+13. [Roche/Genentech — fenebrutinib reduces disability progression in PPMS (FENtrepid), February 2026](https://www.gene.com/media/press-releases/15098/2026-02-07/genentechs-fenebrutinib-is-the-first-inv)
+    and [FENhance 1/2 results, AAN 2026](https://www.gene.com/media/press-releases/15109/2026-04-21/genentechs-fenebrutinib-significantly-re)
+14. Cree BAC, Fox E, Hartung HP, et al. **Five years of ublituximab in multiple sclerosis.**
+    *JAMA Neurol.* 2026.
+    [Article](https://jamanetwork.com/journals/jamaneurology/fullarticle/10.1001/jamaneurol.2026.0007)
+15. Newsome SD, Krzystanek E, Selmaj KW, et al. **Subcutaneous ocrelizumab (OCARINA II).**
+    *Neurology.* 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/40245351)
+16. [FDA approves Ocrevus for paediatric RRMS, 8 May 2026](https://www.drugs.com/newdrugs/fda-approves-ocrevus-relapsing-remitting-multiple-sclerosis-pediatric-patients-10-years-age-older-6783.html)
+    (OPERETTA II).
+17. Naismith RT, Wundes A, Ziemssen T, et al. **Diroximel fumarate GI tolerability (EVOLVE-MS-2).**
+    *CNS Drugs.* 2020. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31953790)
+18. [DELIVER-MS](https://clinicaltrials.gov/study/NCT03535298) and
+    [TREAT-MS](https://clinicaltrials.gov/study/NCT03500328) — early high-efficacy vs escalation;
+    [DELIVER-MS decision-making data, 2026](https://pubmed.ncbi.nlm.nih.gov/42218617)
+19. **AR 40-501**, *Standards of Medical Fitness*, 27 June 2019 — para **3-31e**.
+    **DoDI 6130.03 Vol 2** — para **5.26.f** (gated by **5.26.a**).
 
 *Verified July 2026: the diagnostic framework is the **2024 revisions of the McDonald criteria**,
 published in Lancet Neurology September 2025 — the optic nerve as a fifth DIS topography, kappa free
@@ -414,11 +561,20 @@ light chain index as an alternative to oligoclonal bands for DIT, central vein s
 rim lesions as supportive biomarkers, and the RIS-to-MS pathway are all taken from that publication
 and its ECTRIMS slide deck; published critique of over-diagnosis risk exists and is flagged in the
 text. **Tolebrutinib is NOT FDA-approved** — the FDA issued a Complete Response Letter in December
-2025 after two PDUFA extensions, and a further decision was anticipated during 2026; **re-verify
-before counseling.** Ocrelizumab's paediatric approval (May 2026, ≥10 years/≥55 lb) and the January
-2026 generic glatiramer approval are current as of this review. **DELIVER-MS and TREAT-MS primary
-results were not published as of July 2026** — the early-high-efficacy recommendation rests on
-observational data and is stated as such. Retention standards are quoted from **AR 40-501 3-31e**
+2025 after two PDUFA extensions. **Its wider programme is mixed and is now stated in full: HERCULES
+positive (31% risk reduction, HR 0.69 — a hazard-ratio reduction, not a "delay"), but GEMINI 1/2
+failed against teriflunomide and PERSEUS failed in PPMS, with PPMS registration abandoned.**
+**Fenebrutinib** (FENtrepid non-inferior to ocrelizumab in PPMS, HR 0.88; FENhance 1/2 positive vs
+teriflunomide, 51.1% and 58.5% ARR reductions) is **not yet FDA-approved** — these are ACTRIMS/AAN
+2026 conference and sponsor-release data pending full publication. **OVERLORD-MS** (rituximab
+non-inferior to ocrelizumab; more infections) is peer-reviewed, *NEJM* July 2026. Ocrelizumab's
+paediatric approval (8 May 2026) is for **relapsing–remitting MS specifically, ages ≥10 and ≥25 kg**
+— **narrower than the adult "relapsing forms" label** — and the January 2026 generic glatiramer
+approval is current. **DELIVER-MS and TREAT-MS primary results were not published as of July 2026**;
+DELIVER-MS has completed enrolment and published decision-making data, and the early-high-efficacy
+position follows the July 2026 *NEJM* Hauser review while randomised confirmation remains pending.
+**aHSCT, extended-interval anti-CD20 dosing, and CD19-directed/CAR-T strategies are described as
+off-label or investigational** and are labelled as such. Retention standards are quoted from **AR 40-501 3-31e**
 and **DoDI 6130.03 Vol 2 5.26.f/5.26.a**, verified against the source PDFs. **Not independently
 verified:** TRICARE formulary tiers and PA criteria for individual DMTs — these are described
 structurally (specialty/medical benefit split, neurologist requirement) rather than by tier, and
