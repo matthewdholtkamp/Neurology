@@ -6,10 +6,10 @@ with a standardized military-medicine layer (deployability, profiles, EPTS/LOD,
 retention, MEB/IDES). Hosted free on GitHub Pages.
 
 > **Status: LIVE** at https://matthewdholtkamp.github.io/Neurology/ (public repo
-> github.com/matthewdholtkamp/Neurology). 34 pages across Headache (7 incl. hub), Stroke &
+> github.com/matthewdholtkamp/Neurology). 37 pages across Headache (7 incl. hub), Stroke &
 > cerebrovascular (9), Seizure & epilepsy (3), Traumatic brain injury (11: hub + 10 nested
-> comorbidity sub-pages), Dizziness, Diplopia + the military medicine page. Auto-deploys on push to
-> main via strict-build CI.
+> comorbidity sub-pages), **Demyelinating disease (3: MS + NMOSD + MOGAD)**, Dizziness, Diplopia +
+> the military medicine page. Auto-deploys on push to main via strict-build CI.
 > This file is the living build checklist.
 > Last updated: 2026-07-19
 >
@@ -121,8 +121,26 @@ Each page's specifics get checked against current sources at build time.
       extended-window/CATALYST/large-core; SAH EARLYDRAIN/grading-scales; ICH andexanet-withdrawal;
       CVST DOAC-CVT/VITT/long-term). Retention citations pinned to DoDI 6130.03 Vol 2 para 5.26.b.
 - [ ] **Major Stroke Trials Cliffs (2018-19)** — append 2020–2025 trials.
-- [ ] **Demyelinating / MS** — 2017/2024 McDonald; new DMT era; NMOSD split off
-      (eculizumab/satralizumab/inebilizumab); MOGAD as distinct disease.
+- [x] **Demyelinating / MS — BUILT (3 pages):** hub + **NMOSD** + **MOGAD**, in the canonical
+      tiered prescriptive style, web-verified to current evidence (not written from model memory).
+      Hub: **2024 McDonald criteria** (published *Lancet Neurol* **Sep 2025** — optic nerve as a
+      5th DIS topography, **kappa free light chain index** as an OCB alternative for DIT, central
+      vein sign / paramagnetic rim lesions as supportive, RIS→MS pathway; published over-diagnosis
+      critique flagged), mimic/red-flag screen, relapse ladder (steroids → PLEX → IVIG), DMT tiers
+      with the early-high-efficacy argument stated honestly (**DELIVER-MS and TREAT-MS primary
+      results still unpublished as of Jul 2026**), pre-DMT screening, symptomatic management,
+      TRICARE specialty-vs-medical-benefit split. **NMOSD:** four approved agents incl.
+      **ravulizumab (approved 2024, q8wk vs eculizumab q2wk)**, PLEX as *first-line alongside
+      steroids* not rescue, complement-inhibitor meningococcal boxed warning, and the
+      interferon/natalizumab/fingolimod contraindication. **MOGAD:** 2023 international panel
+      criteria with **titre-dependent** interpretation, the slow-taper rule, ~50% monophasic, and
+      **METEOROID** (satralizumab, 68% relapse-risk reduction, AAN 2026 — *first positive phase 3
+      in MOGAD, not yet FDA-approved*).
+    - *Caught by verification, would have been wrong from memory:* **tolebrutinib received an FDA
+      Complete Response Letter in Dec 2025 — it is NOT approved** (EMA conditional authorisation
+      only). Re-check status; a further US decision was anticipated during 2026.
+    - *Still to do:* acute myelopathy folds in here (currently a separate roadmap line);
+      **AQP4/MOG panel guidance** should propagate to the Quick Reference item.
 - [ ] **NMJ / Myasthenia** — complement inhibitors (eculizumab, ravulizumab) &
       FcRn inhibitors (efgartigimod, rozanolixizumab); MGTX thymectomy.
 - [ ] **Dementia** — anti-amyloid mAbs (lecanemab, donanemab) + ARIA; plasma/CSF

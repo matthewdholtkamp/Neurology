@@ -99,3 +99,36 @@
 *[DA Pam]: Department of the Army Pamphlet
 *[DoDI]: Department of Defense Instruction
 *[DoDM]: Department of Defense Manual
+*[NMOSD]: Neuromyelitis Optica Spectrum Disorder
+*[MOGAD]: Myelin Oligodendrocyte Glycoprotein Antibody-Associated Disease
+*[AQP4]: Aquaporin-4
+*[MOG]: Myelin Oligodendrocyte Glycoprotein
+*[DMT]: Disease-Modifying Therapy
+*[DMTs]: Disease-Modifying Therapies
+*[RRMS]: Relapsing-Remitting Multiple Sclerosis
+*[SPMS]: Secondary Progressive Multiple Sclerosis
+*[nrSPMS]: Non-Relapsing Secondary Progressive Multiple Sclerosis
+*[PPMS]: Primary Progressive Multiple Sclerosis
+*[CIS]: Clinically Isolated Syndrome
+*[RIS]: Radiologically Isolated Syndrome
+*[PIRA]: Progression Independent of Relapse Activity
+*[EDSS]: Expanded Disability Status Scale
+*[LETM]: Longitudinally Extensive Transverse Myelitis
+*[PLEX]: Plasma Exchange
+*[IVIG]: Intravenous Immunoglobulin
+*[OCB]: Oligoclonal Bands
+*[CVS]: Central Vein Sign
+*[PRL]: Paramagnetic Rim Lesion
+*[OCT]: Optical Coherence Tomography
+*[VEP]: Visual Evoked Potential
+*[ADEM]: Acute Disseminated Encephalomyelitis
+*[PML]: Progressive Multifocal Leukoencephalopathy
+*[JCV]: John Cunningham Virus
+*[BTK]: Bruton's Tyrosine Kinase
+*[S1P]: Sphingosine-1-Phosphate
+*[EBV]: Epstein-Barr Virus
+*[ARR]: Annualized Relapse Rate
+*[DIS]: Dissemination In Space
+*[DIT]: Dissemination In Time
+*[ECTRIMS]: European Committee for Treatment and Research in Multiple Sclerosis
+*[PA]: Prior Authorization

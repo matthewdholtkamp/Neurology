@@ -102,6 +102,10 @@ nav:
       - "— Autonomic": tbi/autonomic.md
       - "— Post-traumatic seizures": tbi/seizures.md
       - "— Pain & substance": tbi/pain-substance.md
+  - Demyelinating disease:
+      - Multiple sclerosis: ms/index.md
+      - "— NMOSD (AQP4)": ms/nmosd.md
+      - "— MOGAD (MOG)": ms/mogad.md
   - Dizziness & vertigo:
       - Overview & HINTS: dizziness/index.md
   - Diplopia:
