@@ -26,8 +26,13 @@ start this process. In the Army you usually *are* the person who starts it.
     - **No** → **DES referral.** Write a permanent 3 or 4 profile in e-Profile. That *is* the referral.
     - **Yes**, but they can't perform their PMOS → **MAR2**, not a board.
 
-    **3. Two exceptions that skip step 1 entirely** — **epilepsy** and **dementia**. DoDI 6130.03
-    says act **upon diagnosis**; the "must persist despite treatment" gate explicitly does not apply.
+    **3. Can you act on the first visit?** Often yes — by **two different routes**:
+
+    - **Epilepsy** — DoDI 6130.03 5.26.k: act **upon diagnosis.** The "persist despite treatment"
+      gate explicitly does not apply. You are not waiting for anything.
+    - **Headache** — the gate *does* apply, but AR 40-501 3-31g lets the **neurologist refer
+      directly** without finishing the 6-month prophylaxis trial if the Soldier is unlikely to
+      respond. Your clinical judgment is the authority.
 
     **4. Who signs?** You write it. A physician **approval authority** second-signs a 3/4 — and
     *that signature* starts the clock. You do not need the commander's agreement.
@@ -71,8 +76,8 @@ different places.
 
 **The decision ladder, in order:**
 
-1. **Is it epilepsy or dementia?** → **Yes:** refer **upon diagnosis**. Skip to step 5.
-   **No:** continue.
+1. **Is it an "upon diagnosis" condition?** In an active-duty population that means **epilepsy**
+   (DoDI 6130.03 5.26.k). → **Yes:** refer **upon diagnosis**. Skip to step 5. **No:** continue.
 2. **Has treatment been adequate?** (drug, dose, duration documented) → **No:** keep treating on a
    temporary profile with **linked** extensions. Reassess. **Yes:** continue.
 3. **Has MRDP been reached?** Either clinically stable with no further progress expected, or 12
@@ -105,8 +110,9 @@ get referred onward to the DES.
 1. **Diagnose and treat adequately.** For most conditions the disqualifying standard only applies
    *after* appropriate treatment has failed — that is the explicit gate in DoDI 6130.03 **5.26.a**.
    Document the drug, dose, and duration of every trial.
-2. **Ask whether this diagnosis is one of the "upon diagnosis" exceptions** (epilepsy, dementia —
-   see below). If it is, stop treating the gate as a prerequisite and act now.
+2. **Ask whether the gate even applies.** For **epilepsy** it does not — refer upon diagnosis.
+   For **headache**, check whether you can invoke the neurologist's direct-referral authority
+   under 3-31g instead of running the full 6-month trial. Both are covered below.
 3. **Determine whether the Soldier has reached MRDP** — the Medical Retention Determination Point.
    Either the condition has clinically stabilized and no further functional progress is expected,
    or the administrative 12-month clock has run out.
@@ -172,13 +178,15 @@ starts when the **MEB packet reaches the MEB Tracking Office**.
       active-duty Soldiers this means a **disability evaluation referral**; for RC Soldiers it may
       instead initiate the **medical disqualification process**, depending on duty status (AR 40-502).
     - **Epilepsy** — DoDI 6130.03 5.26.k: *not compatible with retention*, act **upon diagnosis**.
-    - **Dementia** (Alzheimer's or other) — DoDI 6130.03 5.26.d: same, **upon diagnosis**.
     - **Headache** at ≥3 incapacitating days/month **not adequately controlled after a 6-month
-      prophylaxis trial** — AR 40-501 3-31g.
+      prophylaxis trial** — AR 40-501 3-31g. (You may also refer *before* the 6 months are up —
+      see the MAY box.)
     - **Seizures recurring beyond 6 months** after treatment was initiated — AR 40-501 3-31i(4):
       P-3 profile **and** DES referral.
     - **Chronic insomnia** not responding to CBT-I, or requiring sleep medication ≥3 nights/week,
       over **6 consecutive months** — AR 40-501 3-32a.
+    - **Dementia** — DoDI 6130.03 5.26.d: also **upon diagnosis**. Rare in an active-duty
+      population, but it is the only other condition in 5.26 where the gate is waived.
 
     !!! warning "Do not wait for the other conditions to ripen"
         DA Pam 40-502: **"Once MRDP is met for one condition which does not meet retention
@@ -230,7 +238,7 @@ Both citations belong in your note. The **gate** column is what determines wheth
 | [Stroke / cerebrovascular](../stroke/index.md) | 5.26.b (incl. SAH/ICH, stenosis, aneurysm, AVM, recurrent TIA) | **3-31f** | Stroke: "when residuals affect performance." Recurrent [TIA](../stroke/tia.md) unless etiology identified **and definitively treated** |
 | [TBI with persistent sequelae](../tbi/index.md) | 5.26.h | **3-31j** | After **adequate treatment**, residual symptoms/impairment meeting the para 3-1 definition → referral **required** |
 | Demyelinating disease / MS | 5.26.f | **3-31e** | Chronic or recurrent process (MS, transverse myelitis, recurrent optic neuritis) |
-| Dementia | **5.26.d — not compatible with retention; act upon diagnosis. 5.26.a does not apply.** | 3-31k | None — **upon diagnosis** |
+| Dementia *(rare in AD)* | **5.26.d — not compatible with retention; act upon diagnosis. 5.26.a does not apply.** | 3-31k | None — **upon diagnosis** |
 | Myasthenia gravis | 5.26.l | **3-31c** | Disqualifying **unless confined to extraocular muscles** |
 | ALS / progressive neurogenic atrophy | (5.26.i, paralytic disorders) | **3-31a** | Referral to DES |
 | Parkinson's / basal ganglia & cerebellar degeneration | 5.26.m (tremor/dystonia with functional impairment) | **3-31d** | Progressive degenerative disorders |
@@ -242,7 +250,8 @@ Both citations belong in your note. The **gate** column is what determines wheth
 | Recurrent/unexplained syncope | 5.26.n | 3-31k | Interferes with duty |
 
 !!! note "The 5.26.a gate, stated once"
-    Everything in DoDI 6130.03 para 5.26 **except epilepsy (k) and dementia (d)** is gated by
+    Everything in DoDI 6130.03 para 5.26 **except epilepsy (k) and dementia (d)** — and in an
+    active-duty population that effectively means **except epilepsy** — is gated by
     **5.26.a**: the condition *"must persist despite appropriate treatment and impair function so as
     to preclude satisfactory performance of required military duties."* Both halves are required —
     persistence **and** duty impairment. A well-controlled condition does not fail retention
