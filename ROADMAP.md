@@ -8,10 +8,10 @@ retention, MEB/IDES). Hosted free on GitHub Pages.
 > **Status: LIVE** at https://matthewdholtkamp.github.io/Neurology/ (public repo
 > github.com/matthewdholtkamp/Neurology). 34 pages across Headache (7 incl. hub), Stroke &
 > cerebrovascular (9), Seizure & epilepsy (3), Traumatic brain injury (11: hub + 10 nested
-> comorbidity sub-pages), Dizziness, Diplopia + military primer. Auto-deploys on push to main via
-> strict-build CI.
+> comorbidity sub-pages), Dizziness, Diplopia + the military medicine page. Auto-deploys on push to
+> main via strict-build CI.
 > This file is the living build checklist.
-> Last updated: 2026-07-12
+> Last updated: 2026-07-19
 >
 > **Headache vertical now rebuilt in a "tiered prescriptive" style** — every treatment
 > section is a numbered "what I want done, in order" flow + `Step 1→2→3` order-set boxes
@@ -182,8 +182,22 @@ Each page's specifics get checked against current sources at build time.
 - **Phase 1 — Headache vertical:** ✅ DONE — triage hub + 6 sub-pages, each with a
   Discover brief and military box. **Live and pushed** to github.com/matthewdholtkamp/Neurology;
   all 6 treatment pages rebuilt in the tiered prescriptive + TRICARE style and source-verified.
-- **Phase 2 — Military layer:** standalone deployability/MEB/IDES primer;
-  wire military box into headache (post-traumatic HA is the bridge).
+- **Phase 2 — Military layer:** ✅ DONE — `docs/military/deployability.md` rebuilt from an outline
+  into a full prescriptive reference on **profiles, the MEB/MAR2 fork, and DES referral**, verified
+  line-by-line against local PDFs of **AR 40-501, AR 40-502, DA Pam 40-502, DoDI 6130.03 Vol 2,
+  and DoDM 1332.18 Vol 1**. Answers the questions providers actually get stuck on: *who* can
+  initiate (the profiling provider — the permanent 3/4 profile in e-Profile **is** the referral;
+  the approval authority's second signature starts the clock), *when it's mandatory vs
+  discretionary vs improper*, the **MAR2-vs-DES fork** (meets retention standards → MAR2; fails →
+  DES), the **12-month administrative MRDP** (not 180 days — that's the BDE review threshold and
+  the IDES completion goal), the **"upon diagnosis" carve-outs for epilepsy and dementia** where
+  DoDI 6130.03 5.26.a explicitly does not apply, the full **IDES 72/82/26-day timeline**, a
+  neurology trigger table pairing every DoDI 5.26 subparagraph with its AR 40-501 3-31 counterpart,
+  and a worked example of profile language that carries a board. Military box already wired into
+  every clinical page.
+    - *Still to do:* AR 635-40 is cited secondhand throughout — obtain the PDF and verify the MAR2
+      procedures directly. Reserve/Guard (COMPO 2/3) pathways are flagged but not developed.
+      Aeromedical (Ch. 4 / APL) specifics deserve their own treatment.
 - **Phase 3 — Green pile:** fast-follow the 7 light-touch topics for early breadth.
 - **Phase 4 — Yellow pile:** the 10 drug/protocol updates.
 - **Phase 5 — Red pile:** the 6 substantial rewrites (Stroke first among them).

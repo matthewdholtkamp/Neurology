@@ -107,6 +107,6 @@ nav:
   - Diplopia:
       - Overview & localization: diplopia/index.md
   - Military medicine:
-      - Deployability & MEB/IDES: military/deployability.md
+      - Profiles, MEB/MAR2 & deployability: military/deployability.md
   - Contributing:
       - How to add a topic: contributing.md

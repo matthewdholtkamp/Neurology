@@ -61,3 +61,41 @@
 *[SAH]: Subarachnoid Hemorrhage
 *[TAC]: Trigeminal Autonomic Cephalalgia
 *[TBI]: Traumatic Brain Injury
+*[MRDP]: Medical Retention Determination Point
+*[MAR2]: Military Occupational Specialty Administrative Retention Review
+*[DES]: Disability Evaluation System
+*[IPEB]: Informal Physical Evaluation Board
+*[FPEB]: Formal Physical Evaluation Board
+*[PEBLO]: Physical Evaluation Board Liaison Officer
+*[PULHES]: Physical capacity, Upper extremities, Lower extremities, Hearing/ears, Eyes, pSychiatric
+*[EPSBD]: Entrance Physical Standards Board
+*[MTF]: Military Treatment Facility
+*[COMPO]: Component (1 = Active, 2 = Army National Guard, 3 = Army Reserve)
+*[RC]: Reserve Component
+*[RA]: Regular Army
+*[ARNG]: Army National Guard
+*[ARNGUS]: Army National Guard of the United States
+*[USAR]: United States Army Reserve
+*[RSC]: Regional Support Command
+*[AD]: Active Duty
+*[BDE]: Brigade
+*[MOS]: Military Occupational Specialty
+*[PMOS]: Primary Military Occupational Specialty
+*[AOC]: Area of Concentration
+*[ACFT]: Army Combat Fitness Test
+*[AFT]: Army Fitness Test
+*[DBQ]: Disability Benefits Questionnaire
+*[D-RAS]: Disability Rating Activity Site
+*[MSC]: Military Services Coordinator
+*[NARSUM]: Narrative Summary
+*[IMR]: Independent Medical Review
+*[OTSG]: Office of The Surgeon General
+*[APL]: Aeromedical Policy Letter
+*[USAAMA]: United States Army Aeromedical Activity
+*[DoW]: Department of War
+*[STR]: Service Treatment Record
+*[PHA]: Periodic Health Assessment
+*[CBT-I]: Cognitive Behavioral Therapy for Insomnia
+*[DA Pam]: Department of the Army Pamphlet
+*[DoDI]: Department of Defense Instruction
+*[DoDM]: Department of Defense Manual
