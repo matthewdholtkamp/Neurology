@@ -46,3 +46,47 @@
   color: #557a1a;
   border: 1px solid rgba(107, 142, 35, 0.3);
 }
+
+/* ---- Home page: topic cards ---- */
+.md-typeset .grid.cards > ul > li {
+  border-radius: 0.6rem;
+  border: 1px solid var(--md-default-fg-color--lightest);
+  transition: border-color 180ms, box-shadow 180ms, transform 180ms;
+}
+.md-typeset .grid.cards > ul > li:hover {
+  border-color: var(--md-accent-fg-color);
+  box-shadow: 0 4px 18px rgba(0, 0, 0, 0.12);
+  transform: translateY(-2px);
+}
+
+/* Card heading: icon + title on one line */
+.md-typeset .grid.cards > ul > li > hr {
+  margin: 0.6rem 0;
+  opacity: 0.4;
+}
+.md-typeset .grid.cards .lg.middle {
+  vertical-align: middle;
+  fill: var(--md-accent-fg-color);
+}
+
+/* The dense "· separated" page lists inside cards */
+.md-typeset .grid.cards > ul > li > p:nth-of-type(2) {
+  font-size: 0.72rem;
+  line-height: 1.7;
+  color: var(--md-default-fg-color--light);
+}
+
+/* Trailing "arrow" link reads as the card's primary action */
+.md-typeset .grid.cards > ul > li > p:last-of-type > a {
+  font-weight: 600;
+}
+
+/* Hero buttons under the intro */
+.md-typeset .md-button {
+  margin: 0.2rem 0.4rem 0.2rem 0;
+}
+
+/* Tighter tab bar so five sections sit comfortably */
+.md-tabs__list {
+  flex-wrap: wrap;
+}

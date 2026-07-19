@@ -68,7 +68,8 @@ markdown_extensions:
 
 nav:
   - Home: index.md
-  - Headache:
+  - By presentation:
+    - Headache:
       - Overview & triage: headache/index.md
       - Migraine: headache/migraine.md
       - Cluster & TACs: headache/cluster-tac.md
@@ -76,7 +77,12 @@ nav:
       - Medication overuse headache: headache/medication-overuse.md
       - New daily persistent headache: headache/new-daily-persistent.md
       - Post-traumatic headache: headache/post-traumatic.md
-  - Stroke & cerebrovascular:
+    - Dizziness & vertigo:
+      - Overview & HINTS: dizziness/index.md
+    - Diplopia:
+      - Overview & localization: diplopia/index.md
+  - By disorder:
+    - Stroke & cerebrovascular:
       - Acute ischemic stroke: stroke/index.md
       - Transient ischemic attack (TIA): stroke/tia.md
       - Prevention (primary & secondary): stroke/prevention.md
@@ -86,11 +92,11 @@ nav:
       - Cervical artery dissection: stroke/cervical-artery-dissection.md
       - Cerebral amyloid angiopathy: stroke/cerebral-amyloid-angiopathy.md
       - Carotid artery disease: stroke/carotid-disease.md
-  - Seizure & epilepsy:
+    - Seizure & epilepsy:
       - Seizure & status epilepticus: seizure/index.md
       - Epilepsy syndromes: seizure/epilepsy-syndromes.md
       - Antiseizure medications: seizure/asm.md
-  - Traumatic brain injury:
+    - Traumatic brain injury:
       - TBI — work-up & return to duty: tbi/index.md
       - "— Headache": tbi/headache.md
       - "— Sleep": tbi/sleep.md
@@ -102,15 +108,11 @@ nav:
       - "— Autonomic": tbi/autonomic.md
       - "— Post-traumatic seizures": tbi/seizures.md
       - "— Pain & substance": tbi/pain-substance.md
-  - Demyelinating disease:
+    - Demyelinating disease:
       - Multiple sclerosis: ms/index.md
       - "— NMOSD (AQP4)": ms/nmosd.md
       - "— MOGAD (MOG)": ms/mogad.md
-  - Dizziness & vertigo:
-      - Overview & HINTS: dizziness/index.md
-  - Diplopia:
-      - Overview & localization: diplopia/index.md
   - Military medicine:
       - Profiles, MEB/MAR2 & deployability: military/deployability.md
-  - Contributing:
+  - About:
       - How to add a topic: contributing.md
