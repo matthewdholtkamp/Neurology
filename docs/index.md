@@ -10,7 +10,7 @@ patient with neurological symptoms in the clinic, ER, or on the wards, the way a
 would. Every topic pairs a prescriptive **consult workflow** with a plain-language **evidence
 brief** and a standardized **military-medicine layer**.
 
-[:material-head-flash: Headache triage](headache/index.md){ .md-button .md-button--primary }
+[:material-head-flash: Headache triage](headache/index.md){ .md-button }
 [:material-heart-pulse: Acute stroke](stroke/index.md){ .md-button }
 [:material-shield-star-outline: Military medicine](military/deployability.md){ .md-button }
 
