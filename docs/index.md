@@ -133,5 +133,5 @@ the condition — deployability, profile, EPTS/LOD, retention standards, and MEB
     recommendation rests on observational rather than randomized evidence, the page says so.
 
     **35 pages** across headache, cerebrovascular disease, seizure, traumatic brain injury,
-    demyelinating disease, and military medicine. Build progress is tracked on the
-    [roadmap](https://github.com/matthewdholtkamp/Neurology/blob/main/ROADMAP.md).
+    demyelinating disease, and military medicine — with more topics added one at a time, each
+    updated to current evidence before it goes up.

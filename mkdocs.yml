@@ -1,8 +1,6 @@
 site_name: Neuro Scutbook
 site_description: A bedside neurology consult reference and evidence briefs for MDs, NPs, PAs, and medics — with a military-medicine layer.
 site_url: https://matthewdholtkamp.github.io/Neurology/
-repo_url: https://github.com/matthewdholtkamp/Neurology
-repo_name: matthewdholtkamp/Neurology
 copyright: >
   Educational clinical decision-support — not a substitute for professional
   judgment or individual medical advice. Verify against current guidelines.
