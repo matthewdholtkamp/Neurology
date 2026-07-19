@@ -20,7 +20,7 @@ and young adults, where MOGAD is substantially more common than NMOSD.
     | **Optic neuritis** | Unilateral, retrobulbar, good recovery | Severe, posterior/chiasmal, poor recovery | **Bilateral, anterior, marked disc swelling — but good recovery** |
     | **Myelitis** | Short segment, peripheral | **LETM**, central | LETM, often **conus involvement** |
     | **ADEM** | No | Rare | **Yes — the classic paediatric presentation** |
-    | **Course** | Relapsing, then progressive | Relapsing, no progressive phase | **Often monophasic (~50%)**; no progressive phase |
+    | **Course** | Relapsing, then progressive | Relapsing, no progressive phase | **Frequently monophasic (~30–50% of adults; higher in children)**; no progressive phase |
     | **Recovery** | Variable | **Poor** | **Good** |
     | **CSF OCB** | **Positive ~85%** | Usually negative | Usually negative |
     | **Steroid response** | Good | Good, but needs PLEX | **Excellent — but relapses on withdrawal** |
@@ -122,22 +122,100 @@ three** of:
 
 **Until an agent is approved, maintenance is off-label and evidence is observational:**
 
-| Option | Notes |
-|---|---|
-| **IVIG** | Maintenance IVIG has the **most consistent observational support** in relapsing MOGAD, and is a common first choice — particularly in children |
-| **Rituximab** | Effective in some, but **notably less reliable in MOGAD than in NMOSD** — breakthrough relapses on adequate B-cell depletion are well described. Do not assume NMOSD-level efficacy |
-| **Mycophenolate mofetil** | Oral, reasonable maintenance option |
-| **Azathioprine** | Slow onset; requires steroid bridging for months |
-| **Chronic low-dose steroid** | Sometimes the pragmatic answer, with all the expected long-term costs |
-| **Tocilizumab** | Anti-IL-6R; supportive observational data, and mechanistically aligned with the METEOROID result |
+**Ordered by current comparative evidence — best first.** On-treatment annualised relapse rates
+across observational cohorts run roughly: **IL-6 blockade ~0.09, IVIG ~0.13–0.22, MMF ~0.3,
+rituximab ~0.5.**
 
-!!! warning "Who actually needs maintenance"
-    **About half of MOGAD is monophasic.** Committing a patient to indefinite immunosuppression
-    after a single attack over-treats a large fraction of them.
+| Option | Dosing | Notes |
+|---|---|---|
+| **IL-6 receptor blockade — tocilizumab** | **8 mg/kg IV every 4 weeks** (satralizumab SC is the alternative) | **The largest comparative evidence base in MOGAD.** Vilaseca et al. (*JAMA Neurol*, 2026; international multicentre, n=116, 90% tocilizumab): **ARR fell from 0.64 to 0.09** (IRR 0.08; 95% CI 0.04–0.16 — a 92% reduction). **Superior to low-dose IVIG** (HR 4.5) but **not significantly different from IVIG ≥1 g/kg q4wk** (HR 2.0; 95% CI 0.8–4.5). Adverse events in 50% (mostly mild infections), **9% severe infections.** Available as a **biosimilar** — substantially cheaper than satralizumab. Treat this as a **first-line option, not a last resort** |
+| **IVIG** | **≥1 g/kg every 4 weeks** — see the dosing warning below | The best-established maintenance therapy, especially in children. Performs **comparably to IL-6 blockade when properly dosed** |
+| **SCIG** (subcutaneous immunoglobulin) | Weekly or biweekly, self-administered | Steadier immunoglobulin levels without peak-and-trough, **self-administered at home.** Data are limited but it is increasingly used — and it is the **most deployable immunoglobulin option**, which matters for a service member |
+| **Mycophenolate mofetil** | Oral | Reasonable oral maintenance; on-treatment ARR ~0.3 |
+| **Methotrexate** | Oral/SC weekly | Used in practice; limited MOGAD-specific evidence |
+| **Azathioprine** | Oral | Slow onset; requires steroid bridging for months. Phase 3 **MOGwAI** trial ongoing |
+| **Chronic low-dose steroid** | — | Sometimes the pragmatic bridge, with all the expected long-term costs |
+| **Rituximab** | 1000 mg × 2, or 375 mg/m² weekly × 4 | **The weakest of the commonly used agents in MOGAD — do not carry NMOSD-level expectations across.** Only ~**55%** remain relapse-free in meta-analysis; one long-term study found **61% of MOGAD patients relapsed** (vs 28% of NMOSD; HR 2.8), and **79% of those relapses occurred despite CD19+ B cells suppressed below 1%** — B-cell depletion simply does not prevent MOGAD attacks in many patients. Highest on-treatment ARR of the group (~0.5) |
 
-    Favour maintenance when: **relapses have occurred**, MOG-IgG **remains persistently positive**
-    at 6–12 months, the attacks were **severe**, or relapse occurred **during a steroid taper**.
-    A single attack with seroreversion to negative generally warrants observation, not immunotherapy.
+!!! danger "IVIG dose is the commonest reason IVIG 'fails'"
+    **Maintenance IVIG must be dosed at ≥1 g/kg every 4 weeks** (commonly 1–2 g/kg q4wk).
+
+    In the 2026 comparative study, IL-6 blockade was **significantly better than IVIG dosed below
+    1 g/kg q4wk (HR 4.5)** but **statistically indistinguishable from IVIG at ≥1 g/kg q4wk**. The
+    difference between an effective and an ineffective regimen is the dose, not the drug.
+
+    **Before calling IVIG a failure and switching, check the dose and interval.** Under-dosing is
+    common and eminently fixable.
+
+!!! warning "Who actually needs maintenance — this has shifted"
+    The older teaching was to wait for a second attack, on the reasoning that a large share of
+    MOGAD is monophasic and indefinite immunosuppression over-treats them. **That default no
+    longer holds unqualified.**
+
+    **MOGADOR2** (*Neurology*, 2024; French nationwide incident cohort, Class III evidence) found
+    that **relapse risk is highest early**, and that **initiating maintenance from the first attack
+    substantially reduced it** — a reported ~74% relative reduction (OR 0.26), with 2-year relapse
+    risk of roughly **11% with early treatment versus 41% without.** Separate work found that both
+    **corticosteroids continued ≥12 weeks** and steroid-sparing maintenance independently lower
+    relapse risk.
+
+    **A defensible current approach:**
+
+    - **Risk-stratify after the first attack** rather than reflexively observing *or* reflexively
+      treating.
+    - **Favour early maintenance** when high-risk features are present: **persistent MOG-IgG
+      seropositivity**, **polyphasic first attack** (HR ~2.4), **elevated CSF protein** (HR ~2.06),
+      severe attack, myelitis at onset, or relapse during a steroid taper.
+    - **Observation remains reasonable** for a single, fully recovered, monophasic-appearing
+      attack in a patient who **seroreverts to negative** — but recheck serology at 6–12 months
+      rather than assuming.
+    - **Early relapses predict more relapses:** a relapse within 12 months carries HR ~2.11 for
+      long-term relapsing disease, and within 90 days HR ~2.70 in adults. Treat an early relapse
+      as a strong signal to commit to maintenance.
+
+!!! tip "When can maintenance stop? — two 2026 datasets"
+    One of the commonest questions in MOGAD, and until recently unanswerable. Note the two studies
+    give **different-looking numbers because they ask different questions** — read both.
+
+    - **Boudot de la Motte et al.** (*JAMA Neurol*, 2026; n=705 adults): the **1-year cumulative
+      relapse risk after discontinuation was 8.7%** (95% CI 1.0–15.9), with **no rebound
+      phenomenon.** Lower risk was associated with **treatment duration >1 year** and **>2 years
+      since the last relapse.**
+    - **Yeh et al.** (*Brain*, 2026; Oxford NMO service, 190 patients, 236 discontinuation
+      intervals): relapse followed **39% of discontinuations**, at a median of **5.4 months.**
+      Estimated optimal durations were **10–18 months after a first attack** and **20–30 months
+      for relapsing patients**, and **persistent MOG-IgG positivity at the time of stopping
+      predicted relapse** (HR ~1.95 in relapsing disease).
+
+    **Practical synthesis:** de-escalation is genuinely feasible in MOGAD — unlike
+    [NMOSD](nmosd.md), where stopping a complement inhibitor risks rebound. Aim for **at least a
+    year of treatment and two years relapse-free**, **recheck MOG-IgG before stopping** (persistent
+    positivity argues for continuing), and **watch closely for the first 6 months**, which is when
+    relapses cluster.
+
+    *For a service member this is the difference between indefinite infusion dependence and a
+    realistic path back to full duty — see the military box.*
+
+!!! warning "Do not use MS disease-modifying therapies in MOGAD"
+    **Conventional MS DMTs do not prevent MOGAD relapses.** Interferon-beta and glatiramer acetate
+    show **no relapse-prevention benefit**, and there is no reason to expect the S1P modulators to
+    help either.
+
+    The evidence for outright *harm* is strongest in [NMOSD](nmosd.md) rather than MOGAD, so the
+    argument here is **futility rather than danger** — but the practical consequence is the same:
+    a patient left on an MS drug is an unprotected patient. If someone carrying an "MS" label
+    turns out to be MOG-IgG positive, **switch them to a MOGAD-appropriate regimen**, do not
+    continue the DMT.
+
+!!! note "How many patients relapse — the honest range"
+    Reported relapse proportions vary widely, and the driver is **follow-up duration and age**, not
+    disagreement about the disease. Roughly **30–50% of adults are monophasic**, meaning **50–70%
+    relapse** with adequate follow-up. Children — particularly with an **ADEM phenotype and
+    seroreversion** — are considerably more often monophasic (**~74–83%** in prospective incident
+    paediatric cohorts).
+
+    Quote a **range with its follow-up window**, not a single number, and remember that a patient
+    called monophasic at one year may be reclassified at five.
 
 !!! tip "TRICARE — MOGAD prescribing"
     Because no agent carries a MOGAD indication, maintenance therapy is **off-label by definition**,
@@ -163,7 +241,7 @@ three** of:
       seizures additionally engages **5.26.c**, and any seizure disorder brings **3-31i** and
       **5.26.k** into play — see [seizures](../seizure/index.md).
     - **The disposition genuinely differs from MS and NMOSD, and this is worth arguing carefully.**
-      MOGAD **recovers well and is monophasic about half the time.** A service member with a single
+      MOGAD **recovers well, and 30–50% of adults are monophasic.** A service member with a single
       attack, full recovery, seroreversion to negative, and no maintenance requirement may
       **legitimately meet retention standards** — 5.26.a requires that the condition *persist
       despite appropriate treatment* **and** impair duty, and a resolved monophasic illness does
@@ -175,6 +253,18 @@ three** of:
     - **Refer to the DES when** the course proves **relapsing**, residual visual or motor deficit
       impairs duty, seizures occur, or the patient requires **ongoing immunosuppression or
       maintenance IVIG** — an infusion-dependent regimen is not deployable.
+    - **But maintenance is not necessarily permanent, and that changes the calculus.** Unlike
+      NMOSD, MOGAD therapy can often be **de-escalated**: the 2026 data support stopping after
+      **>1 year of treatment with >2 years relapse-free**, with a 1-year post-discontinuation
+      relapse risk reported as low as **8.7%** and **no rebound phenomenon**. A Soldier on
+      maintenance today is not automatically a Soldier on maintenance forever.
+        - *Practical consequence:* if the member is otherwise performing and the only barrier is
+          infusion dependence, **document the planned de-escalation timeline** in the profile and
+          consider a **temporary profile with a defined reassessment point** rather than moving
+          straight to a permanent profile and DES referral. MRDP has not been reached while a
+          credible plan to come off therapy is in progress.
+        - **SCIG** is the most field-compatible immunoglobulin option if maintenance must continue —
+          self-administered, no infusion centre. Worth specifying if retention is the goal.
     - **Profile:** temporary during the attack and the monophasic-versus-relapsing determination;
       **permanent** once relapsing disease or fixed deficit is established.
     - **Aeromedical:** a demyelinating event is disqualifying for flying duty; a waiver discussion
@@ -191,8 +281,17 @@ target is myelin itself, and the oligodendrocyte largely survives. Demyelination
 genuine **remyelination**, which is why the fluffy MRI lesions of MOGAD often substantially resolve
 and why vision recovers even after dramatic bilateral disc swelling. NMOSD, by contrast, destroys
 **astrocytes** — a structural, complement-mediated necrosis that cavitates the cord and does not
-repair. Two antibody-mediated demyelinating diseases, opposite prognoses, entirely because of what
+repair. Two antibody-mediated demyelinating diseases, opposite prognoses, largely because of what
 the antibody binds.
+
+**A precision worth keeping.** It is tempting to say MOGAD is "not complement-mediated" — that
+overstates it. MOG-IgG damages myelin through **several mechanisms**: complement-dependent
+cytotoxicity, antibody-dependent cellular cytotoxicity, enhanced T-cell infiltration into the CNS,
+and direct disruption of the oligodendrocyte cytoskeleton. **Complement is involved, but it is not
+the dominant, structurally destructive mechanism it is in AQP4 disease.** That is the more accurate
+reason to expect complement inhibition to be less transformative here than in NMOSD — and it is
+also why **IL-6 blockade**, which acts further upstream on the antibody-producing and inflammatory
+axis, has performed well.
 
 **The nosological story.** MOGAD spent years as "seronegative NMOSD" or "atypical MS," and patients
 were treated accordingly — often with agents that neither helped nor were needed. Its recognition as
@@ -205,9 +304,25 @@ observational habit to one with randomised evidence.
 - **Banwell B, et al., *Lancet Neurology* 2023** — international MOGAD panel proposed criteria.
 - **METEOROID (2026)** — satralizumab; **68% relapse-risk reduction**, the first positive phase 3
   in MOGAD.
-- **CosMOG** — rozanolixizumab in relapsing MOGAD, ongoing.
+- **Vilaseca et al., *JAMA Neurology* 2026** — IL-6 receptor blockade, n=116; **ARR 0.64 → 0.09**.
+  The largest comparative maintenance dataset in MOGAD.
+- **MOGADOR2 (*Neurology*, 2024)** — early maintenance after the first attack cuts relapse risk.
+- **Boudot de la Motte et al. (*JAMA Neurol*, 2026)** and **Yeh et al. (*Brain*, 2026)** —
+  treatment discontinuation.
+- **Chen JJ et al. (*JAMA Neurol*, 2022)** — maintenance IVIG, and the dose–response that makes
+  ≥1 g/kg q4wk the target.
 - Validation cohorts of the 2023 criteria — strong performance at high pre-test probability,
   **modest specificity** when applied broadly.
+
+**The trial pipeline.** MOGAD has gone from no trials to a genuine programme:
+
+| Trial | Agent | Status |
+|---|---|---|
+| **METEOROID** | Satralizumab (anti-IL-6R) | **Positive** — first successful phase 3; not yet approved |
+| **CosMOG** | Rozanolixizumab (FcRn antagonist) | Ongoing |
+| **TOMATO** | Tocilizumab (anti-IL-6R) | Phase 2/3, ongoing |
+| **MOGwAI** | Azathioprine | Phase 3, ongoing |
+| Rituximab | Anti-CD20 | Phase 3, ongoing |
 
 ## References
 
@@ -222,7 +337,41 @@ observational habit to one with randomised evidence.
 5. [Utility of the 2023 MOGAD criteria in clinical practice — institutional cohort](https://pubmed.ncbi.nlm.nih.gov/38043365/)
    (modest specificity and PPV).
 6. [CosMOG — rozanolixizumab in MOGAD](https://mogproject.org/clinical-trials/cosmog-clinical-trial/)
-7. **AR 40-501** para **3-31e**; **DoDI 6130.03 Vol 2** para **5.26.f** (gated by **5.26.a**).
+7. Vilaseca A, Bilodeau PA, Gakis G, et al. **Interleukin 6 receptor blockade for relapse
+   prevention in MOGAD.** *JAMA Neurol.* 2026.
+   [Article](https://jamanetwork.com/journals/jamaneurology/fullarticle/10.1001/jamaneurol.2026.2220)
+8. Deschamps R, Guillaume J, Ciron J, et al. **Early maintenance treatment initiation and relapse
+   risk mitigation after a first event of MOGAD in adults: the MOGADOR2 study.**
+   *Neurology.* 2024;103:e209624.
+   [Article](https://www.neurology.org/doi/10.1212/WNL.0000000000209624)
+9. Boudot de la Motte M, Gavoille A, Papeix C, et al. **Treatment discontinuation in patients with
+   MOGAD.** *JAMA Neurol.* 2026;83(5):490-498.
+   [Article](https://jamanetwork.com/journals/jamaneurology/fullarticle/10.1001/jamaneurol.2026.0268)
+10. Yeh WZ, Francis A, Cooper S, et al. **Optimal strategies for treatment discontinuation in MOG
+    antibody-associated disease.** *Brain.* 2026.
+    [Article](https://academic.oup.com/brain/advance-article/doi/10.1093/brain/awag006/8460602)
+11. Chen JJ, Huda S, Hacohen Y, et al. **Association of maintenance IVIG with prevention of relapse
+    in adult MOGAD.** *JAMA Neurol.* 2022.
+    [Article](https://jamanetwork.com/journals/jamaneurology/fullarticle/10.1001/jamaneurol.2022.0489)
+12. Barreras P, Vasileiou ES, Filippatou AG, et al. **Long-term effectiveness and safety of
+    rituximab in NMOSD and MOG antibody disease.** *Neurology.* 2022.
+    [PubMed](https://pubmed.ncbi.nlm.nih.gov/36240094) — relapses despite B-cell depletion.
+13. Nepal G, Kharel S, Coghlan MA, et al. **Rituximab for relapse prevention in MOGAD: systematic
+    review and meta-analysis.** *J Neuroimmunol.* 2022.
+    [PubMed](https://pubmed.ncbi.nlm.nih.gov/35063726)
+14. Molazadeh N, Bilodeau PA, Salky R, et al. **Predictors of relapsing disease course following
+    index event in MOGAD.** *J Neurol Sci.* 2024.
+    [PubMed](https://pubmed.ncbi.nlm.nih.gov/38335710)
+15. Chen B, Gomez-Figueroa E, Redenbaugh V, et al. **Do early relapses predict long-term relapsing
+    disease in MOGAD?** *Ann Neurol.* 2023.
+    [PubMed](https://pubmed.ncbi.nlm.nih.gov/37394961)
+16. Sechi E, Gastaldi M, Cortese R, et al. **MOGAD: practical recommendations for diagnosis and
+    management.** *J Neuroimmunol.* 2025.
+    [PubMed](https://pubmed.ncbi.nlm.nih.gov/41167090)
+17. Carnero Contentti E, et al. **Future treatments for MOGAD: the clinical trial landscape.**
+    *Expert Opin Emerg Drugs.* 2025.
+    [PubMed](https://pubmed.ncbi.nlm.nih.gov/40984653)
+18. **AR 40-501** para **3-31e**; **DoDI 6130.03 Vol 2** para **5.26.f** (gated by **5.26.a**).
 
 *Verified July 2026: diagnostic framework is the **2023 international MOGAD panel criteria**
 (Banwell et al., Lancet Neurology) — the six core clinical events, the cell-based-assay requirement,
@@ -234,9 +383,21 @@ reduction, response by 8 weeks) are from the **AAN 2026 presentation and the spo
 these are **conference and press-release data, not yet a peer-reviewed primary publication**, and
 should be re-verified against the full paper when it appears. **Satralizumab is NOT FDA-approved
 for MOGAD** as of this review; it is approved for AQP4-seropositive NMOSD. All maintenance therapy
-described is **off-label**, and the relative unreliability of rituximab in MOGAD compared with
-NMOSD reflects observational literature rather than randomised comparison. The ~50% monophasic
-proportion is a widely reported observational estimate and varies by cohort and follow-up duration.
+described is **off-label**. **IL-6 receptor blockade figures** (ARR 0.64→0.09, IRR 0.08, HR 4.5 vs
+low-dose IVIG, HR 2.0 non-significant vs IVIG ≥1 g/kg q4wk, 9% severe infections) are verified
+directly from **Vilaseca et al., *JAMA Neurol* 2026** — an **international multicentre
+retrospective** cohort (n=116, 90% tocilizumab), not randomised. **Rituximab's underperformance**
+(~55% relapse-free in meta-analysis; 61% relapsing with 79% of relapses despite CD19+ suppression
+<1%) reflects observational and meta-analytic literature, not randomised comparison — a phase 3
+rituximab trial is ongoing. **The maintenance recommendation after a first attack was revised in
+this review:** MOGADOR2 (*Neurology* 2024, French incident cohort, **Class III**) supports early
+maintenance in risk-stratified patients, superseding a blanket "observe after one attack" default.
+**The two discontinuation studies are reported together because they differ:** Boudot de la Motte
+(*JAMA Neurol* 2026, n=705) found an 8.7% 1-year relapse risk with no rebound, while Yeh (*Brain*
+2026, 236 discontinuation intervals) found relapse after 39% of discontinuations at a median 5.4
+months — different populations and time horizons, and the page presents both rather than the more
+reassuring one. The **monophasic proportion is now given as a range (~30–50% of adults, ~74–83% in
+paediatric incident cohorts)** with the follow-up-duration caveat stated, replacing a flat "~50%".
 **Not independently verified:** TRICARE coverage pathways for off-label maintenance. Retention
 standards quoted from **AR 40-501 3-31e** and **DoDI 6130.03 Vol 2 5.26.f/5.26.a**, verified against
 source PDFs; **MOGAD is not named in either regulation** and is captured under the
