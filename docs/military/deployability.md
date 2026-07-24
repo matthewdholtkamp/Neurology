@@ -239,7 +239,7 @@ Both citations belong in your note. The **gate** column is what determines wheth
 | [TBI with persistent sequelae](../tbi/index.md) | 5.26.h | **3-31j** | After **adequate treatment**, residual symptoms/impairment meeting the para 3-1 definition → referral **required** |
 | [Demyelinating disease / MS](../ms/index.md) | 5.26.f | **3-31e** | Chronic or recurrent process (MS, transverse myelitis, recurrent optic neuritis). See also [NMOSD](../ms/nmosd.md) and [MOGAD](../ms/mogad.md) — MOGAD is often monophasic and may retain |
 | Dementia *(rare in AD)* | **5.26.d — not compatible with retention; act upon diagnosis. 5.26.a does not apply.** | 3-31k | None — **upon diagnosis** |
-| Myasthenia gravis | 5.26.l | **3-31c** | Disqualifying **unless confined to extraocular muscles** |
+| [Myasthenia gravis](../nmj/index.md) | 5.26.l | **3-31c** | Disqualifying **unless confined to extraocular muscles** |
 | ALS / progressive neurogenic atrophy | (5.26.i, paralytic disorders) | **3-31a** | Referral to DES |
 | Parkinson's / basal ganglia & cerebellar degeneration | 5.26.m (tremor/dystonia with functional impairment) | **3-31d** | Progressive degenerative disorders |
 | Muscular dystrophies | 5.26.e | **3-31b** | Progressive weakness and atrophy |

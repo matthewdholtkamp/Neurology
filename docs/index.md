@@ -94,6 +94,18 @@ brief** and a standardized **military-medicine layer**.
 
     [:octicons-arrow-right-24: Multiple sclerosis](ms/index.md)
 
+-   :material-lightning-bolt-outline:{ .lg .middle } **Neuromuscular junction**
+
+    ---
+
+    Fatigable and acute weakness at the synapse — the autoimmune prototype, its mimics, and
+    two toxins including a CBRN emergency.
+
+    [Myasthenia gravis](nmj/index.md) · [LEMS](nmj/lems.md) · [Botulism](nmj/botulism.md) ·
+    [Nerve agent / organophosphate](nmj/nerve-agent.md)
+
+    [:octicons-arrow-right-24: Myasthenia gravis](nmj/index.md)
+
 </div>
 
 ## The military layer
@@ -132,6 +144,6 @@ the condition — deployability, profile, EPTS/LOD, retention standards, and MEB
     peer-reviewed, and what still needs confirmation before you act on it. Where a
     recommendation rests on observational rather than randomized evidence, the page says so.
 
-    **35 pages** across headache, cerebrovascular disease, seizure, traumatic brain injury,
-    demyelinating disease, and military medicine — with more topics added one at a time, each
-    updated to current evidence before it goes up.
+    **39 pages** across headache, cerebrovascular disease, seizure, traumatic brain injury,
+    demyelinating disease, neuromuscular-junction disorders, and military medicine — with more
+    topics added one at a time, each updated to current evidence before it goes up.

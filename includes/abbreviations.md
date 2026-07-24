@@ -132,3 +132,34 @@
 *[DIT]: Dissemination In Time
 *[ECTRIMS]: European Committee for Treatment and Research in Multiple Sclerosis
 *[PA]: Prior Authorization
+*[MG]: Myasthenia Gravis
+*[gMG]: Generalized Myasthenia Gravis
+*[AChR]: Acetylcholine Receptor
+*[MuSK]: Muscle-Specific Kinase
+*[LRP4]: Lipoprotein Receptor-related Protein 4
+*[LEMS]: Lambert-Eaton Myasthenic Syndrome
+*[VGCC]: Voltage-Gated Calcium Channel
+*[FcRn]: Neonatal Fc Receptor
+*[RNS]: Repetitive Nerve Stimulation
+*[SFEMG]: Single-Fiber Electromyography
+*[EDx]: Electrodiagnostics
+*[CMAP]: Compound Muscle Action Potential
+*[QMG]: Quantitative Myasthenia Gravis score
+*[MG-ADL]: Myasthenia Gravis Activities of Daily Living
+*[FVC]: Forced Vital Capacity
+*[NIV]: Non-Invasive Ventilation
+*[MGFA]: Myasthenia Gravis Foundation of America
+*[MGTX]: Thymectomy Trial in Non-Thymomatous Myasthenia Gravis
+*[SCLC]: Small-Cell Lung Cancer
+*[3,4-DAP]: 3,4-Diaminopyridine (amifampridine)
+*[CBRN]: Chemical, Biological, Radiological, and Nuclear
+*[OP]: Organophosphate
+*[AChE]: Acetylcholinesterase
+*[2-PAM]: Pralidoxime
+*[ATNAA]: Antidote Treatment Nerve Agent Autoinjector
+*[CANA]: Convulsant Antidote, Nerve Agent
+*[MOPP]: Mission-Oriented Protective Posture
+*[BAT]: Botulinum Antitoxin (Heptavalent)
+*[HBAT]: Heptavalent Botulinum Antitoxin
+*[GBS]: Guillain-Barré Syndrome
+*[TPMT]: Thiopurine Methyltransferase

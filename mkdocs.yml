@@ -105,6 +105,11 @@ nav:
       - Multiple sclerosis: ms/index.md
       - "— NMOSD (AQP4)": ms/nmosd.md
       - "— MOGAD (MOG)": ms/mogad.md
+    - Neuromuscular junction:
+      - Myasthenia gravis: nmj/index.md
+      - "— LEMS": nmj/lems.md
+      - "— Botulism": nmj/botulism.md
+      - "— Nerve agent / organophosphate": nmj/nerve-agent.md
   - Military medicine:
       - Profiles, MEB/MAR2 & deployability: military/deployability.md
   - About:

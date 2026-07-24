@@ -6,10 +6,11 @@ with a standardized military-medicine layer (deployability, profiles, EPTS/LOD,
 retention, MEB/IDES). Hosted free on GitHub Pages.
 
 > **Status: LIVE** at https://matthewdholtkamp.github.io/Neurology/ (public repo
-> github.com/matthewdholtkamp/Neurology). 35 pages across Headache (7 incl. hub), Stroke &
+> github.com/matthewdholtkamp/Neurology). 39 pages across Headache (7 incl. hub), Stroke &
 > cerebrovascular (9), Seizure & epilepsy (3), Traumatic brain injury (11: hub + 10 nested
-> comorbidity sub-pages), **Demyelinating disease (3: MS + NMOSD + MOGAD)** + the military medicine
-> page. Auto-deploys on push to main via strict-build CI.
+> comorbidity sub-pages), **Demyelinating disease (3: MS + NMOSD + MOGAD)**, **Neuromuscular
+> junction (4: MG + LEMS + botulism + nerve agent)** + the military medicine page. Auto-deploys on
+> push to main via strict-build CI.
 > This file is the living build checklist.
 > Last updated: 2026-07-19
 >
@@ -141,8 +142,17 @@ Each page's specifics get checked against current sources at build time.
       only). Re-check status; a further US decision was anticipated during 2026.
     - *Still to do:* acute myelopathy folds in here (currently a separate roadmap line);
       **AQP4/MOG panel guidance** should propagate to the Quick Reference item.
-- [ ] **NMJ / Myasthenia** — complement inhibitors (eculizumab, ravulizumab) &
-      FcRn inhibitors (efgartigimod, rozanolixizumab); MGTX thymectomy.
+- [x] **NMJ / Myasthenia — BUILT (4 pages):** new **Neuromuscular junction** section walking the
+      synapse — **MG** (postsynaptic autoimmune hub), **LEMS** (presynaptic antibody/paraneoplastic),
+      **botulism** (presynaptic toxin), **nerve agent/organophosphate** (synaptic-enzyme CBRN
+      emergency). Web-verified: **FcRn inhibitors** efgartigimod/rozanolixizumab/**nipocalimab
+      (Apr 2025)**; **complement C5** eculizumab/ravulizumab/zilucoplan (AChR+ only); **inebilizumab
+      gMG approval Dec 2025 (MINT)**; MGTX thymectomy (5-yr benefit); MGFA cautionary-drug list;
+      LEMS amifampridine (Firdapse 2018) + SCLC hunt; CDC 2021 botulism guidance (BAT/BabyBIG);
+      nerve-agent atropine/pralidoxime/ATNAA-CANA + aging kinetics. MG military box turns on the
+      **3-31c / 5.26.l ocular carve-out.**
+    - *Note the recurring "research comparative/safety up front" lesson was applied here — built in
+      one pass, not three. Still worth an expert-review pass like MS/NMOSD/MOGAD got.*
 - [ ] **Dementia** — anti-amyloid mAbs (lecanemab, donanemab) + ARIA; plasma/CSF
       biomarkers (p-tau217); RT-QuIC replaces 14-3-3 for CJD.
 - [x] **Seizure & epilepsy — BUILT (3 pages):** status epilepticus (AES 2016 ladder, ESETT, RAMPART,
