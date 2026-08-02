@@ -1,0 +1,95 @@
+# Accepted pre-existing lint findings — the site's known debt.
+# Regenerate: python3 tools/lint_page.py --all --no-baseline --update-baseline
+# See what is in here: python3 tools/lint_page.py --all --no-baseline
+docs/headache/cluster-tac.md	DOSE-MISSING	order-set item "SUNCT / SUNA" has no dose/frequency — the format requires a dose on every drug
+docs/headache/cluster-tac.md	TRICARE-NOHEDGE	TRICARE box does not tell the reader to verify at the Formulary Search — tiers change without notice
+docs/headache/index.md	DISCOVER-MISSING	no `## 📚 Discover` evidence brief
+docs/headache/index.md	MIL-MISSING	no `!!! military` box
+docs/headache/index.md	ONELINER-MISSING	no `**One-liner:**`
+docs/headache/index.md	ORDERSET-MISSING	no `!!! orderset` box — a clinical page should say what to order
+docs/headache/medication-overuse.md	MIL-FIELDS	military box does not mention: Profile, EPTS/LOD
+docs/headache/medication-overuse.md	REFS-UNLINKED	References section contains no external links
+docs/headache/medication-overuse.md	TRICARE-NOHEDGE	TRICARE box does not tell the reader to verify at the Formulary Search — tiers change without notice
+docs/headache/migraine.md	DOSE-MISSING	order-set item "DHE (nasal/SC/IV)" has no dose/frequency — the format requires a dose on every drug
+docs/headache/migraine.md	TRICARE-NOHEDGE	TRICARE box does not tell the reader to verify at the Formulary Search — tiers change without notice
+docs/headache/new-daily-persistent.md	TRICARE-NOHEDGE	TRICARE box does not tell the reader to verify at the Formulary Search — tiers change without notice
+docs/headache/post-traumatic.md	DOSE-MISSING	order-set item "CGRP therapies" has no dose/frequency — the format requires a dose on every drug
+docs/headache/post-traumatic.md	DOSE-MISSING	order-set item "IV bridge" has no dose/frequency — the format requires a dose on every drug
+docs/headache/post-traumatic.md	TRICARE-NOHEDGE	TRICARE box does not tell the reader to verify at the Formulary Search — tiers change without notice
+docs/headache/trigeminal-neuralgia.md	DOSE-MISSING	order-set item "Botulinum toxin type A" has no dose/frequency — the format requires a dose on every drug
+docs/headache/trigeminal-neuralgia.md	DOSE-MISSING	order-set item "Gabapentin / pregabalin" has no dose/frequency — the format requires a dose on every drug
+docs/headache/trigeminal-neuralgia.md	DOSE-MISSING	order-set item "IV magnesium" has no dose/frequency — the format requires a dose on every drug
+docs/headache/trigeminal-neuralgia.md	MIL-FIELDS	military box does not mention: EPTS/LOD
+docs/headache/trigeminal-neuralgia.md	TRICARE-NOHEDGE	TRICARE box does not tell the reader to verify at the Formulary Search — tiers change without notice
+docs/military/deployability.md	DISCOVER-MISSING	no `## 📚 Discover` evidence brief
+docs/military/deployability.md	MIL-MISSING	no `!!! military` box
+docs/military/deployability.md	REFS-UNLINKED	References section contains no external links
+docs/ms/mogad.md	MIL-FIELDS	military box does not mention: EPTS/LOD
+docs/ms/nmosd.md	MIL-FIELDS	military box does not mention: EPTS/LOD
+docs/nmj/botulism.md	MIL-FIELDS	military box does not mention: EPTS/LOD
+docs/nmj/lems.md	MIL-FIELDS	military box does not mention: EPTS/LOD
+docs/nmj/nerve-agent.md	DOSE-MISSING	order-set item "Diazepam or midazolam" has no dose/frequency — the format requires a dose on every drug
+docs/nmj/nerve-agent.md	DOSE-MISSING	order-set item "Midazolam IM" has no dose/frequency — the format requires a dose on every drug
+docs/nmj/nerve-agent.md	MIL-FIELDS	military box does not mention: EPTS/LOD
+docs/nmj/nerve-agent.md	TRICARE-MISSING	page prescribes 3 drug(s) but has no `!!! tip "TRICARE — ..."` box
+docs/seizure/asm.md	MIL-FIELDS	military box does not mention: Profile, EPTS/LOD, MEB/IDES
+docs/seizure/epilepsy-syndromes.md	MIL-FIELDS	military box does not mention: Deployability, Profile, EPTS/LOD
+docs/seizure/index.md	DOSE-MISSING	order-set item "ABCs" has no dose/frequency — the format requires a dose on every drug
+docs/seizure/index.md	DOSE-MISSING	order-set item "Diazepam nasal spray (Valtoco)" has no dose/frequency — the format requires a dose on every drug
+docs/seizure/index.md	DOSE-MISSING	order-set item "Midazolam nasal spray (Nayzilam)" has no dose/frequency — the format requires a dose on every drug
+docs/seizure/index.md	MIL-FIELDS	military box does not mention: Profile, EPTS/LOD
+docs/seizure/index.md	TRICARE-NOHEDGE	TRICARE box does not tell the reader to verify at the Formulary Search — tiers change without notice
+docs/stroke/carotid-disease.md	MIL-FIELDS	military box does not mention: Profile, EPTS/LOD, MEB/IDES
+docs/stroke/carotid-disease.md	REFS-UNLINKED	References section contains no external links
+docs/stroke/cerebral-amyloid-angiopathy.md	MIL-FIELDS	military box does not mention: Deployability, Profile, EPTS/LOD
+docs/stroke/cerebral-venous-thrombosis.md	MIL-FIELDS	military box does not mention: Profile, EPTS/LOD
+docs/stroke/cerebral-venous-thrombosis.md	TRICARE-NOHEDGE	TRICARE box does not tell the reader to verify at the Formulary Search — tiers change without notice
+docs/stroke/cervical-artery-dissection.md	MIL-FIELDS	military box does not mention: Profile, EPTS/LOD
+docs/stroke/index.md	MIL-FIELDS	military box does not mention: EPTS/LOD
+docs/stroke/intracerebral-hemorrhage.md	DOSE-MISSING	order-set item "Dysphagia screen before PO" has no dose/frequency — the format requires a dose on every drug
+docs/stroke/intracerebral-hemorrhage.md	MIL-FIELDS	military box does not mention: Profile, EPTS/LOD
+docs/stroke/intracerebral-hemorrhage.md	TRICARE-NOHEDGE	TRICARE box does not tell the reader to verify at the Formulary Search — tiers change without notice
+docs/stroke/prevention.md	MIL-FIELDS	military box does not mention: Deployability, EPTS/LOD
+docs/stroke/prevention.md	ORDERSET-MISSING	no `!!! orderset` box — a clinical page should say what to order
+docs/stroke/subarachnoid-hemorrhage.md	MIL-FIELDS	military box does not mention: Profile, EPTS/LOD
+docs/stroke/subarachnoid-hemorrhage.md	TRICARE-NOHEDGE	TRICARE box does not tell the reader to verify at the Formulary Search — tiers change without notice
+docs/stroke/tia.md	MIL-FIELDS	military box does not mention: Profile, EPTS/LOD
+docs/tbi/autonomic.md	DISCOVER-MISSING	no `## 📚 Discover` evidence brief
+docs/tbi/autonomic.md	MIL-MISSING	no `!!! military` box
+docs/tbi/autonomic.md	REDFLAG-MISSING	no `!!! danger` red-flag box
+docs/tbi/autonomic.md	REFS-UNLINKED	References section contains no external links
+docs/tbi/cognitive.md	DISCOVER-MISSING	no `## 📚 Discover` evidence brief
+docs/tbi/cognitive.md	MIL-MISSING	no `!!! military` box
+docs/tbi/cognitive.md	REDFLAG-MISSING	no `!!! danger` red-flag box
+docs/tbi/cognitive.md	REFS-UNLINKED	References section contains no external links
+docs/tbi/cognitive.md	TRICARE-NOHEDGE	TRICARE box does not tell the reader to verify at the Formulary Search — tiers change without notice
+docs/tbi/headache.md	DISCOVER-MISSING	no `## 📚 Discover` evidence brief
+docs/tbi/headache.md	MIL-MISSING	no `!!! military` box
+docs/tbi/headache.md	ONELINER-MISSING	no `**One-liner:**`
+docs/tbi/headache.md	ORDERSET-MISSING	no `!!! orderset` box — a clinical page should say what to order
+docs/tbi/headache.md	REDFLAG-MISSING	no `!!! danger` red-flag box
+docs/tbi/headache.md	REFS-MISSING	no `## References` section
+docs/tbi/headache.md	VERIFIED-MISSING	no `*Verified MON YYYY: ...*` footer — the page claims a review date with no audit trail behind it
+docs/tbi/mood-ptsd.md	DISCOVER-MISSING	no `## 📚 Discover` evidence brief
+docs/tbi/mood-ptsd.md	MIL-MISSING	no `!!! military` box
+docs/tbi/mood-ptsd.md	REFS-UNLINKED	References section contains no external links
+docs/tbi/neuroendocrine.md	DISCOVER-MISSING	no `## 📚 Discover` evidence brief
+docs/tbi/neuroendocrine.md	MIL-MISSING	no `!!! military` box
+docs/tbi/neuroendocrine.md	REFS-UNLINKED	References section contains no external links
+docs/tbi/pain-substance.md	DISCOVER-MISSING	no `## 📚 Discover` evidence brief
+docs/tbi/pain-substance.md	MIL-MISSING	no `!!! military` box
+docs/tbi/pain-substance.md	REFS-UNLINKED	References section contains no external links
+docs/tbi/seizures.md	DISCOVER-MISSING	no `## 📚 Discover` evidence brief
+docs/tbi/seizures.md	MIL-MISSING	no `!!! military` box
+docs/tbi/seizures.md	REDFLAG-MISSING	no `!!! danger` red-flag box
+docs/tbi/seizures.md	REFS-UNLINKED	References section contains no external links
+docs/tbi/sleep.md	DISCOVER-MISSING	no `## 📚 Discover` evidence brief
+docs/tbi/sleep.md	MIL-MISSING	no `!!! military` box
+docs/tbi/sleep.md	REFS-UNLINKED	References section contains no external links
+docs/tbi/sleep.md	TRICARE-NOHEDGE	TRICARE box does not tell the reader to verify at the Formulary Search — tiers change without notice
+docs/tbi/vestibular.md	DISCOVER-MISSING	no `## 📚 Discover` evidence brief
+docs/tbi/vestibular.md	MIL-MISSING	no `!!! military` box
+docs/tbi/vestibular.md	REFS-UNLINKED	References section contains no external links
+docs/tbi/vision.md	DISCOVER-MISSING	no `## 📚 Discover` evidence brief
+docs/tbi/vision.md	MIL-MISSING	no `!!! military` box
+docs/tbi/vision.md	REFS-UNLINKED	References section contains no external links

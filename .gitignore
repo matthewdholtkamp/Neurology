@@ -10,10 +10,23 @@ __pycache__/
 # OS
 .DS_Store
 
-# Local editor / tooling settings
-.claude/
+# Local editor / tooling settings stay local — but the review pipeline itself is
+# VERSIONED, so it survives a lost laptop and travels with a fresh clone.
+# (Tracked ≠ runs remotely: these are plain text definitions. Nothing in CI runs them.)
+.claude/*
+!.claude/commands/
+!.claude/agents/
 
 # Source material — copyrighted PDFs / drafts, kept local, never published.
 # Anchored to the repo root and named distinctly so it can NEVER collide with
 # a content path like docs/headache/ (macOS gitignore matching is case-insensitive).
 /_source/
+
+# Review pipeline working files. These hold pasted OpenEvidence output — their
+# copyrighted text, under terms that restrict reuse — so they must NEVER reach a
+# public repo. The durable products (ledger, changelog) get promoted into the page
+# commit; the raw paste dies on this machine. The scorecard is the one exception:
+# it is our own accumulated learning, so it IS tracked.
+/review/*
+!/review/_scorecard.md
+!/review/README.md
