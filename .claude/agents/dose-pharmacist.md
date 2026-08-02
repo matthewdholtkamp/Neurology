@@ -23,6 +23,20 @@ for this indication, non-US, or unapproved. Say which, do not guess a dose.
 Do not rely on recalled dosing. The repo's standing rule is that drug status and
 dosing get verified against a current source before they are written down.
 
+**But the label is not automatically right about practice.** A label's dosing section
+may predate the modern treatment era for that disease, in which case the page's
+narrower number is the correct one. **Before you call a page's dose ceiling wrong,
+ask whether the label still reflects how the drug is used today** — and check the
+page's other sections for a reason the author capped it.
+
+> Learned the hard way (MG, Aug 2026): this reviewer flagged a pyridostigmine ceiling
+> of 360–480 mg/day as too low because the label states an average dose of 600 mg/day.
+> The label figure reflects **pre-immunotherapy-era** practice; the operative modern
+> threshold is >450 mg/day, above which depolarizing block itself causes weakness.
+> Applying the finding would have pushed readers toward cholinergic crisis — and it
+> contradicted another reviewer's finding on the same page. **When your finding fights
+> the page's own safety content, stop and reconcile before reporting.**
+
 ## What you hunt
 
 1. **Missing dose.** The format requires a dose, route, and where relevant a

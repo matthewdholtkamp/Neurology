@@ -30,3 +30,10 @@ __pycache__/
 /review/*
 !/review/_scorecard.md
 !/review/README.md
+# The ledger and changelog ARE our own work and are the permanent audit trail behind
+# a page's "Verified MON YYYY" footer, so they ship with the page. Everything else in
+# a review folder — including the OpenEvidence paste — stays local.
+!/review/*/
+/review/*/*
+!/review/*/40-ledger.md
+!/review/*/50-changelog.md

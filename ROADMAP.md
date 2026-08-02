@@ -152,7 +152,26 @@ Each page's specifics get checked against current sources at build time.
       nerve-agent atropine/pralidoxime/ATNAA-CANA + aging kinetics. MG military box turns on the
       **3-31c / 5.26.l ocular carve-out.**
     - *Note the recurring "research comparative/safety up front" lesson was applied here — built in
-      one pass, not three. Still worth an expert-review pass like MS/NMOSD/MOGAD got.*
+      one pass, not three.*
+    - **[x] MG hub (`docs/nmj/index.md`) — EXPERT-REVIEW PASS DONE 2026-08-02**, the first run of the
+      new `/page` pipeline (5 blind reviewers + scripted FDA-label/PubMed/CT.gov pulls + an
+      OpenEvidence round). 365 → 953 lines; 71 findings, 25 HIGH. **Ten factual corrections**, the
+      largest being that **FDA removed efgartigimod's AChR+ restriction on 8 May 2026** (ADAPT
+      SERON) — it is now the only approved agent with no serostatus gate and the only approved
+      option for the seronegative patient, and the page had been stale on this *before* its own July
+      stamp. Also: **nipocalimab is IV-only** (page said "IV or SC"); **eculizumab's induction month
+      was missing** ("q2 weeks" from the start); **succinylcholine guidance pointed the wrong way**
+      (MG patients are *resistant*); **batoclimab's sponsor declined to file**; the AR 40-501 quote
+      had an inserted word; and the **aeromedical basis was wrong** — Chapter 4 never names MG, the
+      chain runs 4-27 → DoDI 6130.03 **Vol 1 6.26.q**, which has **no ocular carve-out**, so a
+      Soldier *retained* under 3-31c is still grounded on history alone. Added: cholinergic-vs-
+      myasthenic crisis (which `nerve-agent.md` already linked to and which did not exist), C5
+      supplemental dosing after PLEX/IVIG, IVIG boxed warning, ICI triple-M, a far-forward/MEDEVAC
+      pathway, MGFA staging + treatment target + a definition of "refractory", and full dosing for
+      every agent. Audit trail: `review/nmj/40-ledger.md`, `review/nmj/50-changelog.md`.
+    - *Still to do: **LEMS, botulism and nerve-agent have not had the review pass** — run
+      `/page lems` etc. AChR/MuSK/LRP4 frequencies and the 10–15% thymoma figure were carried
+      forward and not re-verified. TRICARE PA criteria remain unverifiable from public sources.*
 - [ ] **Dementia** — anti-amyloid mAbs (lecanemab, donanemab) + ARIA; plasma/CSF
       biomarkers (p-tau217); RT-QuIC replaces 14-3-3 for CJD.
 - [x] **Seizure & epilepsy — BUILT (3 pages):** status epilepticus (AES 2016 ladder, ESETT, RAMPART,

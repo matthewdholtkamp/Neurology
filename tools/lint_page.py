@@ -42,6 +42,10 @@ RE_STAMP = re.compile(
 RE_VERIFIED = re.compile(r"^\*Verified ([A-Z][a-z]+) (\d{4})", re.M)
 RE_ONELINER = re.compile(r"^\*\*One-liner:\*\*", re.M)
 RE_ADMON_OPEN = re.compile(r'^!!! (\w+)(?:\s+"(.*)")?\s*$')
+# Content tabs (`=== "Refractory / steroid-dependent"`) hold prescribing content too.
+# The MG page hid eight undosed biologics in these and the linter passed it clean —
+# tabs are dose-checked exactly like order sets.
+RE_TAB_OPEN = re.compile(r'^===\+?\s+"(.*)"\s*$')
 RE_MD_LINK = re.compile(r"\[[^\]]+\]\((?!#)[^)]+\)")
 
 # A dose is a number followed by a unit, or a frequency/rate expression.
@@ -157,9 +161,12 @@ def parse_blocks(lines):
     n = len(lines)
     while i < n:
         m = RE_ADMON_OPEN.match(lines[i])
-        if not m:
+        tab = None if m else RE_TAB_OPEN.match(lines[i])
+        if not m and not tab:
             i += 1
             continue
+        kind = m.group(1) if m else "tab"
+        title = (m.group(2) if m else tab.group(1))
         start = i
         body = []
         j = i + 1
@@ -177,7 +184,7 @@ def parse_blocks(lines):
         # trim trailing blanks
         while body and body[-1].strip() == "":
             body.pop()
-        blocks.append(Block(m.group(1), m.group(2), start + 1, body))
+        blocks.append(Block(kind, title, start + 1, body))
         i = j
     return blocks
 
@@ -296,7 +303,7 @@ def lint(path):
             "no `!!! orderset` box — a clinical page should say what to order")
 
     drug_bullets = 0
-    for b in ordersets:
+    for b in ordersets + [x for x in blocks if x.kind == "tab"]:
         for k, raw in enumerate(b.lines):
             m = RE_ORDERSET_BULLET.match(raw)
             if not m:

@@ -34,6 +34,16 @@ announcements, conference late-breakers, label revisions, withdrawals.
    Complete Response Letter, or was withdrawn. *This repo has been burned here
    before: tolebrutinib is on record as receiving an FDA CRL in Dec 2025 after
    being assumed approved. Reversals matter as much as approvals.*
+   **And the mirror error: a positive phase 3 is not a coming approval.** Check
+   whether the sponsor actually filed. *(MG, Aug 2026: batoclimab met its phase 3
+   endpoint and the sponsor then declined to file in MG, moving to a
+   next-generation molecule. "Phase 3, not yet approved" read as "pending" when the
+   truth was "never." Say which.)*
+5. **Non-randomized evidence can be practice-changing.** "No randomized difference"
+   is not "no difference" — check for cohort and registry data that has moved
+   practice since the last trial. *(MG, Aug 2026: the randomized IVIG-vs-PLEX data
+   show equivalence in exacerbation, while crisis-specific non-randomized data
+   favour PLEX. The panel missed it; OpenEvidence did not.)*
 5. **Status precision** — "approved" vs "EMA only" vs "phase 3 positive, not yet
    approved" vs "trial ongoing". The page must not blur these.
 

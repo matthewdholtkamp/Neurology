@@ -7,13 +7,20 @@ here is gitignored on purpose.**
 
 `30-openevidence.md` holds pasted OpenEvidence output — their copyrighted text,
 under terms that restrict reuse. This repo is public. So `.gitignore` keeps
-`review/*` out of git, with two exceptions that are our own work:
+`review/*` out of git, with four exceptions, all of them our own work:
 
 - `review/README.md` (this file)
-- `review/_scorecard.md`
+- `review/_scorecard.md` — the accumulated OE-vs-panel learning
+- `review/<slug>/40-ledger.md` and `review/<slug>/50-changelog.md` — the audit trail
+  standing behind a page's `*Verified MON YYYY*` footer, so they ship with the page
 
-`40-ledger.md` and `50-changelog.md` get committed alongside the page they belong
-to, not from here.
+The `.gitignore` enforces this **per file, by name**, so a new review folder gets the
+same treatment automatically — the OpenEvidence paste can never be committed by
+accident. Verify any time with:
+
+```bash
+git check-ignore -v review/<slug>/30-openevidence.md
+```
 
 ## Files in a review folder
 

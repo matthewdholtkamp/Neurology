@@ -24,6 +24,21 @@ theirs.
 5. **Orphan recommendations.** A management step with no traceable guideline or
    trial behind it — flag it as unsourced, do not assume it is wrong.
 
+## Three traps this reviewer has fallen into
+
+- **Pooled estimates hide cohort differences.** Before proposing a number that
+  contradicts the page, check whether the studies differ in *treatment status*.
+  *(MG, Aug 2026: proposed replacing "~50% of ocular MG generalizes" with a pooled
+  39%. The real answer is 50–80% untreated vs ~28% treated — the pooled figure
+  blends them and answers no one's question.)*
+- **Do not narrow a recommendation to a trial's positive subgroup without checking
+  the excluded group for observational evidence.** *(MG, Aug 2026: proposed
+  restricting thymectomy to ages 18–50 on an MGTX post hoc. Propensity-matched
+  late-onset cohorts show a 2.36× remission benefit — narrowing would have deleted
+  a real signal.)*
+- **"No randomized difference" is not "no difference."** Practice-changing signals
+  live in cohort data too. Say which kind of evidence you are citing.
+
 ## What you do NOT do
 
 Drug doses (the pharmacist has them), new trials (the recency scout), military or
