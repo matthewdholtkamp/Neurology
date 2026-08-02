@@ -169,9 +169,25 @@ Each page's specifics get checked against current sources at build time.
       supplemental dosing after PLEX/IVIG, IVIG boxed warning, ICI triple-M, a far-forward/MEDEVAC
       pathway, MGFA staging + treatment target + a definition of "refractory", and full dosing for
       every agent. Audit trail: `review/nmj/40-ledger.md`, `review/nmj/50-changelog.md`.
-    - *Still to do: **LEMS, botulism and nerve-agent have not had the review pass** — run
-      `/page lems` etc. AChR/MuSK/LRP4 frequencies and the 10–15% thymoma figure were carried
-      forward and not re-verified. TRICARE PA criteria remain unverifiable from public sources.*
+    - **[x] LEMS (`docs/nmj/lems.md`) — REVIEW PASS DONE 2026-08-02**, and the first run of the
+      **rebuilt cheapest-source-first pipeline: 1 agent instead of 5, ~72k agent tokens instead of
+      ~735k.** 152 → 478 lines. Scripted pass caught the undosed amifampridine and the FDA label
+      supplied the fix (weight bands, titration, **NAT2 poor-metabolizer** adjustment — 40–60%
+      prevalence). OpenEvidence corrected the surveillance interval to **4–6 months** (2021
+      PNS-Care), resolved facilitation to **≥60%**, and caught that **"80–100 mg/day" conflated the
+      US label maximum with the EMA/expert cap**. Two reversals of common teaching now stated:
+      **LEMS does not reliably flare when the tumour recurs** (not a recurrence sentinel), and
+      **SCLC with LEMS survives materially longer than SCLC alone** (17 vs 7 months). The one agent
+      found what nothing else could: **5.26.i was working against the page** (the only subparagraph
+      with its own permanence qualifier), the malignancy standard by paragraph (**AR 40-501 3-34a**
+      / **DoDI 5.29**), the **5.26.a** gate, an EPTS/LOD field, the **MAR2-vs-DES fork**, and
+      aeromedical via **4-27 → Vol 1 6.26.q** plus categorically via **4-30b**. Added a TRICARE box.
+      Audit trail: `review/lems/40-ledger.md`, `review/lems/50-changelog.md`.
+    - *Still to do: **botulism and nerve-agent have not had the review pass** — run
+      `/page botulism` and `/page nerve-agent`. AChR/MuSK/LRP4 frequencies and the 10–15% thymoma
+      figure were carried forward and not re-verified. TRICARE PA criteria remain unverifiable from
+      public sources. On LEMS specifically: the DA Pam 40-502 PULHES attribution was inherited from
+      the MG page rather than re-opened, and AR 40-501 4-24/4-24a was deliberately not carried over.*
 - [ ] **Dementia** — anti-amyloid mAbs (lecanemab, donanemab) + ARIA; plasma/CSF
       biomarkers (p-tau217); RT-QuIC replaces 14-3-3 for CJD.
 - [x] **Seizure & epilepsy — BUILT (3 pages):** status epilepticus (AES 2016 ladder, ESETT, RAMPART,

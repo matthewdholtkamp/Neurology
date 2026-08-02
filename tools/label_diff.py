@@ -67,6 +67,8 @@ avoid check monitor treat consider start stop hold find admit serial intubate
 first second third next before after during while when where what who why how
 in on at by from up down out off over under again further once here there
 only just also very such same than too now then still yet but so
+expect expects occur occurs occurred divided mandatory watch reserve raise
+lower lowering target note tell warn counsel screen prefer choose pick keep
 """.split())
 
 
