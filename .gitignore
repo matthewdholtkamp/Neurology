@@ -10,8 +10,14 @@ __pycache__/
 # OS
 .DS_Store
 
-# Local editor / tooling settings
-.claude/
+# Local editor / tooling settings. Machine-specific settings stay local, but the
+# shared authoring pipeline (skills, slash commands, project settings) is COMMITTED
+# so it behaves identically on every machine and in web sessions.
+.claude/*
+!.claude/skills/
+!.claude/commands/
+!.claude/settings.json
+.claude/settings.local.json
 
 # Source material — copyrighted PDFs / drafts, kept local, never published.
 # Anchored to the repo root and named distinctly so it can NEVER collide with
