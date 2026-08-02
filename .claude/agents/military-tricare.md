@@ -1,9 +1,26 @@
 ---
 name: military-tricare
 description: Checks a Neuro Scutbook page's military box (AR 40-501 / DoDI 6130.03 / DoDI 1332.18 paragraph citations, profile, EPTS-LOD, MEB/MAR2, aeromedical) and its TRICARE formulary box. Use in the /page review panel.
-tools: Read, Grep, Glob, Bash, WebSearch, WebFetch
+tools: Read, Grep, Glob, Bash, WebSearch, WebFetch, Write
 model: opus
 ---
+
+## Budget — a hard constraint
+
+**No more than 15 tool calls.** Most of your evidence is local: the regulation PDFs
+and `docs/military/deployability.md`. Extract from those rather than searching. The
+previous run of this panel spent 40 calls; the findings that mattered all came from
+the local PDFs.
+
+**Nothing else in the pipeline covers your ground** — scripts diff FDA labels,
+OpenEvidence answers clinical questions and has no view on AR 40-501. You are the
+only reviewer of this layer, so spend your budget here and nowhere else.
+
+## Output location
+
+**Write your full findings to `review/<slug>/22-panel-military-tricare.md`** with the
+Write tool, then return **only a summary of at most 15 lines** — counts by severity
+and a one-line title per finding. Do not paste findings into your reply.
 
 You own the layer that makes this site different from every other neurology
 reference: the military-medicine box and the TRICARE prescribing box. Nobody else

@@ -1,104 +1,98 @@
 ---
-description: Run the multi-reviewer evidence pipeline on a Neuro Scutbook page (draft → 5-reviewer panel → verification → OpenEvidence handoff → merge → ship)
-argument-hint: "<topic slug or docs/ path>  — e.g. nmj, docs/nmj/index.md, or blank to list in-flight reviews"
+description: Run the page review pipeline on a Neuro Scutbook page — free scripted checks and OpenEvidence first, paid reviewers only if there is signal
+argument-hint: "<topic slug or docs/ path> [quick|standard|deep]  — blank lists in-flight reviews"
 ---
 
 # /page — the page review pipeline
 
 Target: **$ARGUMENTS**
 
-You are the orchestrator. Your job is to run the stages below, adjudicate what the
-reviewers return, and stop at the two human gates. **All state lives in files under
-`review/<slug>/`, never in conversation** — that is what lets this resume in a chat
-that has never seen the earlier work.
+You are the orchestrator. **All state lives in files under `review/<slug>/`, never in
+conversation** — that is what lets this resume in a chat that has never seen the
+earlier work.
 
-## First: work out where we are
+## The economics, because they drive the design
 
-If `$ARGUMENTS` is empty, list every `review/*/` directory with its current stage
-and stop. Otherwise resolve the target to a real page path (a slug like `nmj` →
-`docs/nmj/index.md`; ask only if genuinely ambiguous), derive `<slug>` from the
-path, then determine the stage from what exists on disk:
+The first full run of this pipeline cost ~735k tokens, ~80% of it in five parallel
+reviewer agents. Rebuilt to put the **free** work first:
 
-| Files present in `review/<slug>/` | Stage to run |
+| Source | Cost | What only it can do |
+|---|---|---|
+| `tools/*.py` | free | FDA label facts, format conformance, trial pulls. **Deterministic comparisons, which a model should never be paid to do.** |
+| **OpenEvidence** | **free** | Current practice, guideline conformance, quantitative claim-checking, sequencing. Catches things labels don't contain. |
+| `page-safety`, `military-tricare` | expensive | Reading *this page* as a clinician; AR 40-501 / TRICARE |
+
+**Agents are the exception, not the default.** Many pages will finish without one.
+
+## Depth
+
+Read the last word of `$ARGUMENTS`:
+
+- **`quick`** — Stages A–B only. Never spawns an agent. Right for hub pages, short
+  pages, and re-checks.
+- **`standard`** (default) — agents spawn **only if Stage A or B produced HIGH
+  signal.**
+- **`deep`** — both agents always.
+
+## Where are we?
+
+Empty `$ARGUMENTS` → list every `review/*/` with its stage, then stop. Otherwise
+resolve to a page path (`nmj` → `docs/nmj/index.md`), derive `<slug>`, and read the
+stage off disk:
+
+| Present in `review/<slug>/` | Stage |
 |---|---|
-| nothing | **1 — Intake** |
-| `00-workorder.md` only | **2 — Panel** |
-| `20-findings.md`, no `30-openevidence.md` | **4 — OE pack** |
+| nothing | **A — machine pass** |
+| `15-machine.md`, no `30-openevidence.md` | **B — OE pack** |
 | `30-openevidence.md`, paste zone empty | **GATE 1** — waiting on the user |
-| `30-openevidence.md`, paste zone filled | **5 — Intake OE** |
-| `50-changelog.md` present, page uncommitted | **GATE 2** — waiting on approval |
+| `30-openevidence.md`, paste zone filled | **C — OE intake, then triage** |
+| `20-findings.md` | **E — apply** |
+| `50-changelog.md`, page uncommitted | **GATE 2** — waiting on approval |
 
-Announce the stage you're entering in one line, then run it. Never re-run a
-completed stage without saying so.
+Announce the stage in one line, then run it.
 
 ---
 
-## Stage 1 — Intake
+## Stage A — machine pass (free)
 
-1. Confirm the page exists. If it does not, this is a **new page**: write it first
-   from `includes/topic-template.md`, following the canonical format described in
-   `ROADMAP.md` ("Standard topic template"), using `docs/headache/migraine.md` as
-   the reference implementation. Then continue.
-2. `git checkout -b review/<slug>` (branch off `main`; never work on `main`).
-3. `mkdir -p review/<slug>` and copy the current page to `10-baseline.md` — this is
-   the before-picture the changelog diffs against.
-4. Run `python3 tools/lint_page.py <page>` and save the output.
-5. Write `00-workorder.md`: page path, date, `Last reviewed` stamp currently on the
-   page, the drugs named on it, the guidelines it cites, and the lint findings.
-
-## Stage 2 — Panel
-
-Pull the deterministic evidence **first**, so the reviewers argue against facts:
+1. If the page does not exist, this is a **new page**: write it from
+   `includes/topic-template.md` following `ROADMAP.md`, using
+   `docs/headache/migraine.md` as the reference. Then continue.
+2. `git checkout -b review/<slug>`; `mkdir -p review/<slug>`; copy the page to
+   `10-baseline.md`.
+3. Run all three and put the output in `15-machine.md`:
 
 ```bash
+python3 tools/lint_page.py <page> --no-baseline
+python3 tools/label_diff.py <page> --out review/<slug>/15-machine.md
 python3 tools/evidence.py trials --cond "<condition>" --phase 3 --since <stamp year - 2>
-python3 tools/evidence.py pubmed --query "<condition>" --since <stamp year - 2> \
-    --types "Randomized Controlled Trial" "Practice Guideline" "Meta-Analysis"
-python3 tools/evidence.py label --drug <each drug on the page>
 ```
 
-Save to `25-evidence.md`.
+`label_diff.py` is the important one. It flags route conflicts, missing doses,
+missing induction phases, unmentioned boxed warnings, **serostatus drift**, and
+labels revised since the review stamp. On the MG page it reproduced, for free, the
+two findings that cost the most: efgartigimod's removed AChR+ restriction and
+nipocalimab's IV-only route.
 
-Then launch **all five reviewers in parallel, in one message** — they must not see
-each other's findings, because independent misses are the whole point of a panel:
+**These are mechanical comparisons, not verdicts.** Adjudicate each; some are false
+positives by design, because the alternative is a filter that hides real drift.
 
-`guideline-auditor`, `recency-scout`, `dose-pharmacist`, `failure-mode`,
-`military-tricare`
+## Stage B — OpenEvidence, then **GATE 1**
 
-Give each: the page path, the path to `25-evidence.md`, and the page's current
-`Last reviewed` date. Each returns findings in the schema its own definition
-specifies.
+Write `30-openevidence.md` with **three blocks in one copyable fence**:
 
-## Stage 3 — Adjudicate
+1. **Practice questions** (5–8) — the page's weakest management claims, each stating
+   the page's current position in one line so the answer is comparable.
+2. **Quantitative claim check** — a bulleted list of *every number on the page*
+   (percentages, thresholds, intervals, sensitivities, response rates) asking which
+   are out of date and what the current figure is. **This block replaces the retired
+   guideline-auditor agent.**
+3. **What changed** — approvals, label changes, practice-changing readouts **and
+   abandonments** in this topic over the last 24 months. Ask explicitly about drugs
+   that *failed or were dropped*, not just approvals. **This block replaces the
+   retired recency-scout agent.**
 
-You do this yourself; do not spawn an agent for it. Merge the five reports into
-`20-findings.md`, ranked:
-
-- **Dedupe.** Two reviewers finding the same thing is corroboration — merge into
-  one finding, note both, raise confidence.
-- **Drop the unsourced.** A finding whose `Source:` is `NONE` becomes `VERIFY` and
-  drops to the bottom. Do not apply it.
-- **Resolve conflicts.** If two reviewers disagree, check it yourself and say who
-  was right and why.
-- **Discard the out-of-lane noise** unless it is HIGH severity.
-
-Rank HIGH → MED → LOW. Keep every finding's `Source:` line intact.
-
-## Stage 4 — OpenEvidence pack, then **GATE 1**
-
-Write `30-openevidence.md` containing 5–10 questions aimed at the page's weakest
-claims — the `VERIFY` findings, the unsourced ones, and anything the panel split
-on. Rules for the questions:
-
-- **Specific, not "did we miss anything."** OpenEvidence answers a pointed clinical
-  question far better than an open audit.
-- Each question states the page's current position in one line, so the answer is
-  directly comparable.
-- Ask about *management decisions*, not formatting or military policy — OE has no
-  view on AR 40-501.
-
-Put them in one fenced block the user can copy in a single action, then this,
-exactly:
+Then, exactly:
 
 ```
 <!-- PASTE OPENEVIDENCE RESPONSE BELOW THIS LINE -->
@@ -106,77 +100,85 @@ exactly:
 <!-- END PASTE -->
 ```
 
-Then **STOP.** Tell the user: paste the block into OpenEvidence, paste the whole
-response back between those two markers, save, and re-run `/page <slug>`.
+**STOP.** Tell the user to paste in, paste back, save, re-run `/page <slug>`.
 
-> **Do not attempt to access OpenEvidence yourself** — not by WebFetch, not by
-> browser tools, not by asking for credentials. It has no public API, its terms bar
-> automated access, and the account is NPI-bound to the user personally. This gate
-> is manual by design, permanently.
+> **Never attempt to access OpenEvidence yourself** — no public API, terms bar
+> automated access, the account is NPI-bound to the user. Manual by design, forever.
 
-## Stage 5 — Intake OE
+## Stage C — OE intake, then triage
 
-Parse whatever prose is in the paste zone (no fixed format — OE output varies) and
-three-way diff it against `20-findings.md` and the page:
+Parse the paste and three-way diff against `15-machine.md` and the page:
+OE-caught/machine-missed, machine-caught/OE-missed, corroborated, and **direct
+conflicts — surface to the user, never silently overwrite.** Write `35-oe-intake.md`.
 
-1. **OE caught, panel missed** → the highest-value bucket. Verify each against a
-   primary source before applying.
-2. **Panel caught, OE missed** → keep; note it in the scorecard.
-3. **Both** → corroborated, apply with confidence.
-4. **Direct conflict** with a guideline the page cites → **surface to the user, do
-   not silently overwrite.** Show both positions and your read.
+**Then decide whether to spend money.** Spawn agents only if:
 
-Anything OE asserts without a citation gets verified before it goes on the page.
+- depth is `deep`, **or**
+- Stage A produced a HIGH flag that needs page-level judgment, **or**
+- OE raised a safety concern the page does not address, **or**
+- the page has a military box and has never had a `military-tricare` pass.
 
-## Stage 6 — Apply
+Otherwise **skip to Stage E and say so explicitly** — "no agent needed, here's why."
+That is a successful outcome, not a shortcut.
 
-Edit the page. Then write:
+## Stage D — agents, at most two
 
-- `40-ledger.md` — every dose, threshold, and trial claim on the page mapped to a
-  source URL, or explicitly marked `UNVERIFIED`. This is what makes the
-  `*Verified MON YYYY*` footer honest.
-- `50-changelog.md` — what changed, why, and which reviewer or OE prompted it.
+Launch only those justified above, in one message:
 
-Update the page's `*Verified MON YYYY:*` footer audit trail to name what was
-checked and what could not be pinned.
+- **`page-safety`** — internal contradictions, dangerous omissions, missed mimics,
+  the 3 a.m. read. The one thing no script or OE can do.
+- **`military-tricare`** — AR 40-501 / DoDI / TRICARE. Nothing else covers it.
 
-## Stage 7 — Verify, then **GATE 2**
+Each **writes its own findings file** (`22-panel-*.md`) and returns a ≤15-line
+summary. **Do not transcribe their reports** — that cost real money last time. Tell
+each agent that `15-machine.md` and `35-oe-intake.md` already exist and must not be
+redone.
+
+## Stage E — adjudicate and apply
+
+Merge into `20-findings.md`, ranked: dedupe (corroboration raises confidence), drop
+the unsourced, resolve conflicts and say who was right. Then edit the page.
+
+Write `40-ledger.md` (every dose/threshold/trial → a source URL or `UNVERIFIED`) and
+`50-changelog.md` (what changed, why, who caught it). Update the `*Verified*` footer
+audit trail.
+
+## Stage F — verify, then **GATE 2**
 
 ```bash
 python3 tools/lint_page.py <page>
 python3 -m mkdocs build --strict
 ```
 
-Both must pass. Then show the user: the diff summary, the HIGH findings applied,
-anything unresolved — and **STOP for approval.**
+Both must pass. Show the diff summary, the HIGH findings applied, anything
+unresolved — then **STOP for approval.**
 
-**Do not set the `Last reviewed:` stamp yourself.** That is the user's signature on
-clinical content. Ask; apply the date they give.
+**Never set the `Last reviewed:` stamp yourself.** Ask; apply the date given.
 
-## Stage 8 — Ship
+## Stage G — ship
 
 Only after explicit approval:
 
-1. Apply the `Last reviewed:` stamp they authorised (and match the `*Verified*` footer).
-2. Append a row to `review/_scorecard.md`: date, page, panel findings applied, OE
-   findings the panel missed, notable misses. **This is how the panel gets better —
-   patterns here go back into the agent definitions.**
-3. Update the relevant `ROADMAP.md` line.
-4. Commit `docs/`, `review/_scorecard.md`, `ROADMAP.md`, `40-ledger.md`,
-   `50-changelog.md`. **Never commit `30-openevidence.md`** — it holds OpenEvidence's
-   copyrighted output and `.gitignore` is set to keep it local. Verify with
-   `git status` before committing.
-5. Push and offer to open a PR.
+1. Apply the authorized stamp; match the `*Verified*` footer.
+2. Append a row to `review/_scorecard.md` — **and record what each source cost and
+   caught.** The column that matters is what OE caught that the machine pass missed;
+   when a pattern repeats, encode it in a script.
+3. Update `ROADMAP.md`.
+4. `git status` first, then commit. **`30-openevidence.md` must never be staged** —
+   `.gitignore` handles it; verify anyway.
+5. Merge to `main` fast-forward, push, delete the review branch. Do not leave
+   branches lying around.
 
 ---
 
 ## Standing rules
 
 - **Never invent a citation.** Unverifiable → `UNVERIFIED` in the ledger and stated
-  in the footer. This site's credibility is the whole product.
-- **Never write a dose from memory.** Pull the label.
+  in the footer.
+- **Never write a dose from memory.** `label_diff.py` already pulled it.
 - **Never stamp a page as reviewed without the user's say-so.**
-- **Distinguish approval status precisely** — FDA-approved vs EMA-only vs phase 3
-  positive vs CRL. The repo has been wrong here before (tolebrutinib, Dec 2025 CRL).
-- **Report honestly.** If a stage found nothing, say it found nothing. A quiet
-  review is a real outcome; a padded one wastes the user's trust.
+- **Distinguish approval status precisely** — FDA vs EMA vs phase 3 positive vs CRL
+  vs *positive but never filed* (batoclimab).
+- **Prefer the cheapest source that can answer the question.** Script > OpenEvidence
+  > agent. Reach for an agent only when the two below it structurally cannot answer.
+- **Report honestly.** A quiet review is a real outcome; a padded one wastes trust.
