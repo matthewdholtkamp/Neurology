@@ -34,7 +34,7 @@ The pipeline itself is committed to the repo, so it runs the same in both places
 
 ```bash
 cd ~/Desktop/"Research AI"/Neurology     # quotes: the folder name has a space
-git pull origin main
+git pull origin main                     # or the working branch, if unmerged
 claude
 ```
 
