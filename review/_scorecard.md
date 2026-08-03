@@ -15,6 +15,27 @@ Read the **"OE caught, panel missed"** column as the backlog for improving the p
 
 | 2026-08-02 | `docs/nmj/lems.md` | 4 | 11 (1 agent) | **19** — PLEX-era practice aside, the big ones: surveillance interval 3–6 → **4–6 months** (2021 PNS-Care); `80–100 mg/day` conflates the **US max (100)** with the **EMA/expert cap (80)**; facilitation resolves to **≥60%**; **LEMS does not flare when the tumour recurs**; **SCLC+LEMS survives longer** than SCLC alone; don't order N-type VGCC; anaesthesia NMBA hazard; checkpoint-inhibitor de novo LEMS | The **scripted** pass caught the missing dose *and supplied the fix from the label* (incl. NAT2). The **agent** caught what nothing else could: **5.26.i was working against the page**, the malignancy standard by paragraph (3-34a / 5.29), and aeromedical 4-30b | Cheapest-source-first works ↓ |
 
+| 2026-08-02 | `docs/nmj/botulism.md` | 3 | 12 (1 agent) | **~20** — and **3 outright wrong positions**: skin testing must not delay antitoxin; there is **no interval** past which antitoxin stops helping (toxin in serum 11–12 d); iatrogenic botulism is no longer "usually mild" (195 cases, 16.4% ventilated). Plus the whole airway rewrite — **airway obstruction precedes hypoventilation**, VC falsely low with facial diplegia, **NIV should be discouraged** (reversal from MG) | Machine: BabyBIG undosed (label supplied the fix) + **proved BAT is absent from openFDA**. Agent: **no botulism vaccine** (toxoid discontinued 2011; verified AR 40-562 has 0 botulinum entries), **5.26.i is right here and wrong on LEMS**, **6.26.q must NOT be copied** (needs chronicity → use 6.26.n), "no board at all" is the commonest answer | Agents can and should refuse to copy their own prior answers ↓ |
+
+**Run notes (2026-08-02, botulism).** 86k agent tokens, **13 tool calls**. Two results worth
+keeping:
+
+1. **The agent twice declined to copy its own earlier reasoning across pages, correctly.** It had
+   told the LEMS page to *avoid* `5.26.i`; here it said to **lead with it**, because the permanence
+   qualifier that hurt LEMS is exactly the question in botulism. It likewise refused the
+   MG/LEMS aeromedical chain because `6.26.q` requires **chronicity**. Mechanical reuse of a prior
+   finding would have been wrong both times.
+2. **It pushed back on the tasking.** I told it BAT and BabyBIG are both free through public health;
+   it agreed for BAT, **refused for BabyBIG** (CDPH bills for it), could not confirm within budget,
+   and declined to state it. Hedged on the page.
+
+**Tooling:** `label_diff.py` was reading `Population: Drug` bullets backwards — inventing a drug
+called `infants` while never checking BAT or BabyBIG. Fixed with post-colon extraction (gated to
+real population heads, after a first attempt invented `hbsag`) and **brand-name harvesting from
+parentheses**, which is the only reason BabyBIG resolved. **Structural limit recorded: BAT is not in
+the openFDA drug-label API at all** — a CDC-released biologic — so its paediatric dosing was
+**deliberately not written**, with the insert named as controlling.
+
 **Run notes (2026-08-02, LEMS) — first run of the rebuilt pipeline.**
 **1 agent instead of 5. 71,812 agent tokens vs ~735,000. 15 tool calls vs 191.** The agent wrote
 its own findings file, so there was no transcription tax. The free stages did the entire clinical

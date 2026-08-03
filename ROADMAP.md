@@ -183,8 +183,28 @@ Each page's specifics get checked against current sources at build time.
       / **DoDI 5.29**), the **5.26.a** gate, an EPTS/LOD field, the **MAR2-vs-DES fork**, and
       aeromedical via **4-27 → Vol 1 6.26.q** plus categorically via **4-30b**. Added a TRICARE box.
       Audit trail: `review/lems/40-ledger.md`, `review/lems/50-changelog.md`.
-    - *Still to do: **botulism and nerve-agent have not had the review pass** — run
-      `/page botulism` and `/page nerve-agent`. AChR/MuSK/LRP4 frequencies and the 10–15% thymoma
+    - **[x] Botulism (`docs/nmj/botulism.md`) — REVIEW PASS DONE 2026-08-02.** 151 → 584 lines,
+      **1 agent, 86k tokens, 13 tool calls.** **Three positions were wrong, not thin:** skin testing
+      **must not delay** equine antitoxin (AAAAI/CDC workgroup — no fatal anaphylaxis has ever been
+      reported with any botulinum antitoxin); **there is no interval past which antitoxin stops
+      being beneficial** (toxin detected in serum 11–12 days after ingestion), where the page had
+      implied a closing window; and **iatrogenic botulism is no longer "usually mild"** — 195 cases
+      at one Chinese centre in two months, 16.4% ventilated, driven by counterfeit product (England
+      seized vials assaying 370 U against a 200 U label). The **airway section was rewritten around
+      a fact it never stated** — airway obstruction and aspiration **precede** hypoventilation, so
+      the MG thresholds do not transfer, vital capacity reads falsely low when facial diplegia
+      breaks the mouthpiece seal, and **NIV should be actively discouraged** (a reversal from the MG
+      page). Diagnosis now states that **17% have paresthesias, 13% raised CSF protein and 7% are
+      frankly atypical**, and that **a negative EDx cannot exclude botulism**. Military box went from
+      4 bullets to the most developed on the site: **there is no botulism vaccine** (pentavalent
+      toxoid discontinued 30 Nov 2011 under IND 161 / IND 3723 — and **AR 40-562 verified to contain
+      zero botulinum entries**), retention via **3-31k → 3-1** with **5.26.i** as the DoD floor
+      (**the opposite of the LEMS answer** — its permanence qualifier fits here), aeromedical via
+      **6.26.n on the 4-27g "until complete recovery" model, explicitly NOT 6.26.q**, and "no board
+      at all" named as the commonest correct outcome. **BAT's paediatric dosing was deliberately not
+      written** — absent from openFDA, age-band percentage table, insert is controlling.
+      Audit trail: `review/botulism/40-ledger.md`, `50-changelog.md`.
+    - *Still to do: **nerve-agent has not had the review pass** — run `/page nerve-agent`. AChR/MuSK/LRP4 frequencies and the 10–15% thymoma
       figure were carried forward and not re-verified. TRICARE PA criteria remain unverifiable from
       public sources. On LEMS specifically: the DA Pam 40-502 PULHES attribution was inherited from
       the MG page rather than re-opened, and AR 40-501 4-24/4-24a was deliberately not carried over.*

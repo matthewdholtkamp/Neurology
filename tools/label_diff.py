@@ -69,7 +69,33 @@ in on at by from up down out off over under again further once here there
 only just also very such same than too now then still yet but so
 expect expects occur occurs occurred divided mandatory watch reserve raise
 lower lowering target note tell warn counsel screen prefer choose pick keep
+infant infants adult adults child children pediatric paediatric neonate neonates
+patient patients everyone anyone women men pregnancy pregnant
 """.split())
+
+
+# What a "Population: Drug" head looks like. Narrow on purpose.
+POPULATION_HEAD = re.compile(
+    r"\b(infants?|adults?|child(ren)?|p(a)?ediatric|neonates?|patients?|"
+    r"seronegative|serostatus|AChR|MuSK|LRP4|"
+    r"\d+\s*(kg|years?|yrs?|months?|mo)\b|weight|age)\b", re.I)
+
+
+def brand_candidates(label_text):
+    """Brand names usually live in the parentheses — 'human-derived botulism immune
+    globulin (BabyBIG)', 'heptavalent botulinum antitoxin (HBAT/BAT, equine)'. The
+    generic phrasing on the page often will not match openFDA while the brand does,
+    so harvest those tokens too."""
+    out = []
+    for inner in re.findall(r"\(([^)]{2,60})\)", label_text):
+        for tok in re.split(r"[/,;]| or | and ", inner):
+            tok = re.sub(r"[*_`]", "", tok).strip().lower()
+            # Keep short all-caps acronyms (BAT) and ordinary words; drop routes and
+            # descriptors that will never be a brand.
+            if (2 <= len(tok) <= 30 and re.match(r"^[a-z][a-z0-9\- ]*$", tok)
+                    and tok not in ("equine", "human", "iv", "sc", "po", "im")):
+                out.append(tok)
+    return out
 
 
 def plausible_drug_name(drug):
@@ -128,7 +154,21 @@ def normalize_drug(label_text):
     Note we do NOT split on '-': that turns 'Steroid-sparing oral agents' into
     'steroid' and invents a drug that isn't there.
     """
-    s = re.split(r"[(—–;,:/]| - ", label_text, 1)[0]
+    # "Population: Drug" bullets are common — "Infants: human-derived botulism
+    # immune globulin (BabyBIG)". Splitting at the first delimiter yields "infants"
+    # and the actual drug is never checked, so take the text AFTER the colon — but
+    # ONLY when what precedes it really is a population. Applying this to every
+    # colon turns "Before the first dose: HBsAg/anti-HBc..." into a drug called
+    # "hbsag".
+    if ":" in label_text:
+        head, tail = label_text.rsplit(":", 1)
+        if POPULATION_HEAD.search(head) and len(head.split()) <= 6:
+            s = tail
+        else:
+            s = label_text
+    else:
+        s = label_text
+    s = re.split(r"[(—–;,/]| - ", s, 1)[0]
     s = re.sub(r"[*_`]", "", s).strip().lower()
     words = s.split()
     if len(words) > 2:
@@ -182,6 +222,7 @@ def page_claims(path):
             seen.add(drug)
             claims.append({
                 "drug": drug, "bullet_label": name,
+                "brands": brand_candidates(name),
                 "line": b.start + 1 + k, "text": body,
             })
     return claims, stamp_ym, text
@@ -195,12 +236,16 @@ FIELDS = ("indications_and_usage", "dosage_and_administration", "boxed_warning",
           "contraindications", "warnings_and_cautions")
 
 
-def fetch_label(drug):
-    """Try the normalized name, then its first word ('mycophenolate mofetil' ->
-    'mycophenolate'). openFDA finding a label is our proof that this is a drug."""
+def fetch_label(drug, brands=None):
+    """Try the normalized name, then any brand names from the parentheses, then the
+    first word ('mycophenolate mofetil' -> 'mycophenolate'). openFDA finding a label
+    is our proof that this is a drug."""
     candidates = [drug]
+    for b in (brands or []):
+        if b not in candidates:
+            candidates.append(b)
     first = drug.split()[0] if drug.split() else ""
-    if first and first != drug:
+    if first and first not in candidates:
         candidates.append(first)
     for cand in candidates:
         for field in ("openfda.generic_name", "openfda.substance_name",
@@ -437,7 +482,7 @@ def main(argv=None):
     rows = []
     skipped = []
     for c in claims:
-        lab = fetch_label(c["drug"])
+        lab = fetch_label(c["drug"], c.get("brands"))
         if lab is None and not drug_signal(c):
             # openFDA doesn't know it and the bullet carries no drug signal —
             # it's a heading or a non-pharmacological intervention. Say nothing.
