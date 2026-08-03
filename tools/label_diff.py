@@ -71,6 +71,7 @@ expect expects occur occurs occurred divided mandatory watch reserve raise
 lower lowering target note tell warn counsel screen prefer choose pick keep
 infant infants adult adults child children pediatric paediatric neonate neonates
 patient patients everyone anyone women men pregnancy pregnant
+reaction reactions related effects effect warning warnings monitoring counselling
 """.split())
 
 

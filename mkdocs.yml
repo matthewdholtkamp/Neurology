@@ -110,6 +110,13 @@ nav:
       - "— LEMS": nmj/lems.md
       - "— Botulism": nmj/botulism.md
       - "— Nerve agent / organophosphate": nmj/nerve-agent.md
+    - Dementia & cognitive impairment:
+      - Approach to cognitive impairment: dementia/index.md
+      - "— Alzheimer's disease": dementia/alzheimers.md
+      - "— Dementia with Lewy bodies / PDD": dementia/lewy-body.md
+      - "— Frontotemporal dementia": dementia/frontotemporal.md
+      - "— Vascular cognitive impairment": dementia/vascular.md
+      - "— Rapidly progressive dementia": dementia/rapidly-progressive.md
   - Military medicine:
       - Profiles, MEB/MAR2 & deployability: military/deployability.md
   - About:

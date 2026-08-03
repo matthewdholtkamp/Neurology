@@ -95,7 +95,8 @@ NON_DRUG_BULLET = re.compile(
     r"tools|prism|lens|exercise|rehab|vestibular|reposition|epley|block|"
     r"stimulation|neuromodulation|rtms|tms|cbt|therapy|device|provider|"
     r"evidence|home|office|trial|full|driving|mild|moderate|severe|adrenal|"
-    r"diabetes insipidus|siadh|topical|nsaid|pap\b|schedule)",
+    r"diabetes insipidus|siadh|topical|nsaid|pap\b|schedule|"
+    r"infusion-related|reaction|counsel|combination|non-pharmacolog)",
     re.I,
 )
 
