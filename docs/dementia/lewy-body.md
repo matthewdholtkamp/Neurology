@@ -13,8 +13,11 @@ anyone puzzled by a patient whose cognition swings between visits, and anyone wh
 patient "has Alzheimer's but sees things."
 
 !!! danger "🚩 Neuroleptic sensitivity — the reason this page exists"
-    **Up to about half of patients with DLB have a severe sensitivity reaction to antipsychotics**,
-    and it can be **irreversible or fatal.** The reaction is acute onset or worsening of
+    **Severe antipsychotic sensitivity reactions occur in a large minority of DLB patients**, and
+    they can be **irreversible or fatal.** *(The figure often quoted is "up to about half"; the
+    Fourth Consensus Criteria list neuroleptic sensitivity as a **supportive clinical feature** and
+    deliberately assign no percentage, because exposure is inconsistent and definitions vary. Treat
+    it as common enough to change your prescribing, not as a number to quote.)* The reaction is acute onset or worsening of
     **parkinsonism, rigidity, impaired consciousness, autonomic instability** — a
     **neuroleptic-malignant-like syndrome.**
 
@@ -73,7 +76,9 @@ atonia.**
 6. **Start a cholinesterase inhibitor.** This class works better here than in Alzheimer's disease.
 7. **Treat the symptom that most impairs function**, one at a time: hallucinations, RBD,
    parkinsonism, orthostasis, or sleepiness.
-8. **Address falls, driving and caregiver support.**
+8. **Address falls, driving and caregiver support.** **Do not apply the Alzheimer's driving
+   thresholds here** — DLB impairs driving fitness more severely at milder stages, because
+   visuospatial, attentional and motor deficits do not track a global staging score.
 9. **Military disposition** — dementia is disqualifying upon diagnosis; see the military box.
 
 ## Management
@@ -115,9 +120,16 @@ atonia.**
           **quetiapine** at a low starting dose, or **clozapine**, which has the better evidence in
           Parkinson's disease psychosis but requires **absolute neutrophil count monitoring.**
           **Both are off-label for DLB.** Start low, go slow, review to stop.
-        - **Pimavanserin (Nuplazid) — 34 mg PO once daily, no titration.** **Its FDA indication is
+        - **Try the cholinesterase inhibitor first.** Consensus is explicit that ChEIs should
+          precede any antipsychotic for psychosis and agitation in DLB — they can substantially
+          reduce hallucinations and delusions, and they carry none of the sensitivity risk.
+        - **Pimavanserin (Nuplazid) — 34 mg PO once daily, no titration.** **Carries the
+          antipsychotic class boxed warning for increased mortality in elderly patients with
+          dementia-related psychosis.** **Its FDA indication is
           hallucinations and delusions associated with *Parkinson's disease* psychosis** — using it
-          in DLB is **off-label**, and the page should not pretend otherwise.
+          in DLB is **off-label**, and the page should not pretend otherwise. *A basket trial in
+          dementia-related psychosis was positive and stopped early for success, but **the FDA did
+          not grant a broad dementia-related psychosis indication** — it remains PD psychosis only.*
         - **All antipsychotics carry a boxed warning for increased mortality in elderly patients
           with dementia-related psychosis**, and pimavanserin is included.
         - **Not every hallucination needs treating.** A patient with insight who is not distressed
@@ -180,35 +192,22 @@ atonia.**
 ---
 
 !!! military "Military medicine — DLB and PDD"
-    *Framework — verify against current **AR 40-501**, **DoDI 6130.03 Vol 1 and Vol 2**,
-    **DoDI 1332.18**, and service aeromedical policy. See
-    [Profiles, MEB/MAR2 & deployability](../military/deployability.md).*
+    *Section-wide framing on the [hub](index.md#military-medicine--cognitive-impairment-and-dementia).
+    Only the deltas are here.*
 
-    - **Almost entirely a beneficiary population.** DLB and PDD are diseases of later life; active
-      duty cases would be extraordinary. **The military value of this page is safety, not
-      disposition** — specifically, stopping an MTF or deployed provider from giving haloperidol to
-      an agitated older beneficiary with undisclosed parkinsonism.
-    - **Retention, if it ever arises: disqualifying upon diagnosis** — dementia is
-      **DoDI 6130.03 Vol 2 para 5.26.d**, one of only two paragraphs where *"Paragraph 5.26.a. does
-      not apply"*. Army hook **AR 40-501 3-31k** closing on **para 3-1**. **Parkinsonism engages the
-      movement-disorder standard independently** — cite both, and see
-      [deployability](../military/deployability.md).
-    - **Profile:** **P** factor for the neurologic condition, **S** where the cognitive and
-      psychiatric burden dominates; state which. Section 4 limits must address **driving, weapons
-      access, falls risk and independent duty.**
-    - **EPTS / LOD:** RBD and hyposmia can precede the diagnosis by **years**, so a retrospective
-      onset argument is genuinely available here in a way it is not for most conditions — date the
-      first attributable feature, including dream enactment, and say what you reviewed.
-    - **MEB / DES:** refer on diagnosis; no MRDP to wait out. Document objective testing, falls,
-      autonomic burden and functional impact.
-    - **Deployability: non-deployable.** Fluctuating cognition, orthostasis and falls, medication
-      dependence, and a hallucinatory disorder are each independently disqualifying for the
-      operational environment.
-    - **Aeromedical: disqualifying** pending **USAAMA** adjudication; likewise **ATC and UAS**.
-    - **The practical military-medicine point** is the pre-operative and pre-procedural one:
-      beneficiaries with DLB coming to an MTF for surgery need the diagnosis **communicated to
-      anaesthesia in advance**, because the standard perioperative antiemetic and sedative order
-      set is a hazard here.
+    - **The military value of this page is safety, not disposition.** These are beneficiary-age
+      diseases; active-duty cases would be extraordinary. What matters is stopping an MTF, ED,
+      peri-operative or deployed provider who has never met the patient from giving **haloperidol or
+      another D2 blocker.** **Flag neuroleptic sensitivity on the problem list and in the allergy
+      field**, not in a progress note.
+    - **Named Army hook beats the catch-all:** **AR 40-501 3-31d** — *"progressive degenerative
+      disorders of the basal ganglia and cerebellum, including Parkinson's disease"* — cited
+      alongside 3-31k. Aeromedical **4-27i** names Parkinson's disease and basal ganglia disease
+      directly.
+    - **Profile is unambiguously P** (parkinsonism, orthostasis, falls), with **S** added for the
+      neuropsychiatric burden.
+    - **Do not apply the Alzheimer's driving thresholds** — DLB impairs driving fitness more
+      severely at milder stages.
 
 ---
 
@@ -243,16 +242,25 @@ the antipsychotic class boxed warning for dementia-related psychosis.
    Parkinson's disease psychosis**; DLB use is off-label.
    [DailyMed](https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&query=NUPLAZID)
 3. **Donepezil, memantine** — current FDA labels; use in DLB is off-label.
-4. **DLB consensus criteria** — the core and supportive features and biomarkers summarised above.
-   *Edition and citation not verified for this draft.*
+4. **McKeith IG, et al. Fourth Consensus Report of the DLB Consortium, 2017** — still current.
+   **REM sleep behaviour disorder was elevated to a core clinical feature** in this edition;
+   neuroleptic sensitivity is listed as **supportive**, with no percentage assigned. Criteria for
+   prodromal DLB (MCI-LB) have since been published; a biological staging framework based on CSF
+   α-synuclein has been proposed but is **not yet in the diagnostic criteria.**
 5. **AR 40-501** para **3-31k**, **3-1**, **3-4**, **4-27**; **DoDI 6130.03 Vol 2** para **5.26.d**.
 
-*Verified August 2026 — **DRAFT, NOT YET REVIEWED.** Rivastigmine and pimavanserin dosing and
-indications are taken from current FDA labels pulled at drafting. **Everything else is unverified**,
-including: the neuroleptic sensitivity frequency (given as "up to about half" without a checked
-source), the DLB consensus criteria edition and exact wording of core versus supportive features,
-the comparative tolerability claims among atypical antipsychotics, and the melatonin-versus-
-clonazepam preference in RBD — all of which reflect widely held practice rather than a verified
-citation. Military paragraph citations are carried from `docs/military/deployability.md`. This page
-has not been through the `/page` pipeline. Do not rely on any non-label figure until this footer is
-rewritten.*
+*Verified August 2026: rivastigmine and pimavanserin dosing and indications are from current FDA
+labels. Corrections applied: the **neuroleptic-sensitivity frequency was softened** — the **Fourth
+Consensus Criteria (McKeith 2017)** list it as a **supportive feature and assign no percentage**, so
+"up to about half" is presented as the commonly quoted figure rather than a criterion; **cholinesterase
+inhibitors are now stated as first-line for psychosis and agitation**, ahead of any antipsychotic;
+**pimavanserin's boxed warning is attached to the drug**, and the page now records that a
+dementia-related-psychosis basket trial was positive but **the FDA did not grant a broad indication**;
+and **the Alzheimer's driving thresholds are explicitly disclaimed here**, because DLB impairs driving
+fitness at milder stages. The **Army hook was corrected to the named AR 40-501 3-31d**, and the
+**profile factor from S to P.***
+
+***Not independently verified:** the comparative tolerability ranking among atypical antipsychotics
+(supported but on a weak evidence base); melatonin and clonazepam dosing in RBD, deliberately not
+quoted because neither is FDA-labelled for it; carbidopa/levodopa dosing, titrated to a psychiatric
+rather than motor ceiling; and TRICARE criteria.*

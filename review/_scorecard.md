@@ -17,6 +17,32 @@ Read the **"OE caught, panel missed"** column as the backlog for improving the p
 
 | 2026-08-02 | `docs/nmj/botulism.md` | 3 | 12 (1 agent) | **~20** — and **3 outright wrong positions**: skin testing must not delay antitoxin; there is **no interval** past which antitoxin stops helping (toxin in serum 11–12 d); iatrogenic botulism is no longer "usually mild" (195 cases, 16.4% ventilated). Plus the whole airway rewrite — **airway obstruction precedes hypoventilation**, VC falsely low with facial diplegia, **NIV should be discouraged** (reversal from MG) | Machine: BabyBIG undosed (label supplied the fix) + **proved BAT is absent from openFDA**. Agent: **no botulism vaccine** (toxoid discontinued 2011; verified AR 40-562 has 0 botulinum entries), **5.26.i is right here and wrong on LEMS**, **6.26.q must NOT be copied** (needs chronicity → use 6.26.n), "no board at all" is the commonest answer | Agents can and should refuse to copy their own prior answers ↓ |
 
+| 2026-08-08 | **`docs/dementia/` — whole section, 6 pages** | 4 | 25 (2 agents) | **18** — 2024 AA Revised Criteria replaced NIA-AA; **a 2nd approved agent for AD agitation (Auvelity)**; full ARIA management protocol; numeric anti-amyloid exclusions; real effect sizes; **reversible dementia corrected downward (~11% actually resolve)**; hearing loss reframed (ACHIEVE negative overall); CDR driving thresholds; RT-QuIC subtype limits | **The machine pass beat OE for the first time** — OE listed SC lecanemab as investigational; the label carries the approved IQLIK autoinjector. Plus trazodone's missing boxed warning | Section review works; run it that way ↓ |
+
+**Run notes (2026-08-08, dementia) — first SECTION-level review.** One machine pass, one OE round,
+two agents, one gate, for six pages. **148k agent tokens / 26 tool calls total**, against 735k for a
+single page on the first MG run.
+
+**Three results worth keeping:**
+
+1. **`page-safety` found a cross-page dose contradiction nothing else could.** `docs/seizure/index.md`
+   prescribed **thiamine 100 mg IV** — the exact maintenance dose the rapidly-progressive page warned
+   against, on the acute page a tired reader actually checks, while that page said only "use your
+   local protocol." Both fixed in the same commit. **This is the argument for the agent that reads
+   pages against each other.**
+2. **The machine pass beat OpenEvidence on a regulatory fact.** First time in five reviews. A script
+   that reads the current label is simply more current than literature retrieval — and **the two
+   sources fail in opposite directions**, which is why both run.
+3. **`military-tricare` again refused to copy its own prior answer** — `6.26.q` fitted botulism and
+   does not fit dementia. It also caught an error I had made on **all six pages** (profile factor S
+   instead of P), which is the kind of systematic mistake a section review surfaces once instead of
+   six times.
+
+**Lesson applied to the pipeline:** `page.md` now defaults to **section mode**, consolidates the
+artifact set, writes the military framing **once on the hub with per-page deltas**, and carries a
+standing instruction **not to stop a review to perfect the tooling** — a false positive costs one
+line of prose; a fix-test cycle costs far more.
+
 **Run notes (2026-08-02, botulism).** 86k agent tokens, **13 tool calls**. Two results worth
 keeping:
 

@@ -1,6 +1,6 @@
 ---
-description: Run the page review pipeline on a Neuro Scutbook page — free scripted checks and OpenEvidence first, paid reviewers only if there is signal
-argument-hint: "<topic slug or docs/ path> [quick|standard|deep]  — blank lists in-flight reviews"
+description: Run the review pipeline on a Neuro Scutbook page or a whole section — free scripted checks and OpenEvidence first, paid reviewers only if there is signal
+argument-hint: "<slug, docs/ path, or section dir> [quick|standard|deep]  — blank lists in-flight reviews"
 ---
 
 # /page — the page review pipeline
@@ -23,6 +23,28 @@ reviewer agents. Rebuilt to put the **free** work first:
 | `page-safety`, `military-tricare` | expensive | Reading *this page* as a clinician; AR 40-501 / TRICARE |
 
 **Agents are the exception, not the default.** Many pages will finish without one.
+
+## Section mode — the default when a slug names a directory
+
+**If `$ARGUMENTS` resolves to a `docs/` directory with more than one page, review the WHOLE
+SECTION as ONE cycle.** Do not loop the pipeline once per page. This is the single largest
+cost lever in the system and it costs nothing in evidence, because the sources are identical
+across a section:
+
+- **One** machine pass — run `lint_page.py` and `label_diff.py` over every page in the
+  directory and put the combined result in `15-machine.md`.
+- **One** OpenEvidence round. Build the pack to cover the section: Part 1 draws its practice
+  questions from whichever pages are weakest, and **Part 2's claim check lists every number
+  across every page.** One paste, one gate.
+- **One** `military-tricare` pass, run against the **hub**, instructed to establish the
+  **section-wide framing** that the sub-pages will inherit.
+- **`page-safety` only on the specific pages that warrant it** — usually one, sometimes none.
+  Name which and why.
+- **One** `40-ledger.md`, **one** `50-changelog.md`, **one** Gate 2, **one** commit.
+
+**Write the military box once.** The hub carries the full framing; each sub-page carries only
+what genuinely differs for that disease. Six near-identical military boxes is six times the
+text to write, verify and drift.
 
 ## Depth
 
@@ -76,6 +98,13 @@ nipocalimab's IV-only route.
 
 **These are mechanical comparisons, not verdicts.** Adjudicate each; some are false
 positives by design, because the alternative is a filter that hides real drift.
+
+> **Do not stop the review to make the tool perfect.** A false positive costs one line of
+> prose to dismiss; a fix-test-fix cycle costs far more than that. **Collect every false
+> positive in one pass, dismiss them in `15-machine.md`, and only change the script when it
+> is HIDING findings rather than adding noise.** (A real example worth the fix: `increas\b`
+> could never match "increasing", so correctly-titrated pages were silently flagged as
+> missing an induction phase.)
 
 ## Stage B — OpenEvidence, then **GATE 1**
 
@@ -136,12 +165,18 @@ redone.
 
 ## Stage E — adjudicate and apply
 
-Merge into `20-findings.md`, ranked: dedupe (corroboration raises confidence), drop
-the unsourced, resolve conflicts and say who was right. Then edit the page.
+**Keep four files, not six.** `15-machine.md` (script-generated), `30-openevidence.md`
+(the paste), `35-oe-intake.md` (the adjudicated three-way diff — **findings live here; do
+not also write a separate `20-findings.md`**), plus the two that ship:
 
-Write `40-ledger.md` (every dose/threshold/trial → a source URL or `UNVERIFIED`) and
-`50-changelog.md` (what changed, why, who caught it). Update the `*Verified*` footer
-audit trail.
+- **`40-ledger.md`** — every dose, threshold and trial claim → a source URL or `UNVERIFIED`.
+  This is what makes the `*Verified*` footer defensible. **Never drop it.**
+- **`50-changelog.md`** — what changed, why, who caught it.
+
+Agent findings stay in their own `22-panel-*.md` files, written by the agents. **Do not
+restate agent output anywhere** — reference the file.
+
+Then edit the page(s) and update the `*Verified*` footer audit trail.
 
 ## Stage F — verify, then **GATE 2**
 
@@ -165,7 +200,9 @@ Only after explicit approval:
    when a pattern repeats, encode it in a script.
 3. Update `ROADMAP.md`.
 4. `git status` first, then commit. **`30-openevidence.md` must never be staged** —
-   `.gitignore` handles it; verify anyway.
+   `.gitignore` handles it; verify anyway. **Keep the commit message short — a subject line
+   and a few sentences.** `50-changelog.md` already carries the detail and ships in the same
+   commit; writing it twice is pure duplication.
 5. Merge to `main` fast-forward, push, delete the review branch. Do not leave
    branches lying around.
 

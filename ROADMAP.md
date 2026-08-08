@@ -208,8 +208,25 @@ Each page's specifics get checked against current sources at build time.
       figure were carried forward and not re-verified. TRICARE PA criteria remain unverifiable from
       public sources. On LEMS specifically: the DA Pam 40-502 PULHES attribution was inherited from
       the MG page rather than re-opened, and AR 40-501 4-24/4-24a was deliberately not carried over.*
-- [ ] **Dementia** — anti-amyloid mAbs (lecanemab, donanemab) + ARIA; plasma/CSF
-      biomarkers (p-tau217); RT-QuIC replaces 14-3-3 for CJD.
+- [x] **Dementia & cognitive impairment — BUILT AND REVIEWED (6 pages), 2026-08-08.** Hub +
+      Alzheimer's + DLB/PDD + FTD + vascular + rapidly progressive. **First whole-section review**
+      through the `/page` pipeline — one machine pass, one OpenEvidence round, two agents, one gate.
+      Anti-amyloid dosing label-verified incl. the **lecanemab IQLIK autoinjector** (which the
+      evidence round wrongly listed as investigational) and donanemab's **350/700/1,050/1,400**
+      titration and its ARIA rationale; **2024 AA Revised Criteria** replace NIA-AA, with the page
+      taking the position that they characterise the symptomatic rather than diagnose the
+      asymptomatic; **a second approved agent for AD agitation (Auvelity, 2026)**; full **ARIA
+      management protocol**; **p-tau217 performance + the two-cutoff rule + Lumipulse as the only
+      cleared blood IVD**; **RT-QuIC with its subtype limits**. **Military: 5.26.d verified verbatim
+      — "Paragraph 5.26.a. does not apply" occurs exactly twice in para 5.26 (dementia, epilepsy),
+      so this section is the inverse posture from the NMJ pages.** Hub carries the framing; disease
+      pages carry deltas only. Audit trail: `review/dementia/40-ledger.md`, `50-changelog.md`.
+    - *Safety review found a **cross-page dose contradiction**: `docs/seizure/index.md` prescribed
+      **thiamine 100 mg IV**, the maintenance dose the RPD page warned against. Both fixed. Also
+      corrected the **profile factor from S to P on all six pages**.*
+    - *Still to do: TRICARE tier/PA criteria unverified throughout; USAAMA practice, non-Army service
+      standards and Reserve/Guard pathways not addressed; **Auvelity agitation dosing not
+      label-pulled**; TRICARE boxes on lewy-body/frontotemporal/vascular could reduce to pointers.*
 - [x] **Seizure & epilepsy — BUILT (3 pages):** status epilepticus (AES 2016 ladder, ESETT, RAMPART,
       first-seizure, SANAD II, cenobamate, SUDEP), **epilepsy syndromes** (ILAE 2022 IGEs/MTLE/DEEs),
       and **antiseizure medications** (spectrum + interaction formulary). From the author's SCUTBOOK doc.

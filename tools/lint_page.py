@@ -291,11 +291,19 @@ def lint(path):
         if mb.title.startswith("<") or "<topic>" in mb.title:
             add("ERROR", "MIL-PLACEHOLDER", mb.start,
                 "military box title is still the template placeholder")
-        missing = [name for name, rx in MILITARY_FIELDS.items()
-                   if not rx.search(mb.body)]
-        if missing:
-            add("WARN", "MIL-FIELDS", mb.start,
-                "military box does not mention: %s" % ", ".join(missing))
+        # A "delta box" explicitly defers the five-field framing to a hub page and
+        # carries only what differs for this disease. Holding it to the full field
+        # list would force six near-identical boxes across a section, which is the
+        # duplication the section-review design exists to remove.
+        is_delta = re.search(
+            r"(section-wide framing|framing .{0,40}is on the|Only the deltas)",
+            mb.body, re.I) and RE_MD_LINK.search(mb.body)
+        if not is_delta:
+            missing = [name for name, rx in MILITARY_FIELDS.items()
+                       if not rx.search(mb.body)]
+            if missing:
+                add("WARN", "MIL-FIELDS", mb.start,
+                    "military box does not mention: %s" % ", ".join(missing))
 
     # --- order sets + doses -------------------------------------------------
     ordersets = [b for b in blocks if b.kind == "orderset"]

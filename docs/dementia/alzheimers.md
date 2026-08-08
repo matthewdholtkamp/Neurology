@@ -24,9 +24,26 @@ antibody**, which is a decision about eligibility, risk tolerance and logistics 
 
 ## Diagnosis
 
-**AD is a clinicopathological entity: a syndrome plus biology.** Modern frameworks separate the two
-deliberately — the **clinical stage** (asymptomatic, MCI, mild/moderate/severe dementia) and the
-**biological evidence** (amyloid, tau, neurodegeneration) are recorded independently.
+**The framework changed in 2024, and it is contested.** The **Alzheimer's Association Revised
+Criteria (2024)** replace the 2018 NIA-AA research framework and the 2011 NIA-AA clinical
+guidelines — NIA now holds an advisory role only. The change is not cosmetic:
+
+- **AD is now defined biologically.** An abnormal **Core 1** biomarker — amyloid PET, an approved
+  CSF assay, or **plasma p-tau217** — is **sufficient for diagnosis without symptoms.**
+- **Core 2** biomarkers (tau PET, biofluid tau) provide **prognostic staging.**
+- The **"N"** (neurodegeneration) was **removed** from the core criteria.
+- The **clinical stage** (asymptomatic, MCI, mild/moderate/severe) is recorded **separately** from
+  the biology.
+
+!!! warning "This is genuinely controversial, and the page takes a position"
+    Defining a disease by a biomarker in a person without symptoms means **a substantial number of
+    cognitively normal older adults meet criteria for "Alzheimer's disease"** — see the amyloid
+    prevalence figures on the [hub](index.md#biomarkers-what-they-answer-and-when-to-ask). Several
+    expert groups argue the 2024 criteria should stay in the **research domain** for now.
+
+    **Practical position for this page:** use the biological criteria to *characterise* a
+    symptomatic patient, not to *diagnose* an asymptomatic one. **Do not tell a person without
+    cognitive impairment that they have Alzheimer's disease on the strength of a blood test.**
 
 **The classic clinical syndrome:**
 
@@ -125,12 +142,14 @@ a **corticobasal syndrome** that is sometimes AD pathology. Young onset skews at
       substantially higher incidence of ARIA**, including symptomatic, serious and severe
       radiographic ARIA. **Test before initiating, and counsel before testing**, including what a
       result means for blood relatives.
-    - **A recent baseline MRI has been reviewed** — pre-existing **microhaemorrhages or superficial
-      siderosis increase ARIA risk**, and significant burden is a contraindication in practice. This
-      is where [cerebral amyloid angiopathy](../stroke/cerebral-amyloid-angiopathy.md) and this page
-      meet; read that page's ARIA section before your first patient.
-    - **Anticoagulation is a serious consideration** — intracerebral haemorrhages **>1 cm, some
-      fatal**, have occurred in this drug class.
+    - **A recent baseline MRI has been reviewed**, and the exclusions are numeric: **more than 4
+      microhaemorrhages, or any single macrohaemorrhage, excludes treatment.** Pre-existing
+      microhaemorrhage or superficial siderosis raises ARIA risk. This is where
+      [cerebral amyloid angiopathy](../stroke/cerebral-amyloid-angiopathy.md) and this page meet;
+      read that page's ARIA section before your first patient.
+    - **Anticoagulation is a relative contraindication** — increased ARIA-H risk, and intracerebral
+      haemorrhages **>1 cm, some fatal**, have occurred in this drug class.
+    - **Cognitive staging is documented** — MCI or mild dementia, typically MMSE ~22–30.
     - **The infrastructure exists** — infusion or injection capacity, and **MRI access on the
       required schedule**. Starting without the monitoring is worse than not starting.
 
@@ -148,11 +167,31 @@ a **corticobasal syndrome** that is sometimes AD pathology. Young onset skews at
     - **Intravenous over approximately 30 minutes every 4 weeks, titrated:**
       **infusion 1 — 350 mg; infusion 2 — 700 mg; infusion 3 — 1,050 mg; infusion 4 and beyond —
       1,400 mg.**
+    - **That titration is not arbitrary — it is a safety intervention.** TRAILBLAZER-ALZ 6 showed
+      the modified schedule cut **ARIA-E from 24.2% to 15.6%** and **symptomatic ARIA-E from 4.8%
+      to 2.8%**, while still clearing amyloid. Do not compress it.
     - **Consider stopping** once amyloid plaques are reduced to minimal levels on amyloid PET —
       a genuinely different treatment philosophy from lecanemab's open-ended maintenance, and worth
-      explaining to patients as a potential finite course.
+      explaining to patients as a potential **finite course.**
     - **Confirm amyloid pathology before initiating; baseline MRI and serial monitoring as
       labelled.**
+
+!!! orderset "If ARIA occurs — what to actually do"
+    Management is driven by **severity and whether the patient has symptoms.** Radiographic ARIA
+    is common; most of it is asymptomatic and does not end treatment.
+
+    | Situation | Action |
+    |---|---|
+    | **Asymptomatic, mild** | **Continue treatment** with MRI surveillance |
+    | **Asymptomatic, moderate** | **Suspend**; resume by shared decision after radiographic resolution |
+    | **Symptomatic, mild or moderate** | **Suspend.** Consider **IV methylprednisolone 1 g daily × 3–5 days**, then an oral prednisone taper. **Monthly MRI until resolution.** **Avoid anticoagulants and thrombolytics** |
+    | **Severe, or recurrent ARIA** | **Permanently discontinue.** Corticosteroids; inpatient management |
+
+    - **Recurrence after resumption runs 13.8–25.6%** — factor that into the shared decision rather
+      than treating resumption as a return to baseline.
+    - **Incidence for orientation:** ARIA-E in **12.6%** with lecanemab and **24.0%** with
+      donanemab at standard dosing; **roughly 70% of ARIA is asymptomatic.** ApoE ε4 homozygotes
+      run far higher — up to **55%** in high-dose aducanumab trials.
 
 !!! danger "ARIA — boxed warning for the whole class"
     **Amyloid-related imaging abnormalities: ARIA-E (oedema, sulcal effusion) and ARIA-H
@@ -183,19 +222,29 @@ a **corticobasal syndrome** that is sometimes AD pathology. Young onset skews at
     - **Treat pain empirically** in a patient who cannot report it. Scheduled paracetamol is an
       underused agitation intervention.
 
-!!! orderset "If medication is genuinely necessary"
-    - **Brexpiprazole (Rexulti)** — the agent with an **FDA indication for agitation associated with
-      dementia due to Alzheimer's disease.** **0.5 mg PO once daily on days 1–7; increase to 1 mg
-      once daily on days 8–14; then 2 mg once daily from day 15 — the recommended target.** May
-      increase to a **maximum of 3 mg once daily after at least 14 days** on clinical response.
+!!! orderset "If medication is genuinely necessary — there are now TWO approved options"
+    - **Dextromethorphan/bupropion (Auvelity)** — **FDA indication for agitation associated with
+      dementia due to Alzheimer's disease added in 2026.** **The first non-antipsychotic approved
+      for this indication**, which means it does **not** carry the antipsychotic class mortality
+      warning — the main reason to consider it first in a patient where that warning is the
+      sticking point. *Dosing for the agitation indication was not label-verified for this page —
+      check the current label before prescribing.*
+    - **Brexpiprazole (Rexulti)** — approved May 2023. **0.5 mg PO once daily on days 1–7; increase
+      to 1 mg once daily on days 8–14; then 2 mg once daily from day 15 — the recommended target.**
+      May increase to a **maximum of 3 mg once daily after at least 14 days** on clinical response.
       **Maximum 2 mg/day in moderate-to-severe hepatic impairment (Child-Pugh ≥7).**
-      **It is not indicated for as-needed ("prn") use** — do not write it that way.
-    - **Antipsychotics as a class carry a boxed warning for increased mortality in elderly patients
-      with dementia-related psychosis.** That applies to brexpiprazole too. **Document the
-      discussion, use the lowest effective dose, and set a review date to stop.**
+      **Not indicated for as-needed ("prn") use** — do not write it that way.
+        - **Carries the antipsychotic class boxed warning for increased mortality in elderly
+          patients with dementia-related psychosis.** Document the discussion, use the lowest
+          effective dose, and set a review date to stop.
+        - Trial effect was roughly a **5-point greater reduction on the Cohen-Mansfield Agitation
+          Inventory** versus placebo over 12 weeks — real, and worth stating plainly to a family
+          deciding whether the mortality warning is acceptable.
     - **Depression is common and treatable** — an SSRI is often more useful than an antipsychotic.
-      Citalopram has trial support for agitation but carries **dose-dependent QT prolongation**;
-      sertraline is the more conservative default.
+      **Citalopram has the best agitation trial evidence (CitAD, at 30 mg/day) — but that dose
+      exceeds the FDA maximum of 20 mg/day in patients over 60** because of QT prolongation. That
+      is an awkward gap between the evidence and the label; **sertraline is the conservative
+      default**, and escitalopram is under study.
     - **Avoid benzodiazepines.** They worsen cognition, increase falls, and are difficult to stop.
 
 !!! warning "Avoid"
@@ -229,44 +278,20 @@ a **corticobasal syndrome** that is sometimes AD pathology. Young onset skews at
 ---
 
 !!! military "Military medicine — Alzheimer's disease"
-    *Framework — verify against current **AR 40-501**, **DoDI 6130.03 Vol 1 and Vol 2**,
-    **DoDI 1332.18**, and service aeromedical policy. See
-    [Profiles, MEB/MAR2 & deployability](../military/deployability.md).*
+    *The section-wide framing — retention under **5.26.d** acting on diagnosis, the profile,
+    EPTS/LOD, the referral sequence and aeromedical — is on the
+    [hub](index.md#military-medicine--cognitive-impairment-and-dementia). Only the deltas are here.*
 
-    - **The population is mostly retirees and dependents.** Alzheimer's disease on active duty is
-      rare and, when it happens, is **young-onset and often familial** — which changes the work-up
-      and brings genetic counselling into the conversation. **Most of what an MTF provider does with
-      this page is beneficiary care, not fitness determination.**
-    - **Retention — disqualifying upon diagnosis.** **DoDI 6130.03 Vol 2 para 5.26.d** is one of
-      only two paragraphs in the neurology standard carrying *"Paragraph 5.26.a. does not apply"*
-      (the other is epilepsy, 5.26.k). **There is no persists-despite-treatment prong to argue and
-      no MRDP to wait out.** Army hook: the catch-all at **AR 40-501 3-31k**, closing on **para
-      3-1**. See the [hub](index.md) for the full framing.
-    - **Because it acts on diagnosis, the diagnostic threshold is the safeguard.** **Do not let a
-      screening score become a diagnosis.** Objective neuropsychological testing, structural
-      imaging, collateral history, and documented exclusion of depression, medication effect, sleep
-      apnoea, substances and endocrine/nutritional causes — all of it before the term enters the
-      record. **A biomarker does not substitute for that**, and a positive amyloid result in an
-      inadequately characterised patient is worse than no result.
-    - **Profile:** temporary during work-up and the treatable-cause trial; **permanent once
-      established** — and a permanent 3 or 4 **is** the DES referral (AR 40-501 3-4). Section 4
-      limits must address **weapons access, driving, independent duty and safety-sensitive tasks**
-      explicitly.
-    - **EPTS / LOD:** insidious onset makes dating hard. **Performance records often show the
-      decline before medicine does** — review OERs/NCOERs, ACFT trend and counselling statements.
-      **In young-onset disease ask specifically about family history**; autosomal dominant AD raises
-      genuine pre-service questions and warrants genetic counselling before testing.
-    - **MEB / DES:** refer on diagnosis. Document objective testing, functional impact corroborated
-      by the chain of command, and safety concerns. **Fitness is the PEB's determination — write the
-      standard and the evidence, not the outcome.**
-    - **Deployability: non-deployable**, and not primarily because of the memory — impaired judgment
-      under stress, weapons access, and no capacity for independent duty.
-    - **Aeromedical: disqualifying**, pending **USAAMA** adjudication; the same applies to **ATC and
-      UAS** duties.
-    - **Anti-amyloid therapy in a beneficiary raises two military-specific practical issues:** the
-      **MRI monitoring burden** at an MTF that may not have ready capacity, and the fact that
-      **ARIA-E mimics stroke** — if you have beneficiaries on these drugs, your emergency department
-      and any deployed or remote treatment facility they may present to need to know it.
+    - **Population: beneficiaries, not Soldiers.** Active-duty AD is rare and, when it occurs, is
+      **young-onset and often familial** — so genetic counselling is in scope and should precede any
+      testing.
+    - **Army hook is the plain catch-all** — **AR 40-501 3-31k + para 3-1**. No better-named
+      subparagraph exists for AD.
+    - **The anti-amyloid delta is a beneficiary problem, not a fitness one.** Two things an MTF must
+      plan for: the **MRI monitoring burden** at a facility without ready capacity, and the fact
+      that **ARIA-E mimics ischaemic stroke.** If you have beneficiaries on these drugs, your
+      emergency department — and any remote or deployed facility they might present to — needs to
+      know it before the thrombolysis decision.
 
 ---
 
@@ -275,10 +300,17 @@ a **corticobasal syndrome** that is sometimes AD pathology. Young onset skews at
 **Amyloid is necessary and insufficient — and the drugs prove both halves.** For decades the amyloid
 hypothesis was argued from genetics and pathology while every therapeutic test of it failed.
 Lecanemab and donanemab settled the mechanistic question: **remove amyloid and decline slows.** They
-also settled the magnitude question less comfortably — the effect is **real, consistent, and
-modest**, measured in fractions of a point on clinical scales over 18 months. Whether that is worth
-biweekly infusions, serial MRI, genotyping and a boxed warning is not a question medicine can answer
-on the patient's behalf.
+also settled the magnitude question less comfortably. **Lecanemab slowed CDR-SB decline by 0.45
+points over 18 months — about 27%, or roughly 4–5 months of delayed progression.** **Donanemab
+managed 0.67 points (36%) in the low/medium-tau population and 0.70 (29%) overall at 76 weeks**,
+and reduced the risk of progressing from MCI to mild dementia by **33%**, and mild to moderate by
+**50%**. Those are real, reproducible, and small. Whether they are worth biweekly infusions, serial
+MRI, genotyping and a boxed warning is not a question medicine can answer on the patient's behalf —
+but it is a question that deserves the actual numbers rather than an adjective.
+
+**And the class has already lost a member.** **Aducanumab was withdrawn from the US market in
+November 2024** — a commercial decision rather than a safety or efficacy one, but a reminder that
+approval is not permanence. **Anti-tau therapies have produced no positive phase 3 to date.**
 
 **The honest framing for the clinic is a trade, not a breakthrough.** These drugs slow a trajectory;
 they do not restore function or stop the disease. The patients most likely to benefit — early,
@@ -316,13 +348,20 @@ FDA labelling for the cholinesterase inhibitors, memantine and brexpiprazole.
    Boston v2.0 criteria, ARIA thresholds and the pre-treatment screen.
 6. **AR 40-501** para **3-31k**, **3-1**, **3-4**, **4-27**; **DoDI 6130.03 Vol 2** para **5.26.d**.
 
-*Verified August 2026 — **DRAFT, NOT YET REVIEWED.** All drug dosing on this page is taken from
-current FDA labels pulled at drafting (lecanemab eff. 2026-07-21, donanemab eff. 2025-12-30,
-brexpiprazole eff. 2026-05-06, and the current generic labels for the cholinesterase inhibitors and
-memantine). **Everything else is unverified**: the trial effect sizes are described qualitatively
-rather than quoted because they have not been checked; the NIA-AA framework version, biomarker
-performance figures, and ApoE ε4 prevalence figure beyond the label's own "approximately 15%" have
-not been confirmed; and the military paragraph citations are carried from
-`docs/military/deployability.md` and the NMJ pages rather than re-extracted. This page has not been
-through the `/page` pipeline — no OpenEvidence round, no agent review. Do not rely on any
-non-label figure here until this footer is rewritten.*
+*Verified August 2026: **all dosing on this page is from current FDA labels** — lecanemab
+(eff. 2026-07-21, **including the LEQEMBI IQLIK autoinjector**), donanemab (eff. 2025-12-30),
+brexpiprazole (eff. 2026-05-06), and the current generic labels for the cholinesterase inhibitors and
+memantine. **The label pull caught something the evidence round had wrong:** OpenEvidence listed
+subcutaneous lecanemab as still investigational; it is **approved and on the label.** Corrections
+applied: the **2024 AA Revised Criteria** replace the NIA-AA framework; **a second FDA-approved agent
+for agitation in AD now exists — dextromethorphan/bupropion (Auvelity, 2026), the first
+non-antipsychotic** — so brexpiprazole is no longer "the" option; **numeric anti-amyloid exclusions**
+(>4 microhaemorrhages, ≥1 macrohaemorrhage); a full **ARIA management protocol**; **effect sizes
+quoted rather than described** (lecanemab CDR-SB −0.45, ~27%, ≈4–5 months' delay; donanemab −0.67 /
+36% in low-medium tau); **ARIA incidence** (12.6% lecanemab, 24.0% donanemab, ~70% asymptomatic); the
+**TRAILBLAZER-ALZ 6 rationale** for donanemab's titration (ARIA-E 24.2% → 15.6%); and **aducanumab's
+November 2024 US withdrawal.***
+
+***Not independently verified:** the Auvelity dosing for the agitation indication (**not label-pulled
+— check the label before prescribing**); TRICARE coverage for anti-amyloid therapy and amyloid PET;
+and the military paragraph citations beyond those verified on the [hub](index.md).*

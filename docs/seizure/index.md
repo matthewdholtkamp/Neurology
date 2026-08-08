@@ -29,8 +29,12 @@ picking an antiseizure medication (ASM).
 
 !!! orderset "Step 0 — Stabilize (0–5 min)"
     - **ABCs**, O₂, position, suction; **IV access ×2**; **continuous ECG, BP, SpO₂.**
-    - **Point-of-care glucose** — if low, **D50W 50 mL IV + thiamine 100 mg IV** (thiamine first/with
-      glucose in the malnourished/alcohol-use patient).
+    - **Point-of-care glucose** — if low, **D50W 50 mL IV + thiamine** (thiamine first/with glucose in
+      the malnourished/alcohol-use patient).
+        - **100 mg IV is prophylaxis.** If Wernicke encephalopathy is *suspected* rather than merely
+          being prevented, that dose is inadequate — give the **treatment** regimen instead:
+          **thiamine 500 mg IV over 30 min every 8 h**. See
+          [rapidly progressive dementia](../dementia/rapidly-progressive.md#management).
     - **STAT labs:** CBC, BMP, Ca, Mg, glucose, **ASM levels**, ± LFTs, tox screen (blood + urine),
       ABG, β-hCG, PO₄; **ECG.**
 

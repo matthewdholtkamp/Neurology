@@ -54,7 +54,9 @@ fasciculations, wasting, weakness, brisk reflexes and bulbar signs at every visi
 transforms the conversation about prognosis and about advance planning.
 
 !!! note "Genetics — ask, then decide whether to test"
-    A large minority of FTD is **autosomal dominant**, with three genes accounting for most of it:
+    **A family history of dementia is reported in up to 40% of FTD, with clear autosomal dominant
+    inheritance in roughly 10–30%.** Three genes account for the large majority — about 60% of
+    familial cases:
     **C9orf72** (also the commonest genetic cause of ALS, and the classic FTD–ALS link), **MAPT**
     (tau) and **GRN** (progranulin).
 
@@ -113,7 +115,10 @@ valuable interventions are non-pharmacological.
     - **SSRIs are the usual first choice** for disinhibition, compulsive and repetitive behaviours,
       overeating and irritability. **Sertraline** is the pragmatic default; citalopram carries
       dose-dependent **QT prolongation**. All are **off-label for FTD**.
-    - **Trazodone** is used for agitation and sleep, also off-label.
+    - **Trazodone** is used for agitation and sleep, also off-label. **It carries the
+      antidepressant class boxed warning for suicidal thoughts and behaviours in young adults** —
+      which matters more here than in late-life dementia, because FTD patients are frequently under
+      65 and sometimes under 55.
     - **Antipsychotics: avoid where possible.** The **boxed warning for increased mortality in
       elderly patients with dementia-related psychosis** applies, and **patients with FTD may be
       unusually sensitive to extrapyramidal effects.** If genuinely required, use the lowest dose of
@@ -147,46 +152,34 @@ valuable interventions are non-pharmacological.
 ---
 
 !!! military "Military medicine — frontotemporal dementia"
-    *Framework — verify against current **AR 40-501**, **DoDI 6130.03 Vol 1 and Vol 2**,
-    **DoDI 1332.18**, and service aeromedical policy. See
-    [Profiles, MEB/MAR2 & deployability](../military/deployability.md).*
+    *Section-wide framing on the [hub](index.md#military-medicine--cognitive-impairment-and-dementia).
+    Only the deltas are here — and this is the page where they matter most.*
 
-    - **This is the dementia that can actually present on active duty**, and it is the reason this
-      section is not purely a beneficiary topic. Peak onset spans the **late 40s to early 60s** —
-      squarely within a senior NCO or field-grade officer career.
+    - **This is the one degenerative dementia that genuinely presents on active duty.** Peak onset
+      spans the **late 40s to early 60s** — squarely within a senior NCO or field-grade career.
     - **The realistic presentation is a disciplinary or performance problem, not a medical one.**
       Uncharacteristic misconduct, financial irresponsibility, inappropriate remarks, apathy read as
-      laziness, or a sudden collapse in evaluation reports. **A previously exemplary senior Soldier
-      whose conduct changes in mid-life deserves a neurological thought before an administrative
-      one.** By the time the diagnosis is made, the record may already contain adverse actions that
-      the disease caused.
-    - **Retention: disqualifying upon diagnosis** — **DoDI 6130.03 Vol 2 para 5.26.d** carries
-      *"Paragraph 5.26.a. does not apply"*; Army hook **AR 40-501 3-31k** closing on **para 3-1**.
-      **No MRDP to wait out.**
-    - **Profile:** **S** or **P** factor depending on whether the presentation is behavioural or
-      neurologic — state which and why. Section 4 limits must address **weapons access, driving,
-      independent duty, financial responsibility and supervisory authority.** In bvFTD, **judgment
-      and impulse control are impaired before cognition tests abnormal**, which is precisely the
-      combination that makes weapons access and command responsibility unsafe early.
-    - **EPTS / LOD:** genuinely contested here. Symptoms precede diagnosis by **years**, and the
-      earliest evidence is usually in **evaluation reports, counselling statements and financial or
-      disciplinary records** rather than in medicine. Review them and date the first attributable
-      change. **In a familial case, ask directly about family history** — autosomal dominant disease
-      raises real pre-service questions, and **genetic testing in a service member should follow
-      counselling and a considered decision, not curiosity.**
-    - **MEB / DES:** refer on diagnosis. **The documentation problem specific to FTD is that the
-      standard cognitive screens can be normal** while the patient is grossly impaired —
-      **neuropsychological testing with an executive and behavioural battery, plus collateral and
-      command corroboration, is what carries the board.** A MoCA of 27 does not exclude bvFTD, and a
-      board reading only the MoCA will get it wrong.
+      laziness, or a collapse in evaluation reports. **A previously exemplary senior Soldier whose
+      conduct changes in mid-life deserves a neurological thought before an administrative one.** By
+      the time the diagnosis is made, the record may already contain adverse actions the disease
+      caused.
+    - **The documentation problem is the screening instrument.** In bvFTD, **judgment and impulse
+      control are impaired before cognition tests abnormal** — **a MoCA of 27 does not exclude it,
+      and normal screening does not rebut the diagnosis.** What carries a board is a **formal
+      executive and behavioural neuropsychological battery** plus **collateral and command
+      corroboration**, which is also what satisfies the **AR 40-501 3-1a** limb (duty interference
+      *"as substantiated by the Soldier's commander or supervisor"*) while a screening score is
+      normal.
+    - **Profile: P primary, with S carried explicitly** — disinhibition and personality change are
+      exactly what DA Pam 40-502 puts under S. **Section 4 must reach weapons access, financial
+      responsibility and supervisory authority.**
+    - **EPTS/LOD is most contested here.** Symptoms precede diagnosis by years and the evidence sits
+      in **evaluation reports and financial or disciplinary records**, not in medicine.
     - **Where misconduct has already occurred**, the interaction between the medical diagnosis and
       any administrative or UCMJ action is a **legal and command question, not a medical one** —
       document the neurological findings and their timeline factually and promptly, and let the
       appropriate authorities weigh them. **Do not editorialise about culpability in the medical
       record.**
-    - **Deployability: non-deployable.** Impaired judgment, disinhibition and weapons access are
-      disqualifying independent of any memory deficit.
-    - **Aeromedical: disqualifying** pending **USAAMA** adjudication; likewise **ATC and UAS.**
 
 ---
 
@@ -216,11 +209,11 @@ progressive aphasias; FTD genetics literature for C9orf72, MAPT and GRN.
 
 ## References
 
-1. **International consensus criteria for behavioural-variant FTD** — the behavioural features and
-   the dysexecutive-with-spared-memory profile summarised above. *Citation not verified for this
-   draft.*
-2. **Classification of primary progressive aphasia and its variants** — the three-variant framework
-   and the logopenic–Alzheimer's association. *Citation not verified for this draft.*
+1. **Rascovsky K, et al. International consensus criteria for behavioural-variant FTD (FTDC),
+   2011** — still current; no revision has been published.
+2. **Gorno-Tempini ML, et al. Classification of primary progressive aphasia and its variants,
+   2011** — still the standard three-variant framework, including the logopenic–Alzheimer's
+   association.
 3. **Sertraline, trazodone, atypical antipsychotics** — current FDA labels; **all use in FTD is
    off-label**, and the antipsychotic class boxed warning applies.
    [DailyMed](https://dailymed.nlm.nih.gov/dailymed/index.cfm)
@@ -229,11 +222,18 @@ progressive aphasias; FTD genetics literature for C9orf72, MAPT and GRN.
 5. **TBI — work-up & return to duty** — [this site](../tbi/index.md), for the CTE/TES boundary.
 6. **AR 40-501** para **3-31k**, **3-1**, **3-4**, **4-27**; **DoDI 6130.03 Vol 2** para **5.26.d**.
 
-*Verified August 2026 — **DRAFT, NOT YET REVIEWED.** Nothing on this page has been verified beyond
-the general FDA class labelling for the symptomatic agents, and **no dosing is quoted precisely for
-that reason** — the SSRIs and trazodone are named without doses because their FTD use is off-label
-and the doses were not label-pulled at drafting. **Unverified:** the consensus criteria editions and
-their exact feature lists, the proportion of FTD that is autosomal dominant, the FTD–ALS overlap
-frequencies, the claim that cholinesterase inhibitors may worsen FTD behaviour, the comparative
-caregiver-burden claim, and all military paragraph citations (carried from
-`docs/military/deployability.md`). This page has not been through the `/page` pipeline.*
+*Verified August 2026: corrections applied — **trazodone's antidepressant boxed warning was missing
+entirely** and has been added, which matters more here than in late-life dementia because FTD
+patients are frequently under 65; the **criteria citations are now named and confirmed current**
+(**Rascovsky 2011** for bvFTD, **Gorno-Tempini 2011** for the PPA variants, neither revised); and the
+**genetics figures were refined** — family history in up to **40%**, clear autosomal dominant in
+**~10–30%**, with C9orf72/MAPT/GRN accounting for about **60% of familial cases**. A military review
+confirmed the **disciplinary-presentation framing and the UCMJ/culpability boundary as sound and
+appropriately bounded**, and added the documentation point that **normal screening does not rebut the
+diagnosis** — a MoCA of 27 does not exclude bvFTD, and a board reading only the MoCA will get it
+wrong. **Profile factor corrected from S to P primary, with S carried explicitly.***
+
+***Not independently verified:** SSRI and trazodone dosing in FTD — **deliberately not quoted**,
+because all use here is off-label and the doses were not label-pulled; the claim that cholinesterase
+inhibitors may worsen FTD behaviour (confirmed as current consensus, not as trial evidence); the
+comparative caregiver-burden claim; and TRICARE criteria.*

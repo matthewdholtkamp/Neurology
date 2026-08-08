@@ -129,44 +129,25 @@ brings [CAA](../stroke/cerebral-amyloid-angiopathy.md) into the frame.
 ---
 
 !!! military "Military medicine — vascular cognitive impairment"
-    *Framework — verify against current **AR 40-501**, **DoDI 6130.03 Vol 1 and Vol 2**,
-    **DoDI 1332.18**, and service aeromedical policy. See
-    [Profiles, MEB/MAR2 & deployability](../military/deployability.md).*
+    *Section-wide framing on the [hub](index.md#military-medicine--cognitive-impairment-and-dementia).
+    Only the deltas are here.*
 
-    - **The distinctive military feature is that the risk factors are the disposition.** Unlike the
-      degenerative dementias, vascular cognitive impairment usually arrives with a documented
-      cerebrovascular event or a treatable risk profile — and **the stroke, the hypertension and the
-      atrial fibrillation each carry their own retention standards independent of the cognition.**
-      Cite them separately; see [stroke](../stroke/index.md) and
-      [deployability](../military/deployability.md).
-    - **Retention:** if the impairment meets the threshold for dementia, **DoDI 6130.03 Vol 2 para
-      5.26.d** applies **upon diagnosis** (*"Paragraph 5.26.a. does not apply"*), with the Army hook
-      at **AR 40-501 3-31k** closing on **para 3-1**. **Below that threshold**, the disposition is
-      driven by the **stroke or cardiovascular standard** and by residual deficit — which is a very
-      different and much more common conversation.
+    - **This is the one page in the section where 5.26.d is often NOT the operative standard.**
+      Below the dementia threshold this is an ordinary post-stroke disposition running **MRDP → the
+      MAR2-versus-DES fork, gated normally by 5.26.a**. **Only when *permanent or progressive*
+      cognitive impairment is established does 5.26.d take over and the gate disappear.**
+    - **Named Army hook: AR 40-501 3-31f** — *"stroke… when residuals affect performance"* — cited
+      ahead of 3-31k, with **DoDI 6130.03 Vol 2 5.26.b** as the DoD floor.
+    - **The risk factors carry their own standards.** The stroke, the hypertension and the atrial
+      fibrillation each have retention implications independent of the cognition — cite them
+      separately; see [stroke](../stroke/index.md).
     - **The realistic active-duty case is post-stroke cognitive impairment in a 40s–50s service
       member**, not late-life small vessel disease. **Formal cognitive assessment is routinely
-      omitted from stroke follow-up**, and in a service member that omission decides whether a real
+      omitted from stroke follow-up** — and in a service member that omission decides whether a real
       deficit is documented before a return-to-duty decision. **Test it deliberately.**
-    - **Profile:** **P** factor, with **S** where cognitive/behavioural effects dominate. Temporary
-      through the post-stroke recovery window — deficits improve for months — then permanent at
-      MRDP if impairment persists. Section 4 limits: **driving, weapons access, independent duty,
-      and any safety-sensitive task.**
-    - **EPTS / LOD:** vascular risk factors frequently predate service or accrue during it, and
-      **hypertension documented on PHAs over years is the usual evidence trail.** Where a stroke
-      occurred on duty the LOD is normally straightforward; where the substrate is chronic
-      uncontrolled hypertension, expect the question.
-    - **MEB / DES:** if cognition meets the dementia threshold, refer on diagnosis. Otherwise run
-      the ordinary post-stroke pathway — **MRDP, then the MAR2-versus-DES fork.** Do not board a
-      recovering stroke patient prematurely.
-    - **Deployability:** driven by the stroke standard, the anticoagulation requirement if any, and
-      the cognitive deficit — **address all three, not just the last.**
-    - **Aeromedical:** disqualifying pending **USAAMA** adjudication; the cerebrovascular event
-      alone will do it.
-    - **The prevention argument belongs in the military box.** This is the one dementia where
-      **force health protection genuinely applies** — blood pressure, lipids, tobacco and weight
-      management in mid-career service members are cognitive interventions as well as
-      cardiovascular ones. It is worth saying that to a 45-year-old whose father had a stroke.
+    - **This is the only page in the section where the military box can legitimately be about
+      prevention.** Blood pressure, lipids, tobacco and weight management in mid-career service
+      members are cognitive interventions as well as cardiovascular ones.
 
 ---
 
@@ -202,16 +183,24 @@ CAA.
    regimens behind Step 1 live there and are verified on that page.
 2. **Cerebral amyloid angiopathy** — [this site](../stroke/cerebral-amyloid-angiopathy.md); Boston
    v2.0 criteria and the lobar-microbleed significance.
-3. **Vascular cognitive impairment consensus criteria** — the diagnostic framework summarised above.
-   *Edition and citation not verified for this draft.*
+3. **Vascular cognitive impairment criteria** — **there is no single universally adopted edition.**
+   The two most commonly cited are the **VASCOG criteria (Sachdev et al., 2014)** and the
+   **AHA/ASA statement (Gorelick et al., 2011)**. Cite whichever you use, and say that no consensus
+   standard exists.
 4. **Cholinesterase inhibitors and memantine** — current FDA labels; **no vascular dementia
    indication exists** and use here is off-label.
 5. **AR 40-501** para **3-31k**, **3-1**, **3-4**, **4-27**; **DoDI 6130.03 Vol 2** para **5.26.d**.
 
-*Verified August 2026 — **DRAFT, NOT YET REVIEWED.** No doses are quoted on this page: the vascular
-risk-factor regimens deliberately defer to [stroke prevention](../stroke/prevention.md), which has
-been verified, and the cholinesterase inhibitors are referenced by name only because their use here
-is off-label. **Unverified:** the vascular cognitive impairment criteria edition and wording, the
-blood-pressure evidence claims, the mixed-pathology prevalence statements, the strategic-infarct
-locations, and all military paragraph citations (carried from `docs/military/deployability.md`).
-This page has not been through the `/page` pipeline.*
+*Verified August 2026: **no doses are quoted on this page by design** — the vascular risk-factor
+regimens defer to [stroke prevention](../stroke/prevention.md), which is separately verified, and the
+cholinesterase inhibitors are named only to say their use here is **off-label with no vascular
+dementia indication**. Corrections applied: the **criteria citation is now explicit** — there is **no
+universally adopted edition**, and **VASCOG (Sachdev 2014)** and **AHA/ASA (Gorelick 2011)** are the
+two to cite. A military review established that **this is the one page in the section where 5.26.d is
+often not the operative standard**: below the dementia threshold this runs as an ordinary post-stroke
+disposition through **MRDP and the MAR2-versus-DES fork, gated normally by 5.26.a.** The **named Army
+hook is AR 40-501 3-31f** (stroke with residuals), and the **profile factor was corrected to P.***
+
+***Not independently verified:** the blood-pressure evidence claims and mixed-pathology prevalence
+statements (both confirmed as current consensus in the evidence round, neither traced to a primary
+source here); the strategic-infarct locations; and TRICARE criteria.*

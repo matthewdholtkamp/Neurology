@@ -73,9 +73,17 @@ a degenerative one. Work these categories deliberately rather than by associatio
 
 !!! orderset "Step 2 — targeted, when the picture points"
     - **Prion-specific: CSF RT-QuIC** — the assay that changed this diagnosis. It detects the
-      pathological prion protein directly and has **substantially better specificity than 14-3-3**,
-      which was never specific and drove years of false reassurance and false alarm. **RT-QuIC has
-      superseded 14-3-3 as the CSF test of choice**; total tau adds supporting information.
+      misfolded prion protein directly. **Second-generation CSF RT-QuIC: sensitivity 92–97%,
+      specificity 99–100%** — and it has **superseded 14-3-3 as the test of choice**, since 14-3-3
+      is a non-specific marker of neuronal injury that produced both false alarm and false
+      reassurance.
+        - **But know where it is weaker.** Sensitivity is highest for MM1/MV1 and VV2 subtypes and
+          **falls for MV2 (75–93%) and MM2 (44–78%)** — so **a negative RT-QuIC does not exclude
+          CJD**, particularly in an atypical phenotype. **False positives occur at <1%.**
+        - **14-3-3 and total tau remain useful** as routine tests, particularly where RT-QuIC is
+          not available. Do not discard them; demote them.
+        - **Olfactory mucosa RT-QuIC** reaches ~96% sensitivity and ~100% specificity where it is
+          offered.
     - **Brain biopsy** — reserved for when the treatable causes have been pursued and a diagnosis
       would change management, most often suspected **CNS vasculitis, lymphoma or CAA-related
       inflammation.** A negative biopsy does not exclude.
@@ -91,7 +99,12 @@ a degenerative one. Work these categories deliberately rather than by associatio
    outpatient appointments.
 3. **Run Step 1 in parallel** — MRI, EEG, LP with paired panels, bloods, malignancy screen.
 4. **Give thiamine now** if there is any nutritional risk. Do not wait.
-5. **Ask the autoimmune question explicitly**, and answer it clinically rather than serologically.
+5. **Ask the autoimmune question explicitly, and answer it against a threshold rather than a
+   feeling.** The Graus 2016 criteria exist precisely so this decision can be made without
+   antibodies — **subacute onset (<3 months) of working-memory deficit, altered mental status or
+   psychiatric symptoms, PLUS at least one of: new focal CNS findings, unexplained seizures, CSF
+   pleocytosis, or MRI features suggestive of encephalitis — with reasonable exclusion of
+   alternatives.** If that is met, you have enough to treat.
 6. **If autoimmune encephalitis is plausible, start immunotherapy — do not wait for antibodies.**
    Antibody results take days to weeks; outcome tracks time to treatment.
 7. **Look for the tumour**, and keep looking if the first screen is negative and suspicion persists.
@@ -102,16 +115,52 @@ a degenerative one. Work these categories deliberately rather than by associatio
 
 ## Management
 
+!!! danger "Before the first dose of high-dose steroid — three things, every time"
+    1. **Is aciclovir running?** Start it first in any febrile or possibly infectious
+       encephalopathy. **Steroids into untreated HSV, TB, cryptococcus or a parasitic CNS infection
+       is how a survivable illness becomes a fatal one.**
+    2. **Has the LP been done, and the CSF sent for cytology and flow cytometry?** **Steroids clear
+       the CSF, abolish the pleocytosis and destroy the cytology yield within 24–48 hours.** Tap
+       first if you can tap at all.
+    3. **Is there an enhancing mass lesion that could be lymphoma?** If so, **talk to neurosurgery
+       and haematology before the steroid, not after.** **Steroids melt primary CNS lymphoma** — the
+       lesion vanishes, the biopsy becomes non-diagnostic for weeks to months, and the patient loses
+       the time. **A dramatic steroid response is not evidence for autoimmune encephalitis; PCNSL
+       does exactly the same thing.**
+
+    None of these is a reason to delay treatment in a patient without a mass lesion. **They take
+    minutes, not days.**
+
 !!! orderset "Treat the treatable — and treat empirically where waiting costs more than acting"
-    - **Thiamine** — give it on suspicion of Wernicke, **before glucose**, parenterally, at the
-      high-dose regimen your institution uses for suspected Wernicke rather than a maintenance dose.
-      *Doses are institution-protocol dependent and are not quoted here; use your local Wernicke
-      protocol.*
-    - **Aciclovir empirically** for suspected HSV encephalitis while PCR is pending. **The cost of
-      empiric treatment is trivial; the cost of delay is not.**
+    - **Thiamine — give it on suspicion, before any glucose, parenterally, and give the TREATMENT
+      dose, not the 100 mg maintenance dose.**
+        - **Thiamine 500 mg IV over 30 minutes every 8 hours for 2–3 days**, then **250 mg IV/IM
+          daily for 5 days**, then oral. Continue while the diagnosis remains plausible.
+        - **If 500 mg cannot be stocked, the floor is 200 mg IV three times daily — never 100 mg
+          once.** **100 mg IV is prophylaxis, not treatment.**
+        - **Watch the vial arithmetic:** thiamine is stocked at **100 mg/mL**, so a 500 mg dose is
+          **5 mL — five vials.** Drawing one vial is the commonest way this is under-dosed.
+        - **Give magnesium alongside** — thiamine-dependent enzymes are magnesium-dependent, and
+          replacement fails in hypomagnesaemia.
+        - **Do not withhold glucose from a hypoglycaemic patient** while hunting for thiamine. Give
+          thiamine first or simultaneously; do not let the sequencing rule cause a hypoglycaemic
+          death.
+    - **Aciclovir empirically** for any febrile or subacute encephalopathy where HSV is on the
+      list. **Start it before the LP if the LP will be delayed.**
+        - **Aciclovir 10 mg/kg IV every 8 hours** — dosed on **ideal body weight** in obesity,
+          **renally adjusted**, infused over **≥1 hour**, with **generous IV hydration**. The drug
+          is crystal-nephrotoxic if run fast into a dry patient.
+        - **Duration 14–21 days** once confirmed. Do not treat a 3-day course.
+        - **A negative CSF HSV PCR in the first 72 hours of symptoms does NOT exclude HSV
+          encephalitis** — and that is exactly the window in which a page telling you to move fast
+          gets the LP done. A bloody tap also inhibits the PCR. **If suspicion persists, continue
+          aciclovir and repeat the LP at 3–7 days.**
+        - **The cost of continuing is trivial; the cost of stopping on a false negative is the
+          patient.**
     - **Autoimmune encephalitis — first-line immunotherapy started on clinical grounds:**
-      high-dose corticosteroids, IVIG, and/or plasma exchange, alone or in combination, per your
-      neuroimmunology pathway. **Escalate to second-line (rituximab, cyclophosphamide) if the
+      **methylprednisolone 1,000 mg IV daily × 3–5 days** (the regimen used throughout this site),
+      IVIG, and/or plasma exchange, alone or in combination, per your neuroimmunology pathway.
+      **Read the checklist below before the first steroid dose.** **Escalate to second-line (rituximab, cyclophosphamide) if the
       response is inadequate** — early escalation is associated with better outcomes.
       *Regimens are not dosed on this page because they were not label-verified at drafting; use
       your institutional protocol or the current consensus guidance.*
@@ -123,6 +172,10 @@ a degenerative one. Work these categories deliberately rather than by associatio
 !!! warning "Avoid"
     - **Waiting for antibody results before starting immunotherapy** in a plausible case. This is
       the single commonest management error in this presentation.
+    - **Giving 100 mg IV thiamine and calling it treated.** That is the prophylactic dose.
+    - **Stopping aciclovir on a single negative HSV PCR drawn in the first 72 hours.**
+    - **Starting high-dose steroids before aciclovir is running** in a febrile encephalopathy, or
+      **before tissue** where an enhancing mass lesion could be lymphoma.
     - **Anchoring on CJD.** It ends the search prematurely, and the search is where the treatable
       patients are found.
     - **Attributing a first psychiatric presentation with neurological signs to psychiatry** without
@@ -163,12 +216,21 @@ a degenerative one. Work these categories deliberately rather than by associatio
       treated as a primary psychiatric illness is the failure mode this page exists to prevent.**
       Seizures, movement disorder, autonomic instability, hyponatraemia, or a course that does not
       behave like psychiatry should trigger neurology and an LP.
-    - **Disposition follows the cause and the residual deficit, not the presentation.** Do not apply
-      the dementia standard reflexively — **many of these patients recover substantially.** If the
-      cause is treated and deficit resolves, the endpoint may be **full return to duty**; the
-      retention question arises only from **residual impairment at MRDP**, under **AR 40-501 3-31k**
-      closing on **para 3-1**. **If a true dementia is established, DoDI 6130.03 Vol 2 5.26.d acts
-      upon diagnosis** — but establish it first.
+    - **Disposition follows the cause and the residual deficit, not the presentation — and the
+      regulation says so on its face.** **DoDI 6130.03 Vol 2 para 5.26.d** reaches *"**permanent or
+      progressive** cognitive impairment due to Alzheimer's disease or other dementias."* A treatable
+      autoimmune encephalitis or CNS infection with expected recovery is **neither permanent nor
+      progressive**, so **5.26.d does not engage at all** until permanence or progression is
+      established. **That is a textual argument, not a clinical judgement call — make it.**
+        - Until then the ordinary route applies: **temporary profile, linked extensions, MRDP**
+          (clinical, or the 12-month administrative point), then the retention question under
+          **AR 40-501 3-31k → para 3-1** — or **3-31i** if seizures persist — **gated normally by
+          5.26.a.**
+    - **MEB / MAR2 — and here, unlike the rest of this section, MAR2 is genuinely on the table.**
+      These Soldiers may recover into a Soldier who **meets retention standards but cannot perform
+      their PMOS** — which is a **MAR2**, an administrative review, not a disability process. Refer
+      to the **DES** only if residual impairment fails 3-31k → 3-1 at MRDP. **Do not refer before
+      MRDP**; recovery here runs for months.
     - **Profile:** **temporary** through the diagnostic work-up, treatment and recovery — which can
       run many months. Link every extension; **do not close it at hospital discharge**, and expect
       the **12-month administrative MRDP** to become the driver in a slow recoverer.
@@ -225,12 +287,25 @@ for sporadic CJD; the rapidly progressive dementia differential literature.
 4. **Status epilepticus** — [this site](../seizure/index.md), for non-convulsive status.
 5. **AR 40-501** para **3-31k**, **3-1**, **3-4**, **4-27**; **DoDI 6130.03 Vol 2** para **5.26.d**.
 
-*Verified August 2026 — **DRAFT, NOT YET REVIEWED, AND DELIBERATELY UNDOSED.** No drug doses are
-quoted on this page. Thiamine, aciclovir, corticosteroid, IVIG, plasma exchange and second-line
-immunotherapy regimens were **not label-verified at drafting**, and this is a presentation where a
-wrong dose written from memory would be dangerous — the page routes to institutional protocol
-instead. **Unverified:** the differential categories and their relative frequencies, the RT-QuIC
-performance claims and the assertion that it has superseded 14-3-3, the autoimmune encephalitis
-criteria and the time-to-treatment outcome relationship, and all military paragraph citations
-(carried from `docs/military/deployability.md`). **This page needs the full `/page` pipeline and a
-`page-safety` review before it is trusted** — it is the most safety-critical page in the section.*
+*Verified August 2026: **this page was the subject of a dedicated safety review, and it changed the
+most.** The drafting decision to quote **no doses at all** was judged **correct for IVIG, plasma
+exchange, rituximab and cyclophosphamide — and wrong for thiamine, aciclovir and corticosteroids.**
+Three specific hazards were found and fixed. **Thiamine now carries a treatment dose (500 mg IV q8h),
+because the site's own [status epilepticus page](../seizure/index.md) prescribed 100 mg IV — the
+exact maintenance dose this page warned against** — and that page has been corrected in the same
+pass. **Aciclovir now carries 10 mg/kg IV q8h and the warning that a negative CSF HSV PCR in the
+first 72 hours does not exclude HSV encephalitis**, because the previous wording ("while PCR is
+pending") read as a stop condition. **A pre-steroid checklist was added**, because the page's own
+differential includes primary CNS lymphoma and its Avoid box was pushing readers toward
+steroid-before-tissue. The **Graus 2016 threshold** now replaces "answer it clinically," and
+**RT-QuIC is stated with its real performance** (sens 92–97%, spec 99–100%, **but 44–78% in MM2**,
+so a negative does not exclude; 14-3-3 and t-tau retained where RT-QuIC is unavailable).*
+
+*A military review confirmed the disposition argument and **strengthened its basis**: 5.26.d reaches
+only *"permanent or progressive"* cognitive impairment, so **it does not engage at all** in a
+treatable encephalitis with expected recovery — a textual argument, not a judgement call. **MAR2 is
+genuinely on the table here**, unlike elsewhere in this section, and that bullet was missing.*
+
+***Not independently verified:** IVIG, plasma exchange, rituximab and cyclophosphamide regimens —
+**deliberately still not quoted**, and routed to institutional protocol for the reasons above; the
+differential categories and their relative frequencies; and TRICARE criteria.*

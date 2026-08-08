@@ -72,6 +72,11 @@ lower lowering target note tell warn counsel screen prefer choose pick keep
 infant infants adult adults child children pediatric paediatric neonate neonates
 patient patients everyone anyone women men pregnancy pregnant
 reaction reactions related effects effect warning warnings monitoring counselling
+medication medications review young onset vascular risk labs lab imaging history
+exam examination assessment testing screen screening plan safety capacity driving
+education support activity structural objective baseline serial genetic family
+subcutaneous intravenous intramuscular oral topical enhanced clinical vigilance
+lumbar puncture brain biopsy blood pressure spinal fluid csf eeg mri scan
 """.split())
 
 
@@ -386,9 +391,15 @@ def compare(claim, label, stamp_ym):
                       "re-read it" % (eff[:4], eff[4:6])))
 
     # 6. Loading/induction language in the label, absent from the page.
+    #    The page-side pattern must accept ordinary titration wording — "increasing
+    #    by 1.5 mg BID at 2-week intervals" IS a titration schedule, and matching
+    #    only "then/load/induction" flagged correctly-dosed pages as incomplete.
     if re.search(r"\b(loading dose|induction|then \d|week 5|initial dose)\b",
                  label["dosage_and_administration"], re.I):
-        if not re.search(r"\b(load|loading|induction|then\b|week 5|×\s?4|x\s?4)\b",
+        # NOTE the \w* suffixes: "increas\b" can never match "increasing", which is
+        # how correctly-titrated pages were being flagged as missing an induction.
+        if not re.search(r"(\bload|\binduction|\bthen \d|week 5|×\s?4|x\s?4"
+                         r"|titrat\w*|increas\w*|interval\w*|\bstart\w*|\binitial)",
                          page, re.I):
             flags.append(("HIGH", "INDUCTION-MISSING",
                           "label describes a loading/induction phase the page's "
