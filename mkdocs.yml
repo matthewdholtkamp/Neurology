@@ -110,6 +110,8 @@ nav:
       - "— LEMS": nmj/lems.md
       - "— Botulism": nmj/botulism.md
       - "— Nerve agent / organophosphate": nmj/nerve-agent.md
+    - Movement disorders:
+      - Movement disorders (TD, PD, chorea, atypical parkinsonism): movement-disorder.md
     - Dementia & cognitive impairment:
       - Approach to cognitive impairment: dementia/index.md
       - "— Alzheimer's disease": dementia/alzheimers.md
