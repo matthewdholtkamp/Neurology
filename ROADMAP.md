@@ -250,13 +250,25 @@ Each page's specifics get checked against current sources at build time.
       Edinburgh, ARIA thresholds, CAA-ri regimen), **carotid disease** (CREST-2 2025, plaque
       morphology/web/near-occlusion). **All 9 Stroke & cerebrovascular pages have had current-evidence
       review passes.**
-- [ ] **Movement Disorder** — VMAT2 inhibitors for TD; newer PD adjuncts.
-- [ ] **Motor Neuron Disease** — edaravone; tofersen (SOD1); Relyvrio saga.
+- [~] **Movement Disorder — DRAFTED 2026-10-06, NOT YET REVIEWED.** VMAT2 inhibitors for TD and
+      HD chorea (valbenazine added 2026-10-22), PD adjuncts, nOH, PDP, atypical parkinsonism, and an
+      inpatient-emergencies section (NMS, parkinsonism-hyperpyrexia, NPO PD, serotonin syndrome,
+      acute dystonia). Needs `/page`.
+- [~] **Motor Neuron Disease — DRAFTED 2026-10-10, NOT YET REVIEWED.** Riluzole, edaravone
+      (repositioned as a discussion 2026-10-22), tofersen (SOD1), Relyvrio saga, SMA cabinet.
+      Researched by web search only — needs `/page` with the label diff.
 - [ ] **Acute Myelopathy** — fold in AQP4/MOG + NMOSD/MOGAD.
-- [ ] **Myopathy** — modern myositis antibody panels; IMNM (anti-HMGCR/SRP).
+- [~] **Myopathy — DRAFTED 2026-10-10, NOT YET REVIEWED.** Antibody panels, IMNM, DM/PM ladder,
+      myositis-ILD, IBM (2024 ENMC); exertional rhabdomyolysis, metabolic, steroid, critical-illness
+      myopathy and periodic paralysis added 2026-10-22. **Confirm the brepocitinib (Lisraya)
+      label** during `/page`.
 - [ ] **Peripheral Neuropathy + IVIG** — CIDP efgartigimod; order set fine.
-- [ ] **Brain Death** — update to 2023 AAN/consensus BD/DNC guideline.
-- [ ] **Neuroinfections** — integrate autoimmune encephalitis workup.
+- [~] **Brain Death — DRAFTED 2026-10-04, NOT YET REVIEWED.** 2023 AAN/AAP/CNS/SCCM BD/DNC
+      guideline and its 2024 correction. Closest of the October pages to sign-off.
+- [~] **Neuroinfections — DRAFTED 2026-10-06, NOT YET REVIEWED.** Bacterial meningitis, HSV,
+      abscess, cryptococcal, TBM, neurosyphilis, NCC, autoimmune encephalitis; military and regional
+      exposures added 2026-10-22. **2026-10-22 correction: the TBM dexamethasone grades had been
+      transposed** — `/page` should re-verify every dose on this page.
 - [ ] **Quick Reference** — drop MTHFR; add autoimmune/MOG panels.
 
 ### Light touch (date it, keep the voice)

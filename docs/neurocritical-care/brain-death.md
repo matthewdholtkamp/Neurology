@@ -7,6 +7,11 @@ the prerequisites, examination, and apnea test that make the diagnosis, per the 
 AAN/AAP/CNS/SCCM consensus guideline. BD/DNC is a **clinical diagnosis**: permanent coma,
 brainstem areflexia, and apnea despite adequate hypercarbic/acidemic stimulation.
 
+!!! warning "Draft — not yet through the review pipeline"
+    This page has not had its `/page` review (FDA-label diff, OpenEvidence round, safety and
+    military agents). The October 2026 corrections are listed in the Verified footer; treat
+    anything the footer does not name as unconfirmed.
+
 !!! danger "🚩 Do not start — or do not continue — the evaluation if"
     | Pattern | Why it stops you | Do this instead |
     |---|---|---|
@@ -129,7 +134,7 @@ apnea testing is unsafe, or a metabolic confounder cannot be corrected. **Comple
 assessable component first**; all findings must still be consistent with BD/DNC. Ancillary
 testing **cannot bypass** hypothermia, the post-rewarming waiting period, or high sedative levels.
 
-| Accepted (Level A) | NOT accepted under this guideline |
+| Accepted under the 2023 guideline | NOT accepted under this guideline |
 |---|---|
 | **4-vessel catheter angiography** (no intracranial filling) | **EEG** |
 | **Radionuclide cerebral blood flow scan** (e.g., HMPAO — "hollow skull") | **Evoked potentials** (auditory, somatosensory) |
@@ -224,7 +229,8 @@ Neurology Clinical Practice implementation guideline.
    — implementation companion: tables comparing 2023 vs prior guidelines, acceptable vs
    unacceptable ancillary tests.
 
-*Verified October 2026: every numeric threshold on this page (temperatures, pressures,
+*Verified October 2026 — **DRAFT, NOT YET REVIEWED** (no `/page` run yet; the only 2026-10-22
+change was the ancillary-test table heading). Every numeric threshold on this page (temperatures, pressures,
 24-hour waits, apnea-test PaCO₂/pH endpoints, abort criteria, drug washout rules, and the
 supplement's laboratory warning ranges) was checked against the 2023 consensus guideline
 (Greer et al., Neurology 2023), its 2024 correction, and the Neurology Clinical Practice

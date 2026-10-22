@@ -111,11 +111,11 @@ nav:
       - "— Botulism": nmj/botulism.md
       - "— Nerve agent / organophosphate": nmj/nerve-agent.md
     - Movement disorders:
-      - Movement disorders (TD, PD, chorea, atypical parkinsonism): movement-disorder.md
+      - Movement disorders (emergencies, TD, PD, chorea, atypical parkinsonism): movement-disorder/index.md
     - Motor neuron disease:
-      - Motor neuron disease (ALS, PMA/PLS, SMA): motor-neuron-disease.md
+      - Motor neuron disease (ALS, PMA/PLS, SMA): motor-neuron-disease/index.md
     - Myopathy:
-      - Myopathy (inflammatory, IMNM, IBM, metabolic): myopathy.md
+      - Myopathy (inflammatory, IBM, rhabdomyolysis, metabolic): myopathy/index.md
     - Dementia & cognitive impairment:
       - Approach to cognitive impairment: dementia/index.md
       - "— Alzheimer's disease": dementia/alzheimers.md
@@ -126,7 +126,7 @@ nav:
     - Neurocritical care:
       - Brain death (death by neurologic criteria): neurocritical-care/brain-death.md
     - Neuroinfections:
-      - Neuroinfections (incl. autoimmune encephalitis): neuroinfections.md
+      - Neuroinfections (incl. autoimmune encephalitis, military exposures): neuroinfections/index.md
   - Military medicine:
       - Profiles, MEB/MAR2 & deployability: military/deployability.md
   - About:

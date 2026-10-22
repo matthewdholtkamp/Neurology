@@ -6,13 +6,17 @@
 start antimicrobials **before** the LP, and when the picture is subacute encephalopathy, run the
 infectious and autoimmune workups in parallel.
 
-*Educational clinical decision support — not medical advice. Verify every dose against current
-references and local protocols before ordering.*
+!!! warning "Draft — not yet through the review pipeline"
+    This page has not had its `/page` review (FDA-label diff, OpenEvidence round, safety and
+    military agents). The October 2026 corrections are listed in the Verified footer; treat
+    anything the footer does not name as unconfirmed.
 
 !!! danger "🚩 Red flags — treat first, prove later"
     | Pattern | Worry | Do now |
     |---|---|---|
     | Fever + neck stiffness + altered mentation | Acute bacterial meningitis | Blood cultures, **dexamethasone + antibiotics with the first dose** — never delay for LP or CT |
+    | **Trainee or barracks resident** + fever + petechial/purpuric rash or meningism | **Meningococcal disease** | **Ceftriaxone 2 g IV now**, droplet precautions, **call preventive medicine** for contact prophylaxis — [below](#military-and-regional-exposures) |
+    | Fever + encephalopathy or seizures **after deployment or travel to a malaria zone** | **Cerebral malaria** | Smears/rapid antigen now; **IV artesunate** — [below](#military-and-regional-exposures) |
     | Febrile encephalopathy + aphasia / focal deficit / seizures (temporal lobe) | HSV encephalitis | **IV acyclovir immediately** — do not wait for LP, MRI, or PCR |
     | Headache + fever + focal deficit or seizure | Brain abscess | Blood cultures, empiric abx, urgent neurosurgical + ID assessment |
     | HIV + subacute headache, often with raised ICP | Cryptococcal meningitis | LP with **opening pressure**; induction antifungals + serial therapeutic LPs |
@@ -56,11 +60,15 @@ steroids given later lose their benefit.
     - **Dexamethasone 10 mg IV q6h** — give **before or with the first antibiotic dose**, up to
       4 days; **stop it if CSF is not consistent with bacterial meningitis** (NICE: give within
       12 h of presentation if given at all).
-    - **Vancomycin** (weight-based per local protocol — dose not captured in this run's
-      research) + **ceftriaxone 2 g IV q12h** — adults 18–50.
+    - **Vancomycin 15–20 mg/kg IV q8–12h** (IDSA: 30–45 mg/kg/day in divided doses; a
+      **20–35 mg/kg loading dose** is common in the critically ill) — actual body weight, adjust
+      for renal function, **trough 15–20 µg/mL or AUC-guided** per pharmacy — **+ ceftriaxone
+      2 g IV q12h** — adults 18–50.
     - **Add ampicillin 2 g IV q4h** (Listeria cover) if **age >50, pregnant, or
       immunocompromised**.
     - Alternative cephalosporin: **cefotaxime 2 g IV q4–6h**.
+    - **Any encephalitic feature** (confusion out of proportion, focal signs, seizures) → add
+      **acyclovir 10 mg/kg IV q8h** until HSV PCR returns — see [HSV encephalitis](#hsv-encephalitis-adults).
     - **CT head first** if immunocompromised, focal deficit, papilledema, seizure, or depressed
       consciousness — then LP. **Never delay antibiotics for CT or LP.**
 
@@ -86,10 +94,11 @@ steroids given later lose their benefit.
     - Narrow to organism-directed therapy once cultures/susceptibilities return; keep source
       control (devices, sinuses, ears) moving in parallel.
     - **Durations are guideline-specific, not interchangeable:** NICE — 10 days if clinically
-      recovered; WHO — 7 days conditional. Healthcare-associated ventriculitis/meningitis
-      (IDSA 2017): **10–14 days** for *S. aureus* or gram-negative bacilli (some experts:
-      10–14 days **after the last positive culture**), **21 days** for gram-negative infection;
-      with repeatedly positive CSF cultures, continue therapy.
+      recovered; WHO — 7 days conditional.
+    - **Healthcare-associated ventriculitis/meningitis (IDSA 2017):** coagulase-negative
+      staphylococci or *S. aureus* **10–14 days**; gram-negative bacilli **10–14 days** (some
+      experts treat **21 days**); **repeatedly positive CSF cultures → 10–14 days after the
+      last positive culture**.
 
 ---
 
@@ -206,9 +215,10 @@ management with serial therapeutic LPs**. Acetazolamide, mannitol, and routine s
       **reduce pressure by at least half or to <20 cm H₂O**.
     - **Repeat therapeutic LPs at least daily** while symptoms or raised pressure persist;
       consider an early repeat LP even after a lower initial reading — pressure can rise later.
-    - No drainage destination is asserted here when repeated LPs fail or cannot be tolerated
-      (source transcription was incomplete) — escalate to neurosurgery/ID for CSF-diversion
-      planning.
+    - **When daily LPs fail or cannot be tolerated:** a **temporary lumbar drain** or
+      **ventriculostomy**; a **ventriculoperitoneal shunt** only when pressure stays raised
+      despite appropriate antifungal therapy and serial drainage (IDSA 2010). Involve
+      neurosurgery early.
 
 !!! orderset "Step 3 — consolidation, maintenance, and ART timing"
     - **Consolidation:** **fluconazole 800 mg PO daily for at least 8 weeks**; in a stable
@@ -242,15 +252,20 @@ A **treatment emergency**: start antituberculous therapy promptly after specimen
     - **Drug-susceptible TBM:** **isoniazid + rifampin + pyrazinamide + ethambutol (HRZE) daily
       for 2 months**, then **isoniazid + rifampin (HR) for 7–10 months**. Total **9–12 months**;
       many experts use 12 months (2HRZE/10HR). Do not substitute shorter pulmonary-TB regimens.
-      (Individual anti-TB drug mg doses were not captured in this run's research — dose per
-      ATS/CDC/IDSA 2016 and local protocol.)
-    - **Adjunctive dexamethasone — start with TB treatment, taper over 6–8 weeks.** Published
-      severity-dependent schedules: **Grade II–III:** IV 0.3 mg/kg/day in week 1, IV 0.2
-      mg/kg/day in week 2, then oral 0.1 mg/kg/day in week 3, then oral 3, 2, and 1 mg/day in
-      weeks 4–6; **Grade I:** IV 0.4, 0.3, 0.2, and 0.1 mg/kg/day in successive weeks 1–4, then
-      oral 4, 3, 2, and 1 mg/day in weeks 5–8. *(Week-2/3 unit continuity inferred from the
-      published schedule pattern — confirm against the British Infection Society guideline.)*
-      The survival benefit is clearest in people **without HIV**; in HIV-positive adults the
+    - **Daily adult doses (ATS/CDC/IDSA 2016):** **isoniazid 5 mg/kg (max 300 mg)**;
+      **rifampin 10 mg/kg (max 600 mg)**; **pyrazinamide 1,000 / 1,500 / 2,000 mg** and
+      **ethambutol 800 / 1,200 / 1,600 mg** for **40–55 / 56–75 / 76–90 kg**. Add **pyridoxine
+      25–50 mg PO daily** with isoniazid. Higher-dose rifampin for TBM is under study — a
+      specialist decision, not the default. Involve ID and the local TB program at diagnosis.
+    - **Adjunctive dexamethasone — start with TB treatment** (Thwaites 2004; MRC grade I = GCS
+      15 without focal deficit; II = GCS 11–14, or 15 with a focal deficit; III = GCS ≤10):
+        - **Grade II–III — 8 weeks:** IV **0.4 mg/kg/day** week 1 → **0.3** week 2 → **0.2**
+          week 3 → **0.1 mg/kg/day** week 4; then oral **4 mg/day**, falling by **1 mg/day each
+          week** over weeks 5–8.
+        - **Grade I — 6 weeks:** IV **0.3 mg/kg/day** week 1 → **0.2 mg/kg/day** week 2; oral
+          **0.1 mg/kg/day** week 3; then oral **3 mg/day**, falling by **1 mg/day each week**
+          over weeks 4–6.
+    - The survival benefit is clearest in people **without HIV**; in HIV-positive adults the
       benefit was not established, so steroid use there is an individualized discussion.
     - Seek respiratory/extraneural specimens; repeat LP **only if safe** when suspicion stays
       high — and never withhold empiric treatment while searching.
@@ -331,9 +346,8 @@ are the most common parenchymal presentation; late-onset epilepsy is a hallmark.
       divided doses with food, max 1,200 mg/day, for 10–14 days**.
     - **>2 viable parenchymal cysts (no elevated ICP):** **albendazole 15 mg/kg/day + praziquantel
       50 mg/kg/day PO** (praziquantel generally in three daily doses) **for 10–14 days** —
-      dual therapy beats monotherapy for cyst resolution. *(Duration placement inferred from the
-      guideline table layout — re-confirm against IDSA/ASTMH 2018.)* Praziquantel monotherapy is
-      less effective and not preferred.
+      dual therapy beats monotherapy for cyst resolution. Praziquantel monotherapy is less
+      effective and not preferred.
     - **Single enhancing lesion:** albendazole 15 mg/kg/day with meals for 1–2 weeks is
       suggested (weaker evidence).
     - **Subarachnoid disease:** anthelminthics **plus high-dose anti-inflammatory therapy**,
@@ -383,7 +397,7 @@ inpatient care and early neuroimmunology involvement.
 | Phenotype clue | Think |
 |---|---|
 | Days-onset viral-type prodrome → early psychiatric features → seizures, movement disorders (orofacial dyskinesias, chorea/dystonia), dysautonomia/hypoventilation | **NMDA-R** |
-| >40 y, weeks-onset faciobrachial dystonic seizures + amnesia, disorientation, hyponatremia | **LGI1** (most common adult subtype) |
+| >40 y, weeks-onset faciobrachial dystonic seizures + amnesia, disorientation, hyponatremia | **LGI1** (the commonest autoimmune limbic encephalitis in older adults; NMDA-R is commoner overall) |
 | Males >60 y, limbic features, neuromyotonia, Morvan syndrome | **CASPR2** |
 | Limbic encephalitis with prominent early seizures (strong SCLC association) | **GABA-B-R** |
 | Refractory seizures/status with multifocal MRI lesions | **GABA-A-R** |
@@ -447,16 +461,73 @@ antibody does not exclude clinically well-supported disease.
       tocilizumab, daratumumab; emerging agents (inebilizumab, ofatumumab, efgartigimod, CAR-T).
 
 !!! orderset "Step 3 — tumor screening (at the initial evaluation — do not wait for antibody results)"
-    - **NMDA-R:** ovarian teratoma in women (malignancy in up to ~40–47%) — **pelvic
+    - **NMDA-R:** an underlying tumor in **~38%** overall — almost always an **ovarian
+      teratoma**, usually mature (benign), most often in women aged 12–45 — **pelvic
       ultrasound/MRI**, with follow-up imaging; tumor removal accelerates recovery.
     - **Modality approach:** CT chest/abdomen/pelvis; if negative, **whole-body FDG-PET**;
       mammography ± breast MRI; testicular ultrasound in men (especially Ma2); PET does not
       replace dedicated pelvic imaging for a possible teratoma.
-    - **High-risk/onconeural antibodies** (Hu, CV2/CRMP5, Ma2, amphiphysin, GABA-B-R/SCLC): if
-      initial screening is negative, repeat surveillance **every 3–6 months** (some recommend
-      6–12 months) **for 3–5 years**; intensify with older age, smoking, or cancer history.
-    - The 2021 paraneoplastic criteria specify **every 3–6 months for at least 2 years** for a
-      high-risk phenotype, **every 4–6 months for 2 years** with a high-risk antibody.
+    - **High-risk antibody** (Hu, CV2/CRMP5, Ma2, amphiphysin, GABA-B-R/SCLC) **or high-risk
+      phenotype** with a negative first screen: **repeat every 4–6 months for 2 years** (2021
+      PNS-Care criteria — the interval the [LEMS page](../nmj/lems.md) uses); intensify with
+      older age, smoking, or cancer history.
+
+---
+
+## Military and regional exposures
+
+The exposures this population actually has — recruits in open-bay barracks, field training in
+tick country, and Soldiers back from deployment. Each one changes the empiric plan.
+
+!!! orderset "Meningococcal disease in trainees — treat, isolate, report"
+    - **Fever + headache/meningism or a petechial/purpuric rash in a trainee** → **ceftriaxone
+      2 g IV now** (do not wait for LP), **droplet precautions for the first 24 hours** of
+      effective therapy, and **call preventive medicine immediately** — it is reportable, and
+      contact tracing starts the same day.
+    - **Close-contact chemoprophylaxis** (bay-mates, roommates, anyone exposed to oral
+      secretions — ideally within 24 h): **ciprofloxacin 500 mg PO once**, **or rifampin 600 mg
+      PO q12h × 2 days**, **or ceftriaxone 250 mg IM once** (the choice in pregnancy). Check
+      current CDC/local advisories for ciprofloxacin-resistant strains before relying on it.
+    - **MenACWY at accession lowers but does not abolish the risk** — a vaccinated trainee with
+      this picture is meningococcal until proven otherwise.
+
+!!! orderset "Tick-borne and arboviral — Missouri and the Ozarks"
+    - **Fever + headache ± confusion after field time, April–September:** start **doxycycline
+      100 mg PO/IV q12h** empirically for **Rocky Mountain spotted fever and ehrlichiosis**
+      (Missouri is a high-incidence state for both); continue **≥3 days after defervescence,
+      minimum 5–7 days**. Do not wait for serology — thrombocytopenia, leukopenia, hyponatremia
+      and transaminitis support it.
+    - **Heartland and Bourbon virus** (Lone Star tick): fever, leukopenia, thrombocytopenia,
+      occasionally meningoencephalitis — **no specific therapy**; supportive care, testing
+      through the state health department/CDC. "Ehrlichiosis" that does not respond to
+      doxycycline is the clue.
+    - **Lyme neuroborreliosis** (uncommon in Missouri — ask about prior postings and leave):
+      facial palsy, radiculoneuritis, or lymphocytic meningitis → **ceftriaxone 2 g IV daily**
+      **or doxycycline 100 mg PO BID (or 200 mg once daily)** for **14–21 days** (IDSA/AAN/ACR
+      2020); parenchymal brain or spinal cord disease → IV.
+    - **West Nile neuroinvasive disease** (late summer): meningitis, encephalitis, or acute
+      flaccid paralysis — **CSF WNV IgM**; supportive care only.
+
+!!! orderset "Back from deployment or overseas travel"
+    - **Fever + encephalopathy, seizures or coma after a malaria zone = cerebral malaria until
+      proven otherwise** — prophylaxis adherence does not exclude it. Thick/thin smears (repeat
+      q12–24h × 3) or rapid antigen **now**; do not wait for confirmation in a sick patient.
+      **IV artesunate 2.4 mg/kg at 0, 12 and 24 h, then daily** until oral therapy is
+      tolerated, then a full oral course (CDC).
+    - **Animal bite or bat exposure, abroad or at home** — rabies post-exposure prophylaxis if
+      never vaccinated: wound washing, **human rabies immune globulin 20 IU/kg** infiltrated into
+      and around the wound, and **rabies vaccine 1 mL IM (deltoid) on days 0, 3, 7 and 14**
+      (add day 28 if immunocompromised). Previously vaccinated: vaccine on **days 0 and 3**, no
+      HRIG. Clinical rabies is almost uniformly fatal — prevention is the whole game.
+    - Also by region: **Japanese encephalitis** (Asia), **tick-borne encephalitis** (Europe),
+      **neurocysticercosis** and **TB meningitis** (above).
+
+!!! tip "TRICARE — exposure prescribing"
+    Doxycycline, ciprofloxacin, rifampin and ceftriaxone are generic formulary agents. **IV
+    artesunate** is commercially available but not stocked everywhere — if the pharmacy does not
+    have it, call the **CDC malaria hotline** rather than delaying. Rabies immune globulin and
+    vaccine come through the ED/public-health channel. *Verify current status at the TRICARE
+    Formulary Search — DoD P&T revises tiers.*
 
 ---
 
@@ -472,27 +543,44 @@ antibody does not exclude clinically well-supported disease.
   tumor surveillance (AE/paraneoplastic), and seizure/rehab planning.
 
 !!! military "Military medicine — neuroinfections"
-    *Framework — verify against current **AR 40-501**, **DoDI 6130.03**, **DoDI 1332.18** before
-    counseling; aeromedical/special-duty policy is service-specific.*
+    *Framework — verify against current **AR 40-501**, **DoDI 6130.03 Vol 1 and Vol 2**,
+    **DoDI 1332.18** and service aeromedical policy. See
+    [Profiles, MEB/MAR2 & deployability](../military/deployability.md). Paragraph citations are
+    carried from that page, not re-extracted for this one.*
 
-    - **Deployability:** active CNS infection and its prolonged antimicrobial/immunotherapy
-      course are deployment-limiting until resolved; residual deficits (seizures, cognitive
-      impairment, hydrocephalus with shunt) can be deployment-limiting. Consider environment:
-      **fluconazole maintenance, anti-TB therapy, and IVIG/rituximab** are not maintainable
-      downrange; **albendazole/praziquantel courses** are short but require follow-up imaging.
-    - **Profile (DA Form 3349):** temporary profile during acute illness and recovery; permanent
-      profile for residual deficits (seizures, focal weakness, cognitive impairment, shunt).
-      Functional limits: no driving/heights/field duty during seizure treatment, ICP issues, or
-      immunotherapy toxicity monitoring.
-    - **EPTS / LOD:** document onset circumstances; line-of-duty determination matters for
-      benefits and ongoing care. Pre-service infections with residual deficits fall under EPTS
-      rules — document the baseline.
-    - **Retention (AR 40-501 / DoDI 6130.03):** recurrent seizures, uncontrolled infection,
-      permanent neurologic deficit, or shunt dependence triggers retention-standard review —
-      cite the applicable chapter/paragraph before counseling.
-    - **MEB / IDES:** refer when the condition or its residuals fail retention standards or
-      prevent duty performance; documentation that carries a board: admission records, serial
-      neuro exams, imaging, antibody/serology results, seizure logs, and treatment course.
+    - **Most neuroinfections are temporary-profile problems.** The infection is treated and
+      resolves; **what goes to a board is the residual** — and the residual is judged under the
+      paragraph for that deficit, not under an "infection" standard.
+    - **Retention — cite the residual, by paragraph:**
+        - **Post-infectious epilepsy** — DoDI 6130.03 Vol 2 **5.26.k** (act **upon diagnosis**;
+          5.26.a does not apply) and AR 40-501 **3-31i**. A single acute symptomatic seizure
+          during meningitis or encephalitis is **provoked** — **5.26.j**, not epilepsy.
+        - **Stroke from TB, VZV, vasculitic meningitis or neurosyphilis** — **5.26.b** /
+          **3-31f** ("when residuals affect performance").
+        - **Cognitive, behavioural or motor residuals; hydrocephalus with a shunt** — the
+          catch-all **AR 40-501 3-31k** closing on **para 3-1**; DoD floor through the **5.26.a**
+          gate (persists despite treatment **and** precludes duty).
+    - **Profile (DA Form 3349):** **P** factor, **temporary** through treatment and recovery
+      (≤90 days per instrument; link extensions). Seizure-related limits — no driving, weapons,
+      heights or water duty until the seizure-free interval is met. Convert to **permanent** at
+      MRDP if a residual remains; a permanent 3 is the DES referral (AR 40-501 **3-4**).
+    - **EPTS / LOD:** infection acquired in training or on deployment is **in line of duty** —
+      say so, with the exposure (barracks cluster, field tick exposure, deployment location).
+      **Neurocysticercosis is the classic EPTS question:** lesions acquired in childhood abroad
+      can first seize years into service — date the exposure, not the first seizure, and
+      remember the 6-month accession rule (AR 40-501 **3-2**).
+    - **MEB / IDES:** only for residuals that fail retention after adequate treatment and
+      recovery — never during the acute course. Carry admission records, CSF and imaging, the
+      organism or antibody, the treatment course, serial neuro exams and seizure logs.
+    - **Deployability:** non-deployable through any IV or prolonged oral course and its
+      monitoring. **Fluconazole maintenance, anti-TB therapy, IVIG/rituximab maintenance and a
+      VP shunt** each limit deployment on their own.
+    - **Aeromedical / special duty:** ground for the acute illness and get an aeromedical review
+      before return to flight; post-infectious seizure, cognitive change or a shunt is
+      disqualifying pending waiver. AR 40-501 **4-27** imports the accession neurologic standards
+      for flying duty — confirm the current Aeromedical Policy Letter with USAAMA.
+    - **Public health:** meningococcal disease, TB, syphilis, and arboviral and tick-borne
+      infections are reportable — notify **preventive medicine** the same day.
 
 ---
 
@@ -516,6 +604,9 @@ antibody does not exclude clinically well-supported disease.
 - **Neurocysticercosis:** albendazole + praziquantel beats monotherapy for >2 viable cysts;
   steroids start **before** the cysticidal drugs; never treat through uncontrolled ICP or
   hydrocephalus.
+- **Train for the exposures this force has:** meningococcal disease in barracks (treat, isolate,
+  report, prophylax contacts), rickettsial infection after field time in Missouri (doxycycline
+  before serology), and cerebral malaria in anyone back from a malaria zone (IV artesunate now).
 - **Autoimmune encephalitis:** start immunotherapy at the **probable** stage on paired
   serum+CSF panels; a negative panel neither proves seronegative AE nor excludes
   well-supported disease; **screen for tumor at presentation**, not after the antibodies
@@ -590,22 +681,41 @@ recommendations (2021), Canadian AE consensus (2024), and paraneoplastic criteri
     2024;51(6)](https://doi.org/10.1017/cjn.2024.16).
 24. Graus F, et al. [*Updated diagnostic criteria for paraneoplastic neurologic syndromes.*
     Neurol Neuroimmunol Neuroinflamm. 2021;8:e1014](https://doi.org/10.1212/NXI.0000000000001014).
-25. **TRICARE / DoD Uniform Formulary:** inpatient antimicrobials are typically ward stock;
+25. Perfect JR, et al. [*Clinical practice guidelines for the management of cryptococcal
+    disease: 2010 update by the IDSA.* Clin Infect Dis. 2010;50:291–322](https://doi.org/10.1086/649858)
+    — lumbar drain, ventriculostomy and shunt criteria for persistent raised pressure.
+26. Rybak MJ, et al. *Therapeutic monitoring of vancomycin for serious MRSA infections: a revised
+    consensus guideline.* Am J Health Syst Pharm. 2020;77:835–864 — loading dose and AUC-guided
+    dosing.
+27. Titulaer MJ, et al. [*Treatment and prognostic factors for long-term outcome in patients with
+    anti-NMDA receptor encephalitis.* Lancet Neurol. 2013;12:157–165](https://doi.org/10.1016/S1474-4422(12)70310-1)
+    — tumor frequency (~38%, almost all ovarian teratoma).
+28. Biggs HM, et al. *Diagnosis and management of tickborne rickettsial diseases: RMSF and other
+    spotted fever group rickettsioses, ehrlichioses, and anaplasmosis.* MMWR Recomm Rep.
+    2016;65(2):1–44 — empiric doxycycline.
+29. Lantos PM, et al. [*Clinical practice guidelines by IDSA, AAN, and ACR: 2020 guidelines for
+    the prevention, diagnosis and treatment of Lyme disease.* Clin Infect Dis.
+    2021;72:e1–e48](https://doi.org/10.1093/cid/ciaa1215) — neuroborreliosis regimens.
+30. Rupprecht CE, et al. *Use of a reduced (4-dose) vaccine schedule for postexposure prophylaxis
+    to prevent human rabies: ACIP recommendations.* MMWR Recomm Rep. 2010;59(RR-2) — PEP schedule.
+31. Centers for Disease Control and Prevention. *Treatment of severe malaria* (IV artesunate) and
+    *Meningococcal disease — chemoprophylaxis for close contacts*, clinical guidance pages
+    (accessed October 2026).
+32. **TRICARE / DoD Uniform Formulary:** inpatient antimicrobials are typically ward stock;
     outpatient agents (fluconazole, albendazole/praziquantel, ART) and specialty immunotherapy
     (IVIG, rituximab) may carry tier/PA requirements. *Verify current status at the TRICARE
     Formulary Search — DoD P&T revises tiers.*
 
-*Verified October 2026: every dose, threshold, and duration on this page was checked against
-the research captured 2026-10-06 (clinician-ChatGPT full transcriptions for all eight
-questions; OpenEvidence full transcriptions for neurocysticercosis and autoimmune
-encephalitis; OpenEvidence server-side snippets corroborating the cryptococcal, TB meningitis,
-and neurosyphilis answers). **Could not be pinned and needs confirmation before sign-off:**
-(1) the vancomycin mg/kg dose in empiric meningitis therapy — stated as "weight-based per
-local protocol" (not captured in this run's research); (2) individual anti-TB drug mg doses —
-regimen given as named HRZE/HR with durations only; (3) the drainage destination when repeated
-therapeutic LPs fail in cryptococcal meningitis — no destination is asserted; (4) TBM
-dexamethasone week-2/3 unit continuity was inferred from the published schedule pattern; (5)
-TRICARE formulary/PA statuses were **not** verified against the current DoD Uniform Formulary —
-every tip box says verify at the TRICARE Formulary Search. Military content is at
-published-doctrine level (AR 40-501, DoDI 6130.03, DoDI 1332.18) with no service-specific
-policy asserted.*
+*Verified October 2026 — **DRAFT, NOT YET REVIEWED.** Drafted 2026-10-06 from OpenEvidence and
+clinician-ChatGPT research, then corrected on 2026-10-22 against the primary sources cited: the
+TBM dexamethasone schedule (grade II–III and grade I had been transposed — now per Thwaites 2004),
+empiric vancomycin dosing (IDSA 2004; 2020 vancomycin consensus), daily HRZE doses and pyridoxine
+(ATS/CDC/IDSA 2016), healthcare-associated meningitis durations (IDSA 2017), cryptococcal CSF
+diversion (IDSA 2010), the NMDA-R tumor figure (Titulaer 2013) and the paraneoplastic surveillance
+interval (2021 PNS-Care, matching the LEMS page). The **Military and regional exposures** section
+(meningococcal chemoprophylaxis, rickettsial doxycycline, Lyme 2020, artesunate, rabies PEP) was
+added from CDC/IDSA guidance and has **not** been through OpenEvidence or an agent review. The
+FDA-label diff could not be run (openFDA was unreachable from the editing environment). TRICARE
+statuses are not verified against the Uniform Formulary. Military paragraph citations are carried
+from the site's military page, not re-extracted. Run `/page` on this page before relying on
+anything not named here.*
