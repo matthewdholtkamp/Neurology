@@ -1,6 +1,6 @@
 # Migraine
 
-<span class="reviewed-stamp">Last reviewed: July 2026</span>
+<span class="reviewed-stamp">Last reviewed: November 2026</span>
 
 **One-liner:** recurrent, disabling headache — usually lateralized, throbbing, moderate-to-severe,
 worse with activity, with photophobia/phonophobia, nausea, and sometimes aura. For a general
@@ -137,57 +137,85 @@ medication-overuse headache (MOH)** — and note the *prevention cap* is stricte
 ## Preventive treatment — the ladder
 
 !!! orderset "Who needs prevention (start it if ANY apply)"
-    - **≥4 migraine headache days/month**, **or**
-    - **≥2 days/month with significant disability** despite good acute treatment, **or**
+    Per the **2026 AAN/AHS prevention guideline**: **tell every migraine patient that effective
+    preventive treatments exist** *(Level B)*, and **offer prevention** *(Level B)* if ANY apply:
+
+    - **≥4 migraine days/month**, **or**
+    - **≥4 moderate-to-severe headache days/month**, **or**
+    - **Substantial migraine-related disability — at any frequency**, **or**
     - Acute treatment **overused, failing, or contraindicated**, **or**
     - Patient preference, **or**
     - **Regardless of frequency:** hemiplegic or brainstem-aura migraine, prolonged/persistent
       aura, migrainous infarction, or status migrainosus.
 
-    **Set expectations up front:** every preventive gets an **adequate trial — 8–12 weeks at target
-    dose** (oral) or **~3 months** (CGRP) — before you call it a failure. Track with a **diary**,
-    aim for **≥50% reduction in headache days**, and **taper after ~6–12 months** of good control.
-    Start low, titrate slowly, and change **one** thing at a time.
+    **Set expectations up front (2026 AAN/AHS, Recs 14–17):** every preventive gets an **adequate
+    trial — at least 8–12 weeks at the recommended tolerated dose** before you call it a failure
+    *(Level B)*; **onabotulinumtoxinA gets 24 weeks** (two injection cycles) *(Level B)*. If
+    response is suboptimal at **8 weeks, push to the maximum tolerated dose** before switching
+    *(Level B)*; still suboptimal at **12–24 weeks** → decide together whether to switch
+    *(Level B)*. **Counsel on common and serious adverse effects before the first prescription**
+    *(Level A)*. Track with a **diary** (or the same **HIT-6/MIDAS** at every visit) and judge
+    response against the **patient's own goals** *(Level A)* — frequency, severity, associated
+    symptoms, quality of life, and acute-med use, not headache days alone. After **6 months** of
+    treatment, **discuss tapering** — and warn that stopping a preventive can **increase headache
+    days and worsen quality of life** *(Level B)*. Start low, titrate slowly, and change **one**
+    thing at a time.
 
 ### The prescriptive flow (what I want done, in order)
 
 1. **Everyone:** lifestyle foundation (below) + a written acute plan + a headache diary.
-2. **Start ONE oral first-line agent matched to the patient's comorbidities** (Tier 1). Titrate to
-   target, hold 8–12 weeks.
-3. **Inadequate?** Switch to a first-line oral **from a different class** (or move to CGRP now —
-   AHS 2024 permits CGRP as first-line without failing orals; on TRICARE the frictionless CGRP entry
-   point is **Emgality**, see below).
-4. **≥2 adequate oral trials failed, or disabling disease:** go to a **CGRP therapy** (Tier 2).
-5. **First CGRP fails after ~3 months:** **switch mechanism** — receptor ⇄ ligand antibody (see
-   the box) — or move to an **oral gepant** preventive.
-6. **Chronic migraine (≥15 headache days/month):** add **onabotulinumtoxinA (PREEMPT)**; it can be
-   **combined with a CGRP** therapy in refractory disease.
-7. **Still refractory:** neurology referral, combine Botox + CGRP, consider **IV eptinezumab**.
+2. **Pick the first preventive by the patient's priority** (2026 AAN/AHS Rec 3) — **efficacy** →
+   a high/moderate-confidence agent (Tier 1 or 2); **tolerability** → atogepant or a CGRP
+   antibody; **long-term safety** → propranolol/topiramate (episodic) or
+   topiramate/onabotulinumtoxinA (chronic); **cost** → a generic oral. **No drug has to fail
+   before another is tried** — the guideline found no agent clearly superior.
+3. **Match the comorbidity** (Tier 1 table) — one drug treating two conditions beats two drugs.
+4. **Inadequate after an adequate trial (12–24 weeks)?** Switch **class or mechanism** — oral ⇄
+   CGRP, ligand ⇄ receptor antibody (see the box) — or move to an **oral gepant** preventive.
+   (On TRICARE the frictionless CGRP entry point is **Emgality**, see below.)
+5. **Chronic migraine (≥15 headache days/month):** add **onabotulinumtoxinA (PREEMPT)**; it can be
+   **combined with a CGRP** therapy in refractory disease (expert practice — the 2026 guideline
+   makes no graded recommendation on combining preventives).
+6. **Still refractory:** neurology referral, combine Botox + CGRP, consider **IV eptinezumab**.
 
 === "Tier 1 — oral first-line (pick by comorbidity)"
     Well-established, low-cost, **on the TRICARE formulary with no PA**. Let the comorbidity choose
-    the drug — that's how you get a two-for-one and the best adherence:
+    the drug — that's how you get a two-for-one and the best adherence. (2026 AAN/AHS confidence:
+    **propranolol, topiramate, and valproate are moderate-confidence** for episodic migraine;
+    **amitriptyline and metoprolol are low-confidence**; **candesartan's evidence was judged
+    insufficient** — see the evidence table below. All remain reasonable comorbidity-driven picks.)
 
     | Patient / comorbidity | Preferred agent | Target dose | Watch for |
     |---|---|---|---|
     | HTN, palpitations, anxiety, tremor | **Propranolol** (or metoprolol, timolol) | Propranolol LA **80–160 mg/day** (up to 240) | Fatigue, bradycardia, bronchospasm; **avoid in asthma**; caution in depression |
-    | Overweight/obese, comorbid seizure | **Topiramate** | Titrate **25 mg/week → 50–100 mg/day** (divided) | Paresthesias, cognitive slowing, kidney stones, **teratogenic**, flat soda taste |
-    | Insomnia, comorbid depression/tension-type | **Amitriptyline / nortriptyline** | **10–50 mg qHS** | Anticholinergic effects, weight gain, morning grogginess (nortriptyline milder) |
-    | Can't use a beta-blocker, wants once-daily | **Candesartan** | **8–16 mg/day** | Dizziness, hyperkalemia, renal function |
-    | Frequent aura, **not** childbearing potential | **Valproate / divalproex** | **500–1000 mg/day** | **Never in pregnancy potential** (neural-tube defects); tremor, weight, LFTs |
+    | Overweight/obese, comorbid seizure | **Topiramate** | Titrate **25 mg/week → 50–100 mg/day** (divided) | Paresthesias, cognitive slowing, kidney stones, **teratogenic**, flat soda taste; **counsel: >200 mg/day can blunt hormonal contraception (Level A)**; the guideline's oral pick when BMI is increased *(Level B)* |
+    | Insomnia, comorbid depression/tension-type, or fibromyalgia | **Amitriptyline / nortriptyline** | **10–50 mg qHS** | Anticholinergic effects, weight gain, morning grogginess (nortriptyline milder); **low-confidence episodic evidence in the 2026 review** — but the guideline's pick with comorbid **fibromyalgia** *(Level B)*; urinary-retention caution in older men |
+    | Can't use a beta-blocker, wants once-daily | **Candesartan** | **8–16 mg/day** | Dizziness, hyperkalemia, renal function; **2026 review: insufficient evidence to rate** — widely used and reasonable, but not guideline-endorsed (its largest RCT post-dates the review's search) |
+    | Untreated HTN — one drug for both (2026 Rec 9, *Level C*) | **Telmisartan, nifedipine, or enalapril** | Telmisartan **80 mg/day**; nifedipine ER **30–60 mg/day**; enalapril **10–20 mg/day** | Low-confidence migraine evidence — the point is dual benefit in untreated hypertension |
+    | Frequent aura, **not** childbearing potential | **Valproate / divalproex** | **500–1000 mg/day** | **Never in pregnancy potential** (neural-tube defects); **counsel: increased PCOS risk (Level A)**; tremor, weight, LFTs |
     | Menstrual-pattern | **Frovatriptan / naratriptan** perimenstrual mini-prophylaxis | Frovatriptan 2.5 mg BID × 6 days around menses | Short-term, timed to cycle |
 
-=== "Tier 2 — CGRP-targeted (co-first-line per AHS 2024)"
-    Per the **2024 AHS position statement**, CGRP therapies are a **first-line option** — there is
-    **no requirement to fail two older orals first** *clinically*. (Insurers, including TRICARE, may
-    still require step therapy for the *non-preferred* agents — see the TRICARE box.) Two formats:
+=== "Tier 2 — CGRP-targeted (first-line option — AHS 2024; 2026 AAN/AHS Rec 3)"
+    Per the **2024 AHS position statement** and now the **2026 AAN/AHS guideline**, CGRP therapies
+    are a **first-line option** — there is **no requirement to fail two older orals first**
+    *clinically*. The 2026 guideline seats the **four antibodies and atogepant** in both its
+    **efficacy-priority (Rec 3A)** and **tolerability-priority (Rec 3B)** lists for episodic and
+    chronic migraine — without ranking them above older agents across the board (when long-term
+    safety is the concern, it prefers propranolol/topiramate/onabotulinumtoxinA). (Insurers,
+    including TRICARE, may still require step therapy for the *non-preferred* agents — see the
+    TRICARE box.) Two formats:
 
-    - **Anti-CGRP monoclonal antibodies** (injectable/IV; dosed monthly–quarterly). Best adherence,
-      cleanest tolerability — **watch constipation and BP with erenumab**, injection-site reactions
+    - **Anti-CGRP monoclonal antibodies** (injectable/IV): **erenumab 70–140 mg SC monthly**,
+      **fremanezumab 225 mg SC monthly or 675 mg SC quarterly**, **galcanezumab 120 mg SC monthly**
+      (240 mg loading dose), **eptinezumab 100–300 mg IV quarterly**. Best adherence, cleanest
+      tolerability — **watch constipation and BP with erenumab**, injection-site reactions
       with all.
     - **Oral gepants for prevention:** **atogepant (Qulipta) 10–60 mg daily**, or **rimegepant
       (Nurtec) 75 mg every other day** — rimegepant **uniquely doubles as acute + preventive**.
-      Good for needle-averse patients; gepants **do not cause MOH**.
+      Good for needle-averse patients; gepants **do not cause MOH**. Note the 2026 split:
+      **atogepant** is in the guideline's efficacy-priority list; **rimegepant is not** (moderate
+      confidence for headache-day reduction, **low** for the ≥50% responder outcome — see the
+      evidence table below).
 
     See the **receptor-vs-ligand** box below to choose the antibody and to switch intelligently.
 
@@ -203,7 +231,66 @@ medication-overuse headache (MOH)** — and note the *prevention cap* is stricte
       acute-med days**; treat comorbid **mood, sleep, and anxiety** disorders.
     - **Neuromodulation devices** (e-TNS/Cefaly, remote electrical neuromodulation/Nerivio, sTMS,
       non-invasive vagus nerve stimulation) — useful when drugs are contraindicated, unwanted, or in
-      pregnancy.
+      pregnancy. (Outside the 2026 guideline's scope — it graded drugs only.)
+
+### The 2026 AAN/AHS evidence hierarchy — confidence by drug
+
+The August 2026 guideline's companion systematic review (217 RCTs; evidence through June 2024)
+grades **confidence in the evidence** drug by drug — the first time legacy orals, botulinum
+toxin, and CGRP therapies sit on one scale. The ratings are **outcome-specific** (headache-day
+reduction and ≥50% response can differ for the same drug) and are **not a superiority ranking**:
+head-to-head evidence was mostly low or very low confidence, and the guideline is explicit that
+**no single drug is clearly superior**.
+
+| Confidence | Episodic migraine | Chronic migraine |
+|---|---|---|
+| **High** | Erenumab, galcanezumab | Fremanezumab, galcanezumab, onabotulinumtoxinA |
+| **Moderate** | Atogepant, eptinezumab, fremanezumab, propranolol, topiramate, valproate | Atogepant, eptinezumab, erenumab, topiramate, valproate |
+| **Low** | Amitriptyline, bisoprolol, flunarizine, fluoxetine, levetiracetam, metoprolol, nifedipine, pizotifen, telmisartan | Not separately graded |
+| **Insufficient / very low** | Candesartan — and, among others, atenolol, timolol, venlafaxine, gabapentin | — |
+
+Three readings that change practice:
+
+- **Amitriptyline is low-confidence** for episodic migraine — fifty years of habit outrun its
+  trial base. It keeps defined roles (insomnia, tension-type overlap, comorbid fibromyalgia —
+  see below), but it is no longer the default "strong" oral.
+- **Rimegepant is the within-class exception:** moderate confidence for reducing headache
+  days, **low** confidence for the ≥50% responder outcome — which is why the guideline leaves
+  it **out of the efficacy-priority list** while atogepant is in it. "CGRP" is not itself an
+  evidence tier.
+- **Candesartan was judged insufficient-evidence — not ineffective.** The review's search
+  closed in June 2024, before the largest candesartan RCT (Øie et al., *Lancet Neurology*
+  2025). Keep using it where it fits (hypertension, once-daily, well tolerated); just don't
+  cite the 2026 guideline as endorsing it.
+
+### Special populations (2026 AAN/AHS)
+
+- **Pregnancy and childbearing potential.** Counsel every patient of childbearing potential on
+  fetal risk in an unplanned pregnancy, and **avoid divalproex/valproate and topiramate where
+  possible** *(Level A)* — FDA labeling contraindicates valproate for migraine prevention in
+  pregnancy outright. **Maximize nonpharmacologic prevention** (behavioral interventions,
+  acupuncture, exercise, trigger management) in pregnancy and planning *(Level A)*; if a drug
+  is unavoidable, decide jointly and use the least exposure that holds control *(Level A)*.
+  When a preventive is needed in pregnancy: **nifedipine** may be offered *(Level C)*; if it
+  fails or doesn't fit, **metoprolol or propranolol** *(Level C)*; for chronic migraine,
+  **onabotulinumtoxinA** may be offered, with outcome data extremely limited *(Level C)*.
+  **CGRP antibodies and gepants are not pregnancy options** in the guideline — insufficient
+  data; stop long-half-life agents well before a planned pregnancy. **Lactation:** counsel
+  that preventives enter breast milk in varying, often poorly characterized amounts, and check
+  **LactMed** *(Level A)*.
+- **Older adults.** Assess vascular disease, drug interactions, and renal/hepatic function
+  *(Level B)*; discuss sedation and confusion risk (amitriptyline, valproate, topiramate,
+  pizotifen) and consider lower starting doses *(Level B)*; discuss hypotension/orthostasis —
+  avoid strong blood-pressure-lowering agents or start low *(Level A)*. In **older men**,
+  weigh urinary-retention risk before anticholinergics such as amitriptyline *(Level B)*.
+- **Comorbidity picks.** Untreated hypertension: **enalapril, nifedipine, or telmisartan** can
+  treat both conditions *(Level C)*. **Fibromyalgia: offer amitriptyline** *(Level B)*.
+  Increased BMI, when an oral preventive is being considered: **offer topiramate** *(Level B)*.
+  Whether to treat a comorbidity with the same drug or separately is itself a shared decision
+  *(Level B)*.
+- **Two counseling mandates.** **Valproate → warn about increased polycystic ovary syndrome
+  risk** *(Level A)*. **Topiramate → warn that doses above 200 mg/day can make hormonal
+  contraception less effective** *(Level A)*.
 
 ### CGRP antibodies: receptor vs. ligand — which to start, how to switch
 
@@ -331,11 +418,21 @@ so they help decide escalation quickly.
 
 ## Medication overuse headache (MOH)
 
-Suspect when headaches are frequent **and** acute meds are used often — roughly **≥10 days/month**
+Suspect when headaches are frequent **and** acute meds are used often — **≥10 days/month**
 for triptans/ergots/opioids/combination analgesics, or **≥15 days/month** for simple NSAIDs/
-acetaminophen. Management: **start a preventive**, **cap or withdraw the overused agent**, bridge
-symptoms (e.g., NSAID/antiemetic course ± short steroid taper), and counsel. **Gepants do not cause
-MOH** and are useful acute agents in this setting.
+acetaminophen (ICHD-3 diagnostic thresholds). The **2026 AAN/AHS guideline** states the
+**medication-overuse** cutoffs as acute migraine drugs on **>9 days/month** for prescription
+pain-relieving medications, or **>14 days/month** for nonspecific pain medications — the same
+boundaries as the ICHD-3 thresholds above, grouped into two buckets — and says to
+**offer a preventive to every patient with medication overuse or MOH** *(Level B)*, **preferring
+agents proven in that population: CGRP monoclonal antibodies, atogepant, onabotulinumtoxinA, and
+topiramate** *(Level B)*. Management: **start the preventive** — in the evidence the guideline
+reviewed, starting a preventive **alone** performed as well as preventive-plus-withdrawal, so lead
+with prevention rather than detox alone — **cap or withdraw the overused agent**, bridge symptoms
+(e.g., NSAID/antiemetic course ± short steroid taper), and counsel. **Taper butalbital and opioids
+under supervision** (abrupt withdrawal risks seizures and withdrawal syndromes; the trial evidence
+barely covers those two classes). **Gepants do not cause MOH** and are useful acute agents in this
+setting.
 
 ## Disposition
 
@@ -389,12 +486,32 @@ follow-up, and give a written acute-med limit. Admission is rarely helpful for a
 
 - **Stratified beats step care.** Match acute-drug strength to attack severity from the start;
   a **triptan + NSAID** combination outperforms either agent alone for moderate/severe attacks.
-- **CGRP therapies are now first-line for prevention.** The **2024 American Headache Society
-  position statement** (Charles et al., *Headache*) makes anti-CGRP mAbs (erenumab, fremanezumab,
-  galcanezumab, eptinezumab) and oral gepants (atogepant, rimegepant) **a first-line option** and
-  **removed the prior requirement to fail two 8-week trials of older oral preventives first.** They
-  are "a first-line option," not "the" only first-line — choose between an oral agent and a CGRP
-  therapy by patient factors and access.
+- **Prevention is now governed by the August 2026 AAN/AHS guideline** (Potrebic et al.,
+  *Neurology* 2026 — the first update since 2012), which replaces the 2012 drug-by-drug evidence
+  levels with graded clinical recommendations. It **offers prevention at ≥4 migraine days/month,
+  ≥4 moderate-to-severe headache days/month, or substantial disability at any frequency** (all
+  *Level B*), chooses the drug by **patient priority — efficacy, tolerability, long-term safety,
+  cost** — with **no step-therapy requirement**, and states plainly that **no drug is clearly
+  superior**. It reaffirms the **2024 American Headache Society position statement** (Charles et
+  al., *Headache*): anti-CGRP mAbs (erenumab, fremanezumab, galcanezumab, eptinezumab) and oral
+  gepants (atogepant, rimegepant) are **a first-line option** with **no requirement to fail two
+  8-week trials of older oral preventives first** — while adding the discipline the statement
+  lacked: per-drug confidence ratings (next bullet).
+- **The confidence table cuts across classes.** High confidence — episodic: **erenumab,
+  galcanezumab**; chronic: **fremanezumab, galcanezumab, onabotulinumtoxinA**. **Amitriptyline is
+  low-confidence**, **rimegepant is split** (moderate for headache-day reduction, low for ≥50%
+  response — and excluded from the efficacy-priority list), and **candesartan was judged
+  insufficient-evidence** because the review's June 2024 search predates its largest RCT. Legacy
+  orals keep real roles: comorbidity two-for-ones, cost, pregnancy planning, and long track
+  records — for long-term-safety concern the guideline actually prefers propranolol, topiramate,
+  and onabotulinumtoxinA.
+- **Special populations got graded answers for the first time:** avoid **valproate and
+  topiramate** in childbearing potential *(A)*; in pregnancy maximize non-drug care *(A)*, then
+  **nifedipine**, then **metoprolol/propranolol** *(C)*; counsel **PCOS risk with valproate** and
+  **contraception failure with topiramate >200 mg/day** *(both A)*; in medication overuse, **lead
+  with a preventive proven in overuse** *(B)*; **trial 8–12 weeks (24 for onabotulinumtoxinA)**
+  before judging *(B)*; and **discuss tapering after 6 months** — stopping can increase headache
+  days and worsen quality of life *(B)*.
 - **Gepants and ditans expand acute options.** Gepants (ubrogepant, rimegepant, zavegepant) and the
   ditan lasmiditan work **without vasoconstriction**, making them options in cardiovascular/
   cerebrovascular disease where triptans are contraindicated. **Gepants do not cause MOH.**
@@ -418,6 +535,8 @@ follow-up, and give a written acute-med limit. Admission is rarely helpful for a
 
 **Key sources to cite (verify current versions):**
 
+- **Potrebic et al. 2026** — the AAN/AHS pharmacologic migraine prevention guideline — and
+  **Pringsheim et al. 2026**, its companion systematic review (confidence tiers, Table 1).
 - ICHD-3 diagnostic criteria (International Headache Society).
 - American Headache Society consensus/position statements on integrating CGRP-targeted therapies
   and on the initiation of preventive treatment.
@@ -429,37 +548,65 @@ follow-up, and give a written acute-med limit. Admission is rarely helpful for a
 
 1. Headache Classification Committee of the International Headache Society. *The International
    Classification of Headache Disorders, 3rd edition (ICHD-3).*
-2. Charles A, et al. [*Calcitonin gene-related peptide-targeting therapies are a first-line option
+2. Potrebic S, Tanveer S, Becker WJ, et al. [*Pharmacologic Treatment for Migraine Prevention in
+   Adults: Practice Guideline Recommendations: Report of the AAN Guidelines Subcommittee and the
+   American Headache Society.* Neurology. 2026;107(7):e214881](https://doi.org/10.1212/WNL.0000000000214881)
+   — **the August 2026 prevention guideline** (simultaneously published in *Headache*; endorsed by
+   the AAFP): initiation thresholds, priority-based selection (Rec 3), special populations,
+   medication-overuse and tapering recommendations, trial-duration and monitoring rules.
+3. Pringsheim T, Smith DB, Tanveer S, et al. [*Pharmacologic Treatment for Migraine Prevention in
+   Adults: A Systematic Review and Meta-analysis.* Neurology. 2026;107(7):e218112](https://doi.org/10.1212/WNL.0000000000218112)
+   — the companion systematic review (217 RCTs; evidence through June 2024): the per-drug
+   confidence tiers used throughout this page. The candesartan question turns on a trial published
+   after that search window: Øie LR, et al. *Candesartan versus placebo for migraine prevention in
+   patients with episodic migraine: a randomised, triple-blind, placebo-controlled, phase 2
+   trial.* Lancet Neurol. 2025.
+4. Charles A, et al. [*Calcitonin gene-related peptide-targeting therapies are a first-line option
    for the prevention of migraine: An American Headache Society position statement update.*
    Headache. 2024](https://headachejournal.onlinelibrary.wiley.com/doi/10.1111/head.14692).
-3. Ailani J, et al. [*The American Headache Society Consensus Statement: Update on integrating new
+5. Ailani J, et al. [*The American Headache Society Consensus Statement: Update on integrating new
    migraine treatments into clinical practice.* Headache. 2021;61(7):1021–1039](https://headachejournal.onlinelibrary.wiley.com/doi/10.1111/head.14153)
    — stratified acute care; **failure of ≥2 triptans is the trigger to move to a gepant or ditan**;
    acute/preventive initiation thresholds.
-4. **TRICARE / DoD Uniform Formulary and Express Scripts prior-authorization criteria (2025):**
+6. **TRICARE / DoD Uniform Formulary and Express Scripts prior-authorization criteria (2025):**
    galcanezumab (Emgality) preferred with **no PA**; erenumab (Aimovig)/fremanezumab (Ajovy),
    atogepant (Qulipta), and ubrogepant (Ubrelvy) PA-gated with neurologist and step-therapy
    requirements; rimegepant (Nurtec) non-preferred. *Verify current status at the TRICARE Formulary
    Search before counseling — DoD P&T updates the tiers periodically.*
-5. Robblee J, et al. [*2025 guideline update to acute treatment of migraine for adults in the
+7. Robblee J, et al. [*2025 guideline update to acute treatment of migraine for adults in the
    emergency department: the AHS evidence assessment of parenteral pharmacotherapies.* Headache.
    2026](https://headachejournal.onlinelibrary.wiley.com/doi/full/10.1111/head.70016).
-6. Friedman BW, et al. *Greater occipital nerve block vs IV metoclopramide for ED migraine* (RCT);
+8. Friedman BW, et al. *Greater occipital nerve block vs IV metoclopramide for ED migraine* (RCT);
    and 2025 adjunctive-GONB RCT.
-7. PREEMPT clinical program — onabotulinumtoxinA for chronic migraine (155 units/31 sites q12wk;
+9. PREEMPT clinical program — onabotulinumtoxinA for chronic migraine (155 units/31 sites q12wk;
    up to 195 units/39 sites with follow-the-pain).
 
-*Verified July 2026: the acute agents (zavegepant nasal, ubrogepant, rimegepant, lasmiditan with its
-≥8-hour driving restriction) and preventives (anti-CGRP mAbs; oral atogepant/rimegepant) named here
-match current FDA approvals; **CGRP therapies are first-line for prevention per the 2024 AHS position
-statement** (no requirement to fail older orals first); preventive-initiation thresholds (≥4 MHD, or
-≥2 with disability) follow the AHS consensus; **the ER protocol is graded to the 2025 AHS parenteral-
-ED guideline** (prochlorperazine and greater occipital nerve block are Level A "must offer,"
-hydromorphone Level A "must-not-offer"); and gepants are not associated with medication-overuse
-headache. **TRICARE formulary steering** (Emgality preferred/no-PA; Aimovig/Ajovy/Qulipta/Ubrelvy
-PA-gated with a neurologist requirement; Nurtec non-preferred) is taken from the 2025 DoD Uniform
-Formulary and Express Scripts PA criteria and **should be re-checked at the TRICARE Formulary Search
-before counseling**, as DoD P&T revises tiers periodically. The
-retention/accession standards are quoted from DoDI 6130.03 Vol 2 (5.26.g) / Vol 1 (6.26.e) and
-AR 40-501 (3-31g); the DES process is governed by DoDI 1332.18 / DoDM 1332.18. Service-specific
-aeromedical waiver specifics still warrant confirmation before final sign-off.*
+*Verified November 2026: **the prevention content is now anchored to the August 2026 AAN/AHS
+prevention guideline** (Potrebic et al., *Neurology* 2026;107(7):e214881; systematic review
+Pringsheim et al., e218112) — initiation thresholds (≥4 migraine days/month, ≥4 moderate-to-severe
+headache days/month, or substantial disability at any frequency, all Level B), priority-based drug
+selection with no step therapy (Rec 3), the per-drug confidence tiers, the special-population
+recommendations (pregnancy, older adults, hypertension/fibromyalgia/BMI comorbidity picks, PCOS and
+hormonal-contraception counseling), the medication-overuse definitions and prevention-first
+management, and the trial-duration/monitoring/tapering rules (Recs 14–17) were cross-checked
+against the guideline's published content and the clinician-ChatGPT and OpenEvidence syntheses.
+Two caveats ride with the update: **candesartan** is flagged insufficient-evidence by the review
+because its largest RCT (Øie et al., *Lancet Neurology* 2025) post-dates the June 2024 evidence
+search — it remains on this page as a reasonable comorbidity pick; and **rimegepant's** confidence
+is outcome-split (moderate for headache-day reduction, low for ≥50% response) and it sits outside
+the guideline's efficacy-priority list. All four research questions were put to both OpenEvidence
+and the clinician ChatGPT account, and the two syntheses agreed on every graded recommendation
+used here (the ChatGPT medication-overuse answer additionally anchors its thresholds to ICHD-3 and
+the MOTS trial).
+Unchanged from the July 2026 verification: the acute agents (zavegepant nasal, ubrogepant,
+rimegepant, lasmiditan with its ≥8-hour driving restriction) and preventives named here match
+current FDA approvals; **the ER protocol is graded to the 2025 AHS parenteral-ED guideline**
+(prochlorperazine and greater occipital nerve block are Level A "must offer," hydromorphone Level A
+"must-not-offer"); and gepants are not associated with medication-overuse headache. **TRICARE
+formulary steering** (Emgality preferred/no-PA; Aimovig/Ajovy/Qulipta/Ubrelvy PA-gated with a
+neurologist requirement; Nurtec non-preferred) is taken from the 2025 DoD Uniform Formulary and
+Express Scripts PA criteria and **should be re-checked at the TRICARE Formulary Search before
+counseling**, as DoD P&T revises tiers periodically. The retention/accession standards are quoted
+from DoDI 6130.03 Vol 2 (5.26.g) / Vol 1 (6.26.e) and AR 40-501 (3-31g); the DES process is governed
+by DoDI 1332.18 / DoDM 1332.18. Service-specific aeromedical waiver specifics still warrant
+confirmation before final sign-off.*
