@@ -121,6 +121,8 @@ nav:
       - CIDP & IVIG order set (efgartigimod): cidp.md
     - Myelopathy:
       - Acute myelopathy (approach): acute-myelopathy.md
+    - Radiculopathy & plexopathy:
+      - Radiculopathy & plexopathy: radiculopathy-plexopathy.md
     - Dementia & cognitive impairment:
       - Approach to cognitive impairment: dementia/index.md
       - "— Alzheimer's disease": dementia/alzheimers.md
