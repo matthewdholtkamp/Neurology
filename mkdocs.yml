@@ -131,6 +131,7 @@ nav:
       - "— Vascular cognitive impairment": dementia/vascular.md
       - "— Rapidly progressive dementia": dementia/rapidly-progressive.md
     - Neurocritical care:
+      - Altered mental status (AMS) — workup & management: neurocritical-care/ams-workup.md
       - Brain death (death by neurologic criteria): neurocritical-care/brain-death.md
       - Coma — approach, workup & management: neurocritical-care/coma-workup.md
       - Increased intracranial pressure (ICP): neurocritical-care/increased-icp.md
