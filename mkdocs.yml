@@ -119,6 +119,8 @@ nav:
       - Myopathy (inflammatory, IMNM, IBM, metabolic): myopathy.md
     - Peripheral neuropathy:
       - CIDP & IVIG order set (efgartigimod): cidp.md
+    - Neuroimmunology therapeutics:
+      - IVIG / PLEX / Rituximab order sets: immunotherapy-order-sets.md
     - Myelopathy:
       - Acute myelopathy (approach): acute-myelopathy.md
     - Radiculopathy & plexopathy:
