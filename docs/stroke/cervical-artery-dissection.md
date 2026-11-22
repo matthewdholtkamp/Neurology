@@ -98,19 +98,12 @@ Admit acute presentations (stroke unit; monitor for extension/ischemia). Prognos
 **good** — recurrence is low and most heal. Outpatient neurology follow-up with **repeat vessel
 imaging** and connective-tissue evaluation where indicated.
 
-!!! military "Military medicine — cervical artery dissection"
-    *Framework — verify against current **AR 40-501**, **DoDI 6130.03**, and aeromedical policy.*
-
-    - **Fits the force:** young service members, **trauma/blast, load-bearing, combatives, and neck
-      manipulation** are all mechanisms — keep dissection high on the differential for a service member
-      with neck/head pain and any focal sign.
-    - **Retention:** a dissection that causes **stroke/TIA** is a cerebrovascular condition under
-      **DoDI 6130.03 Vol 2 para 5.26.b** (stroke b(3); recurrent TIA b(6) *unless etiology identified
-      and definitively treated*), Army **AR 40-501 3-31f** — a healed dissection with a treated cause
-      and no residual deficit may retain per specialty review; residual deficit or recurrence trends to
-      the **DES.**
-    - **Deployability / aeromedical:** non-deployable during work-up/treatment; anticoagulation and a
-      stroke history are **deployment- and flight-status-limiting/waiver-dependent.**
+!!! military "Military medicine — duty, retention and deployment"
+    - **Profile / function:** Restrict hazardous duties while evaluating a new vascular event; document residual vision, strength, language, cognition, recurrence risk and bleeding risk.
+    - **Retention / MEB–MAR2:** DoDI V2 **5.26.b** and Army **3-31f** guide cerebrovascular retention assessment. Workup for a clotting disorder alone does not establish a permanent disability. Use the [retention framework](../military/deployability.md); permanent P3/4 does not by itself select DES versus MAR2.
+    - **Deployment / medications:** Therapeutic anticoagulation is a major CENTCOM exclusion; nonaspirin antiplatelets create a separate waiver issue. Do not stop indicated treatment to make a member deployable. See [the disease AND drug screen](../military/deployment-medications.md) for the current CENTCOM rules and waiver packet.
+    - **Special duty:** flight, diving and other special assignments have separate standards and waiver authorities; a general duty profile does not clear them.
+    - **LOD / EPTS:** document onset, duty status, exposures and aggravation objectively. The designated authority determines LOD/EPTS; neither in-service diagnosis nor a genetic finding settles it automatically.
 
 ---
 
@@ -154,17 +147,6 @@ Mendelian-randomization (BP causal).
    Le Grand Q, et al. *Mendelian randomization — BP causal for dissection* (JACC 2023).
 5. **Tandem occlusion:** Marnat G, et al. *Carotid dissection stenting in tandem occlusions —
    TITAN/ETIS pooled analysis* (Stroke 2020/2021).
-6. **TRICARE / DoD:** aspirin/statin generic-formulary; preferred DOAC per Uniform Formulary (verify).
-   Retention: **DoDI 6130.03 Vol 2 para 5.26.b**, Army **AR 40-501 3-31f.**
+- [Official TRICARE sources, retrieved forms and access limits](../military/tricare.md).
 
-*Verified July 2026: diagnosis by fat-sat MRI/MRA or CTA; antithrombotic choice is now
-**risk-stratified per the 2024 AHA Scientific Statement** — larger data (STOP-CAD; IPD meta-analysis)
-show **anticoagulation lowers ischemic stroke (~RR 0.63) but ~doubles major bleeding**, so
-anticoagulate high-risk radiographic features (occlusive/intraluminal thrombus, no dissecting
-aneurysm) with low bleeding risk and use an antiplatelet (± short DAPT) otherwise, prefer a DOAC if
-anticoagulating, treat ~3–6 months then re-image; thrombolysis/thrombectomy are not contraindicated
-for acute stroke from extracranial dissection, and acute stenting of a dissection tandem occlusion is
-not routine (TITAN/ETIS). Recurrence ~3% at 2 y and usually benign (STOP-CAD 2026); FMD in ~6–14%;
-BP is a likely causal factor. The specific effect sizes were supplied by expert review with citations
-— confirm before quoting. **Retention framing per DoDI 6130.03 Vol 2 para 5.26.b (dissection not named
-verbatim; its stroke/TIA consequences apply), Army AR 40-501 3-31f — verify before counseling.**
+*Evidence/policy audit: 21 November 2026. Material changes were checked against the linked primary sources; this is an AI-assisted review, not certification of every dose or claim. [Review scope and source limits](../evidence-review.md).*

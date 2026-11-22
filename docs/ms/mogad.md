@@ -12,7 +12,8 @@ and young adults, where MOGAD is substantially more common than NMOSD.
 
 !!! danger "🚩 The three-way fork"
     Optic neuritis and myelitis have **three** antibody-defined destinations, and they diverge in
-    treatment and prognosis. Send **both** cell-based assays every time.
+    treatment and prognosis. Use serum cell-based antibody testing when the **clinical/MRI phenotype fits**; interpret
+    low-positive MOG-IgG in context and avoid broad screening of nonspecific symptoms/MRI spots.
 
     | | **MS** | **NMOSD (AQP4+)** | **MOGAD** |
     |---|---|---|---|
@@ -25,6 +26,8 @@ and young adults, where MOGAD is substantially more common than NMOSD.
     | **CSF OCB** | **Positive ~85%** | Usually negative | Usually negative |
     | **Steroid response** | Good | Good, but needs PLEX | **Excellent — but relapses on withdrawal** |
 
+
+**Regulatory update (21 November 2026):** satralizumab is under FDA priority review for MOGAD, with an announced decision date of 10 January 2027. **Priority review is not approval**; its NMOSD indication does not establish a MOGAD label or insurance coverage.
 ## Diagnosis — 2023 international MOGAD panel criteria
 
 The **2023 international MOGAD panel criteria** (Banwell et al., *Lancet Neurology*) require **all
@@ -83,8 +86,9 @@ three** of:
 4. **Taper slowly.** This is the single most important management point in MOGAD.
 5. **Decide whether it is monophasic or relapsing** — repeat serology at 6–12 months; persistent
    positivity predicts relapse.
-6. **Start maintenance only for relapsing disease** — not after a single attack in a patient who
-   seroconverts to negative.
+6. **Individualize maintenance after the first attack** using severity, recovery, relapse/taper
+   history and specialist review. Observation can be reasonable after a fully recovered single
+   attack; early maintenance can also be reasonable in a high-risk presentation (see below).
 7. **Military disposition** — profile, and referral under 3-31e.
 
 ---
@@ -99,8 +103,10 @@ three** of:
     prone to **rebound relapse on rapid withdrawal.** A three-day pulse with no taper, which is
     perfectly reasonable in MS, frequently produces a relapse within weeks in MOGAD.
 
-    Taper over a **minimum of 3 months** after a significant attack, and longer if relapse occurred
-    during a previous taper.
+    A prolonged taper, **often around 3 months**, is used after a significant attack based largely
+    on observational evidence. Individualize dose/duration for severity, relapse during taper,
+    infection/metabolic risk and the maintenance plan; this is not a mandatory minimum for every
+    patient or a substitute for steroid-sparing treatment.
 
 !!! orderset "Step 2 — severe or refractory attack"
     - **PLEX 5–7 exchanges** — for severe optic neuritis or dense myelitis, or steroid failure.
@@ -122,7 +128,7 @@ three** of:
 
 **Until an agent is approved, maintenance is off-label and evidence is observational:**
 
-**Ordered by current comparative evidence — best first.** On-treatment annualised relapse rates
+**Options below are not a proven head-to-head ranking.** On-treatment annualised relapse rates
 across observational cohorts run roughly: **IL-6 blockade ~0.09, IVIG ~0.13–0.22, MMF ~0.3,
 rituximab ~0.5.**
 
@@ -130,7 +136,7 @@ rituximab ~0.5.**
 |---|---|---|
 | **IL-6 receptor blockade — tocilizumab** | **8 mg/kg IV every 4 weeks** (satralizumab SC is the alternative) | **The largest comparative evidence base in MOGAD.** Vilaseca et al. (*JAMA Neurol*, 2026; international multicentre, n=116, 90% tocilizumab): **ARR fell from 0.64 to 0.09** (IRR 0.08; 95% CI 0.04–0.16 — a 92% reduction). **Superior to low-dose IVIG** (HR 4.5) but **not significantly different from IVIG ≥1 g/kg q4wk** (HR 2.0; 95% CI 0.8–4.5). Adverse events in 50% (mostly mild infections), **9% severe infections.** Available as a **biosimilar** — substantially cheaper than satralizumab. Treat this as a **first-line option, not a last resort** |
 | **IVIG** | **≥1 g/kg every 4 weeks** — see the dosing warning below | The best-established maintenance therapy, especially in children. Performs **comparably to IL-6 blockade when properly dosed** |
-| **SCIG** (subcutaneous immunoglobulin) | Weekly or biweekly, self-administered | Steadier immunoglobulin levels without peak-and-trough, **self-administered at home.** Data are limited but it is increasingly used — and it is the **most deployable immunoglobulin option**, which matters for a service member |
+| **SCIG** (subcutaneous immunoglobulin) | Weekly or biweekly, self-administered | Steadier immunoglobulin levels without peak-and-trough, **self-administered at home.** Data are limited but it is increasingly used — and it is the a way to reduce infusion-center visits, **not a deployment clearance**, which matters for a service member |
 | **Mycophenolate mofetil** | Oral | Reasonable oral maintenance; on-treatment ARR ~0.3 |
 | **Methotrexate** | Oral/SC weekly | Used in practice; limited MOGAD-specific evidence |
 | **Azathioprine** | Oral | Slow onset; requires steroid bridging for months. Phase 3 **MOGwAI** trial ongoing |
@@ -217,59 +223,19 @@ rituximab ~0.5.**
     Quote a **range with its follow-up window**, not a single number, and remember that a patient
     called monophasic at one year may be reclassified at five.
 
-!!! tip "TRICARE — MOGAD prescribing"
-    Because no agent carries a MOGAD indication, maintenance therapy is **off-label by definition**,
-    which makes prior authorisation harder rather than routine. Expect to submit clinical
-    justification with serology, attack history, and the failed-taper narrative.
+!!! tip "TRICARE — verified rules and the current form"
+    Maintenance immunotherapies are **off label for MOGAD** as of 22 November 2026. Satralizumab remains under FDA review for this indication. The NMOSD Enspryng PA does not itself authorize MOGAD. Check the exact benefit and off-label medical-necessity requirements for IVIG/SCIg, rituximab or other selected treatment.
 
-    **Maintenance IVIG** requires authorisation and is administered as a **medical benefit**;
-    document the relapsing course and prior treatment explicitly. Oral agents (mycophenolate,
-    azathioprine) are inexpensive generics and are the path of least resistance where clinically
-    adequate. **Verify at the TRICARE Formulary Search**, and expect the off-label status to be the
-    obstacle.
+    [Current PA/MN details, benefit routing and packet](../military/tricare.md) · [Live Formulary Search](https://www.express-scripts.com/frontend/open-enrollment/tricare/fst). Check the exact product, beneficiary and venue on the prescribing date.
 
 ---
 
-!!! military "Military medicine — MOGAD"
-    *Framework — verify against current **AR 40-501**, **DoDI 6130.03 Vol 2**, and **DoDI 1332.18**.
-    See [Profiles, MEB/MAR2 & deployability](../military/deployability.md).*
-
-    - **Retention:** **AR 40-501 para 3-31e** — "multiple sclerosis, **optic neuritis, transverse
-      myelitis**, and similar demyelinating disorders." MOGAD's two commonest presentations are
-      named in the paragraph directly. DoD floor: **DoDI 6130.03 Vol 2 para 5.26.f**, gated by
-      **5.26.a** (persists despite treatment **and** impairs duty). Cortical encephalitis with
-      seizures additionally engages **5.26.c**, and any seizure disorder brings **3-31i** and
-      **5.26.k** into play — see [seizures](../seizure/index.md).
-    - **The disposition genuinely differs from MS and NMOSD, and this is worth arguing carefully.**
-      MOGAD **recovers well, and 30–50% of adults are monophasic.** A service member with a single
-      attack, full recovery, seroreversion to negative, and no maintenance requirement may
-      **legitimately meet retention standards** — 5.26.a requires that the condition *persist
-      despite appropriate treatment* **and** impair duty, and a resolved monophasic illness does
-      neither.
-    - **So do not reflexively board a first MOGAD attack.** Establish whether the disease is
-      relapsing before committing to a disposition. A **temporary profile** through the
-      determination period, with repeat serology at 6–12 months, is often the correct action —
-      and MRDP has not been reached until that question is answered.
-    - **Refer to the DES when** the course proves **relapsing**, residual visual or motor deficit
-      impairs duty, seizures occur, or the patient requires **ongoing immunosuppression or
-      maintenance IVIG** — an infusion-dependent regimen is not deployable.
-    - **But maintenance is not necessarily permanent, and that changes the calculus.** Unlike
-      NMOSD, MOGAD therapy can often be **de-escalated**: the 2026 data support stopping after
-      **>1 year of treatment with >2 years relapse-free**, with a 1-year post-discontinuation
-      relapse risk reported as low as **8.7%** and **no rebound phenomenon**. A Soldier on
-      maintenance today is not automatically a Soldier on maintenance forever.
-        - *Practical consequence:* if the member is otherwise performing and the only barrier is
-          infusion dependence, **document the planned de-escalation timeline** in the profile and
-          consider a **temporary profile with a defined reassessment point** rather than moving
-          straight to a permanent profile and DES referral. MRDP has not been reached while a
-          credible plan to come off therapy is in progress.
-        - **SCIG** is the most field-compatible immunoglobulin option if maintenance must continue —
-          self-administered, no infusion centre. Worth specifying if retention is the goal.
-    - **Profile:** temporary during the attack and the monophasic-versus-relapsing determination;
-      **permanent** once relapsing disease or fixed deficit is established.
-    - **Aeromedical:** a demyelinating event is disqualifying for flying duty; a waiver discussion
-      for a fully recovered monophasic case belongs with the aeromedical authority, not the
-      treating neurologist.
+!!! military "Military medicine — duty, retention and deployment"
+    - **Profile / function:** Record relapse date, residual disability, visual/motor function, fatigue and heat sensitivity; protect against tasks that amplify those deficits.
+    - **Retention / MEB–MAR2:** DoDI V2 **5.26.f** and Army **3-31e** address demyelinating disease. Apply the specific Army standard; a monophasic syndrome and a chronic relapsing disorder are not interchangeable. Use the [retention framework](../military/deployability.md); permanent P3/4 does not by itself select DES versus MAR2.
+    - **Deployment / medications:** CENTCOM MS requires stability/heat/medication assessment for waiver. SC self-injection still triggers the injectable rule; immunosuppression, infection risk and lab/infusion support require separate review. See [the disease AND drug screen](../military/deployment-medications.md) for the current CENTCOM rules and waiver packet.
+    - **Special duty:** flight, diving and other special assignments have separate standards and waiver authorities; a general duty profile does not clear them.
+    - **LOD / EPTS:** document onset, duty status, exposures and aggravation objectively. The designated authority determines LOD/EPTS; neither in-service diagnosis nor a genetic finding settles it automatically.
 
 ---
 
@@ -373,33 +339,8 @@ observational habit to one with randomised evidence.
     [PubMed](https://pubmed.ncbi.nlm.nih.gov/40984653)
 18. **AR 40-501** para **3-31e**; **DoDI 6130.03 Vol 2** para **5.26.f** (gated by **5.26.a**).
 
-*Verified July 2026: diagnostic framework is the **2023 international MOGAD panel criteria**
-(Banwell et al., Lancet Neurology) — the six core clinical events, the cell-based-assay requirement,
-and the **titre-dependent** interpretation with supporting-features requirement for low positives
-are taken from the published criteria; validation studies reporting **modest specificity and PPV**
-outside high-pre-test-probability populations are cited and reflected in the cautions.
-**METEOROID figures** (68% relapse-risk reduction, 87% vs 67% relapse-free at 48 weeks, 66% ARR
-reduction, response by 8 weeks) are from the **AAN 2026 presentation and the sponsor release** —
-these are **conference and press-release data, not yet a peer-reviewed primary publication**, and
-should be re-verified against the full paper when it appears. **Satralizumab is NOT FDA-approved
-for MOGAD** as of this review; it is approved for AQP4-seropositive NMOSD. All maintenance therapy
-described is **off-label**. **IL-6 receptor blockade figures** (ARR 0.64→0.09, IRR 0.08, HR 4.5 vs
-low-dose IVIG, HR 2.0 non-significant vs IVIG ≥1 g/kg q4wk, 9% severe infections) are verified
-directly from **Vilaseca et al., *JAMA Neurol* 2026** — an **international multicentre
-retrospective** cohort (n=116, 90% tocilizumab), not randomised. **Rituximab's underperformance**
-(~55% relapse-free in meta-analysis; 61% relapsing with 79% of relapses despite CD19+ suppression
-<1%) reflects observational and meta-analytic literature, not randomised comparison — a phase 3
-rituximab trial is ongoing. **The maintenance recommendation after a first attack was revised in
-this review:** MOGADOR2 (*Neurology* 2024, French incident cohort, **Class III**) supports early
-maintenance in risk-stratified patients, superseding a blanket "observe after one attack" default.
-**The two discontinuation studies are reported together because they differ:** Boudot de la Motte
-(*JAMA Neurol* 2026, n=705) found an 8.7% 1-year relapse risk with no rebound, while Yeh (*Brain*
-2026, 236 discontinuation intervals) found relapse after 39% of discontinuations at a median 5.4
-months — different populations and time horizons, and the page presents both rather than the more
-reassuring one. The **monophasic proportion is now given as a range (~30–50% of adults, ~74–83% in
-paediatric incident cohorts)** with the follow-up-duration caveat stated, replacing a flat "~50%".
-**Not independently verified:** TRICARE coverage pathways for off-label maintenance. Retention
-standards quoted from **AR 40-501 3-31e** and **DoDI 6130.03 Vol 2 5.26.f/5.26.a**, verified against
-source PDFs; **MOGAD is not named in either regulation** and is captured under the
-demyelinating-disorder language — the retention argument for a recovered monophasic case rests on
-the 5.26.a gate and should be made explicitly rather than assumed.*
+- [September 2026 FDA priority review for MOGAD; decision expected January 10, 2027](https://www.gene.com/media/press-releases/15124/2026-09-09/us-fda-grants-priority-review-for-genent).
+
+- [FDA priority review of satralizumab for MOGAD — September 2026 announcement, decision pending January 10, 2027](https://www.gene.com/media/press-releases/15124/2026-09-09/us-fda-grants-priority-review-for-genent).
+
+*Evidence/policy audit: 21 November 2026. Material changes were checked against the linked primary sources; this is an AI-assisted review, not certification of every dose or claim. [Review scope and source limits](../evidence-review.md).*

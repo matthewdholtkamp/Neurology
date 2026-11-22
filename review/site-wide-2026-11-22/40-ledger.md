@@ -1,0 +1,2076 @@
+# Quantitative source-mapping ledger — 22 November 2026
+
+**Scope:** mechanically detected dose, interval, threshold and trial-result candidate lines in the final proposal. **UNVERIFIED** means that a line was not individually linked to a source in this audit, not that it is false. A recorded source can support the corrected passage without validating every number on a long line. Links and surrounding corrections are provenance, not an automated clinical verdict. The extraction misses some numeric and nonnumeric claims. The explicit gaps prevent this ledger from being used as certification of all doses or all pages.
+
+Extracted 1,895 candidate lines: 89 with recorded source mapping; 1,806 without individual mapping. These are extraction counts, not a count of clinical errors.
+## docs/acute-myelopathy.md
+
+- **L15** | Fever, IV drug use, bacteremia, recent spinal instrumentation, CRP often >100 mg/L, ESR >60 mm/h | Spinal epidural abscess | Blood cultures, then empiric antibiotics immediately; emergent decompression if deficit | — **UNVERIFIED**
+- **L29** | Acute/subacute — nadir in hours to days, under 3 weeks | Inflammatory myelitis (MS, NMOSD, MOGAD, sarcoid, SLE/Sjögren, Behçet), infectious myelopathy, epidural abscess | — **UNVERIFIED**
+- **L30** | Progressive beyond 3 weeks | Tumor, compression, dural AV fistula, metabolic causes, sarcoid — transverse myelitis is unlikely here | — **UNVERIFIED**
+- **L47** 12.5% of cases and enhancement in up to 80%. Spinal cord infarction makes up 14–16% of — **UNVERIFIED**
+- **L88** 4. **If inflammatory — IVMP 1,000 mg IV daily × 3–5 days** (Step 2), with disease-specific — **UNVERIFIED**
+- **L90** within 2 days. — **UNVERIFIED**
+- **L95** 3 weeks, or enhancement that persists, points away from demyelinating myelitis, — **UNVERIFIED**
+- **L113** AQP4-IgG by live cell-based assay (sensitivity >80%, specificity >99%; ELISA can give — **UNVERIFIED**
+- **L118** attacks in up to 57% of patients). Coexistence of both antibodies is rare. — **UNVERIFIED**
+- **L137** Up to 40% of patients who were AQP4-negative turn out MOG-IgG positive and are now — **UNVERIFIED**
+- **L155** | CSF | Oligoclonal bands 90–95% | Oligoclonal bands 20–30%; pleocytosis ~35%, sometimes neutrophils/eosinophils | Oligoclonal bands 10–20%; pleocytosis ~35% | — **UNVERIFIED**
+- **L156** | Demographics / course | Relapsing, can progress | Female:male ~9:1; severe attacks, incomplete recovery | Female:male ~1:1; ~50% monophasic; better recovery | — **UNVERIFIED**
+- **L162** | Neurosarcoidosis | LETM (short lesions less often); long-lasting subpial/leptomeningeal enhancement, "trident sign" (dorsal subpial + central canal enhancement, axial) | Subacute or progressive course beyond 3 weeks; low CSF glucose, raised CSF ACE, sometimes normal CSF; systemic disease | — **UNVERIFIED**
+- **L170** - **Malignant spinal cord compression with neurological symptoms/signs — dexamethasone 16 mg PO (or equivalent parenteral dose) promptly, then 16 mg/day while awaiting surgery/radiotherapy** (NICE NG234). **Start on suspicion, even before imaging**; taper after definitive treatment. Stop if compression/metastasis is excluded. Monitor glucose and provide gastric protection. — **UNVERIFIED**
+- **L178** (verify renal function; pharmacy to dose): **vancomycin 15–20 mg/kg IV q8–12h** — **UNVERIFIED**
+- **L179** by actual body weight in normal renal function; **cefepime 2 g IV q8h** when — **UNVERIFIED**
+- **L180** CrCl >60 mL/min, reduced or interval-extended in renal impairment. **Urgent decompression for new/progressive deficits or significant compression** — — **UNVERIFIED**
+- **L181** consult immediately. **Do not wait 48–72 hours**; neurological status and delay to — [Source 1](https://www.idsociety.org/practice-guideline/vertebral-osteomyelitis/)
+- **L203** - **IVMP — methylprednisolone 1,000 mg IV daily for 3–5 days** (children: — **UNVERIFIED**
+- **L204** **30 mg/kg/day, maximum 1 g**). Equivalent high-dose oral steroids may work about as — **UNVERIFIED**
+- **L208** ideally within 2 days**. Then **prednisone 1 mg/kg/day, tapered to 10–15 mg/day over — **UNVERIFIED**
+- **L209** 2–3 weeks**, with low-dose maintenance for **3–6 months** to prevent early relapse — **UNVERIFIED**
+- **L211** 21.6% fully recovered — do not wait. — **UNVERIFIED**
+- **L213** (IVIG **2 g/kg total over 2–5 days**); apheresis within 4.5 days improved recovery, — **UNVERIFIED**
+- **L215** to 6 months is common** — relapses cluster below about **10 mg prednisone** and — **UNVERIFIED**
+- **L216** within 2 months of stopping. MOGAD usually responds well to steroids. — **UNVERIFIED**
+- **L217** - **MS — IVMP alone in about 93% of cases; usually no taper.** PLEX for severe attacks — **UNVERIFIED**
+- **L220** used** (pediatric reviews describe 5–7 exchanges over 2 weeks). Timing matters most: — **UNVERIFIED**
+- **L222** improvement in 42% vs 6% with sham. — **UNVERIFIED**
+- **L223** - **IVIG — 2 g/kg total over 2–5 days**, as rescue when steroids fail and as an — **UNVERIFIED**
+- **L240** see the table above. Worsening beyond 3 weeks or persistently enhancing lesions — **UNVERIFIED**
+- **L288** | Epidural abscess | **Emergency spine/ID assessment and prompt source control**; do not use a 48–72h window as permission to wait | — **UNVERIFIED**
+- **L312** hours-to-days under 3 weeks points inflammatory; beyond 3 weeks it is almost never — **UNVERIFIED**
+- **L315** - **NMOSD is the time-critical inflammatory myelitis.** Untreated attacks leave only 21.6% — **UNVERIFIED**
+- **L318** taper over up to 6 months, relapses clustering below ~10 mg prednisone. — **UNVERIFIED**
+- **L323** >80%, specificity >99%) and MOG-IgG with the ≥1:100 clear-positive threshold — ELISA — **UNVERIFIED**
+- **L325** - **Supportive care is outcome care.** Bladder/bowel programs, LMWH within 72 hours when — **UNVERIFIED**
+
+## docs/cidp.md
+
+- **L18** | **Course <8 weeks to nadir, or rapidly progressive weakness** | Acute inflammatory demyelinating polyneuropathy (GBS/AIDP), not CIDP — CIDP requires ≥8 weeks | Treat as GBS: admit, respiratory/bulbar monitoring, IVIG or PLEX urgently | — **UNVERIFIED**
+- **L41** - **Progressive or relapsing** course developing over **≥8 weeks** — **UNVERIFIED**
+- **L69** - Distal motor latency **≥50% above the upper limit of normal (ULN)** in 2 nerves — **UNVERIFIED**
+- **L71** - Conduction velocity **≥30% below the lower limit of normal (LLN)** in 2 nerves — **UNVERIFIED**
+- **L72** - F-wave latency **≥20% above ULN** in 2 nerves (≥50% if distal CMAP <80% LLN) — **UNVERIFIED**
+- **L73** - Absent F-waves in 2 nerves (only if distal CMAP ≥20% LLN) **plus** ≥1 other — **UNVERIFIED**
+- **L75** - Motor conduction block — proximal/distal CMAP amplitude reduction **≥30%** — **UNVERIFIED**
+- **L76** (distal CMAP ≥20% LLN) in 2 nerves, or 1 nerve + another demyelinating parameter — **UNVERIFIED**
+- **L113** 1. **Exclude the dangerous thing first:** course <8 weeks, respiratory/bulbar — **UNVERIFIED**
+- **L133** IVIG 2 g/kg induction for most, pulsed steroids when cost/access or lasting — **UNVERIFIED**
+- **L136** after one course is **not** failure — give a second course or 1 g/kg every — **UNVERIFIED**
+- **L137** 3 weeks × 2–5 doses before calling it. — **UNVERIFIED**
+- **L142** 6–12 months in the first 2–3 years, then every 1–2 years, to test for remission. — **UNVERIFIED**
+- **L144** cyclophosphamide / cyclosporine with a 3–6 month stop rule; efgartigimod as a — **UNVERIFIED**
+- **L162** - **IVIG — 2 g/kg total, split over 2–5 days** (usual daily cap ≤80 g/day). Fastest response, fewer long-term side effects than steroids; ~76% of treatment-naive patients respond. High-certainty evidence vs placebo. Then maintenance **1 g/kg every 3 weeks** (given in 1 day, or 0.5 g/kg on 2 consecutive days), titrating over time to the lowest effective dose, typically **0.4–1 g/kg every 2–6 weeks**. — **UNVERIFIED**
+- **L163** - **OR corticosteroids** (regimens appear equally effective — pick one): **prednisone/prednisolone 60 mg/day orally**, tapered slowly over 6–8 months; **OR pulsed dexamethasone 40 mg/day × 4 days every 4 weeks × 6 months**; **OR pulsed IV methylprednisolone 500 mg/day × 4 days each month × 6 months** (or 1,000 mg weekly or monthly). Pulsed regimens have fewer side effects and act faster than daily oral (low–moderate certainty). Add calcium + vitamin D, consider a bisphosphonate; watch gastric ulceration, diabetes, hypertension, cataracts, avascular necrosis. — **UNVERIFIED**
+- **L164** - **OR plasma exchange — 5–10 exchanges on alternate days over 2–4 weeks** for severe disease or when IVIG/steroids are unsuitable. Similarly effective for induction, but invasive, needs venous access and specialist facilities, and is rarely used for maintenance. — **UNVERIFIED**
+- **L165** - **Non-response rule:** after a first IVIG course, give either **1 g/kg every 3 weeks for 2–5 doses** or a **second 2 g/kg course** a few weeks later before calling IVIG failure. In ProCID, 56% improved 3 weeks after the loading dose alone; maintenance response was 65% at 0.5 g/kg, 80% at 1.0 g/kg, and 92% at 2.0 g/kg every 3 weeks (only 0.5 vs 2.0 differed significantly). — **UNVERIFIED**
+- **L169** - **Switch to another first-line option before adding anything else.** After IVIG failure, 67% responded to PLEX and 59% to steroids; ~75% who then failed PLEX/steroids responded to the remaining option. Involve the patient in the choice. — **UNVERIFIED**
+- **L170** - **Subcutaneous immunoglobulin (SCIg) for maintenance** — FDA-approved for adult CIDP maintenance since 2018: **0.2 or 0.4 g/kg/week** (split 2–3 infusions/week for induction-style loading where used: 0.4 g/kg/week × 5 weeks, limited evidence). In PATH, both doses beat placebo (absolute relapse reduction 25% at 0.2 g/kg, 30% at 0.4 g/kg). Good candidates: poor venous access, headache/systemic IVIG side effects, long distance to an infusion centre, frequent travel. More injection-site reactions; fewer systemic effects; no venous access or premedication needed. — **UNVERIFIED**
+- **L171** - **Efgartigimod alfa–hyaluronidase (Vyvgart Hytrulo) — subcutaneous once weekly** as a maintenance alternative: **1,000 mg efgartigimod alfa + 10,000 units hyaluronidase in a prefilled syringe** (patient/caregiver-administered), or **1,008 mg + 11,200 units from a vial**. FDA-approved for adults with CIDP June 2024 (also EMA-approved) on the ADHERE trial — see Discover. The approval is not restricted to patients who have failed IVIG, and it applies to the subcutaneous combination product (IV Vyvgart remains labeled for generalized myasthenia gravis). No head-to-head vs IVIG and no established superiority to IVIG; treat as an **alternative maintenance option, not a replacement for established first-line therapy**. Reasonable when maintenance IVIG/SCIg is burdensome, poorly tolerated, or contraindicated, when IVIG supply/access is a problem, or when the patient prefers weekly home self-injection. Caution: response was lower in previously IVIG-treated patients, and FcRn blockade acts on IgG, so presumed IgM- or IgA-mediated disease may not respond. How best to transition from IgG therapy is not yet defined, and a switch from effective IVIG requires careful monitoring — **the current label reports worsening CIDP signs/symptoms during transition from IVIG**. Establish objective baselines and a monitoring/rescue plan, and reassess continuation if neurological symptoms worsen. — **UNVERIFIED**
+- **L175** - **Plasma exchange induction first: 5 exchanges over 10 days.** — **UNVERIFIED**
+- **L176** - **Second-line (EAN/PNS, case-series evidence only):** **rituximab**, **cyclophosphamide**, or **cyclosporine** — **stop if no objective benefit within 3–6 months**. — **UNVERIFIED**
+- **L177** - **Steroid-/IVIG-sparing agents:** azathioprine, mycophenolate, cyclosporine — take **>6 months** to work; evidence for azathioprine and methotrexate is not robust. — **UNVERIFIED**
+- **L189** | Cost/access matters, no steroid risk factors, lasting remission is the goal | **Corticosteroids, pulsed preferred** | Cheap; pulsed regimens may give more and longer remissions at 6 months | — **UNVERIFIED**
+- **L195** - **IVIG:** once stable, try reducing the dose (e.g. by 25% per infusion), lengthening the interval, or stopping — **every 6–12 months for the first 2–3 years, then every 1–2 years**. Fix end-of-dose wearing-off first by raising the dose or shortening the interval; do not mistake wearing-off for treatment failure. — **UNVERIFIED**
+- **L196** - **Steroids:** taper daily prednisolone slowly over 6–8 months, guided by response and side effects; pulsed regimens run 6 months, daily prednisolone up to 15 months. — **UNVERIFIED**
+- **L201** - **Labeling IVIG failure after a single course** — a second course or 1 g/kg every 3 weeks × 2–5 doses is required first. — **UNVERIFIED**
+- **L209** - **Dose:** **2 g/kg total induction, split over 2–5 days** (usual cap ≤80 g/day); maintenance **1 g/kg every 3 weeks**, titrating to the lowest effective dose (**0.4–1 g/kg every 2–6 weeks**). — **UNVERIFIED**
+- **L211** - **Premedication:** **routine premedication NOT required.** After a prior reaction: acetaminophen or ibuprofen + diphenhydramine or a non-sedating H1 blocker, with or without hydrocortisone, **1 hour before infusion**. Hydration (oral or IV) before infusion helps prevent hypotension, renal injury, and aseptic meningitis — limit volume in heart failure/kidney failure. **Keep epinephrine at the bedside for every infusion.** — **UNVERIFIED**
+- **L212** - **Infusion rates (10% product; Gamunex-C CIDP label):** **2 mg/kg/min (0.02 mL/kg/min) for the first 30 minutes, then step up as tolerated to a maximum of 8 mg/kg/min (0.08 mL/kg/min).** Use the minimum practical rate with kidney or clot risk. Other brands are product-specific (e.g. ASCENIV starts at 0.5 mg/kg/min); **brands differ in approved indications, excipients, contraindications and rates**; do not infer CIDP approval or interchangeability from class membership. A specialist-directed switch may improve tolerability. Reactions are most likely during the first infusion of a given product and less likely after 3 treatments with the same product. — **UNVERIFIED**
+- **L213** - **Monitoring during infusion:** vital signs; watch for anaphylaxis, fluid overload, and TRALI (respiratory distress, hypoxaemia, fever 1–6 hours after starting). — **UNVERIFIED**
+- **L214** - **Monitoring after infusion:** creatinine + urine output in at-risk patients; haemoglobin, reticulocytes, LDH, bilirubin, and direct antiglobulin test if haemolysis is suspected — haemolysis typically occurs **5–10 days after a high-dose course**; consider routine checks in that window for non-O patients receiving 2 g/kg. Watch clot symptoms and headache/meningism for up to 48 hours. **Sodium: distinguish true hyponatraemia from pseudohyponatraemia** from high serum protein — restricting water in pseudohyponatraemia worsens viscosity/clot risk. Track efficacy objectively with INCAT, grip strength, and I-RODS. — **UNVERIFIED**
+- **L220** | Infusion reactions (headache, flushing, chills, myalgia, BP changes) | During infusion; 5–15% of infusions; headache was the most common adverse event in ProCID | Slow titration, hydration, premedicate after a prior reaction | Slow or stop 15–30 min, then restart at the last tolerated rate | — **UNVERIFIED**
+- **L224** | Haemolysis | 5–10 days after; blood group AB/A, dose ≥2 g/kg, first course | Know the ABO group, products with reduced isoagglutinins, lower doses/splitting where possible | Confirm with labs; supportive care; transfusion if needed | — **UNVERIFIED**
+- **L225** | Aseptic meningitis | Hours to 2 days; dose ≥2 g/kg, rapid infusion, migraine history | Acetaminophen, hydration, slow rate | Lumbar puncture to exclude infection; analgesia; stop IVIG if possible; resolves within days with no lasting effects | — **UNVERIFIED**
+- **L228** **Vyvgart Hytrulo 1,000 mg/5 mL prefilled syringe** has a pharmacy PA flag; **HyQvia/Hizentra** have 365-day prior-use/history rules. IVIG products and clinician-administered therapies may use medical-benefit authorization. Obtain the current CIDP form, objective diagnostic/response measures and renewal criteria; payer failure counts were not independently verified. — **UNVERIFIED**
+- **L241** formal taper attempts every 6–12 months in the first 2–3 years, then every 1–2 years. — **UNVERIFIED**
+- **L257** - **First-line therapy is a three-way tie on efficacy, not a ladder:** IVIG, steroids, and PLEX each help roughly 50–80%, and switching between them rescues most "failures" — which is why the guideline insists on an adequate trial of each (including a second IVIG course) before declaring refractory disease. — **UNVERIFIED**
+- **L258** - **Maintenance is where the field moved:** SCIg (PATH) made home maintenance routine, ProCID defined the dose–response curve for IVIG maintenance (0.5 → 1.0 → 2.0 g/kg every 3 weeks), and ADHERE added weekly subcutaneous efgartigimod as a maintenance alternative — with a 61% reduction in relapse risk vs placebo in the randomized-withdrawal phase, but no head-to-head against IVIG. — **UNVERIFIED**
+
+## docs/dementia/alzheimers.md
+
+- **L19** | **Weeks-to-months** progression | [Rapidly progressive dementia](rapidly-progressive.md) | Expedite; do not start a cholinesterase inhibitor and follow up in 6 months | — **UNVERIFIED**
+- **L100** - **Donepezil — 5 mg PO once daily in the evening.** After 4–6 weeks, increase to **10 mg — **UNVERIFIED**
+- **L101** daily** (the usual maintenance). In **moderate-to-severe** disease the label permits **23 mg — **UNVERIFIED**
+- **L102** daily** after at least 3 months at 10 mg — **the added benefit is marginal and the cholinergic — **UNVERIFIED**
+- **L104** - **Rivastigmine — oral 1.5 mg PO BID**, increasing by 1.5 mg BID at **minimum 2-week** — **UNVERIFIED**
+- **L105** intervals to 3, 4.5 and up to **6 mg BID** as tolerated. — **UNVERIFIED**
+- **L106** - **Patch: start 4.6 mg/24 h**, increase after **≥4 weeks** to **9.5 mg/24 h — the minimum — **UNVERIFIED**
+- **L107** effective dose** — and after a further ≥4 weeks to a maximum of **13.3 mg/24 h.** Rotate — **UNVERIFIED**
+- **L112** - **Galantamine ER — 8 mg PO daily in the morning**, increasing after **≥4 weeks** to **16 — **UNVERIFIED**
+- **L113** mg/day**, and after a further ≥4 weeks to a maximum of **24 mg/day.** **Take with food and — **UNVERIFIED**
+- **L114** maintain fluid intake.** **Do not exceed 16 mg/day in moderate hepatic impairment.** — **UNVERIFIED**
+- **L123** - **Memantine — 5 mg PO once daily**, increasing in **5 mg increments at intervals of at least — **UNVERIFIED**
+- **L124** one week** to 10, 15 and a target of **20 mg/day (10 mg BID)**. Labelled for **moderate to — **UNVERIFIED**
+- **L142** - **ApoE ε4 genotype is known.** **Homozygotes — roughly 15% of AD patients — have a — **UNVERIFIED**
+- **L159** - **Intravenous: 10 mg/kg over approximately 1 hour every 2 weeks.** — **UNVERIFIED**
+- **L160** - **Subcutaneous initiation: 500 mg once weekly as TWO 250-mg/1.25-mL LEQEMBI IQLIK autoinjector injections.** The maintenance device is **360 mg/1.8 mL**. [July 2026 FDA label](https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/761375s001lbl.pdf). — [Source 1](https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/761375s001lbl.pdf)
+- **L161** - **After 18 months**, either continue the starting regimen or transition to maintenance: — **UNVERIFIED**
+- **L162** **IV 10 mg/kg every 4 weeks**, or **SC 360 mg once weekly.** — **UNVERIFIED**
+- **L163** - **MRI schedule: baseline, then after 1, 2, 3 and 6 months of treatment.** — **UNVERIFIED**
+- **L164** - **Enhanced clinical vigilance for ARIA during the first 14 weeks.** — **UNVERIFIED**
+- **L169** - **Intravenous over approximately 30 minutes every 4 weeks, titrated:** — **UNVERIFIED**
+- **L170** **infusion 1 — 350 mg; infusion 2 — 700 mg; infusion 3 — 1,050 mg; infusion 4 and beyond — — **UNVERIFIED**
+- **L171** 1,400 mg.** — **UNVERIFIED**
+- **L173** the modified schedule cut **ARIA-E from 24.2% to 15.6%** and **symptomatic ARIA-E from 4.8% — **UNVERIFIED**
+- **L174** to 2.8%**, while still clearing amyloid. Do not compress it. — **UNVERIFIED**
+- **L197** - **Recurrence after resumption runs 13.8–25.6%** — factor that into the shared decision rather — **UNVERIFIED**
+- **L199** - **Incidence for orientation:** ARIA-E in **12.6%** with lecanemab and **24.0%** with — **UNVERIFIED**
+- **L200** donanemab at standard dosing; **roughly 70% of ARIA is asymptomatic.** ApoE ε4 homozygotes — **UNVERIFIED**
+- **L201** run far higher — up to **55%** in high-dose aducanumab trials. — **UNVERIFIED**
+- **L239** - **Brexpiprazole (Rexulti)** — approved May 2023. **0.5 mg PO once daily on days 1–7; increase — **UNVERIFIED**
+- **L240** to 1 mg once daily on days 8–14; then 2 mg once daily from day 15 — the recommended target.** — **UNVERIFIED**
+- **L241** May increase to a **maximum of 3 mg once daily after at least 14 days** on clinical response. — **UNVERIFIED**
+- **L242** **Maximum 2 mg/day in moderate-to-severe hepatic impairment (Child-Pugh ≥7).** — **UNVERIFIED**
+- **L248** Inventory** versus placebo over 12 weeks — real, and worth stating plainly to a family — **UNVERIFIED**
+- **L251** **Citalopram has the best agitation trial evidence (CitAD, at 30 mg/day) — but that dose — **UNVERIFIED**
+- **L252** exceeds the FDA maximum of 20 mg/day in patients over 60** because of QT prolongation. That — **UNVERIFIED**
+- **L288** points over 18 months — about 27%, or roughly 4–5 months of delayed progression.** **Donanemab — **UNVERIFIED**
+- **L289** managed 0.67 points (36%) in the low/medium-tau population and 0.70 (29%) overall at 76 weeks**, — **UNVERIFIED**
+- **L290** and reduced the risk of progressing from MCI to mild dementia by **33%**, and mild to moderate by — **UNVERIFIED**
+- **L291** **50%**. Those are real, reproducible, and small. Whether they are worth biweekly infusions, serial — **UNVERIFIED**
+
+## docs/dementia/frontotemporal.md
+
+- **L57** **A family history of dementia is reported in up to 40% of FTD, with clear autosomal dominant — **UNVERIFIED**
+- **L58** inheritance in roughly 10–30%.** Three genes account for the large majority — about 60% of — **UNVERIFIED**
+
+## docs/dementia/index.md
+
+- **L42** over a mean 5 years, roughly **41.5% convert to dementia in clinic populations** (27% in — **UNVERIFIED**
+- **L43** population-based samples), about **half stay stable**, and **8.7% revert to normal in clinics — — **UNVERIFIED**
+- **L44** 28.2% in population samples.** Annual conversion is **3–10% in the community, 10–15% in specialty — **UNVERIFIED**
+- **L46** - **Reversion is not the all-clear.** In one cohort **65% of reverters ultimately progressed**. — **UNVERIFIED**
+- **L121** **9–23% of dementia** depending on setting and definition — but **only about 11% actually — **UNVERIFIED**
+- **L122** resolve, and only 3% fully.** The commonest genuinely reversible contributors are — **UNVERIFIED**
+- **L123** **medications (28.2%), depression (26.2%) and metabolic disorders (15.5%).** — **UNVERIFIED**
+- **L151** | **Plasma p-tau217** | Alzheimer's pathology, with the best performance of the blood markers | Pooled **sensitivity 88.1%, specificity 88.7%, AUROC 91.1%.** **Accuracy 89–91% in secondary care but 85% in primary care** — and **lower again over age 80 (83%)**. **Assay- and population-dependent**; CKD can elevate p-tau217 and confound interpretation. Ratios may mitigate some effects | — **UNVERIFIED**
+- **L161** the **12–17% who land in between** going on to CSF or PET — raises accuracy to **92–94% in both — **UNVERIFIED**
+- **L174** steeply with age: **~12% at 50, 18% at 60, 25% at 70, 33% at 80, 43% at 90.** ApoE ε4 — **UNVERIFIED**
+- **L175** homozygotes reach 15% by roughly **age 40**. — **UNVERIFIED**
+- **L199** estimates about **7%** population-attributable fraction, alongside other major contributors — but be precise about what — **UNVERIFIED**
+- **L201** prespecified higher-risk subgroup; observational ASPREE data found **33% lower 7-year dementia — **UNVERIFIED**
+- **L226** only 41–76%.** Strongly counsel toward stopping. — **UNVERIFIED**
+- **L228** - **Reassess every 6 months** in anyone still driving. Raise concern faster for **caregiver — **UNVERIFIED**
+
+## docs/dementia/lewy-body.md
+
+- **L47** **before or within 1 year of** parkinsonism, call it **DLB**; if parkinsonism has been — **UNVERIFIED**
+- **L102** with Parkinson's disease.** **Oral: 1.5 mg PO BID**, increasing by 1.5 mg BID at **minimum — **UNVERIFIED**
+- **L103** 2-week** intervals to a maximum of **6 mg BID** as tolerated. — **UNVERIFIED**
+- **L104** - **Patch: 4.6 mg/24 h**, increasing after **≥4 weeks** to **9.5 mg/24 h (the minimum — **UNVERIFIED**
+- **L105** effective dose)** and after a further ≥4 weeks to **13.3 mg/24 h.** The patch is often — **UNVERIFIED**
+- **L107** - **Donepezil — 5 mg PO once daily**, increasing to **10 mg daily** after 4–6 weeks. Widely used — **UNVERIFIED**
+- **L127** - **Pimavanserin (Nuplazid) — 34 mg PO once daily, no titration.** **Carries the — **UNVERIFIED**
+
+## docs/dementia/rapidly-progressive.md
+
+- **L76** misfolded prion protein directly. **Second-generation CSF RT-QuIC: sensitivity 92–97%, — **UNVERIFIED**
+- **L77** specificity 99–100%** — and it has **superseded 14-3-3 as the test of choice**, since 14-3-3 — **UNVERIFIED**
+- **L81** **falls for MV2 (75–93%) and MM2 (44–78%)** — so **a negative RT-QuIC does not exclude — **UNVERIFIED**
+- **L82** CJD**, particularly in an atypical phenotype. **False positives occur at <1%.** — **UNVERIFIED**
+- **L85** - **Olfactory mucosa RT-QuIC** reaches ~96% sensitivity and ~100% specificity where it is — **UNVERIFIED**
+- **L104** antibodies — **subacute onset (<3 months) of working-memory deficit, altered mental status or — **UNVERIFIED**
+- **L124** safe and clinically feasible.** Do not claim that every CSF abnormality disappears in 24–48 h. Tap — **UNVERIFIED**
+- **L137** dose, not the 100 mg maintenance dose.** — **UNVERIFIED**
+- **L138** - **Thiamine 500 mg IV over 30 minutes every 8 hours for 2–3 days**, then **250 mg IV/IM — **UNVERIFIED**
+- **L139** daily for 5 days**, then oral. Continue while the diagnosis remains plausible. — **UNVERIFIED**
+- **L140** - **If 500 mg cannot be stocked, the floor is 200 mg IV three times daily — never 100 mg — **UNVERIFIED**
+- **L141** once.** **100 mg IV is prophylaxis, not treatment.** — **UNVERIFIED**
+- **L142** - **Watch the vial arithmetic:** thiamine is stocked at **100 mg/mL**, so a 500 mg dose is — **UNVERIFIED**
+- **L143** **5 mL only for that concentration**. The **number of vials depends on vial volume**; — [Source 1](https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=thiamine+hydrochloride+injection)
+- **L152** - **Aciclovir 10 mg/kg IV every 8 hours** — dosed on **ideal body weight** in obesity, — **UNVERIFIED**
+- **L153** **renally adjusted**, infused over **≥1 hour**, with **generous IV hydration**. The drug — **UNVERIFIED**
+- **L155** - **Duration 14–21 days** once confirmed. Do not treat a 3-day course. — **UNVERIFIED**
+- **L156** - **A negative CSF HSV PCR in the first 72 hours of symptoms does NOT exclude HSV — **UNVERIFIED**
+- **L159** aciclovir and repeat the LP at 3–7 days.** — **UNVERIFIED**
+- **L163** **methylprednisolone 1,000 mg IV daily × 3–5 days** (the regimen used throughout this site), — **UNVERIFIED**
+- **L177** - **Giving 100 mg IV thiamine and calling it treated.** That is the prophylactic dose. — **UNVERIFIED**
+- **L178** - **Stopping aciclovir on a single negative HSV PCR drawn in the first 72 hours.** — **UNVERIFIED**
+
+## docs/dementia/vascular.md
+
+- **L19** | **Cognitive decline within 3–6 months of a stroke** | Post-stroke cognitive impairment | Formal cognitive assessment — it is routinely missed in stroke follow-up | — **UNVERIFIED**
+
+## docs/headache/cluster-tac.md
+
+- **L21** | **Cluster headache** | 15–180 min | 1 every other day → 8/day | Agitated/restless; circadian & seasonal bouts | O₂ + SC/nasal triptan; **verapamil** prevention | — **UNVERIFIED**
+- **L22** | **Paroxysmal hemicrania** | 2–30 min | >5/day (>half the time) | Female-predominant | **Absolute response to indomethacin** | — **UNVERIFIED**
+- **L31** Mean **delay from onset to correct diagnosis is ~5–6 years**; cluster is routinely mislabeled as — **UNVERIFIED**
+- **L32** **migraine (~25%), tension-type (~19%), or sinusitis (~14%)**, and **women are misdiagnosed more — **UNVERIFIED**
+- **L33** often than men (~61% vs 46%)**. If a patient describes strictly unilateral, autonomic, clockwork — **UNVERIFIED**
+- **L38** population (95% CI 2.6–5.8)**, *independent of comorbid depression*, and a 2025 cohort confirmed — **UNVERIFIED**
+- **L59** 2. **Abortive:** high-flow **oxygen** + **sumatriptan 6 mg SC** (or nasal triptan) — script both, — **UNVERIFIED**
+- **L64** 5. **Episodic cluster not controlled on verapamil:** add **galcanezumab 300 mg SC monthly**. — **UNVERIFIED**
+- **L73** - **High-flow oxygen: 100% at 12–15 L/min via a true non-rebreather mask, 15–20 min, sitting — **UNVERIFIED**
+- **L74** forward.** NNT ≈ 2. *The commonest "oxygen failure" is a setup failure* — a standard nasal — **UNVERIFIED**
+- **L76** **demand-valve (or Optimask) system may beat a simple mask** — patient-preferred (~62%) and it — **UNVERIFIED**
+- **L79** - **Sumatriptan 6 mg SC** — fastest and most effective (relief in ~15 min). Max 2 injections/24 h. — **UNVERIFIED**
+- **L80** - **Zolmitriptan 5–10 mg nasal** or **sumatriptan 20 mg nasal** — when SC isn't available or is — **UNVERIFIED**
+- **L81** declined (10 mg zolmitriptan NNT ≈ 2–3). — **UNVERIFIED**
+- **L96** - **Prednisone taper** — e.g., **60–100 mg/day × 5 days, then taper over ~2–3 weeks.** Widely — **UNVERIFIED**
+- **L102** - **Verapamil** — start **240 mg/day**, titrate by ~80 mg every ~1–2 weeks to effect (commonly — **UNVERIFIED**
+- **L103** **360–480 mg/day**; specialists go higher). Use it for the whole bout. — **UNVERIFIED**
+- **L105** **~10–14 days after**, watching for **PR prolongation, heart block, and bradycardia**. Verapamil — **UNVERIFIED**
+- **L110** - **Galcanezumab (Emgality) 300 mg SC monthly** — the **only FDA-approved CGRP mAb for — **UNVERIFIED**
+- **L111** cluster, and only for *episodic*** cluster (**300 mg**, not the 120 mg migraine dose). Give — **UNVERIFIED**
+- **L116** - **Melatonin 10 mg qHS** — reasonable adjunct, exploits the circadian biology. — **UNVERIFIED**
+- **L128** attack-free for ~2 weeks; **restart at the first sign of the next bout.** In **chronic** — **UNVERIFIED**
+- **L137** - **Sphenopalatine-ganglion (SPG) stimulation** — showed **RCT-level efficacy** (≈62–67% pain — **UNVERIFIED**
+- **L138** relief at 15 min vs sham), **but is currently unavailable** — the device manufacturer left the — **UNVERIFIED**
+- **L150** **25 mg TID → 50 mg TID (up to 75 mg TID / ~225 mg/day)**, each step held a few days, **with GI — **UNVERIFIED**
+- **L152** to the lowest effective dose. Consider **"indotest"** (IM indomethacin 50–100 mg) where the oral — **UNVERIFIED**
+- **L156** **melatonin 6–21 mg/day**, **celecoxib** (or other COX-2 inhibitor), **acemetacin**, — **UNVERIFIED**
+- **L166** - **Oxygen 100% at 12–15 L/min via non-rebreather × 15–20 min, sitting forward** — **UNVERIFIED**
+- **L167** - **Sumatriptan 6 mg SC** (or zolmitriptan 5–10 mg nasal if SC unavailable) — **UNVERIFIED**
+- **L172** **Emgality 100 mg ×3 for episodic cluster requires PA**, distinct from the 120 mg migraine formulation. The retrieved form requires adult episodic cluster, neurologist involvement and failure/intolerance/contraindication to verapamil or topiramate or lithium; initial approval is six months with response-based continuation. Oxygen requires a separate equipment/service pathway. — **UNVERIFIED**
+- **L183** - **Retention / MEB–MAR2:** Headache: DoDI V2 **5.26.g** and Army **3-31g**; trigeminal neuralgia and other diagnoses need their applicable standard, rather than automatically borrowing the migraine threshold. Use the [retention framework](../military/deployability.md); permanent P3/4 does not by itself select DES versus MAR2. — **UNVERIFIED**
+- **L198** - **CGRP mAbs work only for *episodic* cluster — and only galcanezumab (300 mg).** In **chronic** — **UNVERIFIED**
+
+## docs/headache/index.md
+
+- **L9** **Tension-type headache is the most *prevalent*** (~25%), but **migraine causes ~90% of headache — **UNVERIFIED**
+- **L20** | **O** — **Onset** sudden / thunderclap (max <1 min) | SAH, RCVS, dissection, CVST, apoplexy | **Non-contrast CT (6-h rule below)** → LP/CTA/MRV | — **UNVERIFIED**
+- **L37** - **Non-contrast CT within 6 h of onset is ~99% sensitive for SAH** — a **negative CT in a — **UNVERIFIED**
+- **L38** neurologically intact patient presenting <6 h reasonably excludes SAH without an LP** (2023 — **UNVERIFIED**
+- **L40** - **>6 h from onset:** CT sensitivity falls (~86–97%) — **do an LP for xanthochromia** if — **UNVERIFIED**
+- **L42** - The **Ottawa SAH Rule** (100% sensitive) can screen out low-likelihood patients before imaging. — **UNVERIFIED**
+- **L47** significant intracranial abnormality in that group is **~0.2%.** Over-imaging drives cost, — **UNVERIFIED**
+- **L62** - **Quick screen — ID Migraine** (<2 min, AHS-endorsed): in the last 3 months, did headaches — **UNVERIFIED**
+- **L63** (1) **limit your activities ≥1 day?** (2) **cause nausea?** (3) **make you sensitive to — **UNVERIFIED**
+- **L64** light?** **≥2 “yes” → screen positive for probable migraine; confirm clinically** (≈84% sensitive, **93% PPV**). — **UNVERIFIED**
+- **L65** - **"Sinus headache" is migraine until proven otherwise** — up to **88%** of self-diagnosed — **UNVERIFIED**
+- **L83** - Headache **≥15 days/month with acute-med overuse** → **[Medication overuse — **UNVERIFIED**
+- **L96** ~90% sensitive/~99% specific; ≤2 excludes it). **Steroids worsen RCVS** — the key distinction — **UNVERIFIED**
+- **L107** visual loss in 15–20%). **GLP-1 receptor agonists** are an emerging option. — **UNVERIFIED**
+- **L136** acute-med days, triggers) for ≥1 month — it's the single most useful diagnostic *and* monitoring tool. — **UNVERIFIED**
+
+## docs/headache/medication-overuse.md
+
+- **L6** headache medication drives headaches to **≥15 days/month** — both a complication and a — **UNVERIFIED**
+- **L15** ## Recognize the thresholds (ICHD-3: use over >3 months) — **UNVERIFIED**
+- **L19** | Simple analgesics (NSAIDs, acetaminophen) | **≥15 days/month** | — **UNVERIFIED**
+- **L20** | Triptans | **≥10 days/month** | — **UNVERIFIED**
+- **L21** | Ergots | **≥10 days/month** | — **UNVERIFIED**
+- **L22** | Opioids | **≥10 days/month** | — **UNVERIFIED**
+- **L23** | Butalbital-containing combinations | **≥10 days/month** (worst offender) | — **UNVERIFIED**
+- **L24** | Combination analgesics | **≥10 days/month** | — **UNVERIFIED**
+- **L25** | **Ditans (lasmiditan)** | **≥10 days/month** — **NOT MOH-safe** (FDA label warning + preclinical data); count it like a triptan | — **UNVERIFIED**
+- **L29** ubrogepant/zavegepant-treated attacks or 18 rimegepant doses in 30 days is not established. — [Source 1](https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=UBRELVY)
+- **L74** - **Erenumab 140 mg** (JAMA Neurol 2024, the first phase-4 RCT designed for CM-MOH): **69% MOH — **UNVERIFIED**
+- **L75** remission at 6 months vs 53% placebo** (OR 2.01), **without mandatory withdrawal.** — **UNVERIFIED**
+- **L76** - **Eptinezumab 100 mg IV + brief education** (RESOLUTION, Neurology 2026, n=608): **~3.2 more — **UNVERIFIED**
+- **L77** monthly migraine days reduced** than placebo (p<0.0001), sustained through 24 weeks. — **UNVERIFIED**
+- **L98** - Replace with a **capped rescue plan: a non-overused acute agent limited to ≤2 days/week.** — **UNVERIFIED**
+- **L103** !!! orderset "Step 3 — bridge the withdrawal window (2–4 weeks)" — **UNVERIFIED**
+- **L106** - **Scheduled NSAID:** e.g., **naproxen 500 mg BID × 2–4 weeks** (if not the overused agent), — **UNVERIFIED**
+- **L109** - **Prednisone taper** (e.g., **60 mg tapering over ~6 days**) — **evidence is mixed** (some — **UNVERIFIED**
+- **L120** For migraine, **Emgality 120 mg** had no PA displayed in the live lookup; the **100 mg episodic-cluster formulation requires PA**. Ubrelvy/Qulipta have PA or claims-history rules; Nurtec is nonformulary with separate PA/MN requirements; Zavzpret is nonformulary with PA. See the **retrieved forms and exact failure/renewal criteria** below. A PTH/NDPH phenotype does not automatically establish covered Botox treatment. — **UNVERIFIED**
+- **L130** !!! warning "Relapse is common (~30% at 1 year) — plan follow-up around the predictors" — **UNVERIFIED**
+- **L131** MOH relapses in **~30% at 1 year** (up to ~40% in some cohorts). **Highest-risk:** **opioid or — **UNVERIFIED**
+- **L139** - **Retention / MEB–MAR2:** Headache: DoDI V2 **5.26.g** and Army **3-31g**; trigeminal neuralgia and other diagnoses need their applicable standard, rather than automatically borrowing the migraine threshold. Use the [retention framework](../military/deployability.md); permanent P3/4 does not by itself select DES versus MAR2. — **UNVERIFIED**
+- **L153** dedicated CGRP phase-4 trials seal it: **erenumab** (JAMA Neurol 2024) → **69% MOH remission at 6 mo — **UNVERIFIED**
+- **L155** 24 weeks. These trials do **not** make opioid/barbiturate withdrawal optional: dependence, — **UNVERIFIED**
+- **L163** (relapse ~30%/year) are core, not optional. — **UNVERIFIED**
+
+## docs/headache/migraine.md
+
+- **L27** **Migraine without aura:** ≥5 attacks lasting 4–72 h with **≥2 of** {unilateral, pulsating, — **UNVERIFIED**
+- **L33** one symptom spreads gradually over ≥5 min; (2) two or more symptoms occur in succession; (3) each — **UNVERIFIED**
+- **L34** symptom lasts 5–60 min; (4) at least one symptom is **unilateral**; (5) at least one symptom is — **UNVERIFIED**
+- **L36** within 60 min by, headache. **Motor aura = hemiplegic migraine; brainstem aura** — both are red — **UNVERIFIED**
+- **L39** **Chronic migraine:** headache ≥15 days/month for >3 months, with migrainous features ≥8 days/month. — **UNVERIFIED**
+- **L66** ≤2 days/week (≈8–10 days/month)**; **plain NSAIDs/simple analgesics ≤3 days/week (≈10–15 — **UNVERIFIED**
+- **L69** section): **≥10 days/month** for triptans/ergots/opioids/combinations, **≥15 days/month** for — **UNVERIFIED**
+- **L72** unlimited treatment.** Follow each label: safety beyond **8 treated attacks/30 days** is not — [Source 1](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=36106b14-d410-4faf-a361-2871de8198c3)
+- **L73** established for ubrogepant or zavegepant, or beyond **18 rimegepant doses/30 days**. Frequent rescue — [Source 1](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=36106b14-d410-4faf-a361-2871de8198c3)
+- **L79** - **Naproxen 500–550 mg**, **ibuprofen 400–600 mg**, or **aspirin 900–1000 mg** PO. — **UNVERIFIED**
+- **L80** - **APAP/aspirin/caffeine** (250/250/65 mg, 2 tabs) is another acute option **only when aspirin — [Source 1](https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=EXCEDRIN+MIGRAINE)
+- **L82** - **Antiemetic adjunct:** **metoclopramide 10 mg** or **prochlorperazine 10 mg** — these — **UNVERIFIED**
+- **L89** **Default:** **sumatriptan 50–100 mg PO** at onset; **may repeat once after ≥2 h** (max 200 — **UNVERIFIED**
+- **L90** mg/day). Even better for moderate/severe attacks: **sumatriptan 85 mg + naproxen 500 mg — **UNVERIFIED**
+- **L95** - **Fast onset / vomiting / wakes with pain:** **sumatriptan 6 mg SC** (works in ~10 min — — **UNVERIFIED**
+- **L96** the most effective route) or **zolmitriptan 5 mg / sumatriptan 10–20 mg nasal**. — **UNVERIFIED**
+- **L97** - **Wants an oral that acts fast:** **rizatriptan 10 mg ODT** or **eletriptan 40 mg** (most — **UNVERIFIED**
+- **L99** - **Long attacks / high recurrence:** **naratriptan 2.5 mg** or **frovatriptan 2.5 mg** — **UNVERIFIED**
+- **L118** - **Ubrogepant (Ubrelvy) 50–100 mg** PO; may repeat once after ≥2 h (max 200 mg/day). — **UNVERIFIED**
+- **L119** - **Rimegepant (Nurtec ODT) 75 mg** — max 1/day; **uniquely doubles as a preventive** — **UNVERIFIED**
+- **L121** - **Zavegepant (Zavzpret) 10 mg nasal** — fast, useful with vomiting. — **UNVERIFIED**
+- **L122** - **Ditan — lasmiditan (Reyvow) 50 / 100 / 200 mg** PO: effective with no vascular — **UNVERIFIED**
+- **L157** trial — at least 8–12 weeks at the recommended tolerated dose** before you call it a failure — **UNVERIFIED**
+- **L158** *(Level B)*; **onabotulinumtoxinA gets 24 weeks** (two injection cycles) *(Level B)*. If — **UNVERIFIED**
+- **L159** response is suboptimal at **8 weeks, push to the maximum tolerated dose** before switching — **UNVERIFIED**
+- **L160** *(Level B)*; still suboptimal at **12–24 weeks** → decide together whether to switch — **UNVERIFIED**
+- **L164** symptoms, quality of life, and acute-med use, not headache days alone. After **6 months** of — **UNVERIFIED**
+- **L173** a high/moderate-confidence agent (Tier 1 or 2); **tolerability** → atogepant or a CGRP — **UNVERIFIED**
+- **L178** 4. **Inadequate after an adequate trial (12–24 weeks)?** Switch **class or mechanism** — oral ⇄ — **UNVERIFIED**
+- **L195** | HTN, palpitations, anxiety, tremor | **Propranolol** (or metoprolol, timolol) | Propranolol LA **80–160 mg/day** (up to 240) | Fatigue, bradycardia, bronchospasm; **avoid in asthma**; caution in depression | — **UNVERIFIED**
+- **L196** | Overweight/obese, comorbid seizure | **Topiramate** | Titrate **25 mg/week → 50–100 mg/day** (divided) | Paresthesias, cognitive slowing, kidney stones, **teratogenic**, flat soda taste; **counsel: >200 mg/day can blunt hormonal contraception (Level A)**; the guideline's oral pick when BMI is increased *(Level B)* | — **UNVERIFIED**
+- **L197** | Insomnia, comorbid depression/tension-type, or fibromyalgia | **Amitriptyline / nortriptyline** | **10–50 mg qHS** | Anticholinergic effects, weight gain, morning grogginess (nortriptyline milder); **low-confidence episodic evidence in the 2026 review** — but the guideline's pick with comorbid **fibromyalgia** *(Level B)*; urinary-retention caution in older men | — **UNVERIFIED**
+- **L198** | Can't use a beta-blocker, wants once-daily | **Candesartan** | **8–16 mg/day** | Dizziness, hyperkalemia, renal function; **2026 review: insufficient evidence to rate** — widely used and reasonable, but not guideline-endorsed (its largest RCT post-dates the review's search) | — **UNVERIFIED**
+- **L199** | Untreated HTN — one drug for both (2026 Rec 9, *Level C*) | **Telmisartan, nifedipine, or enalapril** | Telmisartan **80 mg/day**; nifedipine ER **30–60 mg/day**; enalapril **10–20 mg/day** | Low-confidence migraine evidence — the point is dual benefit in untreated hypertension | — **UNVERIFIED**
+- **L200** | Frequent aura, **not** childbearing potential | **Valproate / divalproex** | **500–1000 mg/day** | **Never in pregnancy potential** (neural-tube defects); **counsel: increased PCOS risk (Level A)**; tremor, weight, LFTs | — **UNVERIFIED**
+- **L201** | Menstrual-pattern | **Frovatriptan / naratriptan** perimenstrual mini-prophylaxis | Frovatriptan 2.5 mg BID × 6 days around menses | Short-term, timed to cycle | — **UNVERIFIED**
+- **L213** - **Anti-CGRP monoclonal antibodies** (injectable/IV): **erenumab 70–140 mg SC monthly**, — **UNVERIFIED**
+- **L214** **fremanezumab 225 mg SC monthly or 675 mg SC quarterly**, **galcanezumab 120 mg SC monthly** — **UNVERIFIED**
+- **L215** (240 mg loading dose), **eptinezumab 100–300 mg IV quarterly**. Best adherence, cleanest — **UNVERIFIED**
+- **L218** - **Oral gepants for prevention:** **atogepant (Qulipta): episodic migraine 10, 30, or 60 mg daily; chronic migraine 60 mg daily**, or **rimegepant — **UNVERIFIED**
+- **L219** (Nurtec) 75 mg every other day** — rimegepant **uniquely doubles as acute + preventive**. — **UNVERIFIED**
+- **L222** confidence for headache-day reduction, **low** for the ≥50% responder outcome — see the — **UNVERIFIED**
+- **L228** - **OnabotulinumtoxinA (PREEMPT protocol):** **155 units across 31 fixed sites every 12 weeks** — **UNVERIFIED**
+- **L229** (up to **195 units / 39 sites** with the optional "follow-the-pain" additions) — **chronic — **UNVERIFIED**
+- **L246** reduction and ≥50% response can differ for the same drug) and are **not a superiority ranking**: — **UNVERIFIED**
+- **L263** days, **low** confidence for the ≥50% responder outcome — which is why the guideline leaves — **UNVERIFIED**
+- **L297** risk** *(Level A)*. **Topiramate → warn that doses above 200 mg/day can make hormonal — **UNVERIFIED**
+- **L308** | **Erenumab (Aimovig)** | **CGRP *receptor*** (the only receptor mAb) | SC **monthly** (70 or 140 mg) | Watch **constipation** and **rising BP**; no loading dose | — **UNVERIFIED**
+- **L310** | **Galcanezumab (Emgality)** | CGRP *ligand* | SC monthly (**240 mg load**, then 120 mg) | Also FDA-approved for **episodic cluster** | — **UNVERIFIED**
+- **L324** For migraine, **Emgality 120 mg** had no PA displayed in the live lookup; the **100 mg episodic-cluster formulation requires PA**. Ubrelvy/Qulipta have PA or claims-history rules; Nurtec is nonformulary with separate PA/MN requirements; Zavzpret is nonformulary with PA. See the **retrieved forms and exact failure/renewal criteria** below. A PTH/NDPH phenotype does not automatically establish covered Botox treatment. — **UNVERIFIED**
+- **L337** effects at about 30–60 minutes.** The guideline grades individual treatments; it does not require — [Source 1](https://headachejournal.onlinelibrary.wiley.com/doi/10.1111/head.70016)
+- **L346** - **Prochlorperazine 10 mg IV** *(Level A — first choice)*, or **metoclopramide 10–20 mg IV** — **UNVERIFIED**
+- **L348** - *Akathisia/dystonia:* many co-give **diphenhydramine 25 mg IV**; note the 2025 guideline — **UNVERIFIED**
+- **L351** - **Ketorolac 15–30 mg IV** *(Level B)* — or **dexketoprofen 50 mg IV** or **diclofenac 75 mg — **UNVERIFIED**
+- **L353** - **Sumatriptan 6 mg SC** *(Level B)* — if not already used and no vascular contraindication. — **UNVERIFIED**
+- **L358** - **Greater occipital nerve block (GONB)** *(Level A — must offer)*. **Bilateral**, ~**2–3 mL of — **UNVERIFIED**
+- **L359** bupivacaine 0.5%** (or 1–2% lidocaine) per side over the greater occipital nerve — landmark: — **UNVERIFIED**
+- **L361** artery pulse. Onset ~10–15 min. Strong **adjunct** (a 2025 RCT: ~95% vs ~48% ≥50% relief at — **UNVERIFIED**
+- **L362** 2 h as add-on); especially useful with **occipital tenderness** or when avoiding systemic drugs. — **UNVERIFIED**
+- **L363** - **Supraorbital / supratrochlear nerve blocks** *(Level B)* — for frontal pain; ~**1–2 mL of — **UNVERIFIED**
+- **L364** bupivacaine 0.5% or 1–2% lidocaine per site**. — **UNVERIFIED**
+- **L366** **2–4% lidocaine** via a long cotton-tipped applicator or catheter device (e.g., ~1–2 mL per — **UNVERIFIED**
+- **L369** !!! orderset "Tier 2 — add if inadequate at ~60 min; reassess again at 30–60 min" — **UNVERIFIED**
+- **L370** - **Magnesium sulfate 1–2 g IV** over ~15–30 min — best evidence in **migraine with aura**. — **UNVERIFIED**
+- **L371** - **Dexamethasone 10 mg IV** *(Level C)* — modest acute benefit **and** reduces 24–72 h — **UNVERIFIED**
+- **L372** recurrence (NNT ~9); consider for recurrence prevention after weighing contraindications and recent steroid exposure. — **UNVERIFIED**
+- **L373** - **Valproate 500–1000 mg IV** *(Level C)* — avoid in pregnancy/childbearing potential. — **UNVERIFIED**
+- **L374** - **Chlorpromazine 12.5–25 mg IV** *(Level C)* — alternative neuroleptic. Use the monitored local protocol, assess volume status and BP, and account for preceding dopamine-antagonist doses. Avoid automatic repeat dosing. — **UNVERIFIED**
+- **L377** - **Droperidol: the guideline’s Level C recommendation is for IM dosing, not IV** or **haloperidol 2.5–5 mg IV** *(Level C)* — alternative neuroleptics when preferred agents are unsuitable. — **UNVERIFIED**
+- **L381** - **Dihydroergotamine (DHE) 0.5–1 mg IV**, preceded by an **antiemetic** (e.g., metoclopramide — **UNVERIFIED**
+- **L382** 10 mg or ondansetron 4 mg IV); may repeat **0.5–1 mg q8h**. **Contraindicated** in coronary/ — **UNVERIFIED**
+- **L383** peripheral vascular disease, uncontrolled HTN, a triptan/ergot within 24 h, or pregnancy. For — **UNVERIFIED**
+- **L384** **admitted** status migrainosus, the inpatient **Raskin protocol** (IV DHE q8h over 2–3 days, — **UNVERIFIED**
+- **L387** - **IV lidocaine** — 1 mg/kg bolus, then ~2 mg/min infusion (do not exceed 4 mg/min; keep — **UNVERIFIED**
+- **L388** level < 5 µg/mL); status-migrainosus courses may run up to ~2 days. — **UNVERIFIED**
+- **L389** - **Propofol** — 0.5 mg/kg bolus, then 0.25 mg/kg every 10 min for up to 1 h. — **UNVERIFIED**
+- **L390** - **Low-dose ketamine** — subacute infusion ~0.1–0.4 mg/kg/h (note: a single **low-dose ED — **UNVERIFIED**
+- **L394** The 2025 AHS guideline evaluated **eptinezumab 100 mg IV** for acute treatment: it beat placebo — **UNVERIFIED**
+- **L395** for 2-h headache freedom (23.5% vs 12.0%), but the pivotal RCT was run **mostly outpatient**. So — **UNVERIFIED**
+- **L402** - **Dexamethasone 10 mg IV/IM once** if not already given — reduces early recurrence. — **UNVERIFIED**
+- **L411** Suspect when headaches are frequent **and** acute meds are used often — **≥10 days/month** — **UNVERIFIED**
+- **L412** for triptans/ergots/opioids/combination analgesics, or **≥15 days/month** for simple NSAIDs/ — **UNVERIFIED**
+- **L414** **medication-overuse** cutoffs as acute migraine drugs on **>9 days/month** for prescription — **UNVERIFIED**
+- **L415** pain-relieving medications, or **>14 days/month** for nonspecific pain medications — the same — **UNVERIFIED**
+- **L432** - **Retention / MEB–MAR2:** Headache: DoDI V2 **5.26.g** and Army **3-31g**; trigeminal neuralgia and other diagnoses need their applicable standard, rather than automatically borrowing the migraine threshold. Use the [retention framework](../military/deployability.md); permanent P3/4 does not by itself select DES versus MAR2. — **UNVERIFIED**
+- **L460** low-confidence**, **rimegepant is split** (moderate for headache-day reduction, low for ≥50% — **UNVERIFIED**
+- **L469** **contraception failure with topiramate >200 mg/day** *(both A)*; in medication overuse, **lead — **UNVERIFIED**
+- **L470** with a preventive proven in overuse** *(B)*; **trial 8–12 weeks (24 for onabotulinumtoxinA)** — **UNVERIFIED**
+- **L471** before judging *(B)*; and **discuss tapering after 6 months** — stopping can increase headache — **UNVERIFIED**
+- **L480** - **TRICARE access affects the choice:** the live lookup showed no PA for **Emgality 120 mg for migraine**, while other products have PA/history rules or nonformulary requirements. This does not make it the best clinical choice for every patient or establish coverage for every phenotype. Use the [actual criteria and forms](../military/tricare.md#headache-current-forms-actually-retrieved). — **UNVERIFIED**
+- **L488** - **Prevention only works if trialed adequately** — 8–12 weeks at target dose before judging failure. — **UNVERIFIED**
+
+## docs/headache/new-daily-persistent.md
+
+- **L6** can often name the **exact day** it started — persisting **>3 months**, with a clearly remembered onset. **Prior episodic migraine or tension-type headache does not — **UNVERIFIED**
+- **L25** Persistent headache, **daily and continuous from onset (or within 24 h)**, present **>3 months**, — **UNVERIFIED**
+- **L30** Per the Robbins classification: **~76% have a persisting (refractory) course**; **~15% remit** — **UNVERIFIED**
+- **L31** (median ~21 months); **~8% relapse-remit** (median first remission ~5.5 months). Persisting course — **UNVERIFIED**
+- **L41** 1. **Confirm the ICHD-3 profile:** daily and continuous within 24 h of a **distinct remembered — **UNVERIFIED**
+- **L42** onset**, present >3 months; distinguish it from gradual chronification of a prior headache. — **UNVERIFIED**
+- **L52** 1. **Confirm the onset pattern** (daily-from-a-remembered-day, >3 months, no preceding progressive increase in frequency). — **UNVERIFIED**
+- **L60** 6. **Set expectations with the numbers:** ~¾ persist (refractory), ~15% remit, ~8% relapse-remit. — **UNVERIFIED**
+- **L85** (~57% benefit at first use)**, delay predicts worse outcomes, and the biology of refractoriness may — **UNVERIFIED**
+- **L96** 0.5–1.5 mg/kg/h** (or 1–2 mg/min), **cardiac monitoring** (~51% get ≥50% relief, ~43% — **UNVERIFIED**
+- **L97** sustained at 1 month); **IV ketamine ≤1 mg/kg/h outside the ICU** (Grade C) with — **UNVERIFIED**
+- **L107** migraine) and up to **70% of pediatric** NDPH (Abuhalaweh 2026), with a **favorable safety — **UNVERIFIED**
+- **L110** associated with resolution in a pediatric cohort (17% vs 4%, p=0.01) — cheap and reasonable to add. — **UNVERIFIED**
+- **L113** In the largest prospective series, CGRP mAbs gave ≥30% improvement in only **~23% of NDPH** — **UNVERIFIED**
+- **L114** vs **46–84% in chronic migraine** (subjective improvement ~54%). Worth trying, but **set — **UNVERIFIED**
+- **L122** promise** in case series. **Headache persisting >3 months post-infection predicts a refractory — **UNVERIFIED**
+- **L139** For migraine, **Emgality 120 mg** had no PA displayed in the live lookup; the **100 mg episodic-cluster formulation requires PA**. Ubrelvy/Qulipta have PA or claims-history rules; Nurtec is nonformulary with separate PA/MN requirements; Zavzpret is nonformulary with PA. See the **retrieved forms and exact failure/renewal criteria** below. A PTH/NDPH phenotype does not automatically establish covered Botox treatment. — **UNVERIFIED**
+- **L150** - **Retention / MEB–MAR2:** Headache: DoDI V2 **5.26.g** and Army **3-31g**; trigeminal neuralgia and other diagnoses need their applicable standard, rather than automatically borrowing the migraine threshold. Use the [retention framework](../military/deployability.md); permanent P3/4 does not by itself select DES versus MAR2. — **UNVERIFIED**
+- **L165** Transitional therapy has the **highest first-use response (~57%)**, and **delayed treatment — **UNVERIFIED**
+- **L167** - **OnabotulinumtoxinA now has the strongest NDPH-specific evidence** (~⅓ of adults, ~70% of children — **UNVERIFIED**
+- **L169** - **CGRP mAbs are less effective in NDPH than in chronic migraine** (~23% vs 46–84% ≥30% response) — — **UNVERIFIED**
+- **L171** - **Prognosis:** ~76% persist, ~15% remit (median ~21 mo), ~8% relapse-remit. The **neuroinflammation — **UNVERIFIED**
+
+## docs/headache/post-traumatic.md
+
+- **L25** 2. **Define the timeline (ICHD-3):** headache developing **within 7 days** of the injury (or of — **UNVERIFIED**
+- **L26** regaining consciousness / the ability to report). **Acute PTH** resolves within 3 months; — **UNVERIFIED**
+- **L27** **persistent PTH** lasts > 3 months. — **UNVERIFIED**
+- **L36** diagnosis is defined by the **temporal relationship** (onset ≤ 7 days), not by a specific — **UNVERIFIED**
+- **L38** treatment. Persistent PTH (> 3 months) is where most of the clinical work lives. — **UNVERIFIED**
+- **L72** Most acute PTH resolves, but a substantial fraction chronifies (**TRACK-TBI:** ~60% acute PTH at — **UNVERIFIED**
+- **L73** 2 weeks → **~52% still present at 3 months → ~29% at 12 months**). **Risk factors for persistence:** — **UNVERIFIED**
+- **L75** days, HIT-6 >45, and cognitive symptoms** (difficulty concentrating — the strongest single — **UNVERIFIED**
+- **L76** association, OR >3), plus comorbid anxiety/depression/sleep disorders. — **UNVERIFIED**
+- **L79** ~72 h** may reduce acute severity; **starting a preventive within ~4–6 weeks** may prevent central — **UNVERIFIED**
+- **L88** **Prophylaxis threshold (2025 AAPM&R):** offer a daily preventive when headaches are **≥10 days/ — **UNVERIFIED**
+- **L96** - **Only positive acute-PTH RCT:** **metoclopramide 10 mg + diphenhydramine 25 mg IV** beat — **UNVERIFIED**
+- **L99** - **Preventive (if frequent/disabling):** **amitriptyline or nortriptyline 10–50 mg qHS** — **UNVERIFIED**
+- **L116** - **Start within 24–72 h** with light activity (walking); waiting for symptoms to fully resolve is — **UNVERIFIED**
+- **L117** *worse*. Subthreshold aerobic exercise **sped recovery (median 13 vs 17 days)** and **cut — **UNVERIFIED**
+- **L118** persisting symptoms (21% vs 32%)** vs stretching, with a **large effect size (g ≈ 1.0).** — **UNVERIFIED**
+- **L120** (Buffalo-type test), or simply **start at ~50% of age-predicted max HR (220 − age)**, 20 min/day, — **UNVERIFIED**
+- **L128** headache-specific CBT cut headache disability (HIT-6 −3.4) AND improved PTSD symptoms.** — **UNVERIFIED**
+- **L138** (HR ~3.9 vs rest) when dizziness/neck pain/headache persist >10 days. — **UNVERIFIED**
+- **L146** strong: **~88% average pain improvement immediately, ~73% sustained at 6 months** (File 2025), — **UNVERIFIED**
+- **L147** and GON blocks historically help **PTH more than migraine (72% vs 54%)**. Fast, low-risk, — **UNVERIFIED**
+- **L156** veterans (Zirovich 2021 crossover), headaches/week **fell ~43% vs *worsened* ~35% on placebo** — **UNVERIFIED**
+- **L160** - **Repetitive TMS** — small RCTs show short-term benefit (≈58% got ≥50% headache reduction; — **UNVERIFIED**
+- **L161** 60% vs 10% return-to-work in one pilot), **but the VA/DoD mTBI CPG suggests *against* it** — **UNVERIFIED**
+- **L162** (small trials, no sustained benefit at 4–6 months, seizure-risk concern) — **reserve for — **UNVERIFIED**
+- **L178** For migraine, **Emgality 120 mg** had no PA displayed in the live lookup; the **100 mg episodic-cluster formulation requires PA**. Ubrelvy/Qulipta have PA or claims-history rules; Nurtec is nonformulary with separate PA/MN requirements; Zavzpret is nonformulary with PA. See the **retrieved forms and exact failure/renewal criteria** below. A PTH/NDPH phenotype does not automatically establish covered Botox treatment. — **UNVERIFIED**
+- **L192** - **Cervical + vestibular PT** facilitates return (HR ~3.9 vs rest) when dizziness/neck pain/ — **UNVERIFIED**
+- **L193** headache persist >10 days. — **UNVERIFIED**
+- **L201** - **Retention / MEB–MAR2:** Headache: DoDI V2 **5.26.g** and Army **3-31g**; trigeminal neuralgia and other diagnoses need their applicable standard, rather than automatically borrowing the migraine threshold. Use the [retention framework](../military/deployability.md); permanent P3/4 does not by itself select DES versus MAR2. — **UNVERIFIED**
+- **L218** started **within 24–72 h** speeds recovery (median 13 vs 17 days) and cuts persisting symptoms — **UNVERIFIED**
+- **L219** (21% vs 32%), effect size **g ≈ 1.0** — dose it to ~50% age-predicted max HR or a symptom threshold. — **UNVERIFIED**
+- **L221** - **Nerve blocks may be *especially* effective in PTH** (~88% improve, ~73% sustained at 6 months; — **UNVERIFIED**
+- **L225** - **Treat early and identify who's at risk.** ~52% of acute PTH persists at 3 months (TRACK-TBI); — **UNVERIFIED**
+- **L226** female sex, prior migraine, acute PTH >30 days, HIT-6 >45, and cognitive symptoms predict — **UNVERIFIED**
+- **L227** persistence. Scheduled early analgesia + preventive within 4–6 weeks may prevent chronification. — **UNVERIFIED**
+- **L231** - **A small botulinum-toxin-A trial was positive in PTH** (Zirovich 2021, veterans: ~43% fewer — **UNVERIFIED**
+- **L233** - **Headache-specific CBT is the strongest non-drug evidence** (McGeary 2022: HIT-6 −3.4 + PTSD — **UNVERIFIED**
+
+## docs/headache/trigeminal-neuralgia.md
+
+- **L23** - **Phenotype:** brief (a fraction of a second to 2 min), **shock-like/stabbing**, triggered, — **UNVERIFIED**
+- **L78** - **Carbamazepine — start 100–200 mg BID**, titrate by ~100–200 mg every few days; usual — **UNVERIFIED**
+- **L79** effective **600–800 mg/day** (range **200–1200 mg/day**), divided. Most effective agent; least — **UNVERIFIED**
+- **L82** - **Oxcarbazepine — start 300 mg BID**, titrate to **600–1800 mg/day** divided. **Better — **UNVERIFIED**
+- **L90** TN **remits and relapses**: ~**50% get a remission of up to 6 months.** After **sustained — **UNVERIFIED**
+- **L100** - **Lamotrigine** — titrate **slowly** (25 mg, up over weeks to ~200–400 mg/day) for **rash/SJS** — **UNVERIFIED**
+- **L103** - **Baclofen** — **5–10 mg TID up to ~60–80 mg/day**; classic add-on to carbamazepine (taper on — **UNVERIFIED**
+- **L105** - **Botulinum toxin type A** — a specialist-administered **off-label adjunct**. EAN’s recommendation is weak and based on very-low-quality evidence. Studies used **25–100 units**, with variable products and injection methods; this range is **not a transferable injection prescription**, and different toxin products’ units are not interchangeable. Discuss an experienced injector’s product-specific protocol. — [Source 1](https://doi.org/10.1111/ene.13950)
+- **L124** - **IV fosphenytoin** — rescue loading (commonly ~**10–20 mg PE/kg**) reduces pain within ~2 h; — **UNVERIFIED**
+- **L126** - **IV lidocaine** — ~**5 mg/kg over 1 h**, monitored — relief up to ~24 h; buys time to — **UNVERIFIED**
+- **L136** ~2/3 pain-free at 10 years). **Vs Gamma Knife** (meta-analysis): MVD gives **more pain relief — **UNVERIFIED**
+- **L137** (RR ~1.9), less recurrence (RR ~0.3), and longer pain-free intervals (median ~94 vs ~53 months)** — **UNVERIFIED**
+- **L158** - **Retention / MEB–MAR2:** Headache: DoDI V2 **5.26.g** and Army **3-31g**; trigeminal neuralgia and other diagnoses need their applicable standard, rather than automatically borrowing the migraine threshold. Use the [retention framework](../military/deployability.md); permanent P3/4 does not by itself select DES versus MAR2. — **UNVERIFIED**
+- **L168** 200–1200 mg/day; OXC 300–1800 mg/day); **oxcarbazepine is usually better tolerated** with — **UNVERIFIED**
+- **L171** (evidence firmed up — ~OR 7.5 for ≥50% relief), phenytoin — alone or as add-on. **Eslicarbazepine — **UNVERIFIED**
+- **L180** beats Gamma Knife on pain relief/recurrence/durability (median ~94 vs ~53 months), at the cost of — **UNVERIFIED**
+
+## docs/hypercoag-workup.md
+
+- **L35** These are **research classification criteria, not diagnostic criteria** — a patient can have APS clinically without meeting the score. Validation: specificity **99%** vs 86% for the 2006 revised Sapporo criteria; sensitivity **84%** vs 99%. — **UNVERIFIED**
+- **L37** **Entry criterion:** at least 1 documented APS-associated clinical criterion **and** at least 1 positive aPL test (LA, or moderate/high aCL, or moderate/high anti-β2GPI, IgG or IgM), with the positive laboratory test occurring **within 3 years** of the clinical criterion. — **UNVERIFIED**
+- **L51** | 4. Obstetric | ≥3 consecutive pre-fetal losses <10 wk and/or early fetal deaths 10 wk–15 wk 6 d | 1 | — **UNVERIFIED**
+- **L52** | | Fetal death 16 wk–33 wk 6 d without severe preeclampsia or placental insufficiency | 1 | — **UNVERIFIED**
+- **L53** | | Severe preeclampsia **or** severe placental insufficiency <34 wk, ± fetal death | 3 | — **UNVERIFIED**
+- **L54** | | Severe preeclampsia **and** severe placental insufficiency <34 wk, ± fetal death | 4 | — **UNVERIFIED**
+- **L70** **Titer thresholds (standardized ELISA):** moderate is **40–79 units**; high is **≥80 units**. The old ">99th percentile" cutoff is gone for classification. Low titers, IgA, and non-criteria antibodies (anti-phosphatidylserine/prothrombin, anti-domain-I β2GPI) do not score. IgG and IgM are **not** added together — a patient whose only positive test is IgM aCL/anti-β2GPI can reach at most 1 laboratory point and cannot be classified. Chemiluminescence and other automated assays have no validated moderate/high equivalents yet — do not transfer the ELISA cutoffs to them (2024/2025 ISTH laboratory guidance uses the assay-specific local cutoff, usually >99th percentile). — **UNVERIFIED**
+- **L72** **Persistence:** **two consecutive positive tests ≥12 weeks apart**. If one serial result is moderate and the other high, score it moderate unless two consecutive high results are available. A single LA result can earn 1 point when repeat testing is not available. — **UNVERIFIED**
+- **L74** **Triple positivity** = persistent positivity for **LA + aCL + anti-β2GPI** (studies applying the 2023 thresholds generally require IgG/IgM ≥40 units for both solid-phase tests). It is the strongest serologic predictor of thrombotic and obstetric events. **Isotype matters:** IgG-driven triple positivity carries much more risk than IgM-only — in one cohort, about half of IgM-only triple-positive patients had no clinical involvement. There is no separate "triple-positive = X points" row: persistent LA scores 5 points and high IgG on both solid-phase antibodies scores 7, in their respective domains. — **UNVERIFIED**
+- **L90** 1. **For VTE, anticoagulate for the event itself** — primary treatment is generally 3–6 months; the duration decision comes after. Do not wait for any test result. — **UNVERIFIED**
+- **L93** 4. **Send Step 2 tests later** (protein C, protein S, antithrombin, lupus anticoagulant) — ≥3 months into treatment, off interfering anticoagulants, with the washouts in the table below. Repeat any low result off confounders before labeling a hereditary deficiency. — **UNVERIFIED**
+- **L96** 7. **Disposition and follow-up:** driven by the thrombotic event, not the panel. Hematology referral for APS, triple positivity, unusual-site thrombosis, or a confirmed deficiency. Confirm APS persistence at ≥12 weeks. — **UNVERIFIED**
+- **L102** | VTE with a nonsurgical major transient risk factor (e.g., ≥3 days bed rest with acute illness) | **Yes** | Test; if thrombophilia found, continue indefinitely, else stop (Recs 3–5) | — **UNVERIFIED**
+- **L115** - **Anticardiolipin IgG and IgM** — ELISA; generally valid anytime (transient positivity possible with acute illness — confirm persistence at ≥12 weeks). — **UNVERIFIED**
+- **L121** - **Timing:** protein C, protein S, and antithrombin no sooner than **≥3 months** into anticoagulation for the acute thrombosis (BSH Grade 2B). An alternative is to test **2–4 weeks off anticoagulation**, which fits the usual timing of a D-dimer for stop/continue decisions. — **UNVERIFIED**
+- **L125** - **Lupus anticoagulant** — repeat to confirm persistence (≥12 weeks apart). For LMWH, draw ≥12 h after the last dose, as close as possible to the next dose. Do not test on therapeutic UFH unless the lab has validated heparin-neutralizing methodology. — **UNVERIFIED**
+- **L126** - **Washouts before testing (Anticoagulation Forum):** warfarin **≥2 weeks** (if PC/PS is needed while anticoagulation must continue, switch to heparin/LMWH for ≥2 weeks first); DOACs **≥48 hours**, longer with renal impairment (Connors: ≥5 half-lives, usually 2–3 days or more); heparin/LMWH **≥24 hours**; fondaparinux **≥48 hours**, longer with renal impairment. — **UNVERIFIED**
+- **L153** | **MTHFR C677T / A1298C** | **Do not order.** Not associated with VTE (ASH 2023); ACMG 2025 technical standard — routine MTHFR testing not recommended for thrombophilia, recurrent pregnancy loss, or reproductive carrier screening; ISTH-affiliated 2022 consensus — not risk factors for arterial or venous thrombosis, should be removed from panels; ACOG and BSH agree. Variants are present in up to 45% of people by ethnicity and predict neither first VTE nor recurrence. Heterozygosity, homozygosity, or compound heterozygosity should **not** be labeled a thrombophilia and should **not** alter anticoagulation. (Distinct from rare severe autosomal-recessive MTHFR deficiency — homocystinuria phenotype.) Routine fasting homocysteine is also insufficient. | — **UNVERIFIED**
+- **L155** | PAI-1 level; SERPINE1 / PAI-1 4G/5G polymorphism | Low-value extras — omit | — **UNVERIFIED**
+- **L199** - **Follow-up:** repeat/confirmatory testing at **≥12 weeks** for APS persistence (LA, aCL, anti-β2GPI) and at **≥3 months** for protein C/S/antithrombin. Hematology referral for APS, triple positivity, unusual-site thrombosis, or a confirmed deficiency. Document the provoked/unprovoked classification — it, not the panel, drives the duration decision. — **UNVERIFIED**
+- **L216** - **MTHFR is out.** ASH, ACMG (2025 technical standard), ISTH-affiliated consensus, ACOG, and BSH all agree: MTHFR C677T/A1298C is not associated with VTE, is present in up to 45% of people, and should be removed from panels. A positive result must not be labeled a thrombophilia or used to extend anticoagulation. — **UNVERIFIED**
+- **L217** - **APS is the exception that changes the drug, not just the duration.** The 2023 ACR/EULAR criteria are weighted (≥3 clinical + ≥3 laboratory points, entry criterion, 3-year window, persistence ≥12 weeks) and deliberately trade sensitivity (84%) for specificity (99%). Triple positivity — persistent LA + aCL + anti-β2GPI — is the highest-risk serologic profile, and it means **warfarin (INR 2–3), not a DOAC**: DOACs carried ~5-fold higher odds of arterial events, mainly stroke, than warfarin across RCTs. BSH (1B) and EULAR (against rivaroxaban) and the 2026 ACC statement all point the same way. — **UNVERIFIED**
+
+## docs/immunotherapy-order-sets.md
+
+- **L15** | **Severe NMOSD attack (optic neuritis, myelitis, brainstem) and the clock is running** | Every day of delay costs vision and cord — complete recovery ~40% if PLEX starts within 2 days vs 3.7% if ≥7 days | Steroids + PLEX essentially simultaneously; do not finish a full steroid course first | — **UNVERIFIED**
+- **L24** | **Guillain-Barré syndrome** (unable to walk, GBS-DS ≥3, within 4 weeks of onset; or ambulatory but rapidly progressing / bulbar / respiratory risk) | IVIG **or** PLEX — equal efficacy; **never both routinely** | None — rituximab has no role in routine acute GBS; steroids alone are ineffective | — **UNVERIFIED**
+- **L25** | **NMOSD relapse** (AQP4+ or seronegative) | High-dose steroids **plus early PLEX** — PLEX is primary therapy alongside steroids, not a salvage after steroid failure | Rituximab (or an approved mAb) after the PLEX course ends; oral steroid taper 3–6 months | — **UNVERIFIED**
+- **L26** | **Autoimmune encephalitis** (esp. neuronal-surface antibody: NMDAR, LGI1, CASPR2) | Steroids **± IVIG or PLEX**, started early and empirically once infection is reasonably excluded | Rituximab as preferred second line; refractory → tocilizumab or bortezomib within ~1 month | — **UNVERIFIED**
+- **L27** | **CIDP** (induction / maintenance) | IVIG first line in most; PLEX an induction alternative (5–10 sessions alternate days) | IVIG maintenance 1 g/kg q3wk, or rituximab for nodopathy / refractory disease — see [CIDP & IVIG order set](cidp.md) for the full CIDP workup | — **UNVERIFIED**
+- **L34** 2. **Name the syndrome and the tempo** — fulminant/rapid (intubation, rising ventilation risk, NMOSD attack within 48 h, severe myelitis) favors PLEX for speed; autonomic instability, sepsis, poor access, or children favor IVIG. — **UNVERIFIED**
+- **L45** 5. **Start durable control after rescue** — rituximab (when indicated) after the final PLEX session, never before or between sessions. Cover NMOSD with an oral steroid taper for 3–6 months, because early relapses after the first rituximab dose are described. — **UNVERIFIED**
+- **L46** 6. **Monitor for the therapy-specific harms** — IVIG: thrombosis and AKI (boxed warnings), hemolysis at 5–10 days; PLEX: hypotension, citrate toxicity, fibrinogen fall; rituximab: infusion reactions, infection, hypogammaglobulinemia, late-onset neutropenia. Disposition and follow-up below. — **UNVERIFIED**
+- **L56** - **Quantitative IgG / IgA / IgM before rituximab** — baseline IgG <3 g/L predicts infection risk; IgA status matters before IVIG if there is a history of severe/selective IgA deficiency or prior anaphylaxis. — **UNVERIFIED**
+- **L57** - **Pregnancy: β-hCG** before rituximab in patients of reproductive potential; contraception during treatment and for 12 months after the last dose per current product labeling, with individualized specialist counseling. — **UNVERIFIED**
+- **L58** - **Vaccines before rituximab** — pneumococcal, influenza, COVID-19, recombinant zoster ≥2–4 weeks before the first dose; if not VZV-immune, live varicella vaccine >4 weeks before. No live vaccines during B-cell depletion. — **UNVERIFIED**
+- **L70** | **NMOSD relapse** | IVMP 1 g/day × 3–5 days **+ very early PLEX** | Severe optic neuritis, longitudinal/extensive myelitis, major motor deficit, brainstem attack, rapid tempo, prior steroid-refractory attacks — start PLEX concurrently, don't wait for steroid failure | IVIG is **not** routine rescue in AQP4-NMOSD — the 2025 consensus recommends against it; use only if PLEX is contraindicated | — **UNVERIFIED**
+- **L72** | **CIDP** | IVIG (see [CIDP page](cidp.md)) | Induction alternative when IVIG is unsuitable or has failed; 5–10 sessions alternate days | First line in most; maintenance 1 g/kg q3wk | — **UNVERIFIED**
+- **L75** - **GBS: IVIG 0.4 g/kg/day × 5 days (total 2 g/kg)**, preferably begun within 2 weeks of weakness onset. **MG crisis / exacerbation: total 2 g/kg over 2–5 days** (1 g/kg/day × 2 days is acceptable in selected exacerbations; benefit begins in days to weeks, lasts 4–8 weeks). **CIDP induction: 2 g/kg over 2–5 days**, then maintenance **1 g/kg every 3 weeks** (practical range 0.4–1 g/kg q2–6wk, individualized to the lowest effective dose and longest interval; use objective response and an adequate trial before declaring failure; the ICE trial’s maintained week-24 INCAT response was **54% vs 21%** with placebo). **Severe AE: total 2 g/kg over 2–5 days.** — **UNVERIFIED**
+- **L77** - **Infusion rates are product-specific — follow that product's label, never transplant a rate table between products.** 10% examples: Gammagard Liquid — start **0.5 mL/kg/h**, increase gradually as tolerated to max **5.4 mL/kg/h**; other 10% labels — start **0.5 mg/kg/min** for 15 min, increase every 15 min to max **8 mg/kg/min** (Gamunex-C starts 2 mg/kg/min → max 8 mg/kg/min; Privigen 0.5 → 8 mg/kg/min). Escalate stepwise ~every 15–30 min, checking vitals before each step. Use the slowest practicable rate for first-ever infusions, renal/thrombotic risk, IgA deficiency, or a product change. — **UNVERIFIED**
+- **L79** - **Monitoring:** vitals at baseline, each rate change, and end of infusion. BUN/creatinine before the first infusion and at intervals after. CBC/Hb, LDH, haptoglobin, DAT if symptomatic or high risk for hemolysis (~5–10 days post-infusion; non-O blood groups, high dose). Watch for aseptic meningitis (hours–2 days, worse with high dose or rapid rate), TRALI (within 6 h), and volume overload in heart failure. — **UNVERIFIED**
+- **L80** - **Boxed warnings: thrombosis and acute kidney injury.** Thrombosis ~1% per infusion in a neuropathy cohort (reported range 1–13%), mostly within 14 days — hydrate, use the minimum rate, split dosing, DVT prophylaxis. AKI risk is higher with CKD, diabetes, age >65, and sucrose-stabilized products — hydrate first and avoid sucrose products. — **UNVERIFIED**
+- **L85** - **Default prescription: 1.0–1.5 total plasma volumes (TPV) per session, ~5 exchanges over 7–14 days** (range 4–7; up to 10 in NMOSD). **GBS: 4–5 exchanges, 12–15 L total**, within 4 weeks of onset (best in the first week). **MG crisis: 5 sessions over 7–10 days** (no benefit to routinely extending beyond 5). **NMOSD: ~5 exchanges, daily or every other day, up to 10** — start within 2 days when severe. **AE: 5–7 exchanges every other day over ~10 days** (5 exchanges qod is the Canadian consensus regimen for severe AE). **CIDP induction: 5–10 sessions on alternate days.** — **UNVERIFIED**
+- **L86** - **Plasma volume:** Kaplan formula — **0.07 × weight (kg) × (1 − hematocrit)**. Removal is exponential: 1.0 PV removes ~63%, 1.5 PV ~78%. — **UNVERIFIED**
+- **L87** - **Replacement fluid: 5% (4.5–5%) albumin** as standard. **FFP only** for bleeding, low fibrinogen, or an impending procedure. Check fibrinogen serially — it falls ~60–70% per 1 PV albumin exchange; for hemorrhagic risk, maintain fibrinogen >1.0 g/L (100 mg/dL) with partial FFP replacement or post-PLEX cryoprecipitate (BSH target). — **UNVERIFIED**
+- **L88** - **Vascular access:** peripheral first whenever technically adequate — a **16–17 G apheresis/dialysis needle** is ideal (16–18 G cannulas at lower flows); centrifugal TPE runs ~50–120 mL/min. If central access is needed, use a short, rigid, large-bore dual-lumen apheresis/hemodialysis catheter (**11.5–12 Fr, internal jugular preferred**); ultrasound-guided, sterile placement, heparin or 4% citrate locks, tPA for occlusion, remove promptly after the course. Membrane TPE needs substantially higher flow and more often requires a dialysis-type catheter. — **UNVERIFIED**
+- **L89** - **Pre-PLEX checks:** CBC; Na/K/creatinine; ionized Ca, Mg; PT/INR, aPTT, fibrinogen; blood type/antibody screen. **Hold ACE inhibitors 24–48 h before PLEX** (bradykinin-mediated hypotension). Monitor vitals, BP/HR, symptoms, fluid balance, and access function during each session; reassess fibrinogen and ionized Ca serially during intensive (daily) courses. — **UNVERIFIED**
+- **L90** - **Hypotension (most common complication, ~12% of patients / 2.4% of sessions):** slow or pause PLEX, supine/Trendelenburg, restore intravascular volume — BSH gives **250 mL 0.9% saline** as the initial maneuver for vasovagal/hypovolemic events; assess for bleeding, anaphylaxis, arrhythmia. GBS with severe dysautonomia deserves especially conservative flow and volume management. — **UNVERIFIED**
+- **L91** - **Citrate toxicity / hypocalcemia:** progression is perioral/acral paresthesias → cramps/tetany → QT prolongation/arrhythmia. Slow citrate delivery, give oral or IV calcium by severity; prophylactic calcium is reasonable with prior citrate reactions, baseline hypoCa/hypoMg, liver/renal dysfunction, or high citrate exposure. Target ionized Ca >0.9 mmol/L. Plasma replacement adds substantial citrate — another reason albumin is preferred. — **UNVERIFIED**
+- **L92** - **Other complications:** catheter-related (pneumothorax, arterial puncture, bleeding, thrombosis, fibrin sheath, CLABSI — prevent with ultrasound guidance, proper locking, early removal); allergic reactions to albumin or FFP (~9.5%); infections between sessions (~12% in one cohort); removal of protein-bound drugs — give IV medications **after** the day's exchange. — **UNVERIFIED**
+- **L93** - **Steroids can run concurrently** — give after the session on PLEX days. **IgG replacement** if IgG falls below **150 mg/dL** after repeated courses (German MG guideline), given after PLEX is finished. — **UNVERIFIED**
+- **L97** - **Common adult schedule: rituximab 1,000 mg IV on days 1 and 15**, then maintenance every ~6 months — fixed schedule, or redosed when CD19 B cells return (common trigger CD19 >1% of lymphocytes; CD27+ memory B cells are an alternative and may need fewer infusions). Disease-specific regimens: — **UNVERIFIED**
+- **L98** - **Relapsing MS:** 1,000 mg days 1 and 15 (HERMES — 91% fewer Gd+ lesions vs placebo), or 1,000 mg × 1 then **500 mg q6mo** (RIFUND-MS — 3% relapses vs 16% on dimethyl fumarate over 24 months). OLYMPUS (primary progressive MS, 1,000 mg × 2 q24wk) missed its primary endpoint. — **UNVERIFIED**
+- **L99** - **AQP4+ NMOSD:** 1,000 mg days 1 and 15 (alternative 375 mg/m² weekly × 4); maintenance **1,000 mg × 2 (2 g/cycle) q6mo**, or redose when CD19 >1%. Lower-dose regimens (500 mg q6mo; 100 mg-based) come from observational studies only. Hopkins cohort: 2 g q6mo in most patients. MENACTRIMS 2026: extending the interval by CD19 return worked as well as fixed q6mo dosing. — **UNVERIFIED**
+- **L100** - **Generalized MG:** new-onset AChR+ — **500 mg × 1** (RINOMAX — 71% vs 29% reached minimal manifestations at week 16). Refractory / MuSK+ — **375 mg/m² weekly × 4**, or 1,000 mg × 2; redose at relapse or B-cell return (~6 months). BeatMG (375 mg/m² × 4, repeated at 6 months, established AChR+) showed **no steroid-sparing benefit** — best results are in MuSK+. In one MuSK cohort, 375 mg/m² weekly × 4 followed by 2 monthly doses had fewer relapses than 1 g × 2 (18% vs 80%). — **UNVERIFIED**
+- **L101** - **Autoimmune encephalitis (second line: NMDAR, LGI1, CASPR2):** 1,000 mg × 2, 2 weeks apart, or 375 mg/m² weekly × 4. Pediatric: 750 mg/m² × 2 (max 1 g/dose). Usually no maintenance; consider redosing at 6 months in selected relapsing NMDAR disease. Escalate after 2–4 weeks without response to first-line therapy — rituximab was the preferred second line of ~80% of experts. — **UNVERIFIED**
+- **L102** - **Infusion rates (label): first infusion start 50 mg/h, increase by 50 mg/h every 30 min to a maximum of 400 mg/h. Later infusions start 100 mg/h, increase by 100 mg/h every 30 min to 400 mg/h.** Dilute to 1–4 mg/mL. Do **not** import the accelerated 90-minute protocol as the default neurologic protocol — it is supported in selected lymphoma/chemotherapy circumstances only. SC rituximab (Rituxan Hycela) is not interchangeable, is not indicated for autoimmune disease, and must never be given IV. — **UNVERIFIED**
+- **L103** - **Premedication, 30 min before every infusion: acetaminophen + an antihistamine (e.g. diphenhydramine 50 mg) + methylprednisolone 100 mg IV.** Some centers add an H2 antagonist — institutional, not a universal evidence-based requirement. — **UNVERIFIED**
+- **L104** - **Infusion reactions** (most common adverse event, mostly the first dose, typically 30–120 min in): fever/chills, flushing, pruritus/urticaria, nausea, dyspnea, bronchospasm, hypoxia, angioedema, hypotension. **Mild–moderate:** stop the infusion, give antihistamine/acetaminophen ± steroid, then restart at **≥50% lower rate** once symptoms resolve. **Anaphylaxis, bronchospasm, or hypotension:** epinephrine, fluids, bronchodilators, steroids, oxygen. Recurrent or severe reactions: desensitization is preferred, or switch to a humanized anti-CD20. **Stop permanently after a life-threatening reaction.** — **UNVERIFIED**
+- **L105** - **HBV prophylaxis (if HBsAg+ or anti-HBc+): entecavir or tenofovir** with hepatology involvement — duration is **hepatology/guideline-directed**, commonly **at least 12 months after anti-CD20 therapy**, with longer follow-up or prophylaxis in selected settings. The FDA label warns of reactivation up to 24 months; it does not set a universal prophylaxis duration. — **UNVERIFIED**
+- **L106** - **Monitoring:** CD19 count about every 6 months, or before each dose if redosing is CD19-guided. IgG/IgM/IgA every 6 months or before each course — IgG falls progressively with cumulative dose; if IgG stays **<3–4 g/L with recurrent serious infections**, consider extending the dosing interval and starting Ig replacement. CBC with differential every 6 months, **plus whenever there is fever or infection**, to catch late-onset neutropenia. Ask about infections at each visit. Consider PJP prophylaxis if steroids or other immunosuppressants are given at the same time. Watch for HBV reactivation in patients with past infection. — **UNVERIFIED**
+- **L107** - **Risks to counsel on:** serious infections in 12.7% of an MS/NMOSD cohort; in RINOMAX follow-up, 12.5–18.8% had a severe infection — risk higher with age >65 and low IgG; IgG <500 mg/dL was associated with nearly a 3-fold adjusted risk of serious infection vs IgG ≥700 mg/dL (aHR 2.98). Hypogammaglobulinemia rises with cumulative exposure — reported in up to 44% of children treated for autoimmune CNS disease, where it can be severe. **Late-onset neutropenia:** in 2,686 Swedish MS patients, 6.2% had any episode, grade 3–4 in 1.0%, often with infection, at a median of 360 days after starting. **PML: very rare, but carries an FDA boxed warning** — new subacute cognitive, visual, motor, or coordination symptoms or suspicious MRI lesions should trigger withholding therapy; note that the serum JCV antibody index is **not** validated for rituximab PML risk stratification, so serial index testing does not reproduce the natalizumab algorithm. Other: HBV reactivation (can be fatal), impaired vaccine response, colitis/IBD-like illness, serum sickness; PRES and cardiac events reported. — **UNVERIFIED**
+- **L114** | **IVIG → PLEX** | Avoid, especially within 2 weeks of IVIG | PLEX washes out the infused immunoglobulin. If PLEX is truly needed (IVIG failure in crisis), accept the IVIG investment is lost — **there is no required two-week waiting interval for necessary rescue**. **Exception:** a life-threatening crisis deteriorating after IVIG — do not withhold necessary PLEX to preserve the IVIG dose | — **UNVERIFIED**
+- **L115** | **PLEX → rituximab** | Correct — rituximab **after the last PLEX session** | PLEX 24–72 h after rituximab removes ~47–54% of the dose and cuts AUC by 26%. If rituximab cannot wait until PLEX is finished: dose at least 4–6 h after a session and leave ≥48 h before the next exchange; consider a supplemental dose if exchanges follow closely. No universal "safe 24-hour interval" or supplemental dose is validated — coordinate with pharmacy/apheresis | — **UNVERIFIED**
+- **L118** | **Second IVIG course (GBS)** | Not routine | SID-GBS: no benefit, more thrombosis. Lack of rapid improvement 5–10 days after IVIG in a ventilated GBS patient is **not** by itself an indication to wash out IVIG and try PLEX — axonal injury and delayed recovery explain persistent weakness | — **UNVERIFIED**
+- **L119** | **Complement inhibitors + PLEX** | Supplemental dose required | PLEX substantially removes C5 inhibitors: **eculizumab — supplemental dose within 60 min after each session** (300 mg if the last dose was 300 mg, 600 mg if ≥600 mg); **ravulizumab — supplemental dose within 4 h**. FcRn blockers (efgartigimod, rozanolixizumab, nipocalimab) are also removed by PLEX and speed clearance of IVIG and other IgG monoclonals — reconcile every biologic with apheresis before the first exchange | — **UNVERIFIED**
+- **L124** - **GBS:** treatment-related fluctuation (initial improvement/stabilization, then clear worsening) is different from poor response — retreatment with the **same** modality can be considered. ≥3 fluctuations or progression beyond ~8 weeks should trigger reconsideration of acute-onset CIDP or an autoimmune nodopathy rather than repeated empirical GBS treatment. — **UNVERIFIED**
+- **L126** - **AE:** unlike GBS, switching between first-line modalities is reasonable in refractory AE — if a steroid/IVIG strategy has clearly failed, PLEX can be added. First-line failure is defined as no improvement or worsening after **5–10 days in severe AE** vs ~2–4 weeks in mild/moderate disease (Canadian consensus 2024) — deliberately earlier in severe disease so second-line rituximab is not delayed. Refractory disease → tocilizumab or bortezomib within ~1 month. — **UNVERIFIED**
+- **L145** - **Follow-up:** CIDP maintenance — INCAT / I-RODS / grip strength at each infusion to confirm response and guide tapering; try reducing dose every 6–12 months for the first 2–3 years. Rituximab — CD19 and IgG every ~6 months, CBC with any fever/infection, infection review at every visit. NMOSD — relapse-prevention therapy started before discharge; do not leave the patient on steroids alone. — **UNVERIFIED**
+- **L161** - **GBS is the exception to "switch if it didn't work."** IVIG and PLEX are equally effective, combining them adds nothing, a second IVIG course adds harm (SID-GBS), and persistent weakness 5–10 days after IVIG is usually axonal injury and slow recovery, not a failed drug. Treatment-related fluctuation is the one pattern where retreatment makes sense. — **UNVERIFIED**
+- **L162** - **NMOSD is the opposite: move PLEX early.** The 2025 NMOSD consensus and current NMOSD attack-management guidance put apheresis alongside high-dose steroids as primary therapy, with 5–7 alternate-day exchanges preferably within ~5 days of onset, and explicitly recommend against routine IVIG for acute AQP4-NMOSD attacks. — **UNVERIFIED**
+- **L163** - **Rituximab's evidence is trial-anchored but off-label in all four conditions.** RIFUND-MS (1 g → 500 mg q6mo), RINOMAX (single 500 mg in new-onset MG), and the Hopkins NMOSD cohort (2 g q6mo) give the dosing; the label still governs infusion rates, premedication, and HBV screening. The 2026 OVERLORD-MS data and the Swedish late-onset-neutropenia cohort (n=2,686) are the newest safety/efficacy signals. — **UNVERIFIED**
+- **L164** - **What changed recently:** NEMOS attack-management recommendations and subsequent NMOSD consensus reposition PLEX from salvage to primary therapy; the 2024 Canadian AE consensus formalizes earlier second-line escalation in severe disease (5–10 days, not 2–4 weeks). — **UNVERIFIED**
+
+## docs/military/deployability.md
+
+- **L37** | Migraine / other incapacitating headache | **5.26.g** | **3-31g**: ≥3 incapacitating days/month prompts neurologist evaluation; document preventive drug/dose/duration and response. Army provisions address a prophylaxis trial and direct referral when response is unlikely | — [Source 1](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/613003_vol2.PDF)
+- **L40** | TBI with residual impairment | **5.26.h** | **3-31j**; document cognition, balance, vision, headache and task performance after appropriate treatment | — [Source 1](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/613003_vol2.PDF)
+- **L44** | Sleep disorders | **5.27** | **3-32** and relevant **3-31h** narcolepsy provisions; treatment response and daytime function matter | — [Source 1](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/613003_vol2.PDF)
+
+## docs/military/deployment-medications.md
+
+- **L24** | **TBI** | Predeployment evaluation is required for any severity. MOD 18 lists release after **24 symptom-free hours after one mTBI**, **7 symptom-free days after a second within 12 months**, and neurologic **and** psychological evaluation after **three TBIs of any severity**. These are theater screening requirements, not replacements for TBICoE progressive return-to-activity or proof of recovery | — [Source 1](https://api.army.mil/e2/c/downloads/2025/12/11/aa159f14/mod18-tab-a-amplification-of-the-minimal-standards-of-fitness-for.pdf)
+- **L31** | **OSA** | **Mild** (AHI and RDI <15/h) generally requires no waiver. **Moderate** (AHI 15–30/h) can proceed without waiver when asymptomatic, adherent, and Epworth <10. **Severe** (AHI >30/h) requires a waiver. **AHI >60/h** also needs a deployment recommendation from a pulmonologist, neurologist or sleep specialist. Symptomatic OSA is not waiverable. Complex/central apnea and ASV/AVAPS are nondeployable under this policy. Document PAP ≥4 hours on >70% of nights over 30 days for moderate/severe OSA, and bring rechargeable backup and supplies | — **UNVERIFIED**
+
+## docs/military/tricare.md
+
+- **L21** | **Emgality 120 mg migraine formulation** | Uniform formulary; **no PA displayed** in the live lookup | Exact migraine product matters. Do not apply the cluster formulation’s PA to the 120 mg pens. Check loading and dispensing quantities | — **UNVERIFIED**
+- **L22** | **Emgality 100 mg ×3, episodic cluster** | Formulary **with PA** | Adult; neurologist prescribing/consultation; not pregnant/trying; **episodic** cluster; failure/intolerance/contraindication to verapamil **or** topiramate **or** lithium; no concurrent preventive CGRP therapy. Initial **6 months**, renewal documents ≥50% reduction in weekly attacks | — **UNVERIFIED**
+- **L23** | **Ubrelvy 50/100 mg acute** | Formulary with PA/history-based rule | Adult; neurologist/consultation; failure after **2 months each of two** listed triptans (sumatriptan, rizatriptan, zolmitriptan, eletriptan), or documented intolerance/contraindication; no other gepant. Form shows **no expiration** after approval | — **UNVERIFIED**
+- **L24** | **Qulipta, prevention** | Formulary with PA/history-based rule | Adult; neurologist/consultation; chronic migraine, or qualifying episodic frequency/disability below; no other gepant; failure/intolerance/contraindication to one drug from **two oral preventive classes** AND **one injectable CGRP preventive**, with the form’s **2-month** trials. Initial **6 months**, response-based renewal | — **UNVERIFIED**
+- **L26** | **Nurtec ODT, episodic prevention** | **Nonformulary + PA; MN separate** | Qualifying episodic migraine; **two oral classes + one injectable CGRP preventive + Qulipta**, each with required trial/contraindication/intolerance evidence. The current PA form has an exception to the Qulipta trial for patients already stable on Nurtec prevention. Initial **6 months**, response-based renewal; MN asks for Qulipta + injectable preventive history | — **UNVERIFIED**
+- **L27** | **Aimovig / Ajovy** | Official list has a **365-day prior-use/history PA rule**; live Aimovig result directs users to preferred Emgality 120 mg | Do not label them universally “no PA.” Current manual criteria were not successfully retrieved for this review; obtain the exact current form before telling the patient how many failures qualify | — **UNVERIFIED**
+- **L30** **Episodic preventive thresholds:** both forms accept **4–7 migraine days/month for 3 months plus MIDAS >11 or HIT-6 >50**. The alternative on Qulipta is **8–14 days/month for 3 months**. The May 2026 Nurtec form says **at least 8 days/month for 3 months**, within a confirmed **episodic-migraine** preventive indication. Qulipta separately has a chronic-migraine pathway. — **UNVERIFIED**
+- **L32** **Preventive renewal:** the retrieved Qulipta/Nurtec forms accept **≥50% reduction in monthly headache days** or specified functional improvement: MIDAS baseline 11–20 falls ≥5 points; baseline >20 falls ≥30%; HIT-6 falls ≥5; MPFID falls ≥5. Nurtec acute renewal asks for a positive clinical response. These are payer criteria, not the only ways a patient can benefit clinically. — **UNVERIFIED**
+- **L34** **Quantities are separate from treatment safety.** The live 100 mg Ubrelvy result showed 16 tablets/30 days and 48/90 days at mail/MTF; Nurtec showed 8/30 days acute versus 16/30 days preventive. Individual authorization and dispensing edits may differ. A prescription quantity limit is not evidence that more frequent clinical exposure is safe. — **UNVERIFIED**
+- **L52** | **West** — policy revised **20 August 2025**, retrieved November 2026 | Adult; ≥15 headache days/month for >3 months, ≥8 with migraine features and ≥4-hour headache duration; at least one first-line oral preventive failed or prior botulinum treatment, and specialist involvement. Initial first treatment plus two subsequent treatments over six months; continuation requires documented improvement or maintained benefit | — **UNVERIFIED**
+- **L53** | **East** — public MP22-030E returned at review | Adult; headache frequency ≥15 days/month for ≥3 months, qualifying migraine duration/features; preventive medication ineffective/not tolerated for **≥3 months**. Confirm current requested product, units, procedure, follow-up authorization and continuation rules with the contractor | — **UNVERIFIED**
+- **L71** | **Vyvgart Hytrulo 1,000 mg/5 mL prefilled syringe** | New-to-market pharmacy PA flag | Exact CIDP versus gMG criteria and self-administration route. The 1,008 mg vial and IV Vyvgart are different products/benefit pathways | — **UNVERIFIED**
+- **L72** | **HyQvia / Hizentra** | Prior-use lookback rule: PA when no prior use in **365 days** | Current indication, prior Ig response, dose conversion and continuation form. IVIG brand indications are not interchangeable | — **UNVERIFIED**
+- **L74** | **Gilenya** | Prior-use lookback rule: **390 days** | Exact brand/generic and current form; do not apply its history rule to every S1P agent | — **UNVERIFIED**
+- **L76** | **Lisraya 30 mg** | New-to-market pharmacy PA; nonformulary | Current dermatomyositis PA/MN and safety monitoring requirements; FDA approval does not imply unrestricted access | — **UNVERIFIED**
+- **L77** | **Leqembi IQLIK initiation pack / 360-mg maintenance device** | New-to-market **pharmacy PA** flags | Verify the NDC and pack. The July FDA label supplies a **500-mg starting dose as two 250-mg injections** and a separate **360-mg maintenance device**. The October payer file describes the starting pack as 500 mg/2.5 mL. Confirm current benefit, pack and authorization with pharmacy | — **UNVERIFIED**
+- **L88** | **Zavzpret** | Adult acute migraine, neurologist prescribing or consultation, no concurrent small-molecule CGRP drug, and failed/intolerable/contraindicated **intranasal sumatriptan AND either Nurtec or Ubrelvy**. Initial **6 months**, then document clinical benefit. Confirm current PA and separate nonformulary MN. [August 2023 DoD minutes](https://www.health.mil/Reference-Center/Meeting-References/2023/10/30/August-2023-DoD-PT-Committee-Meeting-Minutes) | — [Source 1](https://www.health.mil/Reference-Center/Meeting-References/2023/10/30/August-2023-DoD-PT-Committee-Meeting-Minutes)
+- **L89** | **Evrysdi** | Neurologist, documented **SMN1** molecular diagnosis, **≥2 SMN2 copies** in this version, SMA type, weight and dose, reproductive counseling when applicable, and restrictions on concurrent nusinersen and advanced ventilator dependence/paralysis. Initial **6 months**, then documented improvement or stabilization for annual renewal. The 2023 age/dose table predates later label changes. Confirm the current form, especially for infants, tablet use or combination/sequential treatment. [August 2023 DoD minutes](https://www.health.mil/Reference-Center/Meeting-References/2023/10/30/August-2023-DoD-PT-Committee-Meeting-Minutes) | — [Source 1](https://www.health.mil/Reference-Center/Meeting-References/2023/10/30/August-2023-DoD-PT-Committee-Meeting-Minutes)
+- **L90** | **Briviact tablet or oral solution** | October claims rule references prior brivaracetam or levetiracetam use within **180 days**. The May 2024 manual criteria specified neurologist prescribing, focal-onset seizures, and insufficient response, intolerance or contraindication to levetiracetam. This version did not expire. Confirm the exact formulation and current rule. [May 2024 DoD minutes](https://www.health.mil/Reference-Center/Meeting-References/2024/07/30/PT-Minutes-May-2024) | — [Source 1](https://www.health.mil/Reference-Center/Meeting-References/2024/07/30/PT-Minutes-May-2024)
+- **L91** | **Zilbrysq** | The 2024 criteria asked for adult AChR-positive gMG, neurologist prescribing, prior pyridostigmine, steroid-sparing treatment and FcRn antagonist history, vaccination documentation, and no concurrent FcRn/C5 therapy. Initial **6 months**, with annual renewal based on documented benefit. Separate payer requirements from the current FDA vaccination and REMS requirements. [May 2024 DoD minutes](https://www.health.mil/Reference-Center/Meeting-References/2024/07/30/PT-Minutes-May-2024) | — [Source 1](https://www.health.mil/Reference-Center/Meeting-References/2024/07/30/PT-Minutes-May-2024)
+
+## docs/motor-neuron-disease/index.md
+
+- **L41** | Classic ALS (limb or bulbar onset) | Mixed UMN/LMN | Median 3–5 years from symptom onset | — **UNVERIFIED**
+- **L43** | **Primary lateral sclerosis (PLS)** | Pure UMN, ≥4 years without LMN signs | Much slower; diagnosis is retrospective | — **UNVERIFIED**
+- **L44** | **Progressive bulbar palsy** | Bulbar-predominant | Usually declares itself as ALS within 1–2 years | — **UNVERIFIED**
+- **L59** restrict testing to "familial" cases — ~10% of apparently sporadic ALS is genetic. — **UNVERIFIED**
+- **L80** 7. **Disposition and follow-up** — ALS clinic every 1–3 months; FVC and weight at every — **UNVERIFIED**
+- **L104** - **Riluzole 50 mg PO BID**, 1 hour before or 2 hours after meals — the only — **UNVERIFIED**
+- **L105** drug with a replicated survival signal (~2–3 months median). Cheap, generic, — **UNVERIFIED**
+- **L107** - **Monitoring:** LFTs at baseline, monthly ×3, then every 3 months — hold/stop if — **UNVERIFIED**
+- **L113** population** — disease ≤2 years, FVC ≥80%, every ALSFRS-R item ≥2 — and showed ALSFRS-R — **UNVERIFIED**
+- **L114** decline of **−5.0 vs −7.5** over 24 weeks. A large German real-world cohort found **no — **UNVERIFIED**
+- **L117** - **Radicava ORS (oral) 105 mg (5 mL) PO or via feeding tube once daily.** — **UNVERIFIED**
+- **L118** Cycle 1: 14 days on, 14 days off. Subsequent cycles: **10 treatment days within a 14-day period, then 14 drug-free days**. — **UNVERIFIED**
+- **L119** Take in the morning after fasting: **8 h after a high-fat meal, 4 h after a low-fat meal, — [Source 1](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0ce2c1c4-2a40-485c-b7cb-96a9b85d9d11)
+- **L120** or 2 h after a caloric supplement**; no food for **1 h after the dose** (water allowed). — [Source 1](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0ce2c1c4-2a40-485c-b7cb-96a9b85d9d11)
+- **L121** - **Radicava IV 60 mg IV over 60 minutes** if oral is not an option — Cycle 1: — **UNVERIFIED**
+- **L122** daily ×14 then 14-day drug-free period; then 10 of 14 days, then 14-day drug-free. — **UNVERIFIED**
+- **L129** result (~2% of ALS). FDA accelerated approval April 2023 on the NfL biomarker. — **UNVERIFIED**
+- **L130** - **Qalsody 100 mg/15 mL intrathecal bolus over 1–3 minutes.** Loading doses on — **UNVERIFIED**
+- **L131** days 1, 15, and 29, then **every 28 days** indefinitely. Remove ~10 mL CSF before — **UNVERIFIED**
+- **L134** fell 55% vs a 12% rise on placebo (p<0.0001) with 35% CSF SOD1 knockdown — and — **UNVERIFIED**
+- **L140** (~8–9% in trials); LP-related headache/back pain is common. — **UNVERIFIED**
+- **L147** - The confirmatory phase 3 **PHOENIX trial (n=664, 48 weeks) failed**: no — **UNVERIFIED**
+- **L163** | **Nusinersen (Spinraza)** — SMN2 splicing ASO | All ages, all SMA types | **12 mg/5 mL intrathecal**; loading doses on days **0, 14, 28**, the 4th **30 days after the 3rd**, then **every 4 months** | LP burden forever; thrombocytopenia/renal monitoring per label | — **UNVERIFIED**
+- **L164** | **Risdiplam (Evrysdi)** — SMN2 splicing modifier | Pediatric and adult patients | Daily PO: **<2 months 0.15 mg/kg**; **2 months–<2 years 0.2 mg/kg**; ≥2 years and <20 kg **0.25 mg/kg**; ≥2 years and ≥20 kg **5 mg** | **With or without food**, same time daily; formulation/feeding-tube instructions per current label | — **UNVERIFIED**
+- **L165** | **Onasemnogene abeparvovec (Zolgensma)** — one-time AAV9 gene therapy | **<2 years**, biallelic SMN1 mutations | **1.1×10¹⁴ vg/kg IV once** | **Boxed warning: acute serious liver injury and liver failure.** Screen AAV9 antibodies first; **prednisolone 1 mg/kg/day** starting the day before, ≥30 days then taper; monitor LFTs, platelets, troponin-I (hepatotoxicity, TMA, cardiac signals) | — **UNVERIFIED**
+- **L167** **Nusinersen also has a 2026 high-dose option:** **50 mg intrathecal, repeated 14 days later, — [Source 1](https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/209531s016lbl.pdf)
+- **L168** then **28 mg beginning 4 months after the SECOND loading dose, repeated every 4 months**, with label-specific transition rules for patients on the 12-mg — **UNVERIFIED**
+- **L172** An **intrathecal onasemnogene formulation (Itvisma)** for patients **≥2 years** was approved in — **UNVERIFIED**
+- **L184** **or** FVC <50% predicted (consider at <80% with symptoms), **or** MIP <60 cmH₂O, — **UNVERIFIED**
+- **L186** **SpO₂ ≤88% for ≥5 consecutive minutes** (the CMS coverage criteria — document the one — **UNVERIFIED**
+- **L191** **before** the crisis; the evaluation visit should happen while FVC is still >50%. — **UNVERIFIED**
+- **L196** mealtimes, or aspiration events — **place it before FVC falls below 50%** if — **UNVERIFIED**
+- **L197** possible; **FVC <50% is not an absolute prohibition**. A specialist team can select — [Source 1](https://doi.org/10.1111/ene.16264)
+- **L203** - **Sialorrhea:** glycopyrrolate **1–2 mg PO TID–QID** (max 8 mg/day) → atropine — **UNVERIFIED**
+- **L204** 1% drops **1–2 drops SL q4–6h** → scopolamine **1.5 mg patch q72h** → botulinum — **UNVERIFIED**
+- **L206** - **Pseudobulbar affect:** dextromethorphan/quinidine (Nuedexta) **20/10 mg — 1 — **UNVERIFIED**
+- **L207** capsule daily ×7 days, then 1 capsule q12h**; QTc caution from quinidine. — **UNVERIFIED**
+- **L211** - **Cramps:** stretching and hydration first; **mexiletine 150 mg PO BID** (ECG/cardiac — **UNVERIFIED**
+- **L226** - **ALS clinic every 1–3 months** — multidisciplinary (neurology, pulmonary, GI, — **UNVERIFIED**
+- **L267** PEG before FVC <50%, sialorrhea control, and early palliative integration move the — **UNVERIFIED**
+
+## docs/movement-disorder/index.md
+
+- **L15** | Parkinsonism + **early postural instability with unprovoked (often backward) falls within ~1 year**, slowed vertical saccades / downgaze palsy | **PSP** | Test vertical saccade speed/range at bedside; MRI midbrain (hummingbird sign); neurology referral | — **UNVERIFIED**
+- **L18** | Acute dystonic reaction, stridor, or dysphagia after starting/changing a dopamine blocker | **Drug-induced movement emergency** | **Diphenhydramine 50 mg IV** or **benztropine 1–2 mg IV**; airway assessment — [emergencies](#inpatient-emergencies-act-now) | — **UNVERIFIED**
+- **L69** series, **7–35% of clinically diagnosed cases are misdiagnosed**; the hardest early distinction is — **UNVERIFIED**
+- **L89** DVT prophylaxis. **Lorazepam 1–2 mg IV q4–6h** for mild disease or catatonic features. — **UNVERIFIED**
+- **L90** Moderate–severe: **bromocriptine 2.5 mg PO/NG q8h** (titrate to a maximum of 40 mg/day) — **UNVERIFIED**
+- **L91** and/or **dantrolene 1–2.5 mg/kg IV**, repeated to a maximum of **10 mg/kg/day**, for — **UNVERIFIED**
+- **L93** rechallenge for **≥2 weeks** after resolution, and then a low-potency agent at a low dose. — **UNVERIFIED**
+- **L96** → **rotigotine transdermal patch** (LEDD converters such as OPTIMAL count **1 mg rotigotine — **UNVERIFIED**
+- **L97** ≈ 30 mg levodopa**) or **apomorphine SC** with specialist input. NMS-level cooling, fluids — **UNVERIFIED**
+- **L101** - **Give PD medications on time** — within 30 minutes of the home schedule; mark the order — **UNVERIFIED**
+- **L109** 4 mg IV** — but **never with apomorphine** (contraindicated: profound hypotension and loss — **UNVERIFIED**
+- **L111** 12.5–25 mg PO** (see [psychosis](#parkinson-disease-psychosis)). — **UNVERIFIED**
+- **L116** - **Serotonin syndrome:** stop every serotonergic drug; supportive care; **lorazepam 1–2 mg — **UNVERIFIED**
+- **L117** IV** for agitation; **cyproheptadine 12 mg PO/NG**, then **2 mg q2h** while symptoms — **UNVERIFIED**
+- **L118** continue (maintenance **8 mg q6h**). **Temperature >41 °C → sedation, non-depolarizing — **UNVERIFIED**
+- **L121** - **Acute dystonic reaction:** **diphenhydramine 50 mg IV/IM** or **benztropine 1–2 mg — **UNVERIFIED**
+- **L122** IV/IM** — response within minutes; then **benztropine 1–2 mg PO BID** (or diphenhydramine — **UNVERIFIED**
+- **L123** 25–50 mg PO q6h) for **2–3 days** to prevent recurrence. **Laryngeal dystonia (stridor) is — **UNVERIFIED**
+- **L137** responder rates ~33–50%). **There is no head-to-head trial** — choose on dosing, titration — **UNVERIFIED**
+- **L143** - **Valbenazine** — **40 mg PO once daily × 1 week, then 80 mg PO once daily**; 40 or 60 mg — **UNVERIFIED**
+- **L145** metabolizer or strong CYP2D6 inhibitor → 40 mg once daily.** Strong CYP3A4 inhibitor → — **UNVERIFIED**
+- **L146** 40 mg once daily. Moderate/severe hepatic impairment → 40 mg once daily. **Avoid MAOIs** (including the 14-day washout); strong CYP3A4 inducers are **not recommended**. — **UNVERIFIED**
+- **L149** - **Deutetrabenazine** — **Austedo XR 12 mg PO once daily** (with or without food) **or — **UNVERIFIED**
+- **L150** immediate-release 6 mg PO BID with food**; **increase by 6 mg/day at weekly intervals** to — **UNVERIFIED**
+- **L151** lowest effective dose, **max 48 mg/day**. **CYP2D6 poor metabolizer or strong CYP2D6 — **UNVERIFIED**
+- **L152** inhibitor → max 36 mg/day.** Do not crush/chew/break. **Contraindicated in hepatic — **UNVERIFIED**
+- **L157** baseline within ~4 weeks of stopping valbenazine. — **UNVERIFIED**
+- **L172** - A labeled starting regimen is **carbidopa/levodopa IR 25/100 mg PO three times daily**; individualize and titrate to the lowest effective dose. Frailty, orthostasis, nausea, and hallucinations may warrant a slower specialist-guided start. — [Source 1](https://pmc.ncbi.nlm.nih.gov/articles/PMC8672433/) · [Source 2](https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/017555s076lbl.pdf)
+- **L183** levodopa dose/timing and consider **amantadine** — immediate-release **100 mg PO BID** (up to — **UNVERIFIED**
+- **L184** 100 mg TID), or extended-release **Gocovri 137 mg PO at bedtime × 1 week, then 274 mg at — **UNVERIFIED**
+- **L190** | **Troublesome dyskinesia** + OFF time | **Istradefylline** or **safinamide** (paired with a plan to monitor/adjust levodopa) | Non-dopaminergic (A2A) and MAO-B/glutamate mechanisms rank more favorably for low dyskinesia risk; **opicapone carries the highest dyskinesia signal** (↑ levodopa Cmax 43–44%, AUC 62–94%) — use with particular caution here | — **UNVERIFIED**
+- **L192** | **On a strong CYP3A4 inducer** (carbamazepine, phenytoin, rifampin) | **Opicapone** or **safinamide** — **avoid istradefylline** | Rifampin ↓ istradefylline AUC 81%, abolishing efficacy; label advises against the combination. (St. John's wort also rules out safinamide — serotonergic contraindication — leaving opicapone.) | — **UNVERIFIED**
+- **L195** - **Istradefylline (Nourianz)** — **20 mg PO once daily, may increase to 40 mg once daily**. — **UNVERIFIED**
+- **L196** **Max 20 mg/day** with a strong CYP3A4 inhibitor or in moderate hepatic impairment; **avoid** — **UNVERIFIED**
+- **L199** - **Opicapone (Ongentys)** — **50 mg PO at bedtime, no food 1 hour before or after**. — **UNVERIFIED**
+- **L200** **25 mg/day** in moderate hepatic impairment; avoid in severe hepatic impairment and in — **UNVERIFIED**
+- **L205** - **Safinamide (Xadago)** — **50 mg PO once daily, may increase to 100 mg once daily after — **UNVERIFIED**
+- **L206** 2 weeks**. **Max 50 mg/day** in moderate hepatic impairment; **contraindicated** in severe — **UNVERIFIED**
+- **L210** Taper 100 → 50 mg × 1 week before stopping. Avoid very-high-tyramine (>150 mg) foods. — **UNVERIFIED**
+- **L226** - **Droxidopa (Northera)** — **100 mg PO TID** (on arising, midday, late afternoon); — **UNVERIFIED**
+- **L227** **increase by 100 mg/dose every 24–48 hours** to symptoms/BP, **max 600 mg TID — **UNVERIFIED**
+- **L228** (1,800 mg/day)**. **Last dose ≥3 hours before bedtime.** Take consistently with or without — **UNVERIFIED**
+- **L231** **Efficacy beyond 2 weeks not established** — reassess continued benefit periodically. — **UNVERIFIED**
+- **L235** - **Midodrine** — alternative first-line pressor: start **2.5 mg PO 2–3 times daily during — **UNVERIFIED**
+- **L236** waking hours**, titrate to **10 mg TID**; **last dose ≥4 hours before bedtime** (some guidance — **UNVERIFIED**
+- **L237** says 5 hours). Short half-life (3–4 h). **Boxed warning: supine hypertension** — indirect — **UNVERIFIED**
+- **L241** **0.1 mg PO each morning**; **max 0.2 mg/day** (>0.2 mg/day not recommended). — **UNVERIFIED**
+- **L244** 0.3 mg/day. — **UNVERIFIED**
+- **L253** ≥10°**; last pressor dose well before bedtime (droxidopa ≥3 h; panel consensus ≥5 h); — **UNVERIFIED**
+- **L256** - **If nocturnal supine HTN remains severe (≥180 mmHg systolic or ≥110 diastolic)** despite — **UNVERIFIED**
+- **L273** - **Pimavanserin (Nuplazid)** — **34 mg PO once daily**, with or without food; **no titration**. — **UNVERIFIED**
+- **L276** days; clinical effect may take **4–6 weeks**; if no benefit by ~8 weeks, discontinuation is — **UNVERIFIED**
+- **L277** reasonable. **With a strong CYP3A4 inhibitor → 10 mg once daily**; **avoid** moderate/strong — **UNVERIFIED**
+- **L280** 34 mg**, concentration-dependent. Baseline ECG; correct hypo-K/Mg; avoid with known QT — **UNVERIFIED**
+- **L290** **6.25–50 mg/day** (do NOT use schizophrenia titration in a frail PD patient). Least motor — **UNVERIFIED**
+- **L294** every 2 weeks months 7–12, then monthly with normal counts. Off-label for PDP in the US; — **UNVERIFIED**
+- **L297** acceptable: start **12.5–25 mg PO qHS**, titrate cautiously. **Off-label; RCT evidence has — **UNVERIFIED**
+- **L318** once-daily XR): **Austedo XR 12 mg PO once daily** (with or without food) **or — **UNVERIFIED**
+- **L319** immediate-release 6 mg PO BID with food**; **+6 mg/day at weekly intervals**; **max — **UNVERIFIED**
+- **L320** 48 mg/day**. **CYP2D6 poor metabolizer or strong CYP2D6 inhibitor (fluoxetine, paroxetine, — **UNVERIFIED**
+- **L321** quinidine, bupropion) → flat cap 36 mg/day** (~3-fold active-metabolite AUC rise). No routine — **UNVERIFIED**
+- **L325** generic): **12.5 mg PO each morning × 1 week → 12.5 mg PO BID week 2 → +12.5 mg/day at — **UNVERIFIED**
+- **L326** weekly intervals**; split BID, and **TID once ≥37.5 mg/day**. **CYP2D6 genotyping required — **UNVERIFIED**
+- **L327** before exceeding 50 mg/day:** EM/IM → **max 100 mg/day, 37.5 mg single dose**; PM or strong — **UNVERIFIED**
+- **L328** CYP2D6 inhibitor → **max 50 mg/day, 25 mg single dose**. **Contraindicated in hepatic — **UNVERIFIED**
+- **L331** **40 mg PO once daily → +20 mg every 2 weeks → 80 mg once daily** (40 or 60 mg where — **UNVERIFIED**
+- **L338** deutetrabenazine if interrupted >1 week. — **UNVERIFIED**
+- **L354** | **Earliest distinguishing pointer** | **Early severe autonomic failure** — nOH, erectile dysfunction, urinary urgency/retention (**PVR >100 mL within first 5 years**); up to ~50% lack it at onset | **Vertical supranuclear gaze palsy (especially downgaze)** / slowed vertical saccades; **early postural instability with backward falls** | **Markedly asymmetric** limb rigidity, dystonia, myoclonus **plus a cortical sign** — limb apraxia, cortical sensory loss, alien-limb phenomenon | — **UNVERIFIED**
+- **L355** | **Levodopa response** | Poor (initial response in ~30%) | Poor (PSP-parkinsonism may briefly resemble PD) | Poor | — **UNVERIFIED**
+- **L358** | **Characteristic MRI sign** | **Hot cross bun** (cruciform pontine T2), pontine/MCP/cerebellar atrophy; putaminal atrophy or iron-sensitive signal change (MSA-P) | **Hummingbird/penguin** (sagittal midbrain atrophy, pontine sparing), **morning-glory/Mickey-Mouse** (axial), SCP atrophy; **MRPI** highly sensitive/specific for PSP-RS | **Asymmetric posterior frontal–parietal/perirolandic atrophy**, contralateral to the more affected limb; perirolandic + temporal sparing distinguishes CBD from PSP (~91% accuracy) | — **UNVERIFIED**
+- **L416** signal with midodrine. Fludrocortisone is capped at 0.2 mg/day and contraindicated in HF. — **UNVERIFIED**
+- **L417** - **PDP: pimavanserin first-line when motor preservation matters** (34 mg QD, no titration, — **UNVERIFIED**
+- **L418** 4–6 weeks to effect, QTc +5–8 msec, dementia-mortality boxed warning as a class effect); — **UNVERIFIED**
+- **L419** clozapine most efficacious for severe/refractory disease (6.25–50 mg/day; **REMS removed in — **UNVERIFIED**
+- **L423** the ≥2-of-4 early MSA-P rule (AUC 0.94) and PVR >100 mL are the most actionable bedside numbers. — **UNVERIFIED**
+- **L427** 2026): ATH434 50 mg slowed functional decline by **~52% versus placebo on the 11-item UMSARS at — **UNVERIFIED**
+
+## docs/ms/index.md
+
+- **L55** 1. **Confirm it is a true demyelinating attack** — objective, CNS-localizing, >24 h, no fever/infection. — **UNVERIFIED**
+- **L121** | **Relapsing–remitting (RRMS)** | ~85% at onset. Discrete attacks with variable recovery | — **UNVERIFIED**
+- **L123** | **Primary progressive (PPMS)** | ~10–15%. Progression from onset, no early relapses; older, more male, more often myelopathic | — **UNVERIFIED**
+- **L133** 1. **Is this a true relapse?** New or worsening objective neurologic deficit lasting **>24 hours**, — **UNVERIFIED**
+- **L154** - **Methylprednisolone 1000 mg IV daily × 3–5 days.** No taper required for most relapses. — **UNVERIFIED**
+- **L155** - **Oral is equivalent** at bioequivalent dose — **oral methylprednisolone 1000 mg daily × 3–5 — **UNVERIFIED**
+- **L166** - **PLEX — 5–7 exchanges over 10–14 days**, typically every other day. — **UNVERIFIED**
+- **L174** - **IVIG 0.4 g/kg/day × 5 days** (total 2 g/kg). — **UNVERIFIED**
+- **L212** - **Ocrelizumab (Ocrevus)** — 300 mg IV × 2 doses two weeks apart, then **600 mg IV every 6 — **UNVERIFIED**
+- **L215** (ocrelizumab/hyaluronidase-ocsq): **920 mg/23,000 units in 23 mL SC over about 10 minutes every 6 months**, administered by a healthcare professional with label-directed premedication and observation. Approved for the **same adult indications** as IV. **Do not substitute the IV dose or route.** OCARINA II showed comparable pharmacokinetics and efficacy. [Current label](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=b216af61-99d0-42a3-afc2-b5bf86df1ec0). — [Source 1](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=b216af61-99d0-42a3-afc2-b5bf86df1ec0)
+- **L217** **≥10 years and ≥25 kg (55 lb)**. Note this is **narrower than the adult label**, which — **UNVERIFIED**
+- **L219** fingolimod (non-inferior ARR; 48% fewer new/enlarging T2 and 87% fewer enhancing lesions). — **UNVERIFIED**
+- **L220** - **Ofatumumab (Kesimpta)** — **20 mg SC at weeks 0, 1, and 2; then 20 mg monthly — **UNVERIFIED**
+- **L223** - **Ublituximab (Briumvi)** — **150 mg IV initially, 450 mg two weeks later, then 450 mg 24 weeks after the FIRST infusion and every 24 weeks thereafter**. The first infusion takes about 4 hours; later infusions about 1 hour. Use label-directed premedication and monitoring. [FDA label](https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/761238s026lbl.pdf). **Five-year ULTIMATE I/II — [Source 1](https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/761238s026lbl.pdf)
+- **L226** - **Rituximab** — **off label**. The OVERLORD-MS protocol used **1,000 mg IV initially, then 500 mg IV every 6 months** with infusion precautions. Other neurology regimens differ; use a documented MS protocol and the [shared safety order set](../immunotherapy-order-sets.md). [Trial protocol](https://www.nejm.org/doi/suppl/10.1056/NEJMoa2600993/suppl_file/nejmoa2600993_protocol.pdf). **No longer merely "widely used."** **OVERLORD-MS** — [Source 1](https://www.nejm.org/doi/suppl/10.1056/NEJMoa2600993/suppl_file/nejmoa2600993_protocol.pdf)
+- **L230** (**92.2% vs 94.8%**; risk difference **−2.6 percentage points**, 95% CI −9.4 to 4.3, against — **UNVERIFIED**
+- **L232** - **The caveat is infection:** **82% vs 69%** of participants had an infection on rituximab — **UNVERIFIED**
+- **L233** versus ocrelizumab, though serious adverse events were similar (8% vs 7%). — **UNVERIFIED**
+- **L250** - **Natalizumab (Tysabri)** — 300 mg IV every 4 weeks. Highly effective, but **PML risk** — — **UNVERIFIED**
+- **L253** - **Alemtuzumab (Lemtrada)** — **12 mg/day IV for 5 consecutive days, then 12 mg/day for 3 days 12 months later**. Specialist/REMS treatment; the label generally reserves it for inadequate response to at least two MS drugs. Give label-directed steroid premedication and herpes prophylaxis. Secondary autoimmunity (thyroid, ITP, anti-GBM) requires **monthly CBC/creatinine/urinalysis and thyroid tests every 3 months until 48 months after the last infusion**. [Prescribing information](https://products.sanofi.us/lemtrada/lemtrada.html). — [Source 1](https://products.sanofi.us/lemtrada/lemtrada.html)
+- **L254** - **Cladribine (Mavenclad)** — **3.5 mg/kg PO cumulative over two yearly courses (1.75 mg/kg per year)**, each split into two cycles. Prescribe from the **weight-based cycle table**, not a flat daily dose. Screen for pregnancy, malignancy, infection and lymphopenia; complete the label’s pretreatment and monitoring requirements. Generally used after inadequate response/intolerance to an alternative MS drug; not recommended for CIS. [Current label](https://www.emdserono.com/us-en/pi/mavenclad-pi.pdf). — [Source 1](https://www.emdserono.com/us-en/pi/mavenclad-pi.pdf)
+- **L292** tolerability** — EVOLVE-MS-2 showed a **46% reduction in days with GI symptoms of at — **UNVERIFIED**
+- **L315** 12-week composite confirmed disability progression, with a **12% risk reduction** — **UNVERIFIED**
+- **L316** (HR 0.88; 95% CI 0.75–1.03). Presented ACTRIMS, February 2026. Genentech/Roche describe — **UNVERIFIED**
+- **L320** teriflunomide, with ARR reductions of **51.1%** and **58.5%** (n≈1,497 combined, 96 — **UNVERIFIED**
+- **L321** weeks), plus reduced risk of disability worsening (26% and 20%). Presented AAN, 2026. — **UNVERIFIED**
+- **L328** - **HERCULES (non-relapsing SPMS)** — **positive**: a **31% reduction in the risk** of — **UNVERIFIED**
+- **L329** 6-month confirmed disability progression (**HR 0.69; 95% CI 0.55–0.88; P=0.003**). — **UNVERIFIED**
+- **L334** confirmed-disability-worsening signal favoured tolebrutinib (**29% risk reduction, — **UNVERIFIED**
+- **L368** follow the chosen product’s schedule: for anti-CD20 agents, generally **≥4 weeks for live — [Source 1](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6a8a3f53-2062-48ff-9dbe-b939df133ca3)
+- **L369** vaccines and, when possible, ≥2 weeks for non-live vaccines** before initiation. Do not delay — [Source 1](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6a8a3f53-2062-48ff-9dbe-b939df133ca3)
+- **L390** | **Spasticity** | Baclofen 5–10 mg TID titrated (max ~80 mg/day); tizanidine 2–4 mg TID (sedation, hypotension, LFTs); stretching and PT throughout. Intrathecal baclofen or botulinum toxin for focal/severe | — **UNVERIFIED**
+- **L391** | **Fatigue** | Screen for **sleep apnoea, depression, thyroid, anaemia, and deconditioning first** — treat what you find. Exercise has the best evidence. Amantadine 100 mg BID, modafinil 100–200 mg daily | — **UNVERIFIED**
+- **L397** | **Gait / walking speed** | **Dalfampridine 10 mg BID** (extended release) — improves walking in a responder subset. **Contraindicated with seizure history or CrCl ≤50 mL/min; even CrCl 51–80 requires — **UNVERIFIED**
+- **L457** - **HERCULES** — tolebrutinib in non-relapsing SPMS; **31% reduction in risk** of 6-month confirmed — **UNVERIFIED**
+- **L458** disability progression (HR 0.69). **US outcome: Complete Response Letter, December 2025.** — **UNVERIFIED**
+- **L461** - **FENtrepid** — **fenebrutinib non-inferior to ocrelizumab in PPMS** (HR 0.88), ACTRIMS 2026. — **UNVERIFIED**
+- **L462** - **FENhance 1/2** — fenebrutinib vs teriflunomide in relapsing MS; **51.1%** and **58.5%** ARR — **UNVERIFIED**
+- **L465** - **EVOLVE-MS-2** — diroximel vs dimethyl fumarate; **46% fewer** days with moderate-or-worse GI — **UNVERIFIED**
+
+## docs/ms/mogad.md
+
+- **L24** | **Course** | Relapsing, then progressive | Relapsing, no progressive phase | **Frequently monophasic (~30–50% of adults; higher in children)**; no progressive phase | — [Source 1](https://www.gene.com/media/press-releases/15124/2026-09-09/us-fda-grants-priority-review-for-genent)
+- **L26** | **CSF OCB** | **Positive ~85%** | Usually negative | Usually negative | — [Source 1](https://www.gene.com/media/press-releases/15124/2026-09-09/us-fda-grants-priority-review-for-genent)
+- **L61** illness** and then disappear — repeat testing at 6–12 months helps distinguish monophasic from — **UNVERIFIED**
+- **L87** 5. **Decide whether it is monophasic or relapsing** — repeat serology at 6–12 months; persistent — **UNVERIFIED**
+- **L99** - **Methylprednisolone 1000 mg IV daily × 3–5 days.** — **UNVERIFIED**
+- **L106** A prolonged taper, **often around 3 months**, is used after a significant attack based largely — [Source 1](https://pubmed.ncbi.nlm.nih.gov/41167090/)
+- **L113** - **IVIG 2 g/kg** — an effective alternative, and often preferred in children and in pregnancy. — **UNVERIFIED**
+- **L119** primary endpoint: a **68% reduction in relapse risk** versus placebo, with **87% of treated — **UNVERIFIED**
+- **L120** patients relapse-free at 48 weeks versus 67% on placebo**, a **66% reduction in annualised — **UNVERIFIED**
+- **L121** relapse rate**, and onset of response as early as 8 weeks. Results were presented at the — **UNVERIFIED**
+- **L137** | **IL-6 receptor blockade — tocilizumab** | **8 mg/kg IV every 4 weeks** (satralizumab SC is the alternative) | **The largest comparative evidence base in MOGAD.** Vilaseca et al. (*JAMA Neurol*, 2026; international multicentre, n=116, 90% tocilizumab): **ARR fell from 0.64 to 0.09** (IRR 0.08; 95% CI 0.04–0.16 — a 92% reduction). **Superior to low-dose IVIG** (HR 4.5) but **not significantly different from IVIG ≥1 g/kg q4wk** (HR 2.0; 95% CI 0.8–4.5). Adverse events in 50% (mostly mild infections), **9% severe infections.** Available as a **biosimilar** — substantially cheaper than satralizumab. Treat this as a **first-line option, not a last resort** | — **UNVERIFIED**
+- **L138** | **IVIG** | **≥1 g/kg every 4 weeks** — see the dosing warning below | The best-established maintenance therapy, especially in children. Performs **comparably to IL-6 blockade when properly dosed** | — **UNVERIFIED**
+- **L140** | **Mycophenolate mofetil** | Oral | Reasonable oral maintenance; on-treatment ARR ~0.3 | — **UNVERIFIED**
+- **L144** | **Rituximab** | 1000 mg × 2, or 375 mg/m² weekly × 4 | **The weakest of the commonly used agents in MOGAD — do not carry NMOSD-level expectations across.** Only ~**55%** remain relapse-free in meta-analysis; one long-term study found **61% of MOGAD patients relapsed** (vs 28% of NMOSD; HR 2.8), and **79% of those relapses occurred despite CD19+ B cells suppressed below 1%** — B-cell depletion simply does not prevent MOGAD attacks in many patients. Highest on-treatment ARR of the group (~0.5) | — **UNVERIFIED**
+- **L147** **Maintenance IVIG must be dosed at ≥1 g/kg every 4 weeks** (commonly 1–2 g/kg q4wk). — **UNVERIFIED**
+- **L150** 1 g/kg q4wk (HR 4.5)** but **statistically indistinguishable from IVIG at ≥1 g/kg q4wk**. The — **UNVERIFIED**
+- **L163** substantially reduced it** — a reported ~74% relative reduction (OR 0.26), with 2-year relapse — **UNVERIFIED**
+- **L164** risk of roughly **11% with early treatment versus 41% without.** Separate work found that both — **UNVERIFIED**
+- **L165** **corticosteroids continued ≥12 weeks** and steroid-sparing maintenance independently lower — **UNVERIFIED**
+- **L173** seropositivity**, **polyphasic first attack** (HR ~2.4), **elevated CSF protein** (HR ~2.06), — **UNVERIFIED**
+- **L176** attack in a patient who **seroreverts to negative** — but recheck serology at 6–12 months — **UNVERIFIED**
+- **L178** - **Early relapses predict more relapses:** a relapse within 12 months carries HR ~2.11 for — **UNVERIFIED**
+- **L179** long-term relapsing disease, and within 90 days HR ~2.70 in adults. Treat an early relapse — **UNVERIFIED**
+- **L187** relapse risk after discontinuation was 8.7%** (95% CI 1.0–15.9), with **no rebound — **UNVERIFIED**
+- **L188** phenomenon.** Lower risk was associated with **treatment duration >1 year** and **>2 years — **UNVERIFIED**
+- **L191** intervals): relapse followed **39% of discontinuations**, at a median of **5.4 months.** — **UNVERIFIED**
+- **L192** Estimated optimal durations were **10–18 months after a first attack** and **20–30 months — **UNVERIFIED**
+- **L194** predicted relapse** (HR ~1.95 in relapsing disease). — **UNVERIFIED**
+- **L199** positivity argues for continuing), and **watch closely for the first 6 months**, which is when — **UNVERIFIED**
+- **L218** disagreement about the disease. Roughly **30–50% of adults are monophasic**, meaning **50–70% — **UNVERIFIED**
+- **L220** seroreversion** — are considerably more often monophasic (**~74–83%** in prospective incident — **UNVERIFIED**
+- **L271** - **METEOROID (2026)** — satralizumab; **68% relapse-risk reduction**, the first positive phase 3 — **UNVERIFIED**
+- **L273** - **Vilaseca et al., *JAMA Neurology* 2026** — IL-6 receptor blockade, n=116; **ARR 0.64 → 0.09**. — **UNVERIFIED**
+- **L279** ≥1 g/kg q4wk the target. — **UNVERIFIED**
+
+## docs/ms/nmosd.md
+
+- **L33** | **CSF** | **Pleocytosis can be marked** (>50 cells, sometimes neutrophilic); oligoclonal bands usually **absent** (~15–30%) | — **UNVERIFIED**
+- **L39** Roughly **10–25%** of clinically definite NMOSD is **AQP4-IgG negative.** A negative test does — **UNVERIFIED**
+- **L44** **That is the key point about the 10–25% figure: much of it is not seronegative NMOSD at all, — **UNVERIFIED**
+- **L49** different. A **2026 systematic review** found it **highly relapsing (73.6% relapsed)** with a — **UNVERIFIED**
+- **L97** - **Methylprednisolone 1000 mg IV daily × 5 days.** — **UNVERIFIED**
+- **L98** - **PLEX 5–7 exchanges over 10–14 days**, typically every other day. — **UNVERIFIED**
+- **L108** - **IVIG 0.4 g/kg/day × 5 days** where PLEX is unavailable or contraindicated. — **UNVERIFIED**
+- **L121** | **Eculizumab (Soliris)** | **C5** complement | **900 mg IV weekly ×4; 1,200 mg at week 5, then q2wk** | PREVENT trial. **Meningococcal vaccination mandatory** | — **UNVERIFIED**
+- **L122** | **Ravulizumab (Ultomiris)** | **C5** complement | **Weight-based IV loading; first maintenance 2 weeks later, then q8wk** (use current adult weight table) | **Approved 2024** (CHAMPION-NMOSD). Same target as eculizumab, engineered for a longer half-life — **q8wk instead of q2wk** | — **UNVERIFIED**
+- **L123** | **Inebilizumab (Uplizna)** | **CD19** B cells | **300 mg IV on days 1 and 15; then 300 mg q6mo from first infusion** | N-MOmentum. Broader B-cell depletion than anti-CD20 (includes plasmablasts) | — **UNVERIFIED**
+- **L124** | **Satralizumab (Enspryng)** | **IL-6 receptor** | **120 mg SC at weeks 0, 2, 4, then q4wk** | SAkuraSky/SAkuraStar. Self-administered after loading; refrigeration, immunosuppression, monitoring and theater clearance still apply | — **UNVERIFIED**
+- **L137** | **Tocilizumab** | **IL-6 receptor** (same as satralizumab) | **TANGO** (*Lancet Neurol* 2020, phase 2, open-label, n=118): superior to azathioprine in highly relapsing NMOSD — **median time to first relapse 78.9 vs 56.7 weeks, P=0.0026.** Real-world data show ARR falling from ~1.9 to ~0.1. Included in the **2026 MENACTRIMS guidelines** alongside the approved agents, and a **substantially cheaper** route to IL-6 blockade when satralizumab PA is denied | — **UNVERIFIED**
+- **L138** | **Rituximab** | CD20 | **375 mg/m² weekly × 4**, or **1000 mg × 2 doses two weeks apart**; re-dose **every 6 months** or guided by **CD19/CD20 B-cell reconstitution.** See the caveats below | — **UNVERIFIED**
+- **L139** | **Mycophenolate mofetil** | Antiproliferative | Widely used globally; 5-year relapse-free survival ~**51%** | — **UNVERIFIED**
+- **L140** | **Azathioprine** | Antiproliferative | Slow onset — requires steroid bridging for months; 5-year relapse-free survival ~**35%** | — **UNVERIFIED**
+- **L143** The often-quoted figure is **5-year relapse-free survival of 100% for the C5 inhibitors, — **UNVERIFIED**
+- **L144** inebilizumab, and satralizumab versus 69.7% for rituximab** (with MMF **51.1%** and — **UNVERIFIED**
+- **L145** azathioprine **35.3%**). That comes from **Bilodeau et al., 2026** — a **single-centre — **UNVERIFIED**
+- **L146** retrospective cohort** at Mass General Brigham (176 patients, 2000–2024, median 9 years' — **UNVERIFIED**
+- **L153** - **C5 inhibitors 91%** vs **rituximab 55%** at 5 years — the C5 inhibitors clearly separate. — **UNVERIFIED**
+- **L154** - **Inebilizumab 38%** and **satralizumab 79%** (3-year data), and **neither was statistically — **UNVERIFIED**
+- **L155** superior to rituximab** on the composite: **inebilizumab HR 1.23 (95% CI 0.24–3.12)**, — **UNVERIFIED**
+- **L156** **satralizumab HR 1.01 (95% CI 0.16–2.68)**. — **UNVERIFIED**
+- **L163** Rituximab's own cost is concrete: in that cohort **28% of rituximab treatment periods involved — **UNVERIFIED**
+- **L164** a serious infection**, 34% a mild infection, and 13% hypogammaglobulinaemia. Long-term — **UNVERIFIED**
+- **L169** A **Bayesian network meta-analysis** (*J Neurol*, 2025; 8 RCTs, 851 patients, 84% seropositive) — **UNVERIFIED**
+- **L170** ranked **ravulizumab first** for time to relapse — **HR 0.00 (95% CrI 0.00–0.03), SUCRA 0.99**, — **UNVERIFIED**
+- **L171** a 98% probability of being the superior agent — followed by **eculizumab (0.76)**, — **UNVERIFIED**
+- **L183** **Disease reactivation clusters in the first ~3 months after eculizumab is stopped**, including — **UNVERIFIED**
+- **L185** after the last dose** — eculizumab's half-life is only about **11 days**, so protection is — **UNVERIFIED**
+- **L186** gone within weeks. One published case describes a severe attack **11 weeks** after the final — **UNVERIFIED**
+- **L195** - **Ravulizumab's half-life is roughly 5× longer than eculizumab's** (~64 vs ~11 days), which — **UNVERIFIED**
+- **L205** reduced relapse risk comparably in both groups — **HR 0.27 in AQP4-positive and HR 0.21 in — **UNVERIFIED**
+- **L212** - **Vaccinate against meningococcus (ACWY and B) at least 2 weeks before the first dose.** — **UNVERIFIED**
+- **L213** - If treatment cannot wait 2 weeks, vaccinate and give **antibiotic prophylaxis** to cover — **UNVERIFIED**
+- **L218** prophylaxis. CDC advises **MenACWY boosters every 5 years** and **MenB booster 1 year after — [Source 1](https://www.cdc.gov/meningococcal/hcp/clinical-guidance/complement-inhibitor.html)
+- **L219** the primary series, then every 2–3 years** while risk persists. Consider ongoing antibiotic — [Source 1](https://www.cdc.gov/meningococcal/hcp/clinical-guidance/complement-inhibitor.html)
+- **L252** associated with substantially higher subsequent relapse risk (reported OR ~20). — **UNVERIFIED**
+- **L261** - The **2026 MENACTRIMS guidelines** recommend planning conception after **≥12 months of — **UNVERIFIED**
+- **L301** survival at five years approaches 100% in trial and comparative cohorts. Few neurologic diseases — **UNVERIFIED**
+
+## docs/myopathy/index.md
+
+- **L19** | **CK >5,000 IU/L with myoglobinuria** (tea-colored urine) — classically a **trainee after PT** | Rhabdomyolysis → acute kidney injury, hyperkalemia, compartment syndrome | Assess volume/renal/electrolyte risk; isotonic fluids when indicated, monitor, and decide admission by risk — [exertional rhabdomyolysis](#rhabdomyolysis-toxic-critical-illness-and-metabolic-myopathy) | — **UNVERIFIED**
+- **L21** | **Inflammatory muscle biopsy labeled "polymyositis"** in a patient over 45 with finger-flexor/quadriceps weakness | **IBM misdiagnosed as polymyositis** — immunosuppression will not help and may harm | Reconcile biopsy with the clinical pattern (2024 ENMC framework); only 43% of IBM biopsies show all three classic findings | — **UNVERIFIED**
+- **L39** | **Inclusion body myositis (IBM)** | Age ≥45, ≥12 months of slowly progressive **finger-flexor + quadriceps** weakness, dysphagia | No effective immunotherapy — exercise and supportive care are the treatment | — **UNVERIFIED**
+- **L58** | **Anti-cN1A (NT5c1A)** | IBM | **Supportive only** — ~30–76% sensitive, >90–95% specific vs muscle disease, but positive in Sjögren (~36%), SLE (~20%), DM, IMNM; negative does not exclude IBM | — **UNVERIFIED**
+- **L96** 4. **Reassess on a clock, not on hope** — no convincing improvement by ~4–6 weeks — **UNVERIFIED**
+- **L118** (but only 43% show all three classic findings — see 2024 ENMC). — **UNVERIFIED**
+- **L147** - **Prednisone 1 mg/kg/day PO** (or **methylprednisolone 500–1,000 mg IV daily — **UNVERIFIED**
+- **L148** ×3 days** for severe/rapidly progressive weakness, significant dysphagia, — **UNVERIFIED**
+- **L149** or respiratory-muscle involvement, then ~1 mg/kg/day PO). — **UNVERIFIED**
+- **L151** induction, not after steroids fail. Reassess every 2–4 weeks; no convincing — **UNVERIFIED**
+- **L152** improvement by ~4–6 weeks means reconsider the diagnosis and optimize — **UNVERIFIED**
+- **L156** - **IVIG 2 g/kg per cycle**, divided over 2–5 days (e.g. 1 g/kg/day ×2 days — **UNVERIFIED**
+- **L157** or 0.4 g/kg/day ×5 days), **every 4 weeks** — prioritize early for — **UNVERIFIED**
+- **L159** - Add a conventional agent for maintenance: **methotrexate 15 mg PO/SC weekly** — **UNVERIFIED**
+- **L160** (titrate to 20–25 mg weekly) + **folic acid 1 mg PO daily**, **or — **UNVERIFIED**
+- **L161** mycophenolate mofetil 500 mg PO BID** (titrate to 1,000–1,500 mg BID), — **UNVERIFIED**
+- **L162** **or azathioprine 50 mg PO daily** (titrate toward 2–3 mg/kg/day; check — **UNVERIFIED**
+- **L165** disease, consider **rituximab 1,000 mg IV ×2**, two weeks apart (or — **UNVERIFIED**
+- **L166** 375 mg/m² weekly ×4). — **UNVERIFIED**
+- **L169** - **Rituximab 1,000 mg IV ×2**, two weeks apart (or 375 mg/m² weekly ×4) — — **UNVERIFIED**
+- **L171** - **IVIG 2 g/kg per cycle** (as above) for rapid bridging when bulbar or — **UNVERIFIED**
+- **L174** 8–12 weeks while bridging. — **UNVERIFIED**
+- **L177** - **PJP prophylaxis** when prednisone ≥20 mg/day is expected for ≥4 weeks, — **UNVERIFIED**
+- **L178** especially with a second immunosuppressant: **TMP-SMX 80/400 mg PO daily** — **UNVERIFIED**
+- **L179** or **160/800 mg PO three times weekly** (renal adjustment; avoid casually — **UNVERIFIED**
+- **L180** combining with methotrexate — marrow toxicity) **or atovaquone 1,500 mg PO — **UNVERIFIED**
+- **L185** baseline and ~every 2–4 weeks during titration, then every 8–12 weeks when — **UNVERIFIED**
+- **L199** adult DM, **30 mg orally daily**, with pretreatment infection/laboratory/pregnancy/vaccine review. — [Source 1](https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/220106Orig1s000lbl.pdf)
+- **L202** dermatomyositis at 30 mg PO once daily** — the first new oral DM therapy in — **UNVERIFIED**
+- **L204** 31.2 placebo; skin, functional, and steroid-sparing outcomes favored 30 mg; — **UNVERIFIED**
+- **L205** serious infections ~10% vs 1%. **Do not combine** with another JAK/TYK2 — **UNVERIFIED**
+- **L210** or hemoglobin <8 g/dL; not recommended with eGFR <30 or Child-Pugh C; include — **UNVERIFIED**
+- **L211** GGT (AST/ALT may be muscle); lipids ~12 weeks after initiation. Its place — **UNVERIFIED**
+- **L218** - **Prednisone 0.5–1 mg/kg PO daily** (usually 40–60 mg/day; higher end for — **UNVERIFIED**
+- **L220** clear response (~4–6 weeks), then taper. Severe/rapid disease: — **UNVERIFIED**
+- **L221** **methylprednisolone 500–1,000 mg IV daily ×3 days** → ~1 mg/kg/day PO. — **UNVERIFIED**
+- **L223** - **Methotrexate 10–15 mg PO/SC once weekly** → +2.5–5 mg every 2–4 weeks — **UNVERIFIED**
+- **L224** toward **20–25 mg weekly** + **folic acid 1 mg PO daily** (good for — **UNVERIFIED**
+- **L226** - **Azathioprine 50 mg PO daily** → toward **2–3 mg/kg/day** (TPMT/NUDT15 — **UNVERIFIED**
+- **L228** - **Mycophenolate mofetil 500 mg PO BID** → **1,000–1,500 mg BID** over — **UNVERIFIED**
+- **L229** 2–4 weeks (target 2–3 g/day; preferred with cutaneous disease or any ILD). — **UNVERIFIED**
+- **L238** - **~4–6 weeks:** no objective improvement or continued deterioration despite — **UNVERIFIED**
+- **L241** - **~8–12 weeks** of an optimized conventional agent with persistent activity → — **UNVERIFIED**
+- **L244** - **IVIG regimen: 2 g/kg per cycle** over 2–5 days (1 g/kg/day ×2 days or — **UNVERIFIED**
+- **L245** 0.4 g/kg/day ×5 days), **every 4 weeks** — 2 g/kg total per cycle, not per — **UNVERIFIED**
+- **L246** day. Assess over ~3–4 cycles (12–16 weeks) in stable disease; do not wait — **UNVERIFIED**
+- **L247** that long if deteriorating. **Octagam 10%** carries the US adult-DM — **UNVERIFIED**
+- **L248** indication (labeled max rate **0.04 mL/kg/min** — do not generalize to other — **UNVERIFIED**
+- **L249** products); PM use is off-label with weaker evidence. ProDERM: 79% IVIG vs — **UNVERIFIED**
+- **L250** 44% placebo achieved ≥minimal improvement at week 16. — **UNVERIFIED**
+- **L253** - **Rituximab 1,000 mg IV on days 1 and 15** — guideline-supported refractory — **UNVERIFIED**
+- **L258** - **Tacrolimus ~0.075 mg/kg/day PO divided BID**, trough **5–10 ng/mL** — **UNVERIFIED**
+- **L261** - **Cyclophosphamide 500–750 mg/m² IV every 4 weeks** — for severe/refractory — **UNVERIFIED**
+- **L262** disease; CBC, creatinine, urinalysis before; CBC ~10–14 days post-dose; — **UNVERIFIED**
+- **L264** - **Tofacitinib 5 mg PO BID** (off-label) — specialist option, particularly — **UNVERIFIED**
+- **L266** - **Abatacept 125 mg SC weekly** — the 2025 phase 3 **failed** its primary — **UNVERIFIED**
+- **L267** (56.0% vs 42.5%, P=0.083); selective use only, not ahead of IVIG/rituximab. — **UNVERIFIED**
+- **L269** inhibitors; **hydroxychloroquine 200–400 mg/day** (retinal screening) for — **UNVERIFIED**
+- **L275** improving (~4–6 weeks): **>20 mg/day:** −5–10 mg every 1–2 weeks; — **UNVERIFIED**
+- **L276** **20→10 mg/day:** −2.5 mg every 2–4 weeks; **<10 mg/day:** −1 mg every 2–4 — **UNVERIFIED**
+- **L280** reduction only after **~12–24 months** of sustained inactive disease, — **UNVERIFIED**
+- **L281** ideally off steroids. After control on IVIG: **1 g/kg every 4 weeks** or — **UNVERIFIED**
+- **L282** lengthen toward 6–8 weeks — one change at a time. Rituximab: repeat ~every — **UNVERIFIED**
+- **L283** 24 weeks when needed, individualized. Post-cyclophosphamide: transition to — **UNVERIFIED**
+- **L296** - **Prednisone ~0.5–1 mg/kg/day PO** as a short-term bridge **plus — **UNVERIFIED**
+- **L297** mycophenolate mofetil 1–1.5 g PO BID** — generally the preferred first-line — **UNVERIFIED**
+- **L299** - Alternatives by phenotype/tolerability: **azathioprine 2–3 mg/kg/day**, — **UNVERIFIED**
+- **L300** **tacrolimus ~0.075 mg/kg/day** divided BID (trough 5–10 ng/mL), — **UNVERIFIED**
+- **L301** **rituximab 1,000 mg IV days 1 and 15**, or **cyclophosphamide 500–750 — **UNVERIFIED**
+- **L313** disease); **tofacitinib 5 mg PO BID** is a specialist option. **IVIG 2 g/kg** — **UNVERIFIED**
+- **L314** over 2–5 days may be added when severe muscle/bulbar disease coexists or — **UNVERIFIED**
+- **L317** - RECITAL (severe/progressive CTD-ILD including myositis): **rituximab 1 g at — **UNVERIFIED**
+- **L318** weeks 0 and 2** vs **cyclophosphamide 600 mg/m² q4w ×6** — both improved — **UNVERIFIED**
+- **L320** - **Progressive fibrotic ILD despite management:** **nintedanib 150 mg PO BID — **UNVERIFIED**
+- **L321** with food** (reduce to 100 mg BID for intolerance) — slows fibrotic — **UNVERIFIED**
+- **L325** - **Monitor:** PFTs every 3–6 months early, every 6–12 months when stable; — **UNVERIFIED**
+- **L326** repeat HRCT at ~3–6 months in IIM-ILD (2026 ERS/EULAR), earlier if — **UNVERIFIED**
+- **L335** - **Methylprednisolone 500–1,000 mg IV daily ×3 days**, then **prednisone — **UNVERIFIED**
+- **L336** ~1 mg/kg/day** PO, individualized to response and complications. — **UNVERIFIED**
+- **L340** - **Rituximab 1,000 mg IV days 1 and 15**, and/or — **UNVERIFIED**
+- **L341** - **Tacrolimus ~0.075 mg/kg/day** divided BID (trough 5–10 ng/mL), and/or — **UNVERIFIED**
+- **L342** - **Cyclophosphamide 500–750 mg/m² IV q4w** (intensified anti-MDA5 — **UNVERIFIED**
+- **L344** - **IVIG 2 g/kg** over 2–5 days (severe muscle/bulbar disease or — **UNVERIFIED**
+- **L354** - **JAK inhibitors:** tofacitinib 5 mg BID is a legitimate specialist option — **UNVERIFIED**
+- **L375** - **Common presentation:** onset **≥45 years**, progressive weakness for — **UNVERIFIED**
+- **L376** **≥12 months**, **CK ≤15× ULN**, and deep **finger-flexor and/or — **UNVERIFIED**
+- **L399** assay performance varies (ELISA ~30–50% sensitive). **Do not use serial — **UNVERIFIED**
+- **L430** **aerobic ~3 days/week** — start 10–15 minutes, build toward 20–30 minutes, — **UNVERIFIED**
+- **L459** inspiratory/expiratory pressures or SNIP, peak cough flow ~every 6 months** — **UNVERIFIED**
+- **L463** - **Follow-up:** neuromuscular every **3–6 months** — **IBMFRS (0–40)**, — **UNVERIFIED**
+- **L469** necessary ~10–15 years after onset (wide range — not an individual deadline); — **UNVERIFIED**
+- **L480** **Lisraya 30 mg** is flagged for pharmacy PA and nonformulary status in the October files. IVIG, biologics, gene/enzyme therapy and home infusions need exact product/indication/benefit review. Current manual specialty criteria were not obtained; record diagnostic evidence, prior treatment and safety testing, and obtain the current form. — **UNVERIFIED**
+- **L496** - **Fluids:** isotonic crystalloid titrated to a urine output of roughly **200–300 mL/h** — **UNVERIFIED**
+- **L502** - **CHAMP/USU 2025 high-risk screen:** **CK ≥20,000 IU/L**, possible compartment syndrome, **McMahon score ≥6**, AKI, dark urine/myoglobinuria, metabolic abnormalities, sickle cell trait, or unreliable follow-up prompt a higher level of care/inpatient consideration. Low-risk patients who can hydrate and reliably return may be managed with restricted activity and repeat assessment/labs in **24–72 hours**. Diagnostic CK ≥5,000 alone is not an automatic admission threshold. — [Source 1](https://champ.usuhs.edu/sites/default/files/2025-09/WHEC_Clinical_Practice_Guidelines_ER.pdf)
+- **L543** Replete **cautiously — oral when possible, IV no faster than 10 mEq/h, on a cardiac — **UNVERIFIED**
+- **L551** co-management; visits every 2–4 weeks during induction, spacing as disease — **UNVERIFIED**
+- **L552** stabilizes. PFTs every 3–6 months early when ILD is present. **Admit** for — **UNVERIFIED**
+- **L555** - **IBM:** neuromuscular clinic every 3–6 months with PT/OT, speech-language — **UNVERIFIED**
+- **L579** inhibitor dosed 30 mg daily — but the serious-infection signal (~10% vs 1%) — **UNVERIFIED**
+- **L585** knew: only 43% of IBM biopsies in a 335-patient cohort showed all three classic — **UNVERIFIED**
+
+## docs/neurocritical-care/ams-workup.md
+
+- **L13** | Severe hyponatremia with somnolence or seizures | Cerebral edema / herniation | 3% saline bolus (Step 1 below); ICU | — **UNVERIFIED**
+- **L33** **CAM (Confusion Assessment Method)** — positive = feature 1 **+** feature 2 **+** either 3 or 4: — **UNVERIFIED**
+- **L38** | 2. Inattention | Months of the year backward (failing before 7 months is abnormal); CASABLANCA letter test | — **UNVERIFIED**
+- **L42** CAM performance: original validation ~94–100% sensitivity, 90–95% specificity (trained assessors); pooled meta-analysis **sensitivity 82% (95% CI 69–91%), specificity 99% (87–100%)**. A positive CAM is compelling; a **negative CAM does not exclude delirium** — especially with a brief exam, fluctuating illness, or hypoactive delirium. — **UNVERIFIED**
+- **L44** **4AT** (~2 minutes, no special training; score 0–12): — **UNVERIFIED**
+- **L51** | Acute change / fluctuating course (within 2 weeks, still present in last 24 h) | No | — | — | Yes | — **UNVERIFIED**
+- **L53** **≥4 → delirium likely. 1–3 → possible cognitive impairment (e.g. dementia), warrants follow-up. 0 → delirium or severe cognitive impairment unlikely** — but without a full history of recent change/fluctuation, delirium cannot be excluded. 4AT performance: pooled **sensitivity 88% (80–93%), specificity 88% (82–92%)** across 17 studies (3,702 assessments of older adults); in hospitalized older adults, 4AT 76%/89% vs CAM 80%/98%. Reassess serially — delirium fluctuates. — **UNVERIFIED**
+- **L65** | Sleep–wake | Fragmented/reversed (~75%); disturbed in 97–99% | Often preserved early | Disturbed, but pattern differs | — **UNVERIFIED**
+- **L75** - **Delirium superimposed on dementia (DSD) is common** — ~50% of hospitalized patients with dementia. Dementia does **not** exclude delirium; do not diagnose a new neurocognitive disorder while the patient is delirious — manage the delirium first. — **UNVERIFIED**
+- **L83** 2. **Classify at the bedside** — CAM or 4AT + collateral baseline + RASS. Acute, fluctuating inattention = delirium until proven otherwise. — **UNVERIFIED**
+- **L85** 4. **If CT and first-line labs leave the cause unexplained, run the tiered workup in parallel within ~24 h** — EEG/cEEG, MRI, LP, targeted second-line labs. — **UNVERIFIED**
+- **L92** 1. **0–10 min:** ABCs, vitals, pulse ox, POC glucose. If glucose low → D50 (Step 1). If opioid toxidrome → naloxone (Step 1). Thiamine with dextrose, never delaying it. GCS, pupils, focal exam, meningismus, toxidrome screen. — **UNVERIFIED**
+- **L93** 2. **10–30 min:** CAM/4AT + collateral (baseline cognition, meds, alcohol, recent changes). First-line labs (below). Noncontrast head CT by ACR variant. Stop/avoid deliriogenic drugs (benzodiazepines, anticholinergics, opioids, sedative-hypnotics). — **UNVERIFIED**
+- **L94** 3. **30–60 min:** If a cause is found → treat it (Step 1) and reassess. If CT is unrevealing and AMS persists → Tier 1 in parallel: EEG/cEEG, MRI, LP if indicated, Tier 2 labs. If encephalitis/meningitis is plausible → LP + empiric acyclovir ± antibiotics **now**. — **UNVERIFIED**
+- **L95** 4. **Hours 6–24:** cEEG ≥24 h if comatose or fluctuating; MRI within 24–48 h once stable. Nonpharmacologic bundle running from admission. Antipsychotic only if dangerous agitation persists after de-escalation and cause treatment. — **UNVERIFIED**
+- **L113** Context: CT yield is low but not zero — ~**11% of atraumatic AMS** (79,201 patients) and 9.8% of AMS CT orders show an acute finding. In febrile older adults, lower GCS, lateralizing signs, higher SBP, and lower temperature predicted abnormal imaging. In elderly new-onset delirium without focal findings, CT yield is very low — but a normal CT never closes the case: **CT-occult stroke, NCSE, and encephalitis are the three major treatable neurologic diagnoses a normal CT misses.** — **UNVERIFIED**
+- **L117** Run Tier 1 **in parallel within the first 24 hours**, ordered by danger — not one test after another. — **UNVERIFIED**
+- **L124** !!! orderset "Tier 1 — EEG / cEEG, MRI, LP (parallel, usually within 24 h)" — **UNVERIFIED**
+- **L125** - **EEG → cEEG:** unexplained or fluctuating AMS; still impaired **>30 min after a clinical seizure** or not clearly improving by **10 min**; periodic discharges (GPDs, LPDs, BIPDs) or LRDA on routine EEG; awake EEG; paralyzed or heavily sedated patients. **Urgent, same day; cEEG ≥24 h if comatose** (a 20–30 min routine study misses many seizures). A conventional 30–60 min EEG identifies only **45–58%** of patients who ultimately have NCSE; **80–95% are detected within 24–48 h** of cEEG. ACNS recommends ≥24 h for most indications, **≥48 h** if comatose, sedated, or with periodic discharges. NCSE occurs in **8–30% of unexplained AMS**, most with no visible clinical seizure. — **UNVERIFIED**
+- **L127** - **MRI brain (DWI, FLAIR, SWI, ± gadolinium):** normal CT with persistent unexplained AMS, focal deficit, immunosuppression, cancer, endocarditis, suspected encephalitis. **Within ~24–48 h once stable** — sooner if posterior-circulation stroke (add MRA; MRV for venous thrombosis). For suspected encephalitis, ideally **within 24 h and certainly within 48 h** (EAN/ESCMID 2026). Picks up small/posterior infarcts, HSV or autoimmune encephalitis (mesial temporal FLAIR), subtle SAH, PRES, septic emboli, Wernicke, osmotic demyelination, CJD (cortical ribboning on DWI), diffuse axonal injury. In one ICU cohort MRI changed management in **76%** of patients; yield is very low in plain delirium without focal deficit or falls. — **UNVERIFIED**
+- **L128** - **LP:** fever, meningismus, immunosuppression, suspected encephalitis or SAH, younger patients, or delirium that is persistent, unexpected, or unexplained. **Right away if infection is suspected, after imaging excludes mass effect — and do not let the LP delay acyclovir/antibiotics.** Opening pressure, cell count, protein, glucose (with paired serum glucose), Gram stain/culture, HSV/VZV PCR or meningitis-encephalitis panel, cytology, xanthochromia, oligoclonal bands. **Send paired serum/CSF autoimmune panels when the phenotype supports encephalitis**; freeze extra CSF when feasible. Contraindications to immediate LP: significant mass effect/brain shift, severe coagulopathy/anticoagulation, local infection, clinical instability; evaluate for an intracranial process first if severe depressed consciousness, new seizures, focal abnormalities, papilledema, or severe immunocompromise. **If the first LP is very early (within 3 days of symptom onset) and nondiagnostic while encephalitis remains likely, repeat in 2–3 days.** — **UNVERIFIED**
+- **L131** - **Ammonia** — free-flowing sample on ice, run within 30 min. A normal level makes hepatic encephalopathy unlikely; a high level does **not** prove it in cirrhosis (levels correlate poorly with severity). Hyperammonemia without cirrhosis → valproate, urea-cycle disorders, portosystemic shunts, urease-producing UTI. The 2026 ACG guideline recommends **against** routine ammonia testing to diagnose or guide treatment of hepatic encephalopathy in cirrhosis. — **UNVERIFIED**
+- **L133** - **Cortisol ± cosyntropin** — low threshold if hypotensive, hyponatremic, hypoglycemic, or steroid-exposed. Adrenal crisis → **hydrocortisone 100 mg IV right away**, no wait for results. — **UNVERIFIED**
+- **L141** - **Lorazepam challenge** — when catatonia is suspected: record baseline catatonic signs, give **1–2 mg IV** with respiratory/sedation monitoring, and reassess at about **5 minutes** with a standardized scale (e.g., BFCRS). Start at the lower end in frailty or respiratory risk. A response supports catatonia but is not specific; nonresponse does not exclude it. [BAP consensus](https://doi.org/10.1177/02698811231158232). — [Source 1](https://doi.org/10.1177/02698811231158232)
+- **L156** - **Hypoglycemia** — check POC glucose at once. If low: **dextrose 50% (D50) 25 g IV** (label range 10–25 g IV = 20–50 mL D50), repeat as clinically required; or **glucagon 1 mg IM** if no IV. If able to swallow safely, **15 g rapid glucose PO**, recheck after 15 min, repeat if still <70 mg/dL. **Never delay glucose to give thiamine** — the two can be given together. Look for recurrent hypoglycemia (insulin/sulfonylurea, renal/hepatic failure, poor intake, sepsis, adrenal disease) rather than assuming one bolus is definitive. — **UNVERIFIED**
+- **L157** - **Opioid toxicity** — suspect with miosis, bradypnea, recent dose escalation, or new renal failure. **Naloxone 0.04–0.4 mg IV, titrated to respiratory effort and airway reflexes** rather than to full arousal (limits withdrawal and pain crisis). Intranasal naloxone is commonly **4 mg/spray**, repeatable every 2–3 min. Long-acting opioids or renal accumulation may need a naloxone infusion; observe for renarcotization. — **UNVERIFIED**
+- **L158** - **Thiamine / Wernicke** — suspect in alcohol use disorder, malnutrition, bariatric surgery, hyperemesis, or cancer. The classic triad is often incomplete — **treat on suspicion, don't wait for levels or MRI**. **Thiamine 500 mg IV in 100 mL saline over 30 min, three times daily for 2–3 days**; if responding, continue **250 mg IV/IM daily for 3–5 days, then 100 mg PO daily**. Alternative: **200 mg IV three times daily**, acceptable especially when the cause is not alcohol. **Do not use 100–250 mg/day** — it may not restore thiamine status, and undertreatment risks Korsakoff syndrome. For high-risk alcohol-associated deficiency **without signs of Wernicke**, use a specific prophylaxis protocol (e.g., **200–300 mg IM/IV daily for 3–5 days**, then oral), rather than treatment-level doses by default. Also check and correct magnesium. — **UNVERIFIED**
+- **L159** - **Hyponatremia, severe symptoms** (somnolence, seizures) — **3% saline 100 mL IV over 10 min; repeat up to twice if severe symptoms persist (three boluses total)**, aiming for a **4–6 mEq/L rise**. Check sodium after each bolus, then every 4–6 h. **Correction limits:** low risk **≤10 mEq/L in 24 h and ≤18 mEq/L in 48 h**; high risk **≤8 mEq/L in any 24 h** (high risk = Na <105, alcohol use disorder, hypokalemia, malnutrition, liver disease). Overcorrection → re-lower with **D5W + desmopressin**. (Recent observational data link slower correction to higher mortality, but conservative limits remain the consensus standard.) — **UNVERIFIED**
+- **L160** - **Hyperammonemia / hepatic encephalopathy** — find and treat precipitants: infection, GI bleeding, dehydration, psychoactive drugs, hyponatremia. **Lactulose 60 mL PO, then 20 mL every 1–2 h until stooling begins**, then titrate to **2–3 soft stools/day** (acute overt HE: 10–20 g / 15–30 mL every 2 h until 2 soft bowel movements, then 2–4 doses/day). **Rifaximin 550 mg PO twice daily** — standard for preventing recurrence; adding it acutely may improve reversal and mortality. A high-volume **PEG-electrolyte bowel-preparation regimen** is an alternative in selected patients under the HE protocol; **do not give PEG for suspected ileus or bowel obstruction**, and protect the airway when needed. **Do not titrate to serum ammonia** — ammonia correlates poorly with severity in cirrhosis, and the 2026 ACG guideline recommends against using it to diagnose overt HE or guide inpatient treatment. **Cirrhosis vs acute liver failure differ:** in ALF or a urea-cycle disorder, marked hyperammonemia has different implications — the 2026 ACG guideline notes a possible role for **early renal replacement therapy when ammonia is >100 μmol/L in ALF**; there are insufficient data to dialyze cirrhotic patients solely to reduce ammonia. High-grade encephalopathy in ALF belongs in an ICU/transplant-capable setting. — **UNVERIFIED**
+- **L166** - **Nonpharmacologic bundle (the active treatment, not comfort care):** multicomponent programs such as HELP cut delirium incidence by **~40–50% (Cochrane RR 0.57)** and may shorten duration and length of stay. **Orientation:** clocks, calendars, frequent reorientation, family presence, a companion rather than a drug. **Senses and sleep:** glasses and hearing aids, adequate daytime light, sleep protocol — avoid nighttime vitals, noise, and sedative-hypnotics. **Mobility and devices:** early mobilization; remove catheters, lines, and other tethers; avoid physical restraints. **Basic needs:** hydration, nutrition with feeding help, bowel and bladder monitoring, pain control. **ICU:** the ABCDEF bundle. **Restraints only when injury is imminent**, with frequent monitoring and reassessment; use sitters/family/de-escalation first. — **UNVERIFIED**
+- **L170** - **Indication:** only for distress or danger to self or others, or agitation that blocks essential care, **after** verbal/nonverbal de-escalation has failed and contributing factors are addressed. NICE limits use to short courses, **usually ≤1 week**. The **published APA 2025 guideline** discourages routine antipsychotics for prevention or resolution; **SCCM’s 2025 focused update makes no recommendation for or against antipsychotics for ICU delirium treatment** because evidence is uncertain — trials have not shown shorter delirium duration, ventilation duration, ICU stay, or mortality. Antipsychotics **sedate rather than treat delirium** and can convert hyperactive delirium to hypoactive delirium, which carries a worse prognosis. — **UNVERIFIED**
+- **L171** - **Haloperidol** — older or frail adults: **0.25–0.5 mg PO/IM, repeated every 4 h as needed** (0.5–1 mg IM is also used). Younger adults or severe agitation: **0.5–2 mg PO or short-acting IM** (up to 2–5 mg IM per dose). **Reassess before each repeat**; allow ~30–45 min for the dose to work, then use the same or a smaller incremental dose rather than stacking. **Usual ceiling 20 mg/day IM.** Goal is **calm and safely redirectable, not obtunded**. PRN, low-dose, time-limited — never standing. **Stop as soon as the target behavior resolves.** — **UNVERIFIED**
+- **L173** - **Atypical alternatives** (comparable efficacy in trials): **quetiapine 12.5–25 mg, olanzapine 2.5–5 mg (PO/IM/ODT), risperidone 0.25–0.5 mg**. No convincing evidence they cure delirium or consistently outperform haloperidol. If there is no dangerous agitation or distress — particularly in hypoactive delirium — there is **generally no indication for an antipsychotic**. — **UNVERIFIED**
+- **L180** - **Benzodiazepines in ordinary medical/surgical delirium.** The American Geriatrics Society advises against them as first-line treatment for agitated delirium (strong recommendation, low-quality evidence). They **increase the incidence of delirium (OR ~3)**, lengthen it, and predict transition to delirium in the ICU; risk rises with dose and half-life. In one comparative trial the lorazepam arm was stopped early for adverse effects, and a Cochrane review found no adequate trials supporting benzodiazepines for delirium not related to alcohol withdrawal. They cause additional inattention/amnesia, oversedation, falls, aspiration, respiratory depression, and sometimes paradoxical disinhibition. — **UNVERIFIED**
+- **L187** Emergency stabilization and inpatient treatment must proceed through the clinical/facility pathway. Outpatient drugs, prolonged home infusions and follow-up services may need separate benefit authorization. The official list flags **Xifaxan 550 mg** for PA; exact indication and quantity rules matter. Do not extrapolate this to every rifaximin strength or to all ICU drugs. — **UNVERIFIED**
+- **L218** - **CAM and 4AT are the bedside discriminators, and they perform well:** pooled CAM sensitivity 82% / specificity 99%; pooled 4AT sensitivity 88% / specificity 88%. The clinical framework emphasizes that acute, fluctuating inattention is the decisive feature, and that a negative CAM does not exclude delirium. — **UNVERIFIED**
+- **L219** - **EEG is not optional in unexplained AMS.** NCSE occurs in 8–30% of unexplained AMS, most with no visible clinical seizure; a 30–60 min EEG detects only 45–58% of cases, while 80–95% are detected within 24–48 h of continuous EEG. Clinical practice emphasizes on cEEG ≥24 h when comatose. — **UNVERIFIED**
+- **L221** - **Delirium management has shifted from "give Haldol" to cause-first care.** Clinical practice emphasizes: no drug is FDA-approved for delirium; antipsychotics are rescue-only for dangerous agitation (haloperidol 0.25–0.5 mg in frail older adults, 0.5–2 mg in other adults, ceiling 20 mg/day IM); benzodiazepines worsen and prolong delirium (OR ~3) except in alcohol/sedative withdrawal, seizures, or end-of-life care; and multicomponent nonpharmacologic care (HELP: ~40–50% incidence reduction, Cochrane RR 0.57) is the cornerstone. — **UNVERIFIED**
+- **L222** - **Hyponatremia correction limits are settled and consistent with the cited guidance:** 3% saline 100 mL bolus for severe symptoms, 4–6 mEq/L rescue rise, ≤10 mEq/L/24 h (≤18/48 h) low risk, ≤8 mEq/L/24 h high risk — with D5W + desmopressin for overcorrection. — **UNVERIFIED**
+- **L233** - **Rifaximin 550 mg has an official pharmacy PA flag**; obtain the indication-specific form and quantity rules from the [TRICARE guide](../military/tricare.md). — **UNVERIFIED**
+
+## docs/neurocritical-care/brain-death.md
+
+- **L45** **≥24 hours after acute hypoxic-ischemic brain injury**; and if core temp was ever — **UNVERIFIED**
+- **L46** **≤35.5°C, wait ≥24 hours after rewarming to ≥36°C** before evaluating (ancillary testing — **UNVERIFIED**
+- **L64** | Sodium | <130 or >160 mmol/L | — **UNVERIFIED**
+- **L65** | Potassium | <3 or >6 mmol/L | — **UNVERIFIED**
+- **L66** | Glucose | <70 or >300 mg/dL | — **UNVERIFIED**
+- **L67** | BUN | >75 mg/dL | — **UNVERIFIED**
+- **L68** | Calcium | <7 or >11 mg/dL | — **UNVERIFIED**
+- **L69** | Ionized calcium | <1 or >1.3 mmol/L | — **UNVERIFIED**
+- **L70** | Magnesium | <1.5 or >4 mg/dL | — **UNVERIFIED**
+- **L72** | pH | <7.3 or >7.5 | — **UNVERIFIED**
+- **L73** | Free T4 | ≤0.4 or >5 ng/dL | — **UNVERIFIED**
+- **L76** - **Drugs:** exclude intoxication and CNS depressants. Blood alcohol **≤80 mg/dL**; — **UNVERIFIED**
+- **L77** **pentobarbital <5 μg/mL or below the lab's detection limit**. If drug levels are — **UNVERIFIED**
+- **L109** - **Preoxygenate with 100% oxygen for ≥10 minutes**, targeting **PaO₂ >200 mm Hg**. — **UNVERIFIED**
+- **L114** **8–10 minutes** — earlier if the patient becomes unstable. — **UNVERIFIED**
+- **L127** - **progressive desaturation below 85%**, or — **UNVERIFIED**
+- **L190** - **The rewarming wait is now explicit:** core temp ≤35.5°C → wait **≥24 hours after reaching — **UNVERIFIED**
+
+## docs/neurocritical-care/coma-workup.md
+
+- **L17** | Subtle twitching (face/eyelids/limbs), gaze deviation, nystagmus, fluctuating exam, or coma that persists after a convulsion stops | Nonconvulsive status epilepticus (NCSE) | **Urgent EEG / continuous EEG** — NCSE occurs in 8–30% of unexplained altered mental status | — **UNVERIFIED**
+- **L79** finger-stick glucose → dextrose if <~70 mg/dL (Step 1). Brief neuro exam before — **UNVERIFIED**
+- **L97** cardiac arrest, formal prognostic assessment at ≥72 h, off sedation, normothermic. — **UNVERIFIED**
+- **L106** | **0–1 hour** | Core labs + toxicology; noncontrast CT (± CTA, ± C-spine imaging); empiric antimicrobials if infection possible | — **UNVERIFIED**
+- **L107** | **1–6 hours** | LP once CT excludes mass effect and coagulopathy is corrected; start EEG if cause still unclear or subtle seizure signs | — **UNVERIFIED**
+- **L108** | **24–48 hours** | MRI if still unexplained; second-line labs; re-examine. If CT is nondiagnostic, work a checklist: poisoning, infection, NCSE, endocrinopathy, and the rest of the toxic-metabolic panel | — **UNVERIFIED**
+- **L127** adding MRI changed management in 76% of patients with acute disorders of — **UNVERIFIED**
+- **L128** consciousness, including a revised diagnosis in 20%. Get it **within 24–48 — **UNVERIFIED**
+- **L133** **days 3–5** — DWI can be normal in the first 1–2 days. MRI finds what CT — **UNVERIFIED**
+- **L152** - **Duration:** at least **24 hours** of monitoring is typical in comatose — **UNVERIFIED**
+- **L153** patients; consider **≥48 hours** when the patient remains comatose, is sedated, — **UNVERIFIED**
+- **L154** or has periodic/epileptiform discharges. About **80–95%** of patients ultimately — **UNVERIFIED**
+- **L155** found to have nonconvulsive seizures are detected in the first 24–48 hours, — **UNVERIFIED**
+- **L158** electrographically for at least **24 hours**. The 2HELPS2B score from the first — **UNVERIFIED**
+- **L161** EEG as early as possible and continuing **72–120 hours** if the patient does — **UNVERIFIED**
+- **L175** (>6 hours from onset); autoimmune or paraneoplastic encephalitis; — **UNVERIFIED**
+- **L289** stabilization. Target normocapnia (PaCO₂ 35–45 mmHg) unless herniation is — **UNVERIFIED**
+- **L290** suspected — then briefly hyperventilate to **PaCO₂ 30–35 mmHg** as a bridge. — **UNVERIFIED**
+- **L295** If **<~70 mg/dL** or symptomatic: **D50 25 g IV** (50 mL) **or D10 in 100 mL — **UNVERIFIED**
+- **L297** **15 minutes**. If no IV access: **glucagon 1 mg IM**. For sulfonylurea-induced — **UNVERIFIED**
+- **L298** hypoglycemia: dextrose infusion + **octreotide 50–100 mcg SC/IV q6–8h**, observe — **UNVERIFIED**
+- **L299** ≥24 hours (prolonged hypoglycemia risk). Do not delay dextrose to wait for — **UNVERIFIED**
+- **L302** For **suspected Wernicke**, give **500 mg IV over 30 min every 8 h initially**, or the — [Source 1](https://www.gov.uk/guidance/clinical-guidelines-for-alcohol-treatment/10-pharmacological-interventions)
+- **L303** institution’s evidence-based treatment regimen; see [AMS](ams-workup.md). A one-off 100 mg — [Source 1](https://www.gov.uk/guidance/clinical-guidelines-for-alcohol-treatment/10-pharmacological-interventions)
+- **L306** 0.04–0.4 mg IV** titrated to adequate breathing, up to **2 mg**; repeat doses — **UNVERIFIED**
+- **L311** - **Seizure (if convulsing):** **lorazepam 0.1 mg/kg IV** (max 4 mg/dose, may — **UNVERIFIED**
+- **L312** repeat once) **or midazolam 10 mg IM** (>40 kg) **or diazepam 0.15–0.2 mg/kg IV** — **UNVERIFIED**
+- **L313** (max 10 mg). Correct hypoglycemia or severe symptomatic hyponatremia **in parallel**; do not delay the — **UNVERIFIED**
+- **L324** synchrony. **Hyperosmolar therapy: mannitol 0.5–1 g/kg IV or hypertonic saline — **UNVERIFIED**
+- **L325** 23.4% 30 mL central / 3% 250–500 mL** (hypertonic saline preferred first — — **UNVERIFIED**
+- **L327** **These are toxicity/safety checks, not targets to exceed**; see the ICP page for qualified limits. Target CPP 60–70 mmHg. Treat — **UNVERIFIED**
+- **L334** ~20 min — ESETT showed equivalence, so choose by patient factors: **levetiracetam — **UNVERIFIED**
+- **L335** 60 mg/kg IV max 4,500 mg**; **fosphenytoin 20 mg PE/kg IV max 1,500 mg PE** at — **UNVERIFIED**
+- **L336** ≤150 mg PE/min; **valproate 40 mg/kg IV max 3,000 mg** (avoid in liver disease, — **UNVERIFIED**
+- **L339** suppression. Super-refractory ≥24 h → consider immunotherapy if autoimmune — **UNVERIFIED**
+- **L345** observe ≥24 h. Rapid correction of a reversible toxic-metabolic cause is one — **UNVERIFIED**
+- **L349** uncertain poisoning. **TCA with wide QRS:** sodium bicarbonate **1–2 mEq/kg — **UNVERIFIED**
+- **L350** IV boluses**. **CO poisoning:** 100% oxygen ± hyperbaric oxygen; obtain — **UNVERIFIED**
+- **L355** + pralidoxime. **Adrenal crisis:** hydrocortisone **100 mg IV**. **Myxedema:** — **UNVERIFIED**
+- **L377** controlled electrographically for ≥24 h. — **UNVERIFIED**
+- **L378** - **MRI** if CT is unrevealing or the cause is still unclear at 24–48 h (above). — **UNVERIFIED**
+- **L383** self-fulfilling prophecy.** After cardiac arrest, defer formal prognostication until **≥72 h — [Source 1](https://link.springer.com/article/10.1007/s12028-023-01688-3)
+- **L384** after ROSC**, or **≥72 h after rewarming if hypothermia was used**, with sedation and other — [Source 1](https://link.springer.com/article/10.1007/s12028-023-01688-3)
+- **L387** must not determine withdrawal. **Persistent coma at 72 h is not itself a poor-outcome — [Source 1](https://link.springer.com/article/10.1007/s12028-023-01688-3)
+- **L396** consistent imaging; observation **≥24 h** after hypoxic-ischemic injury — **UNVERIFIED**
+- **L397** (≥24 h after rewarming to ≥36 °C if hypothermia ≤35.5 °C); core temp **≥36 °C**; — **UNVERIFIED**
+- **L398** SBP **≥100 mmHg and MAP ≥75 mmHg**; no severe metabolic/endocrine derangement; sedatives cleared — **UNVERIFIED**
+- **L424** Emergency stabilization and inpatient treatment must proceed through the clinical/facility pathway. Outpatient drugs, prolonged home infusions and follow-up services may need separate benefit authorization. The official list flags **Xifaxan 550 mg** for PA; exact indication and quantity rules matter. Do not extrapolate this to every rifaximin strength or to all ICU drugs. — **UNVERIFIED**
+- **L464** - **EEG is not optional in unexplained coma.** NCSE occurs in 8–30% of unclear altered — **UNVERIFIED**
+- **L465** mental status; about 80–95% of nonconvulsive seizures are detected within the first — **UNVERIFIED**
+- **L466** 24–48 hours of continuous EEG. Both sources in this run agreed that a persistently — **UNVERIFIED**
+- **L471** (lorazepam 0.1 mg/kg, midazolam 10 mg IM, diazepam 0.15–0.2 mg/kg) is consistent — **UNVERIFIED**
+- **L474** CPP 60–70 mmHg, hyperosmolar therapy (mannitol 0.5–1 g/kg or hypertonic saline), — **UNVERIFIED**
+- **L479** protocol, including ≥72 h after ROSC/rewarming and absence of confounding, rather than — [Source 1](https://link.springer.com/article/10.1007/s12028-023-01688-3)
+- **L480** ≥2 of six predictors (absent pupillary + corneal reflexes at ≥72 h, absent N20 SSEP, — **UNVERIFIED**
+- **L481** highly malignant EEG after 24 h, status myoclonus within 72 h, NSE >60 µg/L, diffuse — **UNVERIFIED**
+- **L484** - **Brain death requires the complete 2023 AAN/AAP/CNS/SCCM prerequisites and examination.** In adults, maintain **SBP ≥100 AND MAP ≥75 mmHg**; clear confounding drugs with adequate time for the actual exposure, renal/hepatic function and temperature. Follow the specified observation, apnea-testing and ancillary-test requirements. Use the [brain-death page](brain-death.md) and the facility policy rather than a shortened checklist. — [Source 1](https://doi.org/10.1212/WNL.0000000000207740)
+
+## docs/neurocritical-care/increased-icp.md
+
+- **L34** 6. **Escalate by tier** only while ICP stays above ~22 mmHg or herniation signs persist — **UNVERIFIED**
+- **L52** | Pupil dilation, sluggish reactivity, or **asymmetry >1 mm** | Automated pupillometry is more objective than the bedside exam; pupillary dilation alone has only **~28% sensitivity** for elevated ICP | — **UNVERIFIED**
+- **L73** | **Basal cisterns absent or compressed** | The CT sign most strongly linked to measured raised ICP (**diagnostic OR ~9.6**); crowding around the brainstem, concerning for transtentorial displacement | — **UNVERIFIED**
+- **L106** - **Severe TBI with a normal CT plus at least two admission features:** age >40 years, — **UNVERIFIED**
+- **L107** unilateral/bilateral motor posturing, or SBP <90 mmHg. — **UNVERIFIED**
+- **L146** | ICP | **Treat >22 mmHg** | IIB | — **UNVERIFIED**
+- **L147** | CPP | **Target 60–70 mmHg** (CPP = MAP − ICP) | IIB | — **UNVERIFIED**
+- **L148** | CPP augmentation | **Avoid aggressively forcing CPP >70 mmHg** with fluids/pressors (respiratory failure risk) | III | — **UNVERIFIED**
+- **L150** | SBP | **≥100 mmHg** at ages 50–69; **≥110 mmHg** at ages 15–49 or >70 | III | — **UNVERIFIED**
+- **L151** | PbtO₂ (if monitored) | Keep **≥15 mmHg** | — (ACS) | — **UNVERIFIED**
+- **L155** - Normal resting adult ICP is ~**7–15 mmHg** — do not confuse the upper end of the normal — **UNVERIFIED**
+- **L157** - BTF sets no mandatory delay at 22 mmHg. ACS operational guidance uses **20–25 mmHg sustained — **UNVERIFIED**
+- **L158** for >5 minutes** as the treatment trigger, and that range is reasonable when weighing — **UNVERIFIED**
+- **L198** 4. **Still >22 mmHg (or herniating)?** → **Step 2:** mild hyperventilation as a bridge only, — **UNVERIFIED**
+- **L199** MAP challenge, neuromuscular blockade trial, continuous 3% saline. — **UNVERIFIED**
+- **L224** - **Normocapnia: PaCO₂ 35–40 mmHg.** Keep **SpO₂ >94%**; avoid hypoxia. — **UNVERIFIED**
+- **L225** - **CPP 60–70 mmHg, MAP >70**, euvolemia, **avoid hypotonic fluids**. — **UNVERIFIED**
+- **L230** **Give osmotherapy for ICP >22 mmHg sustained, or immediately for herniation signs. Default — **UNVERIFIED**
+- **L233** - **Hypertonic saline 3% — 250 mL IV over 15–30 min** (≈2–5 mL/kg), peripheral access — **UNVERIFIED**
+- **L234** acceptable; **or 23.4% — 30 mL over 10–20 min, central line only**. Titrate doses to ICP. — **UNVERIFIED**
+- **L235** - **Mannitol 20% — 0.5–1 g/kg IV over 15–30 min** for a crisis (in-line filter); — **UNVERIFIED**
+- **L236** maintenance **0.25–0.5 g/kg every 4–6 h**. — **UNVERIFIED**
+- **L241** → ICP controlled → hold the tier, monitor, wean deliberately. Still >22 mmHg → **Step 2**. — **UNVERIFIED**
+- **L244** - **Mild hyperventilation to PaCO₂ 32–35 mmHg — bridge only** (see the warning box: rescue — **UNVERIFIED**
+- **L247** - **Neuromuscular blockade — trial dose first:** **cisatracurium 0.1–0.2 mg/kg IV bolus**; — **UNVERIFIED**
+- **L248** continue as an infusion (**1–3 mcg/kg/min**) **only if the trial lowers ICP**, and stop — **UNVERIFIED**
+- **L249** as soon as feasible. (Rocuronium ~0.6–1 mg/kg is the alternative bolus.) Mandatory deep — **UNVERIFIED**
+- **L254** - **Continuous 3% saline infusion — ~0.5–1 mL/kg/h**, titrated to a goal sodium (commonly — **UNVERIFIED**
+- **L258** also has **no proven outcome benefit** — the COBI trial of continuous 20% saline in — **UNVERIFIED**
+- **L260** OR 1.02, 95% CI 0.71–1.47) — so an infusion is a bridge for ICP control, not a therapy in — **UNVERIFIED**
+- **L263** ICP exceeds threshold — typically 22 mmHg; SIBICC uses 18–22) preserves continuous ICP — **UNVERIFIED**
+- **L268** in ~15%, malposition, ventriculitis — intermittent drainage and early weaning mean fewer — **UNVERIFIED**
+- **L278** dose. **Load 10 mg/kg IV over 30 min, then 5 mg/kg/h for 3 h, then 1–4 mg/kg/h.** — **UNVERIFIED**
+- **L287** **5–20 mcg/kg/min**, titrate to **50 mcg/kg/min**, up to **75–80 mcg/kg/min — **UNVERIFIED**
+- **L288** (≈4.5–5 mg/kg/h)**; small boluses (**0.5 mg/kg**) can blunt an acute spike — only with — **UNVERIFIED**
+- **L290** been shown to improve mortality or 6-month outcome, and high doses cause significant harm. — **UNVERIFIED**
+- **L304** | Parameter | Hypertonic saline | Mannitol (20%) | — **UNVERIFIED**
+- **L306** | **Bolus** | 23.4%: **30 mL over 10–20 min, central line only**. 3%: **250 mL, or ~2–5 mL/kg over 15–30 min**, peripheral acceptable. (7.5%/5% also used.) Doses titrated to ICP | **0.5–1 g/kg IV over 15–30 min** for a crisis; maintenance **0.25–0.5 g/kg q4–6h** (FDA label: 0.25 g/kg over ≥30 min q6–8h). In-line filter | — **UNVERIFIED**
+- **L307** | **Continuous infusion** | 3% at **~0.5–1 mL/kg/h**, titrated to goal sodium (commonly 145–155); NCS accepts goal-sodium infusion or symptom-based boluses, but endorses no standard adult infusion regimen | **Not recommended** — accumulates in injured brain, may cause rebound edema | — **UNVERIFIED**
+- **L308** | **Mechanism** | Raises osmolality directly and **expands intravascular volume** | Osmotic diuresis + rheologic effect; onset 10–15 min, peak 20–60 min, lasts 1–5 h | — **UNVERIFIED**
+- **L309** | **Sodium target** | **Na 145–155 mEq/L**; little added benefit above 160 | Not a direct target (diuresis can raise sodium) | — **UNVERIFIED**
+- **L311** | **Monitoring** | Na **every 4–6 h**, osmolality, chloride (hyperchloremic acidosis), volume status, cardiopulmonary status (pulmonary edema), creatinine | Osmolality + osmolar gap (draw **≥20 min after a dose**, or the gap is falsely high), BMP, creatinine, urine output, volume status; **replace losses** to prevent hypovolemia | — **UNVERIFIED**
+- **L323** rescue at a number. **Wean HTS gradually** — let sodium fall no faster than ~**8–10 mEq/L per — **UNVERIFIED**
+- **L324** 24 h** to avoid rebound edema. — **UNVERIFIED**
+- **L329** 24 h after TBI**, when CBF is lowest. Mild hypocapnia (32–35) is a Tier-2 bridge (one — **UNVERIFIED**
+- **L330** review suggests a maximum of ~2 h; others advise reversing promptly once ICP stabilizes); — **UNVERIFIED**
+- **L340** - **Propofol infusion syndrome (PRIS):** risk rises at **>4 mg/kg/h for >48 h**, with — **UNVERIFIED**
+- **L345** baseline and every 24–48 h (more often at high dose); watch for pancreatitis; count the — **UNVERIFIED**
+- **L359** Emergency stabilization and inpatient treatment must proceed through the clinical/facility pathway. Outpatient drugs, prolonged home infusions and follow-up services may need separate benefit authorization. The official list flags **Xifaxan 550 mg** for PA; exact indication and quantity rules matter. Do not extrapolate this to every rifaximin strength or to all ICU drugs. — **UNVERIFIED**
+- **L372** | Population | Diffuse TBI, no mass lesion, within 72 h | TBI aged 10–65, within 10 days; mostly diffuse injury | — **UNVERIFIED**
+- **L373** | ICP trigger | **>20 mmHg for >15 min within 1 h** despite Tier-1 therapy (early, modest elevation) | **>25 mmHg for 1–12 h** despite 2 tiers of therapy (late, refractory) | — **UNVERIFIED**
+- **L375** | Mortality | **No difference** | **6 mo: 26.9% vs 48.9%; 24 mo: 33.5% vs 54.0%** (DC vs medical) | — **UNVERIFIED**
+- **L376** | Function | **Worse GOS-E at 6 mo**; still favored medical care at 12 mo, but no longer significant | More vegetative state and severe disability. Favorable outcome (upper severe disability or better): **42.8% vs 34.6% at 6 mo (NS); 45.4% vs 32.4% at 12 mo (P=.01)** | — **UNVERIFIED**
+- **L379** **The RESCUEicp trade-off, per 100 patients treated surgically:** 21 more alive at 24 months — — **UNVERIFIED**
+- **L381** was the same in both arms (**~11%**). Many survivors kept improving between 6 and 24 months — **UNVERIFIED**
+- **L382** (**30% vs 14%** improved by at least one GOS-E grade) — judge the outcome late, not at discharge. — **UNVERIFIED**
+- **L394** hemicraniectomy reduced **death (OR 0.19)** and **death or mRS >4 at 12 months (OR 0.26)**; a — **UNVERIFIED**
+- **L396** the lever: surgery **ideally within 48 h of onset and before herniation** gives the largest — **UNVERIFIED**
+- **L405** ICH 30–100 mL, ages 18–75, within 72 h) stopped early; its primary outcome trended toward — **UNVERIFIED**
+- **L406** benefit but was not significant (**RR 0.77, 95% CI 0.59–1.01**); the remaining evidence is — **UNVERIFIED**
+- **L413** thresholds: **EDH >30 mL, SDH >10 mm thick**). Space-occupying cerebellar infarction — — **UNVERIFIED**
+- **L425** - **ICP sustained above 20–22 mmHg despite Tier-1 therapy** — so Tier-2 options and — **UNVERIFIED**
+- **L427** - **Large MCA infarct at diagnosis** (>50% of the MCA territory on CT, or DWI volume >~145 mL), — **UNVERIFIED**
+- **L431** cerebellar ICH **≥15 mL**, or smaller with deterioration/compression/hydrocephalus**. — **UNVERIFIED**
+- **L442** - **Weaning:** ICP controlled ≥24 h → wean in reverse order of escalation, one step at a time; — **UNVERIFIED**
+- **L443** HTS sodium falls ≤8–10 mEq/L per 24 h; hyperventilation normalizes over hours; barbiturates — **UNVERIFIED**
+- **L465** - **The 22 / 60–70 pair is BTF-anchored and operationalized by ACS 2024:** treat ICP >22 mmHg — **UNVERIFIED**
+- **L467** (≥100 at 50–69 y; ≥110 at 15–49 or >70 y, III). ACS frames 20–25 mmHg sustained >5 min as the — **UNVERIFIED**
+- **L470** ~28% sensitive for elevated ICP, papilledema may be absent acutely, and compartmental — **UNVERIFIED**
+- **L472** (OR ~9.6 when effaced) carry the early signal. — **UNVERIFIED**
+- **L475** (RESCUEicp) cut 24-month mortality from 54.0% to 33.5% at the price of more survivors with — **UNVERIFIED**
+- **L476** severe disability — with continued improvement out to 24 months. In malignant MCA stroke the — **UNVERIFIED**
+- **L477** calculus is better (pooled OR 0.19 for death) but only early (<48 h) and mainly under 60. — **UNVERIFIED**
+
+## docs/neuroinfections/index.md
+
+- **L13** | **Trainee or barracks resident** + fever + petechial/purpuric rash or meningism | **Meningococcal disease** | **Ceftriaxone 2 g IV now**, droplet precautions, **call preventive medicine** for contact prophylaxis — [below](#military-and-regional-exposures) | — **UNVERIFIED**
+- **L56** - **Dexamethasone 10 mg IV q6h** — give **before or with the first antibiotic dose**, up to — **UNVERIFIED**
+- **L57** 4 days; **stop it if CSF is not consistent with bacterial meningitis** (NICE: if delayed **<12 h after antibiotics began**, give promptly; if longer, seek ID advice). — **UNVERIFIED**
+- **L59** - **Vancomycin 15–20 mg/kg IV q8–12h** (IDSA: 30–45 mg/kg/day in divided doses; a — **UNVERIFIED**
+- **L60** **20–35 mg/kg loading dose** is common in the critically ill) — actual body weight, adjust — **UNVERIFIED**
+- **L61** for renal function, **trough 15–20 µg/mL or AUC-guided** per pharmacy — **+ ceftriaxone — **UNVERIFIED**
+- **L62** 2 g IV q12h** — adults 18–50. — **UNVERIFIED**
+- **L63** - **Add ampicillin 2 g IV q4h** (Listeria cover) if **age >50, pregnant, or — **UNVERIFIED**
+- **L65** - Alternative cephalosporin: **cefotaxime 2 g IV q4–6h**. — **UNVERIFIED**
+- **L67** **acyclovir 10 mg/kg IV q8h** until HSV PCR returns — see [HSV encephalitis](#hsv-encephalitis-adults). — **UNVERIFIED**
+- **L73** | 18–50, immunocompetent | Vancomycin + **ceftriaxone 2 g IV q12h** | — **UNVERIFIED**
+- **L74** | >50, pregnant, or immunocompromised | Above + **ampicillin 2 g IV q4h** | — **UNVERIFIED**
+- **L93** patients: **meningococcus 5 days; pneumococcus 10 days; Hib 7 days (extend to 10 if not — [Source 1](https://www.nice.org.uk/guidance/ng240/chapter/Recommendations)
+- **L94** recovered); group B streptococcus 14 days; Listeria or Enterobacterales 21 days**. — [Source 1](https://www.nice.org.uk/guidance/ng240/chapter/Recommendations)
+- **L98** staphylococci or *S. aureus* **10–14 days**; gram-negative bacilli **10–14 days** (some — **UNVERIFIED**
+- **L99** experts treat **21 days**); **repeatedly positive CSF cultures → 10–14 days after the — **UNVERIFIED**
+- **L111** - **Acyclovir 10 mg/kg IV q8h** — start immediately; **infuse each dose over ≥1 hour** — **UNVERIFIED**
+- **L114** - **Duration 14–21 days:** 14 days for an immunocompetent adult with a good response; — **UNVERIFIED**
+- **L115** **21 days if immunocompromised**. (The U.S. label still lists 10 days — contemporary — **UNVERIFIED**
+- **L121** **3–7 days** — an early negative (first days of illness) does **not** rule out HSV — **UNVERIFIED**
+- **L141** - **Sinusitis source:** **ceftriaxone 2 g IV q12h** + **metronidazole 500 mg IV q8h**. — **UNVERIFIED**
+- **L144** a credible concern (especially extension from otitis externa): **cefepime 2 g IV q8h** in — **UNVERIFIED**
+- **L155** antibiotics only if aspiration/excision happens promptly, preferably within 24 h, to — **UNVERIFIED**
+- **L159** - **Duration:** aspirated or medically managed bacterial abscess — **6–8 weeks of IV therapy**, — **UNVERIFIED**
+- **L161** excision**, ~4 weeks; shorter courses are expert opinion only, not a rule. — **UNVERIFIED**
+- **L181** mg/kg IV daily** + **flucytosine 25 mg/kg PO four times daily** — **for 2 weeks**. — **UNVERIFIED**
+- **L183** - **Resource-limited setting (AMBITION regimen):** **liposomal amphotericin B 10 mg/kg IV — **UNVERIFIED**
+- **L184** once on day 1** + **flucytosine 25 mg/kg PO four times daily** + **fluconazole 1,200 mg — **UNVERIFIED**
+- **L185** PO daily for 14 days**. The single amphotericin dose is **not** stand-alone — it depends — **UNVERIFIED**
+- **L189** amphotericin B deoxycholate **0.7–1.0 mg/kg/day** remains the mainstay where cost is — **UNVERIFIED**
+- **L208** - **Consolidation:** **fluconazole 800 mg PO daily for at least 8 weeks**; in a stable — **UNVERIFIED**
+- **L209** patient, NIH allows **400 mg daily once CSF cultures are sterile and ART has begun**. — **UNVERIFIED**
+- **L212** - **Maintenance:** **fluconazole 200 mg PO daily for at least 1 year** from the start of — **UNVERIFIED**
+- **L216** immediately**; NIH recommends **deferring ART until 4–6 weeks after antifungals begin**, — **UNVERIFIED**
+- **L232** | Yield tip | **≥6 mL of CSF for TB testing** improves yield; if CSF is scarce, prioritize the molecular test | — **UNVERIFIED**
+- **L237** for 2 months**, then **isoniazid + rifampin (HR) for 7–10 months**. Total **9–12 months**; — **UNVERIFIED**
+- **L238** many experts use 12 months (2HRZE/10HR). Do not substitute shorter pulmonary-TB regimens. — **UNVERIFIED**
+- **L239** - **Daily adult doses (ATS/CDC/IDSA 2016):** **isoniazid 5 mg/kg (max 300 mg)**; — **UNVERIFIED**
+- **L240** **rifampin 10 mg/kg (max 600 mg)**; **pyrazinamide 1,000 / 1,500 / 2,000 mg** and — **UNVERIFIED**
+- **L241** **ethambutol 800 / 1,200 / 1,600 mg** for **40–55 / 56–75 / 76–90 kg**. Add **pyridoxine — **UNVERIFIED**
+- **L242** 25–50 mg PO daily** with isoniazid. The **HARVEST trial (2025)** did **not** show a survival benefit from its high-dose — **UNVERIFIED**
+- **L245** 15 without focal deficit; II = GCS 11–14, or 15 with a focal deficit; III = GCS ≤10): — **UNVERIFIED**
+- **L246** - **Grade II–III — 8 weeks:** IV **0.4 mg/kg/day** week 1 → **0.3** week 2 → **0.2** — **UNVERIFIED**
+- **L247** week 3 → **0.1 mg/kg/day** week 4; then oral **4 mg/day**, falling by **1 mg/day each — **UNVERIFIED**
+- **L249** - **Grade I — 6 weeks:** IV **0.3 mg/kg/day** week 1 → **0.2 mg/kg/day** week 2; oral — **UNVERIFIED**
+- **L250** **0.1 mg/kg/day** week 3; then oral **3 mg/day**, falling by **1 mg/day each week** — **UNVERIFIED**
+- **L287** every 4 hours** or by continuous infusion — **for 10–14 days**. IM benzathine penicillin — **UNVERIFIED**
+- **L318** - **1–2 viable parenchymal cysts, no elevated ICP:** **albendazole 15 mg/kg/day PO in two — **UNVERIFIED**
+- **L319** divided doses with food, max 1,200 mg/day, for 10–14 days**. — **UNVERIFIED**
+- **L320** - **>2 viable parenchymal cysts (no elevated ICP):** **albendazole 15 mg/kg/day + praziquantel — **UNVERIFIED**
+- **L321** 50 mg/kg/day PO** (praziquantel generally in three daily doses) **for 10–14 days** — — **UNVERIFIED**
+- **L324** - **Single enhancing lesion:** albendazole 15 mg/kg/day with meals for 1–2 weeks is — **UNVERIFIED**
+- **L331** mg/kg/day** and **0.2 mg/kg/day**; subarachnoid disease often needs **prolonged, response-guided anti-inflammatory treatment** — **UNVERIFIED**
+- **L334** enzymes on albendazole courses >14 days. — **UNVERIFIED**
+- **L357** Suspect AE with **subacute (<3 months) working-memory loss, altered behavior/psychiatric — **UNVERIFIED**
+- **L379** | **Possible AE** | <3 months of working-memory deficit, altered mental status, or psychiatric symptoms; **≥1** of: new focal CNS finding, otherwise-unexplained seizure, CSF pleocytosis (>5 WBC/mm³), or MRI suggestive of encephalitis; reasonable exclusion of alternatives | — **UNVERIFIED**
+- **L396** both. Commercial kits carry a high false-positive rate, especially serum-only (~1% of control — **UNVERIFIED**
+- **L402** - **IV methylprednisolone 1 g IV daily for 3–5 days** — a first-line option after — **UNVERIFIED**
+- **L405** - **IVIG 2 g/kg total IV over 2–5 days** (commonly 0.4 g/kg/day × 5) — combine with steroids — **UNVERIFIED**
+- **L407** - **Plasma exchange (PLEX): 5 exchanges on alternate days over ~10 days** (up to 5–10 in — **UNVERIFIED**
+- **L414** - **Rituximab** — preferred second-line (chosen by ~80% of experts; favored for neuronal — **UNVERIFIED**
+- **L415** cell-surface antibody disease): **1,000 mg IV × 2 doses 14 days apart, OR 375 mg/m² IV — **UNVERIFIED**
+- **L416** weekly for 4 weeks**. — **UNVERIFIED**
+- **L419** Published regimens: **600–1,000 mg/m² IV monthly for 3–6 months**, or **15 mg/kg IV every — **UNVERIFIED**
+- **L420** 3 weeks for 4–6 months**. Fertility concerns apply; monitor toxicity. — **UNVERIFIED**
+- **L422** **no improvement/worsening after about 5–10 days** of optimized first-line therapy may justify second-line treatment under the **Canadian 2024 consensus**. Other guidance generally uses **2–4 weeks**. Reassess the diagnosis and trajectory with neuroimmunology, and individualize escalation in fulminant disease. [Canadian consensus](https://doi.org/10.1017/cjn.2024.16). — [Source 1](https://doi.org/10.1017/cjn.2024.16)
+- **L427** - **NMDA-R:** an underlying tumor in **~38%** overall — almost always an **ovarian — **UNVERIFIED**
+- **L434** phenotype** with a negative first screen: **repeat every 4–6 months for 2 years** (2021 — **UNVERIFIED**
+- **L447** 2 g IV now** (do not wait for LP), **droplet precautions for the first 24 hours** of — **UNVERIFIED**
+- **L451** in the relevant pre-onset period — ideally within 24 h; not automatically an entire unit): **ciprofloxacin 500 mg PO once**, **or rifampin 600 mg — **UNVERIFIED**
+- **L452** PO q12h × 2 days**, **or ceftriaxone 250 mg IM once** (the choice in pregnancy). Check — **UNVERIFIED**
+- **L459** 100 mg PO/IV q12h** empirically for **Rocky Mountain spotted fever and ehrlichiosis** — **UNVERIFIED**
+- **L460** (Missouri is a high-incidence state for both); continue **≥3 days after defervescence, — **UNVERIFIED**
+- **L461** minimum 5–7 days**. Do not wait for serology — thrombocytopenia, leukopenia, hyponatremia — **UNVERIFIED**
+- **L468** facial palsy, radiculoneuritis, or lymphocytic meningitis → **ceftriaxone 2 g IV daily** — **UNVERIFIED**
+- **L469** **or doxycycline 100 mg PO BID (or 200 mg once daily)** for **14–21 days** (IDSA/AAN/ACR — **UNVERIFIED**
+- **L477** q12–24h × 3) or rapid antigen **now**; do not wait for confirmation in a sick patient. — **UNVERIFIED**
+- **L478** **IV artesunate 2.4 mg/kg at 0, 12 and 24 h**; reassess smears. Continue daily if needed — [Source 1](https://www.cdc.gov/malaria/hcp/clinical-guidance/iv-artesunate-us.html)
+- **L479** under CDC guidance until **parasitemia ≤1% and oral treatment is tolerated**, then give a — [Source 1](https://www.cdc.gov/malaria/hcp/clinical-guidance/iv-artesunate-us.html)
+- **L480** **complete oral follow-on course**. CDC’s **August 2026 update** recommends **5 days/10 doses — [Source 1](https://www.cdc.gov/malaria/hcp/clinical-guidance/iv-artesunate-us.html)
+- **L482** delayed hemolytic anemia **weekly through 4 weeks after treatment begins**. — [Source 1](https://www.cdc.gov/malaria/hcp/clinical-guidance/iv-artesunate-us.html)
+- **L484** never vaccinated: wound washing, **human rabies immune globulin 20 IU/kg** infiltrated into — **UNVERIFIED**
+- **L485** and around the wound, and **rabies vaccine 1 mL IM (deltoid) on days 0, 3, 7 and 14** — **UNVERIFIED**
+- **L520** - **Treat HSV encephalitis for 14–21 days, not the 10-day label**, and re-tap in 3–7 days — **UNVERIFIED**
+- **L527** LPs, not acetazolamide**; and ART is **deferred 4–6 weeks** — the opposite of most OIs. — **UNVERIFIED**
+- **L553** - **HIV-associated cerebral toxoplasmosis:** contrast MRI, CD4 count, Toxoplasma IgG and urgent ID involvement. Typical ring-enhancing lesions may justify an empiric treatment trial while lymphoma and other diagnoses remain in the differential. One NIH-preferred regimen is **TMP 5 mg/kg + SMX 25 mg/kg IV/PO twice daily**, adjusted for organ function, for **at least 6 weeks**, then maintenance until immune-reconstitution criteria are met. Obtain a tissue diagnosis earlier for atypical findings, deterioration during the first week, or absent clinical improvement by **10–14 days**. Do not start steroids merely because lesions enhance; reserve them for clinically significant mass effect/edema. — [Source 1](https://doi.org/10.1111/ene.70647) · [Source 2](https://clinicalinfo.hiv.gov/en/guidelines/hiv-clinical-guidelines-adult-and-adolescent-opportunistic-infections/toxoplasmosis)
+
+## docs/nmj/botulism.md
+
+- **L22** **99% afebrile, 93% descending, 91% normal mentation.** — **UNVERIFIED**
+- **L25** - **Dilated, poorly reactive pupils are present in only ~50%** — highly suggestive when there, — **UNVERIFIED**
+- **L33** In the same 332-case series, **17% reported paresthesias**, **13% had elevated CSF — **UNVERIFIED**
+- **L34** protein**, and **7% of adequately documented cases were frankly atypical** — unilateral — **UNVERIFIED**
+- **L56** licensed injectors** — typical cosmetic doses of 4–20 units sit orders of magnitude below the — **UNVERIFIED**
+- **L62** | Hebei, China (single centre) | Jun–Jul 2024 | **195** | **26.2% severe, 16.4% mechanically ventilated**, 44.6% still symptomatic at 30 days | — **UNVERIFIED**
+- **L85** limit of detection equal to or better than the bioassay and 100% inter-serotype specificity, — **UNVERIFIED**
+- **L87** for up to ~16 days**, and toxin has been detected 11–12 days after ingestion. — **UNVERIFIED**
+- **L88** - **Incubation:** **18–36 h foodborne**, **4–14 days wound**, **~6 h inhalational**, and a median — **UNVERIFIED**
+- **L89** of **3 days** for iatrogenic cases. — **UNVERIFIED**
+- **L95** - **Facilitation appears in only 50–60% of patients**, and is typically **far less dramatic — **UNVERIFIED**
+- **L135** - **Then monitor numbers serially (q2–4 h while progressing):** vital capacity **<20 mL/kg**, — **UNVERIFIED**
+- **L136** NIF worse than **−30 cmH₂O**, or a **≥30% fall from the patient's own baseline** — treat any — **UNVERIFIED**
+- **L143** seal — face-mask versus mouthpiece spirometry differs by ~200 mL even in normal subjects. — **UNVERIFIED**
+- **L147** hypotension (adjusted OR 8.33)**, moderate-to-severe ptosis, dilated or fixed pupils, and a — **UNVERIFIED**
+- **L148** short incubation period. **Sporadic single cases are sicker than outbreak cases** — 85% vs — **UNVERIFIED**
+- **L149** 42% intubated. — **UNVERIFIED**
+- **L163** **56 days for type A and 26 days for type B**, though outbreak medians run shorter (14 days). — **UNVERIFIED**
+- **L171** weight-based.** Exposure–response modelling predicts **>95.9% survival across all seven — **UNVERIFIED**
+- **L176** - Diluted **1:10 in 0.9% saline**, infused slowly with stepwise rate increases; **epinephrine for anaphylaxis (1 mg/mL for IM use) and — **UNVERIFIED**
+- **L183** older non-despeciated products (PPV 0–56%), anaphylaxis with modern BAT runs **~0.6–1.6%**, — **UNVERIFIED**
+- **L186** Registry safety in 162 patients: **19.1% any adverse event, 4.3% serious, 0.6% — **UNVERIFIED**
+- **L187** anaphylaxis.** *Note the historical **3.7% serum sickness** figure comes from whole-IgG — **UNVERIFIED**
+- **L191** whole immunoglobulin, and **rebound botulism has been documented 10 days after antitoxin in — **UNVERIFIED**
+- **L200** - **1.0 mL/kg (50 mg/kg) as a single IV infusion.** Reconstitute in 2 mL sterile water, — **UNVERIFIED**
+- **L201** **start within 2 hours** of reconstitution and complete within 4. **Begin at 0.5 mL/kg/h; if — **UNVERIFIED**
+- **L202** no reaction after 15 minutes increase to 1.0 mL/kg/h and do not exceed that rate** (total — **UNVERIFIED**
+- **L203** infusion ~68 minutes). **Separate IV line with an in-line filter.** Check BUN/creatinine — **UNVERIFIED**
+- **L204** before and after. Half-life ~28 days; one infusion neutralizes toxin for **at least 6 — **UNVERIFIED**
+- **L205** months**, so **defer live virus vaccines (MMR, MMRV, varicella) for 6 months.** — **UNVERIFIED**
+- **L211** hospital days 0–3 cut length of stay by **3.7 weeks**, days 4–7 by 2.6 weeks, and days 8–10 — **UNVERIFIED**
+- **L212** by only 1 week (non-significant). — **UNVERIFIED**
+- **L216** Circulating toxin has been detected in serum **11–12 days after ingestion**; wound and — **UNVERIFIED**
+- **L221** Any antitoxin reduced mortality with an **OR of 0.16**; within 48 hours, **OR 0.12**. — **UNVERIFIED**
+- **L222** Treatment within 24 hours of onset gave a median of **0 ventilator days against 21**. — **UNVERIFIED**
+- **L223** Documented benefit exists at **day 7, day 9 and day 15** in iatrogenic cases. — **UNVERIFIED**
+- **L234** - **Penicillin G 20 million units/day IV divided q4–6h** (the labelled clostridial dose; — **UNVERIFIED**
+- **L236** - **Penicillin-allergic: metronidazole 15 mg/kg IV load (~1 g at 70 kg), then 7.5 mg/kg IV q6h** — **UNVERIFIED**
+- **L237** (~500 mg); usual anaerobic course 7–10 days. Metronidazole reduces *C. botulinum* viability — **UNVERIFIED**
+- **L250** empirical antimicrobials made things worse: hospitalization **20 days vs 12** in a multicentre — **UNVERIFIED**
+- **L255** **Survival is now the expectation.** Untreated case-fatality was **40–50%**; with modern critical — **UNVERIFIED**
+- **L256** care it is around **4%**, and deaths in the antitoxin programmes were attributed to underlying — **UNVERIFIED**
+- **L261** | **Intubation rate** | 67% type A · 52% type B · 39% type E; ~34% across foodborne outbreaks | — **UNVERIFIED**
+- **L262** | **Ventilation duration** | mean ~56 days (type A), ~26 days (type B); median 14 days in outbreak settings | — **UNVERIFIED**
+- **L263** | **Effect of early antitoxin** | treatment <24 h → **median 0 ventilator days and 10 hospital days**; >24 h → 21 and 41; none → 28 and 56 | — **UNVERIFIED**
+- **L264** | **Tracheostomy in infants** | essentially unnecessary — **0 of 60** in a 10-year series despite mean intubation of 21 days | — **UNVERIFIED**
+- **L267** Improvement in strength begins at a median of ~5 days after antitoxin, but ventilatory and upper — **UNVERIFIED**
+- **L268** airway muscle strength recovers mostly over the **first 12 weeks and continues improving to 1 — **UNVERIFIED**
+- **L269** year.** Resolution of half the original symptoms took an average of **5 months**, and 13 of 14 — **UNVERIFIED**
+- **L270** patients still reported symptoms at 13 months. — **UNVERIFIED**
+- **L273** of **4.3 years** after illness, **68% of 217 patients reported worse health than before, against — **UNVERIFIED**
+- **L274** 17% of controls** (matched OR 17.6) — and **mechanical ventilation during the acute illness — **UNVERIFIED**
+- **L276** in 66%, general weakness in 57%, and dyspnoea in 43%**, with psychosocial dysfunction outlasting — **UNVERIFIED**
+- **L280** transmission by ~4 weeks, then a second phase returns vesicle turnover to the original parent — **UNVERIFIED**
+- **L289** - **Watch for SIADH** (18% in one series) and for **autonomic instability, which outlasts — **UNVERIFIED**
+- **L294** - Organism excretion in stool persists a median of **5.9 weeks (type A)** after clinical — **UNVERIFIED**
+
+## docs/nmj/index.md
+
+- **L22** | **Forced vital capacity (FVC)** | **<20 mL/kg** (or <1 L) | — **UNVERIFIED**
+- **L28** any single number** — a patient whose FVC has fallen 30% in six hours is intubated tonight even — **UNVERIFIED**
+- **L29** if tonight's number looks acceptable. A **fall in MEP of ≥30%** marks high risk. A **supine-vs- — **UNVERIFIED**
+- **L34** indicates significant inspiratory muscle weakness** (~116 mL of VC per count). A 2023 — **UNVERIFIED**
+- **L42** - **Low-risk / step-down:** VC >20 mL/kg, MEP >40 cmH₂O, NIF better than −40 cmH₂O. — **UNVERIFIED**
+- **L45** gas before you commit: PaCO₂ >45 mmHg at BiPAP initiation was the only predictor of BiPAP — **UNVERIFIED**
+- **L48** age as NIV-failure predictors; **failure rates reach ~38%.** Trial BiPAP in the non-hypercapnic — **UNVERIFIED**
+- **L95** | **AChR (acetylcholine receptor)** | ~**85%** of generalized MG | First test. Highly specific. Titre does not track severity | — **UNVERIFIED**
+- **L96** | **MuSK (muscle-specific kinase)** | ~**5–8%** | Send if AChR-negative. **Distinct phenotype** — prominent bulbar/facial/neck/respiratory weakness, and **different treatment** (see below) | — **UNVERIFIED**
+- **L97** | **LRP4** | ~1–3% | Send in double-seronegative patients | — **UNVERIFIED**
+- **L107** - **Repetitive nerve stimulation (RNS)** — a **decremental response**: *"a 10% decrement in — **UNVERIFIED**
+- **L109** 2–5 Hz"* (3 Hz is the usual standard). **Hold anticholinesterases ≥12 h and keep the limb — **UNVERIFIED**
+- **L111** **abnormal in only ~17% of ocular MG vs ~85% of generalized MG.** — **UNVERIFIED**
+- **L113** test for MG — **~92% overall, 95–99% in generalized disease with an appropriate muscle, but — **UNVERIFIED**
+- **L114** only ~79% in purely ocular MG** — and less specific and operator-dependent. Sensitivity rises — **UNVERIFIED**
+- **L118** - The **ice-pack test** (ptosis improves ≥2 mm after 2 min of ice) is a useful, cheap bedside — **UNVERIFIED**
+- **L122** **10–15% of MG patients have a thymoma**, and its presence changes management independently of — **UNVERIFIED**
+- **L132** - **50–80%** in older long-term studies of largely **untreated** patients. — **UNVERIFIED**
+- **L133** - **~28%** in contemporary **treated** cohorts (mean 87-month follow-up; mean time to — **UNVERIFIED**
+- **L134** generalization 24 months). — **UNVERIFIED**
+- **L135** - **~39%** pooled across 31 studies (95% CI 32–47%), which blends both. — **UNVERIFIED**
+- **L136** Generalization is concentrated in the **first 1–2 years**; after 2 years of purely ocular disease — **UNVERIFIED**
+- **L178** in the 300–480 mg/day range leaves the patient symptomatic, they are **inadequately controlled, — **UNVERIFIED**
+- **L203** - **Do not use IV pyridostigmine** (1–2 mg/h; 1 mg IV ≈ 30 mg PO) — discouraged because of — **UNVERIFIED**
+- **L219** - **Timing.** Weakness peaking **30–60 minutes after a dose** rather than at trough. This and — **UNVERIFIED**
+- **L221** - **Dose.** Suspicion rises **above ~450 mg/day**, where depolarizing block itself causes — **UNVERIFIED**
+- **L257** **~70% of patients with severe weakness improve with either.** But read that number carefully: — **UNVERIFIED**
+- **L259** n=87, no difference at day 15; Barth 2011, n=84 with QMG >10.5, **69% IVIG vs 65% PLEX**). — **UNVERIFIED**
+- **L261** 7 days, ventilation status at 2 weeks and 1-month function (Qureshi, n=54); earlier improvement — **UNVERIFIED**
+- **L267** - **Plasma exchange — 5 sessions over 7–10 days**, 1.0–1.5 plasma volumes (40–60 mL/kg) each. — **UNVERIFIED**
+- **L271** - **IVIG 2 g/kg total, divided over 2–5 days.** Easier logistically; **still requires suitable IV access**. — **UNVERIFIED**
+- **L272** Improvement usually **by the 4th–5th day**; effect lasts ~4–8 weeks. *Off-label — no immune — **UNVERIFIED**
+- **L293** - **Eculizumab** — after each PLEX/plasmapheresis session: **300 mg** if the last dose was — **UNVERIFIED**
+- **L294** 300 mg, **600 mg** if the last dose was ≥600 mg, given **within 60 minutes after** the — **UNVERIFIED**
+- **L295** session. With scheduled IVIG cycles: **300–600 mg** supplemental depending on last dose and — **UNVERIFIED**
+- **L297** - **Ravulizumab** — after **each** PLEX/plasmapheresis: **1,200–1,500 mg** by weight band; — **UNVERIFIED**
+- **L298** after **completion of an IVIG cycle**: **600–1,800 mg** by weight band and last dose — both — **UNVERIFIED**
+- **L299** **within 4 hours.** — **UNVERIFIED**
+- **L302** High-dose corticosteroids cause transient worsening in **up to 50%** of patients, on average — **UNVERIFIED**
+- **L303** **about 5 days after initiation** and lasting **1–7 days** (occasionally up to 3 weeks) — a — **UNVERIFIED**
+- **L317** - **Pyridostigmine 30–60 mg PO every 4–6 h**, titrated to symptoms. **Practical ceiling — **UNVERIFIED**
+- **L318** ~360–480 mg/day.** — **UNVERIFIED**
+- **L319** - *The FDA label describes an average dose of 600 mg/day and severe cases up to 1,500 mg/day — **UNVERIFIED**
+- **L321** operative threshold is **>450 mg/day**, above which depolarizing block itself causes — **UNVERIFIED**
+- **L324** - **Extended-release 180 mg at bedtime** for overnight and on-waking weakness. — **UNVERIFIED**
+- **L325** - **Still symptomatic on a tolerated dose in the 300–480 mg/day range? That patient is — **UNVERIFIED**
+- **L331** **glycopyrrolate 1 mg PO TID (max 8 mg/day)** or hyoscyamine. **Both labels list myasthenia — **UNVERIFIED**
+- **L346** Steroid-induced worsening hits **up to 50%** of patients, on average **~5 days** after — **UNVERIFIED**
+- **L347** initiation, lasting **1–7 days** — and is predicted by **bulbar symptoms, older age, and — **UNVERIFIED**
+- **L361** - **Start-low-go-slow (outpatient default, lowest worsening risk):** **10–20 mg daily**, — **UNVERIFIED**
+- **L362** increased by 5–10 mg every 5–7 days to a target of **~0.75–1 mg/kg/day (typically — **UNVERIFIED**
+- **L363** 40–60 mg daily)** or until control. The MGTX protocol used **10 mg on alternate days, — **UNVERIFIED**
+- **L364** increased in 10 mg increments to a maximum of 100 mg alternate-day or 1.5 mg/kg, — **UNVERIFIED**
+- **L366** - **Initiate-and-maintain:** **20 mg/day**, effective in the mycophenolate trials, with — **UNVERIFIED**
+- **L368** - **High-dose induction** (0.75–1.0 mg/kg/day, or 60 mg/day) achieves pharmacological — **UNVERIFIED**
+- **L369** remission in ~28% and marked improvement in a further 53% — **but carries the worsening — **UNVERIFIED**
+- **L371** - **Then:** hold ~1–3 months and taper slowly to the lowest effective dose or alternate-day — **UNVERIFIED**
+- **L376** - *Labelled systemic range is 5–60 mg/day; the MG titration schedules above are consensus — **UNVERIFIED**
+- **L379** - **Azathioprine** — best-established. **Start 50 mg PO daily (~1 mg/kg/day); after 6–8 — **UNVERIFIED**
+- **L380** weeks increase by 0.5 mg/kg/day at 4-week intervals to a maximum of 2.5 mg/kg/day.** — **UNVERIFIED**
+- **L386** - **CBC with platelets weekly × 1 month, twice monthly for months 2–3, then monthly.** — **UNVERIFIED**
+- **L390** - **Mycophenolate mofetil** — **1,000 mg PO BID** typical in MG (off-label); onset over — **UNVERIFIED**
+- **L398** dose and again **8–10 days later**; repeat at routine follow-up. — **UNVERIFIED**
+- **L399** - **Contraception from 4 weeks before, throughout, and for 6 weeks after** the last — **UNVERIFIED**
+- **L406** - **Methotrexate — 7.5–20 mg PO or SC ONCE WEEKLY** (never daily) **+ folic acid 1 mg — **UNVERIFIED**
+- **L411** - **Tacrolimus — 3–5 mg PO daily**, trough-guided (~5–10 ng/mL); monitor levels, K⁺, — **UNVERIFIED**
+- **L413** - **Cyclosporine — 3–5 mg/kg/day PO divided BID**, trough-guided; monitor creatinine — **UNVERIFIED**
+- **L426** found the same, **with insufficient response in 20–49% of patients in both arms.** — **UNVERIFIED**
+- **L442** - **IV: 10 mg/kg over 1 h once weekly × 4** (a "cycle"); cap at 1,200 mg/dose if ≥120 kg. — **UNVERIFIED**
+- **L443** - **SC (Hytrulo): 1,000 mg/10,000 U prefilled syringe over 20–30 s once weekly × 4.** — **UNVERIFIED**
+- **L446** weight-banded: <50 kg 420 mg; 50–<100 kg 560 mg; ≥100 kg 840 mg.** Do not start the next — **UNVERIFIED**
+- **L447** cycle sooner than **63 days** from the start of the previous one. **Watch for aseptic — **UNVERIFIED**
+- **L451** **adolescents ≥12**. **30 mg/kg IV over ≥30 min once, then 15 mg/kg IV over ≥15 min two weeks — **UNVERIFIED**
+- **L452** later and every 2 weeks thereafter. IV only — no SC formulation is approved.** — **UNVERIFIED**
+- **L463** - **Eculizumab (Soliris)** — **900 mg IV weekly × 4, then 1,200 mg IV at week 5, then 1,200 mg — **UNVERIFIED**
+- **L464** IV every 2 weeks.** *Do not start at q2wk — that skips the entire induction month.* — **UNVERIFIED**
+- **L467** - **Ravulizumab (Ultomiris)** — **weight-based load, then q8wk maintenance starting 2 weeks — **UNVERIFIED**
+- **L468** after the load** (gMG, ≥40 kg): 40–<60 kg **2,400 → 3,000 mg**; 60–<100 kg **2,700 → 3,300 — **UNVERIFIED**
+- **L469** mg**; ≥100 kg **3,000 → 3,600 mg.** — **UNVERIFIED**
+- **L470** - **Zilucoplan (Zilbrysq)** — **SC once daily, weight-banded: <56 kg 16.6 mg; 56–<77 kg 23 mg; — **UNVERIFIED**
+- **L471** ≥77 kg 32.4 mg**, self-injected after training. **Obtain baseline amylase and lipase before — **UNVERIFIED**
+- **L473** - **Gefurulimab (Klygefa)** — **FDA-approved 13 November 2026** for **adult AChR-positive gMG**. SC dosing is weight-based: **<80 kg, 600 mg on day 1 then 300 mg weekly from day 8; ≥80 kg, 900 mg on day 1 then 600 mg weekly from day 8**. Each device contains **300 mg/2 mL**. It has a boxed meningococcal-infection warning and a REMS. Complete MenACWY/MenB vaccination at least two weeks beforehand, or give label-directed antibacterial prophylaxis and vaccination when urgent treatment cannot wait. Check supplemental dosing after plasma exchange. [FDA label](https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/761488s000lbl.pdf). — [Source 1](https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/761488s000lbl.pdf)
+- **L479** (MenACWY + MenB) — ≥2 weeks before the first dose**, using current ACIP schedules for complement-inhibitor recipients. Current product labels direct clinicians to ACIP recommendations. *MenACWY alone — **UNVERIFIED**
+- **L491** **567 mg SC (three 189-mg/1-mL vials) every 3 months, administered by a healthcare provider.** — [Source 1](https://www.regeneron.com/downloads/livsayis_fpi.pdf)
+- **L493** and a REMS**; update **MenACWY and MenB ≥2 weeks before starting**, or use label-directed — [Source 1](https://www.regeneron.com/downloads/livsayis_fpi.pdf)
+- **L501** MuSK+, MINT trial); its third indication after NMOSD and IgG4-RD. **300 mg IV, repeat 300 mg — **UNVERIFIED**
+- **L502** IV at 2 weeks, then 300 mg IV every 6 months** (infuse over ~90 min; observe ≥1 h after). — **UNVERIFIED**
+- **L506** - **Premedicate every infusion** — IV methylprednisolone 80–125 mg + PO diphenhydramine — **UNVERIFIED**
+- **L507** 25–50 mg + PO acetaminophen 500–650 mg. — **UNVERIFIED**
+- **L508** - **Live vaccines ≥4 weeks before starting**, and none afterwards until B-cell repletion. — **UNVERIFIED**
+- **L509** **Contraception during and for 6 months after** the last dose. — **UNVERIFIED**
+- **L511** regimen you mean: commonly **375 mg/m² IV weekly × 4**, or **1 g IV × 2 doses two weeks — **UNVERIFIED**
+- **L517** randomized evidence now also supports early rituximab within 1 year of generalized — **UNVERIFIED**
+- **L528** | **Ocular-only** | Pyridostigmine first; **add corticosteroids (~15 mg/day is often enough) if symptoms are functionally limiting or troublesome** — this is a positive recommendation, not a coin-flip. Whether it *prevents generalization* is supported by consistent observational data awaiting randomized confirmation | — **UNVERIFIED**
+- **L550** — **sustained through 5 years**, with an absolute increase in the chance of reaching minimal — **UNVERIFIED**
+- **L551** manifestation status at 36 months of **20% (95% CI 1.6–37%).** — **UNVERIFIED**
+- **L554** duration <5 years, **but in post hoc analysis neither prednisone dose nor QMG differed between — **UNVERIFIED**
+- **L560** status (48.9% vs 23.8% at 24 months; 59.5% vs 28.9% at 36 months)**, with adverse-event rates — **UNVERIFIED**
+- **L561** comparable to younger patients. A second cohort found HR 3.25 (95% CI 1.31–8.1). Both call — **UNVERIFIED**
+- **L574** at 100–116 months; another series, remission in 2 of 11). The consensus carve-out is narrow: — **UNVERIFIED**
+- **L616** why, and monitor single-breath count and FVC every 4 hours for 48 hours** with an airway plan — **UNVERIFIED**
+- **L633** - **Median onset ~3 weeks** after the first dose (usually within 6 weeks). — **UNVERIFIED**
+- **L635** minority, with **in-hospital mortality around 38%.** — **UNVERIFIED**
+- **L695** status, which left the **triple-seronegative** patient — perhaps 10–15% of generalized MG — with — **UNVERIFIED**
+- **L712** insufficient response in 20–49% of patients in both arms.** Sequencing is therefore driven by — **UNVERIFIED**
+- **L719** exacerbations — **held through 5 years.** — **UNVERIFIED**
+- **L724** prednisone alone in non-thymomatous AChR+ generalized MG; benefit sustained to 5 years. **Post — **UNVERIFIED**
+- **L735** - **Barth 2011** — the IVIG-vs-PLEX randomized head-to-head (69% vs 65%), in *moderate-to-severe — **UNVERIFIED**
+
+## docs/nmj/lems.md
+
+- **L13** **~50–60% of LEMS is paraneoplastic, and the tumor is almost always small-cell lung cancer — **UNVERIFIED**
+- **L23** - **Repeat imaging every 4–6 months for 2 years** if the initial search is negative (2021 — **UNVERIFIED**
+- **L26** - **Two years is a common initial surveillance framework, not a guarantee of no future cancer:** 91–92% of SCLCs are found within 3 months of the — **UNVERIFIED**
+- **L27** LEMS diagnosis and **96% within 1 year.** Detections beyond 2 years occurred almost entirely — **UNVERIFIED**
+- **L41** | **Antibody** | **P/Q-type VGCC** (~90%; near 100% in SCLC-associated disease) | AChR / MuSK | — **UNVERIFIED**
+- **L42** | **Cancer link** | **SCLC in ~50–60%** | Thymoma in 10–15% | — **UNVERIFIED**
+- **L50** - **Serology — P/Q-type voltage-gated calcium channel (VGCC) antibody**, positive in **~90%** — **UNVERIFIED**
+- **L51** (range 85–95%; approaching 100% in SCLC-associated disease, ~91% in non-cancer LEMS). — **UNVERIFIED**
+- **L54** and has no role in cancer risk stratification. **SOX1 antibody does** — 95% specific but only — **UNVERIFIED**
+- **L55** 65% sensitive for SCLC-LEMS, so a positive result is informative and a negative one is not. — **UNVERIFIED**
+- **L58** - **Decrement on low-frequency (2–5 Hz, usually 3 Hz) RNS**, ≥10% — like MG, present in 94–98% — **UNVERIFIED**
+- **L60** - **But marked facilitation — CMAP amplitude increase ≥60%** after 10 seconds of maximal — **UNVERIFIED**
+- **L61** exercise or after 20 Hz stimulation. **Use ≥60% as the operating threshold** (97% sensitive, — **UNVERIFIED**
+- **L62** 99% specific); the older ≥100% cut-off is more specific but misses 4–16%. This post-exercise — **UNVERIFIED**
+- **L69** maximum 6**, assessed at onset or within 3 months: — **UNVERIFIED**
+- **L73** | Age at onset **≥50 years** | 1 | — **UNVERIFIED**
+- **L75** | **Weight loss ≥5%** | 1 | — **UNVERIFIED**
+- **L80** **0–1 → 0–2.6% probability of SCLC; 4–6 → 83.9–100%.** Prospective validation AUC **82.5%** — **UNVERIFIED**
+- **L81** (the 94% figure comes from the derivation cohort and overstates real-world performance). — **UNVERIFIED**
+- **L93** months for 2 years in high-risk patients. Score DELTA-P to set the interval, not to decide whether to look. — **UNVERIFIED**
+- **L94** 4. **Treat symptoms** — amifampridine, divided 3–5× daily, titrated toward 50–80 mg/day. — **UNVERIFIED**
+- **L102** therapy** (2018; label covers **adults and children ≥6 years**). A potassium-channel blocker — **UNVERIFIED**
+- **L107** | **Start** | **15–30 mg/day** | **5–15 mg/day** | — **UNVERIFIED**
+- **L108** | **Titrate** | **+5 mg/day every 3–4 days** | **+2.5 mg/day every 3–4 days** | — **UNVERIFIED**
+- **L109** | **Max single dose** | **20 mg** | **10 mg** | — **UNVERIFIED**
+- **L110** | **Max daily** | **100 mg (US label)** | **50 mg** | — **UNVERIFIED**
+- **L113** hours** (Tmax 20 min–1 h), so twice-daily dosing produces symptomatic troughs. Patients feel — **UNVERIFIED**
+- **L115** - **The ceiling you should actually work to is 80 mg/day.** The US label maximum is 100 mg/day, — **UNVERIFIED**
+- **L116** but **80 mg/day is both the EMA ceiling and the widely adopted expert cap** on seizure-risk — **UNVERIFIED**
+- **L118** either:** mean **50.5 mg/day** in the pivotal run-in and **66 mg/day** long-term. Target — **UNVERIFIED**
+- **L119** **50–80 mg/day divided 3–4×.** — **UNVERIFIED**
+- **L125** **40–60% in White and African American populations**, 10–30% in Japanese, Chinese and Korean — **UNVERIFIED**
+- **L127** - **Seizures occur in ~2%** of patients without prior history and are dose-dependent; a **prior — **UNVERIFIED**
+- **L129** seizures clustered at 100 mg/day, in a patient with brain metastases, and in one on high-dose — **UNVERIFIED**
+- **L133** - **Expect paresthesia — it is the commonest adverse effect at 62%.** Perioral and digital, — **UNVERIFIED**
+- **L134** starting within minutes of a ≥10 mg dose and lasting 5–10 minutes. Warn the patient in — **UNVERIFIED**
+- **L136** stop. Also >10%: URI 33%; abdominal pain, nausea, diarrhea, headache, elevated LFTs and back — **UNVERIFIED**
+- **L137** pain ~14% each. — **UNVERIFIED**
+- **L139** ≥60 mg/day. — **UNVERIFIED**
+- **L146** way: **68% of a long-term cohort used it and 67% reported subjective benefit**, and 13 of 25 — **UNVERIFIED**
+- **L154** 7 of 11 patients surviving >2 months after tumor therapy improved substantially, one to — **UNVERIFIED**
+- **L155** complete remission at 7 years, though in 3 the improvement was transient. **A pretreatment CMAP — **UNVERIFIED**
+- **L156** amplitude >3.0 mV predicts a better neurologic outcome.** Expect **6–12 months**, not weeks. — **UNVERIFIED**
+- **L162** Needed in **70% of non-tumor** LEMS vs 44% of SCLC-LEMS. The regimen behind the best-reported — **UNVERIFIED**
+- **L163** results is **prednisolone 60–100 mg on alternate days plus azathioprine 2.5 mg/kg/day** — **UNVERIFIED**
+- **L164** (near-complete remission in 3 of 6 non-cancer patients within 6–12 months). **Check TPMT and — **UNVERIFIED**
+- **L167** 1,000 mg PO BID** is a reasonable substitute if azathioprine is not tolerated, but has **no — **UNVERIFIED**
+- **L169** - **IVIG 2 g/kg over 2 days** — the one crossover RCT (n=9) showed significant limb, bulbar and — **UNVERIFIED**
+- **L170** respiratory gains with a fall in VGCC titre; **peak at 2–4 weeks, declining by 8.** An acute — **UNVERIFIED**
+- **L173** - **Plasma exchange** — open-label only; 8 of 9 responded, peak at 10–15 days. For acute severe — **UNVERIFIED**
+- **L176** LEMS-specific protocol exists**; the borrowed MG regimens are **375 mg/m² IV weekly × 4** or — **UNVERIFIED**
+- **L177** **1 g IV × 2 doses two weeks apart.** Off-label. **Screen HBsAg and anti-HBc before the first — **UNVERIFIED**
+- **L181** sustained remission does occur — 5 of 63 patients stopped everything at a median of 4 years — **UNVERIFIED**
+- **L195** striking (wheelchair to full mobility in 2 months) and **investigational, n=2.** — **UNVERIFIED**
+- **L199** neuromuscular blocking drugs. In a series of 37 patients across 60 operations, **4 (11%) had — **UNVERIFIED**
+- **L250** survival than SCLC alone** — median **17 vs 7 months** in the Dutch registry and **18 vs 9.5** in a — **UNVERIFIED**
+- **L251** prospective UK cohort, with **5-year survival 21% vs 4.4%.** The advantage persists in extensive — **UNVERIFIED**
+- **L267** - **Firdapse (amifampridine) FDA approval, 2018**, expanded to **children ≥6 years** — the only — **UNVERIFIED**
+- **L269** - **P/Q-type VGCC antibody** — the confirmatory serology (**~90%**); **SOX1** for cancer risk. — **UNVERIFIED**
+- **L270** - **DELTA-P score** — stratifies SCLC risk at diagnosis (prospective AUC 82.5%). — **UNVERIFIED**
+- **L271** - **2021 PNS-Care criteria** — 4–6 monthly surveillance for 2 years in high-risk phenotypes. — **UNVERIFIED**
+
+## docs/nmj/nerve-agent.md
+
+- **L64** - **Atropine 1–3 mg IV** (2–6 mg in severe cases), **doubling every 3–5 minutes** until — **UNVERIFIED**
+- **L75** - **Pralidoxime (2-PAM) 1–2 g IV** over ~15–30 min (avoid bolus-induced hypertension), then a — **UNVERIFIED**
+- **L80** no longer works. **Aging is fast for some agents (soman in ~2 minutes), slower for most OP — **UNVERIFIED**
+- **L85** - **Adult seizure rescue:** **midazolam 10 mg IM if >40 kg** when IV access is unavailable; with IV access, **diazepam 0.15–0.2 mg/kg IV (maximum 10 mg)** is an alternative. Support ventilation and follow the [status-epilepticus escalation protocol](../seizure/index.md#status-epilepticus-the-timed-escalation-ladder-the-code) for persistent seizures. — [Source 1](https://pmc.ncbi.nlm.nih.gov/articles/PMC4749120/)
+- **L91** - **ATNAA / DuoDote** — a single autoinjector combining **atropine (2.1 mg) + pralidoxime — **UNVERIFIED**
+- **L92** (600 mg)** (ATNAA is the military designation; DuoDote the civilian EMS equivalent; the older — **UNVERIFIED**
+- **L94** - **CANA (Convulsant Antidote, Nerve Agent) — diazepam 10 mg** autoinjector for seizures. — **UNVERIFIED**
+
+## docs/radiculopathy-plexopathy.md
+
+- **L14** | History of cancer (LR+ 27.9 when combined with clinical suspicion), unexplained weight loss, age >50, failure to improve within ~1 month | Malignancy / metastasis | **MRI with contrast** + cancer workup | — **UNVERIFIED**
+- **L47** 4. **Reassess on a clock:** radiculopathy not improving at **4–6 weeks** → MRI and consider ESI or surgical referral; progressive deficit at any point → escalate immediately. — **UNVERIFIED**
+- **L56** 4. **Reassess at 2–6 weeks.** Improving → continue and taper. Not improving or worsening → MRI (if not already done), ESI for severe concordant radicular pain, spine referral. — **UNVERIFIED**
+- **L57** 5. **Surgery** only for the indications below — progressive deficit, emergent compression, or persistent disabling radicular pain with a concordant lesion after an adequate nonoperative trial (~6–12 weeks). — **UNVERIFIED**
+- **L69** | **Elective** — persistent symptoms after **4–6 weeks** of failed conservative care, if the patient is a candidate for intervention or the diagnosis remains uncertain | **MRI without contrast** (cervical: "may be appropriate" even for acute uncomplicated radiculopathy, "usually appropriate" for chronic radiculopathy per the 2024 ACR cervical criteria; lumbar: after ~6 weeks of optimal medical management in surgical/intervention candidates). ACOEM: MRI at **3–4 weeks** is reasonable if an epidural is planned | — **UNVERIFIED**
+- **L82** - For plexopathy, study at about **3–4 weeks after onset** (fibrillations take ~3 weeks to appear) and repeat at about **3–6 months** to track reinnervation. — **UNVERIFIED**
+- **L86** - **Dedicated plexus MRI / MR neurography with STIR and contrast** — the main imaging study (ACR: preferred initial imaging for nontraumatic plexopathy once localization is made). Brachial plexus MRI: **sensitivity 81%, specificity 91%, accuracy 88%** vs surgery/follow-up; added information beyond exam and EDx in **45%** of patients. Lumbosacral plexus MRI changed management in **71%** of patients in one series; abnormal nerve signal correlates with active denervation on EMG. MR neurography evaluates nerve caliber/enlargement, T2/STIR hyperintensity, loss of normal fascicular architecture, enhancement, and muscle denervation edema/atrophy. — **UNVERIFIED**
+- **L97** The natural history is favorable: **75–90% of patients with chronic radiculopathy improve with nonoperative care**, and conservative care is appropriate for symptoms under about **6–8 weeks** with mild-to-moderate deficits and no progressive neurologic loss. Cervical evidence is much thinner than lumbar — most cervical recommendations are extrapolated from lumbar data. The approach is multimodal and time-limited: education + staying active, PT/exercise, and short courses of NSAIDs. Medications are short-term symptom control, not disease-modifying treatment. — **UNVERIFIED**
+- **L101** - **NSAID — ibuprofen 400–600 mg PO q6–8h** (max 2,400 mg/day Rx; 1,200 mg/day OTC) **or naproxen 500 mg PO BID** (max 1,000–1,250 mg/day), for **about 1–2 weeks, then reassess**. Lowest effective dose, shortest time. Screen for GI, renal, and cardiovascular risk; add a PPI if GI risk is high. **Avoid in CKD stage 4–5, with anticoagulants, or in uncontrolled heart failure.** — **UNVERIFIED**
+- **L102** - **Physical therapy / exercise — refer early:** directional-preference exercises and activity in the acute phase; add strengthening and neurodynamic mobilization in the subacute phase. In the Fritz trial, early PT for sciatica of <90 days improved disability and pain more than usual care. Cervical PT components: cervical/scapular stabilization and strengthening, postural and ergonomic training, neural mobilization when tolerated, selective manual therapy, traction in appropriately selected patients, progressive home exercise. — **UNVERIFIED**
+- **L103** - → No reliable improvement across **2–6 weeks**, or pain remains disabling → **Step 2**. — **UNVERIFIED**
+- **L106** - **Oral corticosteroid — only selectively, and know the split:** **prednisone 60 mg × 5 days, then 40 mg × 5 days, then 20 mg × 5 days** (Goldberg trial). Pain improves only ~**0.56/10 at <2 weeks**, with a small long-term function gain (7.4/100) and **no change in surgery rates**. **VA/DoD 2022 recommends against systemic steroids; NICE recommends against oral corticosteroids for sciatica.** Reserve for clear radicular findings (dermatomal pain/deficits, positive SLR) and counsel that the benefit is small and short-term and steroids do not reduce the need for surgery. Adverse effects: insomnia, nervousness, increased appetite; watch glucose in diabetes. Best dose is unknown — avoiding higher doses may reduce harm. **Do not use a Medrol Dosepak or prednisone taper routinely for lumbar radiculopathy.** — **UNVERIFIED**
+- **L107** - **Cervical exception:** the limited cervical RCT evidence is more favorable — **prednisolone 50 mg/day × 5 days, tapered over the subsequent 5 days** produced clinically important improvement in **75.8% vs 30% with placebo** (better pain and Neck Disability Index scores) — but this was a **single small trial of 59 patients**, so a short course is a selective option for severe cervical radiculopathy, not a default. — **UNVERIFIED**
+- **L108** - **Epidural steroid injection (ESI) — image-guided transforaminal or interlaminar,** usually in the subacute phase after **~4–6 weeks** of failed conservative care, or to bridge severe pain. Probably reduces short-term (~2–6 week) pain and disability (AAN 2025: probably effective short-term; **NNT ~4 for pain and ~6 for disability over ≤3 months** in cervical/lumbar radiculopathy; long-term pain benefit is uncertain). A 2026 systematic review found even lower doses — **dexamethasone 4 mg, methylprednisolone 20 mg, triamcinolone 10 mg** — sometimes produced outcomes statistically indistinguishable from higher doses. **Do NOT prescribe a predetermined "series of three"** — repeat only on meaningful response to the first procedure. **Cervical transforaminal injections with particulate steroid carry rare but catastrophic neurovascular risk — nonparticulate dexamethasone is preferred.** — **UNVERIFIED**
+- **L114** **Elective referral** (neurologically stable degenerative radiculopathy) becomes reasonable with **persistent disabling radicular pain or neurologic dysfunction despite an adequate nonoperative trial (~6–12 weeks) and imaging demonstrating a concordant compressive lesion**. Cervical: spine referral/interventional evaluation when symptoms fail to improve after roughly **4–8 weeks**; NASS-derived recommendations describe a **6–12 week** nonoperative period as reasonable in stable patients. Lumbar: ACR identifies patients with persistent or progressive symptoms after **~6 weeks** of optimal medical management who are candidates for surgery/intervention. — **UNVERIFIED**
+- **L116** **Results are better when leg or arm pain predominates over axial pain. Fusion is not indicated for axial low back pain alone.** Cervical caveat: most patients improve whatever the treatment — in RCTs of surgery vs standardized nonsurgical care, surgery gave only a small benefit for disc herniation and no significant benefit for spondylosis at 12 months. — **UNVERIFIED**
+- **L119** - **Routine gabapentinoids for lumbar sciatica** — pregabalin (PRECISE trial, titrated up to **600 mg/day**) was **no better than placebo** for acute or chronic sciatica, with more adverse effects and misuse potential. NICE recommends against them. Reconsider or avoid; use only for another compelling neuropathic indication. — **UNVERIFIED**
+- **L135** | **NSAID** | Ibuprofen **400–600 mg PO q6–8h** or naproxen **500 mg PO BID**, ~1–2 weeks | Small short-term benefit for pain/disability; low-quality evidence of slight global improvement in sciatica; all NSAIDs perform about the same; systematic reviews show little/no clear improvement in pain or disability vs placebo for true radicular leg pain | Direct RCT evidence limited; commonly used for short-term nociceptive/inflammatory pain | Reasonable first-line analgesic if no GI/renal/CV contraindication — symptomatic, not disease-modifying | — **UNVERIFIED**
+- **L136** | **Gabapentin / pregabalin** | If used for another compelling neuropathic indication: gabapentin often starts **300 mg daily → BID → TID**; pregabalin **75 mg BID** | PRECISE (NEJM 2017): no better than placebo for acute or chronic sciatica; more adverse effects | Controlled evidence lacking; reviews still mention them for persistent radicular pain | **Do not start routinely**, especially for lumbar sciatica | — **UNVERIFIED**
+- **L137** | **Oral corticosteroid** | Prednisone **60 mg × 5 d → 40 mg × 5 d → 20 mg × 5 d** (Goldberg) | Pain ~0.56/10 better at <2 weeks; function +7.4/100; no change in surgery rates; VA/DoD and NICE recommend against | Prednisolone **50 mg/day × 5 d, taper over 5 d**: 75.8% vs 30% improved (single trial, n=59) | Selective only, for clear radicular findings; counsel benefit is small and short-term | — **UNVERIFIED**
+- **L138** | **Epidural steroid injection** | Image-guided transforaminal or interlaminar, subacute phase | Probably reduces short-term (2–6 week) pain/disability; AAN 2025: probably effective short-term | Cervical: more caution; nonparticulate dexamethasone preferred | Bridge for severe disabling radicular pain — restores sleep, mobility, work, rehab participation; not definitive treatment of the compressive lesion | — **UNVERIFIED**
+- **L139** | **PT / exercise** | Early referral; directional-preference exercise acutely; strengthening + neurodynamic mobilization subacutely | Early PT beat usual care for disability (Fritz trial, sciatica <90 days) | Stage-based expert consensus; technique superiority uncertain | **Centerpiece of conservative care**; universally recommended first-line nonpharmacologic care | — **UNVERIFIED**
+- **L147** | Success (Odom), FACET RCT | 76% at 1 year; 74% at 2 years | 88% at 1 year; 81% at 2 years (noninferior) | — **UNVERIFIED**
+- **L149** | Neck pain | Somewhat worse; new cervicalgia 34% | Less neck pain (statistically better, small difference); 23% | — **UNVERIFIED**
+- **L150** | Serious surgery-related adverse events, 2 years (FACET) | 9% (7 reoperations) | 8% (9 reoperations) | — **UNVERIFIED**
+- **L151** | Reoperation at 2 years | ~6% | ~8% | — **UNVERIFIED**
+- **L152** | Approach-specific complications | Dysphagia, dysphonia/RLN injury, esophageal/vascular injury, pseudarthrosis, implant failure, adjacent-segment disease | Early posterior neck pain, wound infection (2.2% vs 0.2%), dehiscence, pulmonary embolism, recurrent foraminal herniation | — **UNVERIFIED**
+- **L153** | 5-year revision (national database, n≈32,000) | 14.8% | 19.0% | — **UNVERIFIED**
+- **L154** | Length of stay / cost | Longer, higher | ~1 day shorter; ~$9,100 less | — **UNVERIFIED**
+- **L162** | **Effect** | Leg-pain relief good to excellent in most; good/excellent result in **~70–90%** of appropriately selected patients. In chronic sciatica lasting 4–12 months, beat standardized nonoperative care at 1 year. SPORT (disc herniation, radiculopathy ≥6 weeks): faster and greater improvement in leg pain, function, and disability than continued nonoperative treatment in as-treated analyses; advantage persisted through 8 years (adjusted 8-year effects: SF-36 bodily pain +10.9, physical function +10.6, ODI −11.2). Even so, **30–70% report some ongoing pain** | Decompression improves pain over conservative care at **3–6 months**; benefit lasts but fades by **2–4 years**. Adding fusion gives no benefit over decompression alone for stenosis without instability | — **UNVERIFIED**
+- **L163** | **Complications** | Overall ~10%: recurrent herniation ~7% (up to ~10% in other series; 4–6% in pooled series), reoperation ~4–8%, durotomy ~2–4%, deep infection <1%, wrong-level surgery 0.7%, nerve-root injury <1%. Open, micro, and endoscopic techniques give similar 2-year results; endoscopic shortens hospital stay but may carry more durotomy and reherniation | SPORT lumbar stenosis: dural tear ~9%, wound infection 2%, reoperation **13% at 4 years, 18% at 8 years** (recurrent stenosis or progressive spondylolisthesis ~half of reoperations). National registry: overall complication rate **16.8%** (durotomy, urinary retention, wound infection common); risk rises with age, higher ASA class, multilevel surgery, longer operative time. Wider exposure → more blood loss, durotomy (higher in revision surgery and elderly), iatrogenic instability or late spondylolisthesis if facets are taken | — **UNVERIFIED**
+- **L178** Treat the cause; supportive care is the mainstay. **Neuropathic pain drugs (gabapentin, pregabalin, duloxetine, TCAs)** — gabapentin often starts **300 mg daily → BID → TID**, pregabalin **75 mg BID** — plus **PT/OT, bracing**, and glycemic control in diabetic LRPN. — **UNVERIFIED**
+- **L182** | **Traumatic avulsion / rupture** | **Refer promptly after suspected avulsion/rupture**; reconstruction is often time-sensitive within ~3–6 months, or when there is no clinical or EMG reinnervation. Options: nerve grafts, nerve transfers | — **UNVERIFIED**
+- **L212** Uncomplicated radiculopathy is an **outpatient diagnosis** — treat, start PT, arrange follow-up, and give a written plan with the reassessment clock (2–6 weeks) and return precautions (new weakness, saddle numbness, bladder/bowel change, fever). Admit for red flags, myelopathy, cauda equina, or infection. Suspected plexopathy is outpatient unless the cause needs admission (tumor, abscess, hematoma) — but the workup (EMG/NCS + plexus MRI + etiologic labs) should not wait, and suspected traumatic avulsion needs **prompt** specialist referral; 3–6 months is a reconstruction window, not a referral target. — **UNVERIFIED**
+- **L227** - **The diagnosis is clinical; imaging is timed, not routine.** Without red flags, a focused exam plus a trial of conservative care is the right first move — routine early MRI does not improve outcomes and increases downstream procedures. MRI earns its place at ~4–6 weeks if symptoms persist and the result will change management, or immediately for cauda equina, myelopathy, infection, or progressive deficit. — **UNVERIFIED**
+- **L230** - **Surgery is a pathology choice.** PCF is noninferior to ACDF for single-level cervical radiculopathy (FACET: 2-year success 81% vs 74%), trading dysphagia and fusion for more wound infection and a higher 5-year revision rate (19.0% vs 14.8%). Lumbar microdiscectomy and laminectomy are not competitors — one treats herniation, the other stenosis — and SPORT still anchors the long-term picture (8-year ODI advantage −11.2 points for discectomy). — **UNVERIFIED**
+- **L231** - **Plexopathy is a localization exercise, not a spine problem.** Multi-nerve, multi-root, plexus-coherent deficits plus the SNAP/paraspinal rule (reduced SNAPs, normal paraspinals) separate it from radiculopathy; dedicated plexus MRI/MR neurography is the imaging test (ACR), and brachial plexus MRI runs 81% sensitive / 91% specific. The commonest lumbosacral cause in a 2026 tertiary series was diabetic LRPN — a radiculoplexus neuropathy, so paraspinal denervation does not exclude a plexus process. — **UNVERIFIED**
+
+## docs/seizure/asm.md
+
+- **L40** | **Levetiracetam** | Broad | SV2A | 500–1500 mg BID | **Irritability/mood/psychosis**; renal dose | None (clean) | — **UNVERIFIED**
+- **L41** | **Brivaracetam** | Labeled for focal seizures; generalized use off-label | SV2A (higher affinity) | 25–100 mg BID | Fewer behavioral AEs than LEV; **don't co-prescribe with LEV** (shared target); useful **switch from LEV ~10:1–15:1, no titration** | Minimal | — **UNVERIFIED**
+- **L42** | **Lamotrigine** | Broad | Na-channel + others | 100–200 mg BID (titrate **slowly**) | **Rash/SJS** (fast titration/valproate); **cardiac-conduction/arrhythmia warning in relevant heart disease**; **may worsen myoclonus in JME (~4–8%)**; low-risk in pregnancy | None (UGT; valproate ↑ it, inducers ↓ it) | — **UNVERIFIED**
+- **L43** | **Valproate** | Broad | Multiple (GABA, etc.) | 500–1500 mg/day (÷) | **Teratogen**, hepatotoxicity, **hyperammonemia**, pancreatitis, tremor, weight, thrombocytopenia | **Inhibitor** (↑ lamotrigine) | — **UNVERIFIED**
+- **L44** | **Topiramate** | Broad | Multiple | 50–200 mg BID | **Word-finding/cognition**, paresthesias, **kidney stones, glaucoma**, weight loss, teratogen (cleft) | Weak inducer (high dose) | — **UNVERIFIED**
+- **L45** | **Zonisamide** | Broad | Na/Ca | 100–400 mg/day | Stones, oligohidrosis, cognition, weight loss; **sulfa** | Minimal | — **UNVERIFIED**
+- **L46** | **Perampanel** | Broad | AMPA antagonist | 4–12 mg **qHS** | **Black-box: behavioral/psychiatric**; dizziness | Minor | — **UNVERIFIED**
+- **L47** | **Carbamazepine** | Narrow | Na-channel | 600–1200 mg/day (÷) | **HLA-B\*15:02 (SJS)**, hyponatremia, leukopenia, **aplastic anemia**, diplopia; auto-induction | **Strong inducer** | — **UNVERIFIED**
+- **L48** | **Oxcarbazepine** | Narrow | Na-channel | 900–2400 mg/day (÷) | **Hyponatremia**, rash (HLA-B\*15:02), diplopia | Moderate inducer | — **UNVERIFIED**
+- **L49** | **Eslicarbazepine** | Narrow | Na-channel | 800–1600 mg **daily** | Hyponatremia; once-daily, fewer interactions | Mild inducer | — **UNVERIFIED**
+- **L50** | **Phenytoin** | Narrow* | Na-channel | 300–400 mg/day (**level 10–20**) | **Zero-order kinetics**, gingival hyperplasia, ataxia/nystagmus, hirsutism, SJS, cerebellar atrophy | **Strong inducer** | — **UNVERIFIED**
+- **L51** | **Lacosamide** | Focal; also adjunctive primary generalized tonic-clonic | Na-channel (slow) | 100–200 mg BID | **PR prolongation** (ECG); well tolerated | Minimal | — **UNVERIFIED**
+- **L52** | **Gabapentin** | Narrow | α2δ Ca-channel | 300–1200 mg TID | Sedation, weight, edema; renal dose | None | — **UNVERIFIED**
+- **L53** | **Pregabalin** | Narrow | α2δ Ca-channel | 75–300 mg BID | Sedation, weight, edema; **misuse potential (Schedule V)**; renal dose | None | — **UNVERIFIED**
+- **L54** | **Ethosuximide** | Absence only | T-type Ca | 500–1500 mg/day | GI upset, idiosyncratic; **absence only** | Minimal | — **UNVERIFIED**
+- **L55** | **Phenobarbital / primidone** | Broad | GABA-A | PB 60–180 mg/day (**level 20–40**) | Sedation, dependence, cognition | **Strong inducer** | — **UNVERIFIED**
+- **L56** | **Cenobamate** | Narrow (focal; generalized trials ongoing) | Na + GABA-A | Titrate to 200 (–400) mg **daily** | **DRESS: 12.5 mg/day for 2 weeks, then label titration every 2 weeks**; **contraindicated familial short-QT syndrome**; baseline LFTs; strong observational focal effectiveness | Inhibits/induces (adjust others) | — **UNVERIFIED**
+- **L71** | **Levetiracetam** | PO (tab/soln/XR), **IV** | **1:1** (same total daily dose), infuse over 15 min | — **UNVERIFIED**
+- **L75** | **Lacosamide** | PO, **IV** | **1:1**; infuse ~15–30 min (watch PR interval) | — **UNVERIFIED**
+- **L102** to surgery is still ~20 years despite better outcomes with earlier referral; don't sit on it (see — **UNVERIFIED**
+- **L109** - **Stop/withdraw** only after a **sustained seizure-free period (commonly ~2–4 years)** with a — **UNVERIFIED**
+- **L120** (SJS/TEN, DRESS, maculopapular) and is common across ethnicities (~5–9% Japanese, ~2–3% — **UNVERIFIED**
+- **L144** - **Folic acid ≥0.4 mg/day** for anyone of childbearing potential on an ASM. — **UNVERIFIED**
+- **L146** levels, then **taper back within ~2–3 weeks postpartum** to avoid toxicity. (Levetiracetam and — **UNVERIFIED**
+- **L154** seizures dose-dependently in a phase-2b RCT (~53% vs ~18% placebo) with **no titration needed** — **UNVERIFIED**
+- **L161** For **status epilepticus** loading doses (levetiracetam 60 mg/kg, fosphenytoin 20 mg PE/kg, valproate — **UNVERIFIED**
+- **L162** 40 mg/kg, etc.) and the timed escalation, see the **[seizure & status epilepticus page](index.md).** — **UNVERIFIED**
+- **L188** valproate and topiramate**; folic acid ≥0.4 mg; lamotrigine clearance rises up to ~2.7× and must be — **UNVERIFIED**
+- **L191** (~32% at 12 mo vs 11–17% for brivaracetam/lacosamide/perampanel; slow titration for DRESS). — **UNVERIFIED**
+
+## docs/seizure/epilepsy-syndromes.md
+
+- **L36** study favored it (treatment-failure HR ~0.47), and **lamotrigine — **UNVERIFIED**
+- **L70** seizure-freedom ~53–62%, somewhat below ATL but **potentially shorter stay and different morbidity**) — selection, including dominant-side — **UNVERIFIED**
+- **L90** treatment.** ILAE dropped **"benign" → "self-limited"** for a reason: **~1–8% evolve into — **UNVERIFIED**
+- **L133** - **Screen for depression and anxiety** — they affect **~20–30% of adults with epilepsy** and drive — **UNVERIFIED**
+
+## docs/seizure/index.md
+
+- **L17** **5 min for a generalized tonic-clonic** seizure, but **10 min for focal SE with impaired — **UNVERIFIED**
+- **L18** awareness** and 10–15 min for absence; **or ≥2 seizures without recovery** between them. **t2** — **UNVERIFIED**
+- **L19** (risk of long-term injury) is ~30 min for GTC. Bottom line: **GTC at 5 min = treat now**, and — **UNVERIFIED**
+- **L20** don't wait 30 minutes for anything. — **UNVERIFIED**
+- **L22** cEEG.** Persistent altered consciousness after visible convulsions stop is NCSE in up to ~20%. — **UNVERIFIED**
+- **L30** !!! orderset "Step 0 — Stabilize (0–5 min)" — **UNVERIFIED**
+- **L32** - **Point-of-care glucose** — if low, **D50W 50 mL IV** (or local IV dextrose protocol), with prompt — **UNVERIFIED**
+- **L35** - **100 mg IV is prophylaxis.** If Wernicke encephalopathy is *suspected* rather than merely — **UNVERIFIED**
+- **L37** **thiamine 500 mg IV over 30 min every 8 h**. See — **UNVERIFIED**
+- **L42** !!! orderset "Step 1 — First-line benzodiazepine (5–20 min) — give the FULL dose" — **UNVERIFIED**
+- **L46** - **IV lorazepam 0.1 mg/kg (max 4 mg/dose), may repeat ×1** — first choice if IV is in. — **UNVERIFIED**
+- **L47** - **No IV? IM midazolam 10 mg** (>40 kg) — **RAMPART** showed IM midazolam is **at least as good as — **UNVERIFIED**
+- **L49** - **IV diazepam 0.15–0.2 mg/kg (max 10 mg)**, or **rectal diazepam 0.2 mg/kg** if no IV. — **UNVERIFIED**
+- **L51** !!! orderset "Step 2 — Second-line ASM (20–40 min) — the three are EQUIVALENT (ESETT)" — **UNVERIFIED**
+- **L52** **ESETT (NEJM 2019) found levetiracetam, fosphenytoin, and valproate stop ~45–47% of — **UNVERIFIED**
+- **L55** - **Levetiracetam 60 mg/kg IV (max 4500 mg)** — fewest interactions/contraindications; a good — **UNVERIFIED**
+- **L57** - **Fosphenytoin 20 mg PE/kg IV (ESETT maximum 1500 mg PE; ≤150 mg PE/min)** — **avoid** in hypotension/arrhythmia; watch — **UNVERIFIED**
+- **L59** - **Valproate 40 mg/kg IV (ESETT maximum 3000 mg)** — **avoid** in hepatic disease and — **UNVERIFIED**
+- **L61** - *(Phenobarbital 15 mg/kg IV if none of the above is available.)* — **UNVERIFIED**
+- **L68** !!! orderset "Step 3 — Refractory status (>40 min, or 2 lines failed) — anesthetize + cEEG" — **UNVERIFIED**
+- **L75** - **Midazolam** — load 0.2 mg/kg, then 0.05–2.9 mg/kg/h. — **UNVERIFIED**
+- **L76** - **Propofol** — load ~1–2 mg/kg, then 1–15 mg/kg/h (watch **propofol-infusion syndrome** — — **UNVERIFIED**
+- **L82** !!! orderset "Step 4 — Super-refractory (>24 h, or recurs on weaning)" — **UNVERIFIED**
+- **L83** - **Pentobarbital/thiopental** infusion (load 5 mg/kg → titrate; **hypotension is expected** — — **UNVERIFIED**
+- **L91** - Wean anesthetics slowly once seizure-free ~24–48 h; neurology + epileptology on board. — **UNVERIFIED**
+- **L93** !!! orderset "Copy-paste — first 20 minutes" — **UNVERIFIED**
+- **L95** - **Lorazepam 4 mg IV** (or **midazolam 10 mg IM** if no IV) — **repeat ×1** if seizing at ~5 min. — **UNVERIFIED**
+- **L96** - **Levetiracetam 60 mg/kg IV** (or fosphenytoin/valproate by patient) as the seizure continues. — **UNVERIFIED**
+- **L100** - **INH (isoniazid):** benzodiazepine **+ pyridoxine (vitamin B6) ~70 mg/kg, max 5 g.** — **UNVERIFIED**
+- **L123** - **EEG** — best **within 48 h** (raises yield); urgent if consciousness stays altered. — **UNVERIFIED**
+- **L127** Immediate ASM **reduces recurrence over the first 2 years but does NOT improve long-term remission — **UNVERIFIED**
+- **L128** or quality of life.** Recurrence after a first unprovoked seizure is **~21–45% at 2 years.** — **UNVERIFIED**
+- **L133** (weigh ASM adverse effects, ~7–31%). — **UNVERIFIED**
+- **L161** Among the newer adjuncts, **cenobamate** gives the **best chance of seizure freedom** (~32% at — **UNVERIFIED**
+- **L162** 12 months; out-performs brivaracetam, lacosamide, and perampanel on 50%-responder rate even — **UNVERIFIED**
+- **L184** (commonly ~3–12 months; 6 months is typical)**; some states have **mandatory physician reporting.** — **UNVERIFIED**
+- **L193** - **Midazolam nasal spray (Nayzilam), age ≥12:** **5 mg** in one nostril. If prescribed and needed, **5 mg** in the other nostril after **10 minutes**. Maximum **2 doses** per cluster. Do not give the second dose with trouble breathing or unusually excessive sedation. [FDA labeling on DailyMed](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=2b29422e-54d5-4a49-8522-e9cf752368c3) — [Source 1](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=2b29422e-54d5-4a49-8522-e9cf752368c3)
+- **L194** - **Diazepam nasal spray (Valtoco), age ≥2:** use the labeled age/weight device table (**0.5 mg/kg** age 2–5, **0.3 mg/kg** age 6–11, **0.2 mg/kg** age ≥12, rounded to the dispensed device dose). If prescribed, a second dose is **at least 4 h** later. Maximum **2 doses** per episode. [FDA prescribing information](https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/211635Orig1s012corrected_lbl.pdf) — [Source 1](https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/211635Orig1s012corrected_lbl.pdf)
+- **L197** **Write the EMS trigger explicitly.** A convulsion lasting 5 minutes, recurring without recovery, or associated with breathing difficulty needs emergency care. The interval before a repeat outpatient rescue dose does not justify waiting to call EMS. — [Source 1](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=2b29422e-54d5-4a49-8522-e9cf752368c3) · [Source 2](https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/211635Orig1s012corrected_lbl.pdf)
+- **L229** - **Treat status on a clock, not on a hunch.** The **AES 2016** algorithm: stabilize (0–5 min) → — **UNVERIFIED**
+- **L230** **full-dose benzo (5–20 min)** → **second-line ASM (20–40 min)** → **anesthetize + cEEG (>40 min).** — **UNVERIFIED**
+- **L232** (~45–47% each); **choose by comorbidity**, and give the **full** weight-based load. Levetiracetam is — **UNVERIFIED**
+
+## docs/stroke/carotid-disease.md
+
+- **L12** blindness)** in the **last 6 months.** These patients have a **high early recurrence risk** — — **UNVERIFIED**
+- **L13** **revascularize within 2 weeks**, the window where benefit is greatest. Don't let a "stable" — **UNVERIFIED**
+- **L20** - **Symptomatic categories:** **70–99%** (clear benefit), **50–69%** (benefit in selected patients), — **UNVERIFIED**
+- **L21** **<50%** (medical therapy only). **Asymptomatic:** typically discussed at **≥70%.** — **UNVERIFIED**
+- **L28** **A *symptomatic* low-grade (<50%) plaque with IPH/ulceration can be the culprit** even though it — **UNVERIFIED**
+- **L39** 1. **Is it symptomatic?** (ipsilateral TIA/stroke/amaurosis in 6 months) — if yes, this is urgent. — **UNVERIFIED**
+- **L42** 4. **Symptomatic 70–99% (or selected 50–69%): revascularize within 2 weeks** — CEA first-line. — **UNVERIFIED**
+- **L43** 5. **Asymptomatic ≥70%:** shared decision — intensive medical therapy vs. revascularization by risk / — **UNVERIFIED**
+- **L50** - **High-intensity statin — atorvastatin 80 mg**, target **LDL <70** (add ezetimibe/PCSK9 as needed). — **UNVERIFIED**
+- **L59** - **70–99% → revascularize, ideally within 2 weeks** of the event (**CEA** first-line for — **UNVERIFIED**
+- **L61** - **50–69% → revascularize in *selected* patients** — greater benefit in **men, older patients, — **UNVERIFIED**
+- **L63** - **<50% → medical therapy only.** — **UNVERIFIED**
+- **L66** !!! orderset "Asymptomatic stenosis (≥70%) — a shared decision" — **UNVERIFIED**
+- **L68** **revascularization** when peri-procedural stroke/death risk is **<3%** and life expectancy is — **UNVERIFIED**
+- **L69** **>5 years**, weighing plaque features and progression. — **UNVERIFIED**
+- **L71** intensive medical management** in asymptomatic ≥70% stenosis — **carotid stenting + IMM reduced — **UNVERIFIED**
+- **L88** <2 weeks)** with medical therapy started immediately. Asymptomatic → optimize medical therapy and a — **UNVERIFIED**
+- **L103** - **Symptomatic 70–99% stenosis = revascularize within 2 weeks** (CEA first-line; NASCET/ECST) — — **UNVERIFIED**
+- **L105** - **50–69% symptomatic** benefits *selected* patients (men, older, hemispheric events); **<50%** — **UNVERIFIED**
+- **L115** imaging) raises risk and can make a **symptomatic <50% plaque** the culprit; don't miss a **carotid — **UNVERIFIED**
+
+## docs/stroke/cerebral-amyloid-angiopathy.md
+
+- **L34** shows **~75% sensitivity / 95% specificity overall — but only ~55% sensitivity for *non-ICH* — **UNVERIFIED**
+- **L35** (cognitive) presentations** vs ~90% for ICH. CAA can be advanced enough to impair cognition — **UNVERIFIED**
+- **L38** on CT (spec ~87%, sens ~81%) support CAA in a lobar bleed — and they're now **prognostic**: an — **UNVERIFIED**
+- **L39** IPD meta-analysis tied the Edinburgh risk tiers to **5-year recurrent-ICH rates of ~12% / 16% / — **UNVERIFIED**
+- **L40** 26%** (low/intermediate/high). Best used as a **rule-in** tool. — **UNVERIFIED**
+- **L65** re-bleeds at **~7–8%/year** vs ~1% for non-CAA ICH, amplified by cortical superficial siderosis. — **UNVERIFIED**
+- **L71** stroke and recurrent-ICH each **~2%/year** (~4% in the CAA/parenchymal-hemorrhage subgroup); — **UNVERIFIED**
+- **L74** risk–benefit balance is best around **~7–8 weeks** post-bleed. — **UNVERIFIED**
+- **L83** **Highest risk (~7.4%/year):** multifocal/disseminated **cSS**, multiple prior ICHs, **APOE — **UNVERIFIED**
+- **L85** ~3.8), and baseline cSS / hemorrhagic presentation predict recurrence (OR ~3.4 / ~5.0). — **UNVERIFIED**
+- **L86** **Lowest risk (~6% over 5 years):** probable CAA on **microbleeds alone** (no ICH, no cSS). — **UNVERIFIED**
+- **L97** face of CAA. Immunosuppression **clearly helps** (JAMA Neurol series): treated → **94% clinical vs — **UNVERIFIED**
+- **L98** 50% untreated** improvement, and **far less recurrence (26% vs 71%, HR ~0.19).** — **UNVERIFIED**
+- **L100** - **First episode:** **IV methylprednisolone 1 g/day × 3–5 days → oral prednisone ~60 mg tapered — **UNVERIFIED**
+- **L109** - **APOE ε4 homozygotes:** ARIA-E ~**33–45%** (vs ~5–10% in non-carriers), with reported fatal — **UNVERIFIED**
+- **L111** - **Pre-treatment microhemorrhages (≥2–4)** raise ARIA-E (~OR 2.5); **cortical superficial — **UNVERIFIED**
+- **L112** siderosis** raises it (~OR 2.2) and is generally a **contraindication.** — **UNVERIFIED**
+- **L138** - **Boston criteria v2.0 (2022)** added **cSS and non-hemorrhagic markers** (diagnose without symptomatic macrohemorrhage; MRI hemorrhagic markers remain required) — but it's **insensitive for cognitive (non-ICH) presentations (~55%).** **Edinburgh CT — **UNVERIFIED**
+- **L143** - **Recurrence is *not* uniformly "low"** — ~7.4%/year in the high-risk (cSS/multiple ICH/APOE) — **UNVERIFIED**
+- **L144** group; ~6%/5 y in microbleeds-only. **cSS is the key danger marker** — also for **thrombolysis** — **UNVERIFIED**
+- **L146** - **CAA-related inflammation is immunosuppression-responsive** — treat it (94% vs 50% improve; — **UNVERIFIED**
+- **L149** - **On the horizon:** vascular Aβ deposits begin **30–40 years before the first ICH** (long — **UNVERIFIED**
+
+## docs/stroke/cerebral-venous-thrombosis.md
+
+- **L26** D-dimer sensitivity is ~90–97%, but **~10% of confirmed CVT has a normal D-dimer** — especially — **UNVERIFIED**
+- **L52** - **Therapeutic LMWH** (e.g., enoxaparin 1 mg/kg SC q12h) is **first-line acutely** — preferred — **UNVERIFIED**
+- **L70** life-saving — operate EARLY (within ~48 h);** delay worsens outcomes. **DECOMPRESS2** (n=118): — **UNVERIFIED**
+- **L71** **~36% independent (mRS 0–2) and ~34% mortality at 12 months**, and **~79% of survivors judged — **UNVERIFIED**
+- **L81** - **IVIG 1 g/kg × 2 days** (± corticosteroids) — immunomodulation **lowers mortality** (≈29% vs 70%). — **UNVERIFIED**
+- **L96** - **Provoked (transient factor, e.g., estrogen):** **3–6 months.** — **UNVERIFIED**
+- **L97** - **Unprovoked:** **6–12 months.** — **UNVERIFIED**
+- **L100** patient-years** (cumulative ~8% at 2 y, ~12% at 5 y). **Highest-risk → favor longer/indefinite — **UNVERIFIED**
+- **L114** Most patients do well functionally — **~80–90% reach mRS 0–2** — but the mRS **hides a real chronic — **UNVERIFIED**
+- **L118** disturbance.** ~**42% had not returned to work/school at 6 months** despite most being — **UNVERIFIED**
+- **L120** - **Epilepsy develops in >10%** — higher with **seizures at onset, hemorrhagic lesions, superior — **UNVERIFIED**
+- **L123** - **Dural arteriovenous fistula** is a rare late complication (~2%) — consider it for new pulsatile — **UNVERIFIED**
+- **L149** ~10%, esp. isolated headache/subacute) — image low- *or* high-probability patients. **SWI/GRE** for — **UNVERIFIED**
+- **L158** life-saving** for a herniating venous infarct — **operate early** (DECOMPRESS2: ~36% independent, — **UNVERIFIED**
+- **L161** (>10%), and a large return-to-work gap despite good mRS. Follow with repeat imaging and QoL attention. — **UNVERIFIED**
+
+## docs/stroke/cervical-artery-dissection.md
+
+- **L32** - **Look for fibromuscular dysplasia** — present in **~6–14%** of cervical dissections (up to — **UNVERIFIED**
+- **L33** **~40%** have FMD in ≥1 arterial bed on whole-body CTA), and FMD raises recurrent-dissection — **UNVERIFIED**
+- **L38** imperfecta) is found in **<1%** of dissections, but **>50%** have subtle ultrastructural — **UNVERIFIED**
+- **L48** **3–6 months** (below). — **UNVERIFIED**
+- **L50** 5. **Re-image at ~3–6 months**; stop or step down based on healing and residual risk. — **UNVERIFIED**
+- **L59** (n≈5,000) found **anticoagulation lowered ischemic stroke (RR ~0.63) but roughly *doubled* major — **UNVERIFIED**
+- **L60** bleeding (RR ~2.25)** — so match the drug to the patient: — **UNVERIFIED**
+- **L69** a **short course of DAPT (21–90 days) → single antiplatelet** is reasonable (analogous to — **UNVERIFIED**
+- **L70** minor-stroke/TIA data; ~44% of CADISS patients got dual). — **UNVERIFIED**
+- **L73** and **consider switching to an antiplatelet before ~180 days** to cut late bleeding risk. — **UNVERIFIED**
+- **L74** - **Start early — recurrent ischemic events cluster in the first weeks** (~87% within 30 days). — **UNVERIFIED**
+- **L79** **2-year recurrent-dissection rate ~3.2%**, median time ~53 days (~half within 2 months); — **UNVERIFIED**
+- **L83** ~9.9), prior stroke (~7.3), presentation <7 days (~3.0), occlusive dissection (~2.3).** — **UNVERIFIED**
+- **L90** TITAN/ETIS registry data showed **higher reperfusion (89% vs 68%) but no better 90-day outcome** — **UNVERIFIED**
+- **L118** **anticoagulation lowers ischemic stroke (~RR 0.63) but ~doubles major bleeding** — so **anticoagulate — **UNVERIFIED**
+- **L121** patients. **Prefer a DOAC** if anticoagulating; consider stepping to an antiplatelet by ~180 days. — **UNVERIFIED**
+- **L122** - **Start early** — recurrent ischemic events cluster in the **first 30 days**. — **UNVERIFIED**
+- **L126** - **Recurrence is uncommon (~3% at 2 y) and usually benign** (STOP-CAD 2026); predictors = young age, — **UNVERIFIED**
+- **L127** migraine, FMD. **Image all vessels for FMD** (~6–14%); refer genetics for syndromic/recurrent/familial. — **UNVERIFIED**
+
+## docs/stroke/index.md
+
+- **L37** 5. **Two large-bore IVs.** Manage **BP to <185/110** *only if* pursuing lytic (labetalol 10–20 mg — **UNVERIFIED**
+- **L38** IV or nicardipine gtt 5–15 mg/h). — **UNVERIFIED**
+- **L50** | Door → stroke team / physician | ≤10–15 min | — **UNVERIFIED**
+- **L51** | **Door → CT initiated** | **≤25 min** | — **UNVERIFIED**
+- **L52** | Door → CT read | ≤45 min | — **UNVERIFIED**
+- **L53** | **Door → needle (thrombolysis)** | **≤60 min (standard); ≤45 min aspirational** | — **UNVERIFIED**
+- **L54** | Door → arterial puncture (EVT) | ≤90 min (direct arrivals) | — **UNVERIFIED**
+- **L55** | Door-in–door-out (transfer for EVT) | ≤60 min | — **UNVERIFIED**
+- **L57** *The published guideline standard is **door-to-needle ≤60 min**, with **≤45 min** aspirational; — **UNVERIFIED**
+- **L77** *NIHSS ≤3 = "minor"; ≥6 with cortical signs (gaze, aphasia, neglect) predicts a **large-vessel — **UNVERIFIED**
+- **L93** !!! orderset "IV thrombolysis — offer within 4.5 h of LKW (Class 1)" — **UNVERIFIED**
+- **L94** **Two agents, co-equal Class 1 within 4.5 h (2026 AHA/ASA); tenecteplase is the practical default:** — **UNVERIFIED**
+- **L96** - **Tenecteplase (TNK) 0.25 mg/kg IV, single bolus (max 25 mg)** — one push, no infusion, no — **UNVERIFIED**
+- **L98** - **Alteplase (tPA) 0.9 mg/kg IV (max 90 mg)** — **10% as a bolus over 1 min, remainder over — **UNVERIFIED**
+- **L99** 60 min.** — **UNVERIFIED**
+- **L105** 3 hours after onset."** So using TNK in the **3–4.5 h** window is **guideline-supported — **UNVERIFIED**
+- **L107** distinction and document it. (Alteplase is similar: ≤3 h labeled, 3–4.5 h by guideline/ — **UNVERIFIED**
+- **L108** evidence.) The agents are clinically co-equal across 4.5 h; the labeling nuance is a — **UNVERIFIED**
+- **L119** - **Platelets <100k, INR >1.7, elevated aPTT / therapeutic heparin ≤48 h, or a DOAC ≤48 h** — **UNVERIFIED**
+- **L121** - **Ischemic stroke, intracranial/spinal surgery, or serious head trauma within 3 months;** — **UNVERIFIED**
+- **L136** !!! quote "Consent, in plain language (benefit is at 90 days, not at the bedside)" — **UNVERIFIED**
+- **L137** Thrombolysis is the best chance of returning to independence after stroke — roughly a **~10% — **UNVERIFIED**
+- **L138** absolute increase in good outcome at 3 months.** The risk is bleeding: symptomatic — **UNVERIFIED**
+- **L139** intracranial hemorrhage — historically **~6% with alteplase** (NINDS definition) vs ~1% — **UNVERIFIED**
+- **L140** without, though **contemporary series (and the stricter ECASS-III definition) run ~2–3%, — **UNVERIFIED**
+- **L141** including with tenecteplase.** *Part of that "6% → 2–3%" gap is definitional, not purely the — **UNVERIFIED**
+- **L148** - **Unknown onset/wake-up:** MRI DWI–FLAIR mismatch supports treatment in selected patients within **4.5 h of symptom recognition**. Perfusion selection is a separate pathway for **4.5–9 h from last known well**, or **within 9 h of the midpoint of sleep** for wake-up stroke, under local protocol. — **UNVERIFIED**
+- **L149** - **4.5–24 h with LVO and unavailable EVT:** TRACE-III supports tenecteplase in a selected population with salvageable tissue. Continue to pursue transfer and use an approved stroke-team pathway. — **UNVERIFIED**
+- **L150** - **4.5–24 h without LVO:** OPTION found greater excellent outcome (44% vs 34%) but more symptomatic ICH (2.8% vs 0%) in perfusion-selected patients. This 2026 trial is not a blanket indication for late TNK. Discuss eligibility and hemorrhage risk with the stroke team. [OPTION trial](https://doi.org/10.1001/jama.2026.0210) — [Source 1](https://doi.org/10.1001/jama.2026.0210)
+- **L151** - **4.5–24 h with immediately available EVT:** avoid routine late bridging lysis. TNK-PLUS in selected anterior LVO did not improve functional independence, and ATTENTION LATE in basilar occlusion did not improve its primary functional outcome. Neither trial changes early-window lysis for otherwise eligible patients. [TNK-PLUS](https://doi.org/10.1001/jama.2026.4292) · [ATTENTION LATE](https://doi.org/10.1001/jama.2026.15496) — [Source 1](https://doi.org/10.1001/jama.2026.4292) · [Source 2](https://doi.org/10.1001/jama.2026.15496)
+- **L154** Ask specifically about this newly approved FXIa inhibitor. The label states that exposure in the **48 h before thrombolysis has not been studied** and bleeding risk is unknown. Obtain urgent stroke-team advice rather than applying the ordinary antiplatelet pathway. The label advises **withholding Sunharbo for at least 24 h after thrombolysis**. [Current prescribing information](https://labeling.bayerhealthcare.com/html/products/pi/Sunharbo_PI.pdf). — [Source 1](https://labeling.bayerhealthcare.com/html/products/pi/Sunharbo_PI.pdf)
+- **L164** - **ICA/M1, ≤6 h:** Class I with NIHSS ≥6, prestroke mRS 0–1 and **ASPECTS 3–10**. — [Source 1](https://www.ahajournals.org/doi/10.1161/STR.0000000000000513)
+- **L165** - **ICA/M1, 6–24 h:** Class I for selected patients with ASPECTS ≥6; the guideline also recommends EVT for selected **ASPECTS 3–5** patients who are **<80**, have NIHSS ≥6, prestroke mRS 0–1 and no significant mass effect. — [Source 1](https://www.ahajournals.org/doi/10.1161/STR.0000000000000513)
+- **L166** - **ICA/M1, ASPECTS 0–2 within 6 h:** EVT is reasonable in selected patients under the guideline’s additional criteria. Seek immediate neuro-IR review rather than excluding from transfer solely by the score. — [Source 1](https://www.ahajournals.org/doi/10.1161/STR.0000000000000513)
+- **L167** - **Basilar occlusion, ≤24 h:** Class I when baseline mRS 0–1, NIHSS ≥10 and PC-ASPECTS ≥6. Lower NIHSS and other exclusions require individualized assessment. — [Source 1](https://www.ahajournals.org/doi/10.1161/STR.0000000000000513)
+- **L169** These anchors do not replace the full eligibility assessment. DAWN and DEFUSE-3 remain landmark evidence, but the 2019 16–24 h Class IIa restriction is superseded. [2026 AHA/ASA guideline, sections 4.7.2–4.7.3](https://www.ahajournals.org/doi/10.1161/STR.0000000000000513). — [Source 1](https://www.ahajournals.org/doi/10.1161/STR.0000000000000513)
+- **L173** !!! orderset "Post-thrombolysis orders (first 24 h)" — **UNVERIFIED**
+- **L174** - **ICU/stroke-unit monitoring ≥24 h.** Neuro checks + **BP q15 min ×2 h → q30 min ×6 h → q1 h** — **UNVERIFIED**
+- **L175** to complete 24 h. — **UNVERIFIED**
+- **L176** - **Keep BP <180/105 ×24 h** (labetalol pushes ± nicardipine gtt). — **UNVERIFIED**
+- **L177** - **Hold all antithrombotics ×24 h** — no aspirin/clopidogrel/heparin/prophylactic anticoagulation. — **UNVERIFIED**
+- **L178** - **Avoid for 24 h:** central lines, arterial sticks, NG tube, urinary catheter, LP (or any — **UNVERIFIED**
+- **L181** - **Repeat non-contrast CT at 24 h** before starting antithrombotics. **Any acute — **UNVERIFIED**
+- **L185** Sudden decline, new headache, vomiting, or BP spike within 24 h: — **UNVERIFIED**
+- **L188** 2. **Labs:** CBC/platelets, PT/INR/aPTT, **fibrinogen**, type & cross; repeat q2–4 h until stable. — **UNVERIFIED**
+- **L189** 3. **Cryoprecipitate 10 units IV** (replaces fibrinogen — first-line); recheck fibrinogen, **goal — **UNVERIFIED**
+- **L190** >150 mg/dL**, repeat as needed. — **UNVERIFIED**
+- **L191** 4. **Tranexamic acid 1 g IV** (or aminocaproic acid) as antifibrinolytic. — **UNVERIFIED**
+- **L199** | **Before thrombolysis** | **<185/110** | Labetalol 10–20 mg IV, or nicardipine 5–15 mg/h gtt | — **UNVERIFIED**
+- **L200** | **After thrombolysis (24 h)** | **<180/105** | Same; nicardipine/clevidipine gtt if labile | — **UNVERIFIED**
+- **L202** | **No reperfusion (permissive HTN)** | **Treat only if >220/120**, then lower ~15% | Restart home meds ~24–48 h once stable | — **UNVERIFIED**
+- **L206** lowering SBP <140 mmHg in the first 24–72 h after successful EVT reperfusion** — intensive — **UNVERIFIED**
+- **L212** !!! orderset "Antiplatelet — after 24 h if lysed, or now if not lysed (and CT shows no bleed)" — **UNVERIFIED**
+- **L213** - **Aspirin 160–325 mg** within 24–48 h (rectal/NG if dysphagic) — the one proven early drug for — **UNVERIFIED**
+- **L215** - **Minor stroke (NIHSS ≤3) or high-risk TIA (ABCD² ≥4): short-course DAPT.** Start **aspirin + — **UNVERIFIED**
+- **L216** clopidogrel** (clopidogrel 300–600 mg load → 75 mg/day; ASA 81 mg) for **21 days**, then — **UNVERIFIED**
+- **L217** **single-agent** — the benefit is concentrated in the first 21 days (CHANCE/POINT); longer — **UNVERIFIED**
+- **L229** - **High-intensity statin — atorvastatin 80 mg** (or rosuvastatin 20–40); **target LDL <55 mg/dL for very-high-risk ASCVD, otherwise <70 mg/dL** — **UNVERIFIED**
+- **L232** minor stroke/high-risk TIA (see above); **DOAC for AF, started early (≤4 days, CATALYST)**; — **UNVERIFIED**
+- **L257** (O₂ only if <94%). — **UNVERIFIED**
+- **L259** prophylaxis once bleeding risk allows (and ≥24 h post-lytic). — **UNVERIFIED**
+- **L261** - **Telemetry ≥24–48 h** hunting for AF. — **UNVERIFIED**
+- **L280** - **The whole field is time + vessel.** Two parallel decisions: **thrombolysis** (drug, ≤4.5 h or — **UNVERIFIED**
+- **L281** perfusion-selected later) and **thrombectomy** (large-vessel occlusion, out to 24 h). Eligible — **UNVERIFIED**
+- **L284** 0.25 mg/kg** and **alteplase 0.9 mg/kg** co-equal Class 1 within 4.5 h; TNK's single bolus is — **UNVERIFIED**
+- **L285** operationally simpler. Note the **FDA label approves TNK only to 3 h** — 3–4.5 h is guideline-based — **UNVERIFIED**
+- **L286** but off-label. **RAISE (2024)** found more excellent outcomes with reteplase than alteplase. Symptomatic ICH estimates were imprecise, and **any ICH was more frequent (7.7% vs 4.9%)**. It does not justify claiming equal bleeding safety or replacing the local approved lysis pathway. [Primary trial](https://doi.org/10.1056/NEJMoa2400314). — [Source 1](https://doi.org/10.1056/NEJMoa2400314)
+- **L291** - **Short DAPT, not long.** For minor stroke / high-risk TIA, **21 days** of aspirin+clopidogrel — **UNVERIFIED**
+- **L292** (CHANCE/POINT) beats aspirin alone; beyond 21 days you only add bleeding. **THALES** offers — **UNVERIFIED**
+- **L295** TIMING) shows **early DOAC ≤4 days lowers** recurrent ischemic stroke/sICH at 30 days **with no — **UNVERIFIED**
+- **L298** the first 24–72 h after successful reperfusion as Class 3: Harm.** — **UNVERIFIED**
+
+## docs/stroke/intracerebral-hemorrhage.md
+
+- **L10** !!! danger "🚩 First 60 minutes — the ICH bundle (do these in parallel)" — **UNVERIFIED**
+- **L11** The **INTERACT3 care bundle** — started **within 1 hour** and held for 7 days — improves survival — **UNVERIFIED**
+- **L15** target about **140** and maintain **130–150 mmHg**. Avoid overshoot below 130; severe/large — [Source 1](https://www.ahajournals.org/doi/10.1161/STR.0000000000000407)
+- **L21** And immediately: **airway/GCS**, stop the causative drug, **repeat CT at ~6 h** (expansion is the — **UNVERIFIED**
+- **L31** 6. **Do not prognosticate early** — avoid new DNR/care limits in the first 24–48 h (self-fulfilling). — **UNVERIFIED**
+- **L48** 2. **Run the INTERACT3 bundle** (BP <140, reversal, glucose, temp) within 1 h, hold 7 days. — **UNVERIFIED**
+- **L72** | **Warfarin / VKA** | **4-factor PCC, INR-based** (Kcentra: **INR 2–<4 → 25 units/kg; 4–6 → 35; >6 → 50**; max 5000 units) **+ vitamin K 10 mg IV** (slow infusion). PCC preferred over FFP — faster, lower volume | — **UNVERIFIED**
+- **L73** | **Dabigatran** | **Idarucizumab 5 g IV** (two 2.5 g vials) | — **UNVERIFIED**
+- **L74** | **Apixaban / rivaroxaban / edoxaban (factor Xa inhibitors)** | **4-factor PCC 50 units/kg** (fixed ~2000 units is an alternative) — **now the primary U.S. reversal agent.** *(Consider activated charcoal if last dose within ~2–4 h.)* | — **UNVERIFIED**
+- **L75** | **Unfractionated heparin** | **Protamine 1 mg IV per 100 units of heparin given in the last ~2–3 h** (**max 50 mg/dose**; give slow — hypotension/anaphylaxis) | — **UNVERIFIED**
+- **L76** | **LMWH (enoxaparin)** | **Protamine 1 mg IV per 1 mg enoxaparin** if within 8 h (**0.5 mg/mg** if >8 h; max 50 mg) — LMWH only ~60% reversed | — **UNVERIFIED**
+- **L81** ~10% vs 5.6%; more ischemic strokes and MIs), and AstraZeneca withdrew it. **It is no longer — **UNVERIFIED**
+- **L85** **PCC had lower thrombotic risk (4.2% vs 7.9%)** with similar hemostasis once severe injuries — **UNVERIFIED**
+- **L88** Recheck coagulation after reversal; **goal INR <1.5.** Recheck a **CT at ~6 h** for expansion. — **UNVERIFIED**
+- **L93** patients (meta-analysis OR ~0.65), and **TICH-3** (early-mortality endpoint) is ongoing — but — **UNVERIFIED**
+- **L100** or volume ≥15 mL → immediate surgical evaluation/evacuation** (Class 1). **Do not** temporize these with an EVD alone. — **UNVERIFIED**
+- **L103** - **Selected lobar clot, 30–80 mL, within 24 h → discuss** trans-sulcal minimally invasive — **UNVERIFIED**
+- **L107** - **Deep bleeds → don't expect benefit:** **MIND** (2025, Artemis device, 70% deep) was — **UNVERIFIED**
+- **L108** **negative** at 180 days — early disability gains faded. Surgical decisions remain device-, — **UNVERIFIED**
+- **L112** - **Severe deep ICH (30–100 mL):** **decompressive craniectomy *without* clot evacuation** showed — **UNVERIFIED**
+- **L113** a **trend** toward less death/severe disability in **SWITCH** (2024; RR 0.77, p=0.057) but was — **UNVERIFIED**
+- **L126** prophylaxis after 24–48 h** once the bleed is stable. — **UNVERIFIED**
+- **L128** - **Don't limit care early** — prognostic pessimism in the first 24–48 h is self-fulfilling; use — **UNVERIFIED**
+- **L133** **volume ≥30 mL = 1**; **IVH present = 1**; **infratentorial origin = 1**; **age ≥80 = 1**. — **UNVERIFIED**
+- **L151** anticoagulant **cuts ischemic events (HR ~0.27)** but with a **non-significant trend toward more — **UNVERIFIED**
+- **L153** prove anticoagulation safe (SoSTART: 8% vs 4% recurrent ICH). **PRESTIGE-AF was published in 2025**: DOACs reduced ischemic stroke but increased — **UNVERIFIED**
+- **L157** - If restarting, a common practice is to **defer ~4–8 weeks** and weigh the thrombotic indication — **UNVERIFIED**
+- **L186** anticoagulation reversal**, all within an hour and held 7 days — improved survival and function. — **UNVERIFIED**
+
+## docs/stroke/prevention.md
+
+- **L37** | **Lipids** | **Statin** by ACC/AHA eligibility: LDL ≥190 mg/dL or other categorical indications; for adults 30–79 without ASCVD, use **2026 PREVENT-ASCVD**, risk enhancers, and selective CAC. Consider therapy at 3–<5%; discuss initiation at 5–<10%; ≥10% favors high-intensity therapy. Diabetes/CKD stage 3–4/HIV at age 40–75 are specific indications | Higher-risk → high-intensity | — **UNVERIFIED**
+- **L38** | **Diabetes + high CV risk / CVD (A1c ≥7%)** | **GLP-1 RA** (semaglutide, dulaglutide) — **Class 1** | SUSTAIN-6 / REWIND cut stroke. **SGLT2i is for HF/CKD — it is *neutral* on stroke**, so don't pick it *for* stroke prevention | — **UNVERIFIED**
+- **L43** | **Physical activity** | ≥150 min/wk moderate | Reduce sedentary time | — **UNVERIFIED**
+- **L45** | **Salt substitution** | **Potassium-based salt substitute** — **Class 2a** | SSaSS: ~22% relative stroke reduction (avoid in CKD/hyperkalemia risk) | — **UNVERIFIED**
+- **L46** | **Inflammation (established CVD)** | **Low-dose colchicine 0.5 mg/day** — **Class 2b** (uncertain benefit) | Stroke-*specific* trials neutral (CONVINCE, CHANCE-3); pooled benefit is coronary-driven. **Avoid in symptomatic intracranial atherosclerosis** (CHANCE-3 subgroup: possible harm) | — **UNVERIFIED**
+- **L60** - **Treat verified BP ≥160/110 in pregnancy or within 6 weeks postpartum;** give **low-dose — **UNVERIFIED**
+- **L79** 3. **High-intensity statin → risk-based LDL goal:** **<55 mg/dL for very-high-risk ASCVD**; **<70 mg/dL for ASCVD not at very high risk** (2026 dyslipidemia guideline). Add ezetimibe/PCSK9 therapy as needed. — **UNVERIFIED**
+- **L86** - **High-intensity statin — atorvastatin 80 mg** (or **rosuvastatin 20 mg**, up to 40); — **UNVERIFIED**
+- **L87** **target LDL <55 mg/dL when very-high-risk ASCVD, otherwise <70 mg/dL**. TST supports the historical <70 target after atherosclerotic stroke; the **2026 dyslipidemia guideline** further stratifies ASCVD risk. Add **ezetimibe → PCSK9 inhibitor** when needed. — [Source 1](https://www.ahajournals.org/doi/10.1161/CIR.0000000000001423)
+- **L99** | **Minor stroke (NIHSS ≤3) / high-risk TIA (ABCD² ≥4)** | **21-day DAPT** (ASA + clopidogrel), then single agent (CHANCE/POINT); **ticagrelor+ASA** (THALES) if CYP2C19 LOF — *watch the extra severe-bleeding/ICH risk* | — **UNVERIFIED**
+- **L102** | **Symptomatic carotid 70–99% (or 50–69% selected patients)** | **CEA or CAS within 2 weeks** + medical therapy — greater benefit in men; less in women and retinal-only events | — **UNVERIFIED**
+- **L103** | **ESUS / cryptogenic** | Antiplatelet (**not** anticoagulation — see box) + **prolonged rhythm monitoring** (≥30-day external or implantable monitor; 24–48 h telemetry misses most paroxysmal AF); anticoagulate only if AF is found | — **UNVERIFIED**
+- **L107** Clopidogrel is a prodrug: **~25% of White and ~60% of East Asian patients carry a CYP2C19 — **UNVERIFIED**
+- **L114** **early DOAC (≤4 days) reduces recurrence with no excess sICH.** Individualize the exact day — **UNVERIFIED**
+- **L119** observational data (STR-OAC LAAO) show a large risk reduction (HR ~0.33) added to OAC, and — **UNVERIFIED**
+- **L131** guideline): **≥24 h + CHA₂DS₂-VASc ≥2 → anticoagulation reasonable (2a)**; **5 min–24 h + — **UNVERIFIED**
+- **L132** CHA₂DS₂-VASc ≥3 → may be reasonable (2b)**; **<5 min → do not anticoagulate (Class 3)**. — **UNVERIFIED**
+- **L135** **Long-term DAPT is not secondary prevention** — after the 21-day (or 90-day ICAD) window, — **UNVERIFIED**
+- **L140** **FDA-approved 9 November 2026** for adults with recent non-cardioembolic ischemic stroke (**NIHSS ≤15**) or high-risk TIA, **with antiplatelet therapy**. Dose **50 mg PO daily**. Stroke-team selection should address bleeding, liver function and interacting drugs. [FDA approval](https://www.fda.gov/drugs/novel-drug-approvals-fda/novel-drug-approvals-2026). — [Source 1](https://www.fda.gov/drugs/novel-drug-approvals-fda/novel-drug-approvals-2026)
+- **L179** (CATALYST), carotid revascularization for symptomatic high-grade stenosis within 2 weeks, and PFO — **UNVERIFIED**
+- **L181** - **Lipids: lower is better after atherosclerotic stroke** — high-intensity statin to the **2026 risk-based LDL goal (<55 for very-high-risk ASCVD; otherwise <70 mg/dL)** — **UNVERIFIED**
+
+## docs/stroke/subarachnoid-hemorrhage.md
+
+- **L13** - **Non-contrast CT first.** A negative scan within **6 h** can exclude SAH in selected — **UNVERIFIED**
+- **L16** - **Negative CT after >6 h, or with a new neurologic deficit → LP when safe** under the — **UNVERIFIED**
+- **L28** 4. **Secure the aneurysm within 24 h** — **coil vs clip**, decided by a neurovascular team. — **UNVERIFIED**
+- **L70** | **0** | No SAH and no IVH | ~0% | — **UNVERIFIED**
+- **L71** | **1** | **Thin** SAH (<1 mm), **no** IVH | low (~6–24%) | — **UNVERIFIED**
+- **L73** | **3** | **Thick** SAH (≥1 mm), **no** IVH | high (~33%) | — **UNVERIFIED**
+- **L74** | **4** | **Thick** SAH **+ IVH** | highest (~40%) | — **UNVERIFIED**
+- **L84** 3. **Secure the aneurysm <24 h** (coil preferred when equivalent — ISAT; clip for some MCA/wide-neck). — **UNVERIFIED**
+- **L85** 4. **Nimodipine 60 mg PO q4h × 21 days.** — **UNVERIFIED**
+- **L102** - **Secure early** — definitive re-bleed prevention is **treating the aneurysm within 24 h.** — **UNVERIFIED**
+- **L113** - **Do it within 24 h** at a high-volume center with both capabilities. — **UNVERIFIED**
+- **L118** - **Nimodipine 60 mg PO/enteral q4h × 21 days** — **Class 1**; **never inject an oral formulation IV**; improves outcome (neuroprotective; it does — **UNVERIFIED**
+- **L119** **not** reliably reverse angiographic vasospasm). If it drops BP, split to **30 mg q2h**. — **UNVERIFIED**
+- **L140** - **Seizures:** treat clinical seizures with an ASM for **≤7 days (Class 1)**; **avoid phenytoin** — **UNVERIFIED**
+- **L151** **Cilostazol 100–300 mg/day** is a *promising* oral adjunct (meta-analyses: less vasospasm, — **UNVERIFIED**
+- **L179** - **Diagnose fast:** non-contrast CT is near-100% sensitive **<6 h**; after that, **LP for — **UNVERIFIED**
+- **L181** - **Secure within 24 h; coiling is generally preferred** where equivalent (**ISAT**), clipping for — **UNVERIFIED**
+- **L183** - **Nimodipine 60 mg q4h × 21 days is Class 1** — improves outcome (neuroprotection, not — **UNVERIFIED**
+- **L188** - **New: prophylactic lumbar drainage prevents DCI.** **EARLYDRAIN** (2023) — lumbar drainage 5 mL/h — **UNVERIFIED**
+- **L189** within 72 h cut unfavorable outcome ~12% absolute; it is an **adjunct in selected secured cases**, not proof of superiority to or a replacement — **UNVERIFIED**
+
+## docs/stroke/tia.md
+
+- **L7** the risk is **front-loaded to the first 48 hours**, so a TIA is a **same-day emergency work-up**, not — **UNVERIFIED**
+- **L14** concentrated in the first 2 days.** Rapid work-up + prevention cuts that risk by **up to ~80%.** — **UNVERIFIED**
+- **L34** | **D**uration ≥60 min **2** / 10–59 min **1** | 1–2 | — **UNVERIFIED**
+- **L37** *2-day stroke risk rises with score (~1% at 0–3, ~4% at 4–5, ~8% at 6–7). **ABCD²-I** adds carotid — **UNVERIFIED**
+- **L38** stenosis ≥50% and a positive DWI (2 points each) — a positive DWI or a high score means **higher — **UNVERIFIED**
+- **L43** evaluation — **~20% of patients with ABCD² <4 still had a serious finding** (significant carotid — **UNVERIFIED**
+- **L60** within 2 weeks**; ESUS → monitoring. — **UNVERIFIED**
+- **L65** !!! orderset "Order it all today (a rapid TIA pathway cuts recurrent stroke ~80%)" — **UNVERIFIED**
+- **L68** false-negative rates run **~22–32% when MRI is done within ~3–4.5 h**; if suspicion is high, — **UNVERIFIED**
+- **L69** **image after ~6 h or repeat.** — **UNVERIFIED**
+- **L80** 300–600 mg load → 75 mg/day; ASA 81 mg) for **21 days**, then **single agent** — benefit is — **UNVERIFIED**
+- **L81** concentrated in the first 21 days (**CHANCE/POINT**); longer DAPT only adds bleeding. — **UNVERIFIED**
+- **L85** - **The window is wider than you think — up to 72 h.** **INSPIRES** (NEJM 2023, China, — **UNVERIFIED**
+- **L86** n≈6,100) showed clopidogrel+aspirin started **within 72 h** still cut 90-day stroke (7.3% vs — **UNVERIFIED**
+- **L87** 9.2%) at the cost of more (still low) bleeding — a patient seen 1–3 days out **can still — **UNVERIFIED**
+- **L90** cut stroke/death (5.5% vs 6.6%) **at the cost of more fatal bleeding/ICH (0.4% vs 0.1%).** — **UNVERIFIED**
+- **L91** It's **preferred in CYP2C19 loss-of-function carriers** (**CHANCE-2**; LOF present in ~25% of — **UNVERIFIED**
+- **L92** White and ~60% of East Asian patients; benefit concentrated in the **first week** and in — **UNVERIFIED**
+- **L96** - **High-intensity statin — atorvastatin 80 mg**, target **LDL <70** (2026 dyslipidemia guideline; assess the ASCVD risk category) — escalate — **UNVERIFIED**
+- **L106** n=5,441) confirms early DOAC (≤4 days) even after ischemic *stroke* **lowers** the 30-day composite — **UNVERIFIED**
+- **L107** (2.1% vs 3.0%, OR 0.70) **with no excess sICH** — so don't sit on it. **LAAO** if anticoagulation — **UNVERIFIED**
+- **L111** **70–99% (or 50–69% in selected patients): revascularize within 2 weeks** (CEA first-line; CAS/ — **UNVERIFIED**
+- **L113** *(In **low-to-intermediate-risk** symptomatic or asymptomatic ≥50% stenosis, **ECST-2** found no — **UNVERIFIED**
+- **L119** - **Prolonged rhythm monitoring** — an **insertable cardiac monitor** finds AF in **~12–15% at — **UNVERIFIED**
+- **L120** 12 months** (vs ~2–5% with external monitors); worth it even in *non-cryptogenic* stroke — **UNVERIFIED**
+- **L121** (STROKE-AF: ~12%). Anticoagulate by **device-AF duration thresholds** (≥24 h + CHA₂DS₂-VASc ≥2 → anticoagulation is reasonable after shared assessment; <5 min without another indication → do not anticoagulate) — per the 2024 ACC arrhythmia-monitoring pathway; full detail on — **UNVERIFIED**
+- **L134** targets, support) cut major cardiovascular events at 12 months (**STROKE-CARD**: 5.4% vs 8.3%, — **UNVERIFIED**
+- **L135** HR 0.63). Book the follow-up and own the risk factors, don't just discharge on pills. — **UNVERIFIED**
+- **L150** - **The danger is immediate** — highest stroke risk in the first 48 h, so **same-day imaging + started — **UNVERIFIED**
+- **L151** prevention**; rapid TIA pathways cut recurrent stroke **~80%.** — **UNVERIFIED**
+- **L153** extends to 72 h** (INSPIRES), so a patient seen days out still benefits; ticagrelor+ASA / CHANCE-2 — **UNVERIFIED**
+- **L155** - **ABCD² is effectively retired as a triage gate** (2023 AHA/ASA ED statement) — ~20% of ABCD²<4 — **UNVERIFIED**
+- **L157** (AUC ~0.70 vs ~0.60) is the better tool. A **negative early DWI (<3–4.5 h) can be falsely — **UNVERIFIED**
+- **L158** reassuring** (~22–32% false-negative) — repeat/delay if suspicious. — **UNVERIFIED**
+- **L161** (0.4% vs 0.1%) — not a free swap. — **UNVERIFIED**
+- **L162** - **Treat the mechanism** — early DOAC for AF (CATALYST), carotid revascularization within 2 weeks for — **UNVERIFIED**
+
+## docs/tbi/autonomic.md
+
+- **L26** 10 min of standing/tilt, **without** orthostatic hypotension, with orthostatic symptoms **≥3 months** and no alternative — **UNVERIFIED**
+- **L31** - **Buffalo Concussion Treadmill Test (BCTT)** — an exercise-tolerance assessment, **not a standalone diagnostic test for concussion**: walk at **3.3 mph / 0% incline**, **increase — **UNVERIFIED**
+- **L33** scale)** or volitional exhaustion. In community (non-athlete) adults, ~56% show exercise — **UNVERIFIED**
+- **L34** intolerance at 1 week and ~48% at 1 month. — **UNVERIFIED**
+- **L37** The **HR at the BCTT symptom threshold** is the target (if no treadmill, use ~**50% of age-predicted — **UNVERIFIED**
+- **L40** 1. **Exercise at 80% of the symptom-threshold HR**, **20 min/day**, **5–6 days/week.** — **UNVERIFIED**
+- **L41** 2. **Retest every 2–3 weeks** and advance the target HR upward as tolerance improves. — **UNVERIFIED**
+- **L44** **Adult RCT evidence:** the 2026 Valaas trial (n=81, persistent PCS 3–24 mo) improved **exercise — **UNVERIFIED**
+- **L45** tolerance** at 12 weeks (sustained at 6 mo); the ACTBI trial (n=52) improved **quality of life** vs — **UNVERIFIED**
+- **L54** - **First-line (non-drug):** **fluids 2–3 L/day**, **salt up to 10–12 g/day when appropriate** (not 10–12 g sodium; avoid indiscriminate loading — **UNVERIFIED**
+- **L72** **Who:** **10–30% of moderate–severe TBI**; ~80% of all PSH follows TBI. **Definition:** — **UNVERIFIED**
+- **L81** - **Find and treat triggers first** — **~80% of paroxysms are allodynic** (pain, urinary retention, — **UNVERIFIED**
+- **L87** **propranolol + gabapentin** cut PSH incidence to **10%** (vs 33% propranolol alone, 60% standard — **UNVERIFIED**
+- **L92** **weight loss of 25–29%** is reported. **Prioritize nutritional support.** — **UNVERIFIED**
+
+## docs/tbi/cognitive.md
+
+- **L9** rehabilitate what remains. TRACK-TBI found **13.5% of mTBI** patients had a poor cognitive outcome at — **UNVERIFIED**
+- **L10** 1 year (vs 4.5% of controls), **memory and processing speed** most affected. — **UNVERIFIED**
+- **L13** At 6 months (TRACK-TBI), the dominant deficit in **moderate–severe** TBI was **processing speed — **UNVERIFIED**
+- **L14** (42%)**, then **memory (27%)** and **executive function (20%)**; in **mTBI**, processing speed — **UNVERIFIED**
+- **L15** (17–19%) and memory (14–17%) predominated. **Global impairment across all domains is uncommon** — — **UNVERIFIED**
+- **L24** - **Not routinely within the first 30 days** (VA/DoD) — first-48-hour deficits usually resolve in — **UNVERIFIED**
+- **L26** - **Most useful at >30 days** when symptoms persist and **functional impact needs documenting.** — **UNVERIFIED**
+- **L28** medical retirement** (p=0.001), and **25%** of members cleared on symptom-resolution alone had — **UNVERIFIED**
+- **L67** - **Methylphenidate — best-evidenced, domain-specific (2026 ACRM guideline).** Start **5 mg BID**, — **UNVERIFIED**
+- **L68** titrate toward ~**0.3 mg/kg BID** (commonly 10–20 mg BID); monitor BP/HR. Usually well tolerated, — **UNVERIFIED**
+- **L76** - **Amantadine 100–200 mg BID**, adjusted for renal function — the strongest recommendation is — [Source 1](https://pubmed.ncbi.nlm.nih.gov/39628282/)
+- **L78** 4–16 weeks after injury**, to accelerate recovery during treatment. The pivotal trial did — [Source 1](https://pubmed.ncbi.nlm.nih.gov/39628282/)
+- **L81** - **Donepezil 5 mg daily, then 10 mg if tolerated** — off-label, specialist-guided. The **2025 — [Source 1](https://pubmed.ncbi.nlm.nih.gov/39628282/)
+
+## docs/tbi/headache.md
+
+- **L19** **ICHD-3 framing:** **acute PTH** = onset within **7 days** of injury, resolving by **3 months**; — **UNVERIFIED**
+- **L20** **persistent PTH** = beyond **3 months**. With a **pre-existing** headache disorder, call it PTH only if — **UNVERIFIED**
+- **L26** 10 mg + diphenhydramine 25 mg** (n=81; 1.4 pts greater pain relief vs placebo). **Scheduled** (not — **UNVERIFIED**
+- **L27** PRN) analgesics in the **first 72 h** post-injury are an emerging way to blunt acute-phase severity. — **UNVERIFIED**
+- **L29** remain disabling — Lancet Neurol 2021; **>10 days/mo or disabling** — 2025 AAPM&R): — **UNVERIFIED**
+- **L43** - **Watch MOH:** cap **analgesics-with-caffeine, triptans, or opioids/butalbital at <10 days/mo** — **UNVERIFIED**
+
+## docs/tbi/index.md
+
+- **L26** | **Mild (concussion)** | **13–15** | ≤30 min | <24 h | Normal (or complicated-mild if abnormal) | — **UNVERIFIED**
+- **L27** | **Moderate** | **9–12** | >30 min–24 h | 1–7 days | Often abnormal | — **UNVERIFIED**
+- **L28** | **Severe** | **≤8** | >24 h | >7 days | May be normal or abnormal | — [Source 1](https://jts.health.mil/assets/docs/cpgs/TBI_Neurosurgery_Deployed%20Environment_15_Sep_2023_ID30_v1.1.pdf)
+- **L35** need a sign, two symptoms, and an objective finding in every patient. LOC >30 min, GCS <13 after — [Source 1](https://doi.org/10.1016/j.apmr.2023.03.036)
+- **L36** 30 min, or PTA >24 h excludes the *mild* qualifier. A normal CT does not exclude concussion. — [Source 1](https://doi.org/10.1016/j.apmr.2023.03.036)
+- **L56** CT** for any high-risk feature: **GCS <15 at 2 h**, suspected **open/depressed skull fracture**, — **UNVERIFIED**
+- **L59** ≥30 min**, **dangerous mechanism.** **Anticoagulation/coagulopathy or post-traumatic seizure → — **UNVERIFIED**
+- **L66** In deployed moderate–severe TBI, follow **JTS/TCCC TXA guidance within 3 h** (below). — [Source 1](https://jts.health.mil/assets/docs/cpgs/TBI_Neurosurgery_Deployed%20Environment_15_Sep_2023_ID30_v1.1.pdf)
+- **L79** mTBI **within 24 h**; other assays use a **12-h** window. Do not transplant cutoffs between — [Source 1](https://www.accessdata.fda.gov/cdrh_docs/pdf23/K234143.pdf)
+- **L89** 100 kg:** **INR 2–3.9 → 25 units/kg** (max 2500), **INR 4–6 → 35 units/kg** (max 3500), — **UNVERIFIED**
+- **L90** **INR >6 → 50 units/kg** (max 5000). *(Many trauma centers use a **fixed 1500–2000 units** to — **UNVERIFIED**
+- **L91** save time — give it, then check INR.)* **Plus vitamin K 10 mg IV** by slow infusion over — **UNVERIFIED**
+- **L92** 10–30 min (sustains reversal; PCC alone wears off). Recheck **INR at 15–60 min**, target **<1.5**. — **UNVERIFIED**
+- **L93** - **Dabigatran** → **idarucizumab 5 g IV** (two 2.5 g / 50 mL vials, consecutive boluses). If — **UNVERIFIED**
+- **L94** unavailable: **activated PCC (FEIBA) 50 units/kg** and consider **hemodialysis.** — **UNVERIFIED**
+- **L95** - **Factor Xa inhibitors** (apixaban/rivaroxaban) → **4-factor PCC 50 units/kg** (or a **fixed — **UNVERIFIED**
+- **L96** 2000 units**) — *andexanet alfa has been **withdrawn from the US market**.* — **UNVERIFIED**
+- **L99** consider **desmopressin (DDAVP) 0.4 µg/kg IV ×1**. — **UNVERIFIED**
+- **L100** - **Repeat CT at 6–24 h** to check for hematoma progression **before** starting VTE prophylaxis. — **UNVERIFIED**
+- **L102** **TXA — follow the setting-specific trauma pathway.** JTS recommends **2 g IV/IO within — [Source 1](https://jts.health.mil/assets/docs/cpgs/TBI_Neurosurgery_Deployed%20Environment_15_Sep_2023_ID30_v1.1.pdf)
+- **L103** 3 h** for evidence of **moderate–severe TBI**. The civilian **CRASH-3** trial used 1 g over — [Source 1](https://jts.health.mil/assets/docs/cpgs/TBI_Neurosurgery_Deployed%20Environment_15_Sep_2023_ID30_v1.1.pdf)
+- **L104** 10 min then 1 g over 8 h; benefit was clearest in mild–moderate injury, without a clear benefit — [Source 1](https://jts.health.mil/assets/docs/cpgs/TBI_Neurosurgery_Deployed%20Environment_15_Sep_2023_ID30_v1.1.pdf)
+- **L111** 30 mg SC q12h** or **40 mg SC daily** (reduce to **30 mg daily if CrCl <30**), *or* **UFH — **UNVERIFIED**
+- **L112** 5000 units SC q8–12h** when LMWH is contraindicated. Start **mechanical prophylaxis (SCDs) — **UNVERIFIED**
+- **L115** - **Low-risk nonoperative TBI:** start **within 24 h** if follow-up CT shows **no ICH progression.** — **UNVERIFIED**
+- **L116** - **Moderate/high-risk nonoperative TBI:** **within 24–48 h** if follow-up CT is stable. — **UNVERIFIED**
+- **L117** - **Post-craniotomy/craniectomy:** **within 24–48 h** if the postoperative CT is stable. — **UNVERIFIED**
+- **L120** prophylaxis started within 72 h. — **UNVERIFIED**
+- **L123** **Prevent secondary injury:** JTS targets **SBP >110 mmHg** in adult deployed TBI; support — [Source 1](https://jts.health.mil/assets/docs/cpgs/TBI_Neurosurgery_Deployed%20Environment_15_Sep_2023_ID30_v1.1.pdf)
+- **L125** **treat ICP >22 mmHg.** Target **CPP 60–70 mmHg** — **avoid driving CPP >70** (increased ARDS — **UNVERIFIED**
+- **L126** risk). **PbtO₂ monitoring** target **>20 mmHg** is an emerging complement: **OXY-TC (Lancet — **UNVERIFIED**
+- **L134** - **Hyperosmolar bolus (either):** **hypertonic saline 3% 250 mL** (or **23.4% 30 mL via central — **UNVERIFIED**
+- **L135** line**) *or* **mannitol 0.5–1 g/kg IV** — mannitol needs a normal BP (osmotic diuresis) and — **UNVERIFIED**
+- **L149** **balance** check (BESS). Use the **right tool for the phase** — **SCAT6** on the sideline/≤72 h, — **UNVERIFIED**
+- **L150** **SCOAT6** in the office at **3–30 days** (or **MACE2** in uniform) — plus a symptom scale — **UNVERIFIED**
+- **L154** 4. **Manage:** **brief relative rest (24–48 h) → early sub-threshold aerobic exercise**, sleep — **UNVERIFIED**
+- **L159** 6. **Follow up**; if **not recovering by ~4 weeks → escalate to Work-up 3** / a multidisciplinary — **UNVERIFIED**
+- **L163** - **SCAT6** — sideline/acute, **within 72 h** of injury. — **UNVERIFIED**
+- **L164** - **SCOAT6** — office-based **subacute** assessment at **3–30 days**; the 6th Amsterdam Consensus — **UNVERIFIED**
+- **L175** - **Cognitive symptoms** (difficulty concentrating) — **strongest** predictor (OR >3). — **UNVERIFIED**
+- **L180** reporting** predict symptoms persisting **>29 days.** — **UNVERIFIED**
+- **L223** After **24–48 h of relative rest**, introduce light symptom-limited activity and an individualized — [Source 1](https://www.health.mil/Reference-Center/Publications/2024/02/23/Progressive-Return-to-Activity-Primary-Care-for-Acute-Concussion-Management)
+- **L231** 2. **No treadmill?** Prescribe at **~50% of age-predicted max HR** (max = **220 − age**). — **UNVERIFIED**
+- **L232** 3. **Dose** ~20 min/day below that threshold; advance as tolerated, backing off on a >2-point rise. — **UNVERIFIED**
+- **L234** RCT evidence: early aerobic exercise cut **median recovery 17 → 13 days** (p=0.009) and — **UNVERIFIED**
+- **L235** **persistent symptoms 32% → 21%** (p=0.04). **Strong for** in both the Amsterdam 2023 consensus — **UNVERIFIED**
+- **L267** - **Retention / MEB–MAR2:** DoDI V2 **5.26.h** and Army **3-31j** address residual TBI impairment; associated epilepsy, sleep, psychiatric or visual disorders may invoke separate standards. Use the [retention framework](../military/deployability.md); permanent P3/4 does not by itself select DES versus MAR2. — **UNVERIFIED**
+- **L288** (within 24–72 h; BCTT threshold or ~50% max HR) and graded return; **avoid opioids/butalbital.** — **UNVERIFIED**
+- **L291** - **Acute bleed management has specifics** — **agent-specific reversal**, **TXA per the trauma/JTS pathway within 3 h**, **VTE prophylaxis within 24–48 h** once the — **UNVERIFIED**
+- **L292** follow-up CT is stable (LMWH preferred), and for GCS <9 **ICP >22 mmHg / CPP 60–70 / PbtO₂ >20** targets. — **UNVERIFIED**
+- **L297** - **Post-traumatic seizure prophylaxis is 7 days** for early seizures in moderate–severe TBI — it does — **UNVERIFIED**
+
+## docs/tbi/mood-ptsd.md
+
+- **L9** **screen for suicide every visit.** In military/veteran TBI, **PTSD runs ~36–37%** (≈4× the odds vs — **UNVERIFIED**
+- **L10** non-TBI military), **depression ~30% in the first year** (~80% of episodes begin within 6 months), and — **UNVERIFIED**
+- **L11** **anxiety 11–24%.** A 2024 JAMA Netw Open cohort showed both mild and moderate–severe TBI carry a — **UNVERIFIED**
+- **L21** Standard primary-care cutoffs apply **without modification** in TBI. Screen **early (~1 month)** and — **UNVERIFIED**
+- **L22** **again** in anyone still symptomatic — **peak onset is 2–6 months** post-injury. — **UNVERIFIED**
+- **L34** - **SSRI/SNRI** (depression evidence base is broad): **sertraline 50 mg/day → 50–200**, — **UNVERIFIED**
+- **L35** **escitalopram 10 → 20 mg**, or **venlafaxine XR 75 → 225 mg.** Avoid highly — **UNVERIFIED**
+- **L39** **co-occurring cognitive impairment** are priorities: **start 5 mg BID**, titrate toward — **UNVERIFIED**
+- **L40** ~**0.3 mg/kg BID** (commonly 10–20 mg BID); monitor BP/HR. (Overlaps the — **UNVERIFIED**
+- **L42** - **Early prevention (not yet guideline-endorsed):** **sertraline 50 mg/day** started soon after TBI — **UNVERIFIED**
+- **L43** reduced incident depression (**NNT ~6** in one RCT). — **UNVERIFIED**
+- **L60** - **First-line (VA/DoD 2023, Strong for): paroxetine 20 → 60 mg**, **sertraline 50 → 200 mg**, or — **UNVERIFIED**
+- **L61** **venlafaxine XR 75 → 225 mg.** **Escitalopram has insufficient evidence for a VA/DoD recommendation for PTSD**, and **fluoxetine was dropped** from the recommended list on updated evidence. — **UNVERIFIED**
+- **L63** negative** for nightmares/PTSD at 26 weeks. But a 2025 meta-analysis (10 RCTs, n=648) found — **UNVERIFIED**
+- **L66** **nightmares/sleep.** Use it targeted: **1 mg qhs, titrate slowly (to ~5–15 mg)** by — **UNVERIFIED**
+- **L72** - **Amantadine 100 mg BID** — **best TBI-specific evidence** (multiple RCTs) for irritability/ — **UNVERIFIED**
+- **L85** (n=579) reported **68% clinically meaningful improvement at 1 week.** **Hyperarousal symptoms — **UNVERIFIED**
+- **L86** respond best**, effects last **~3–6 months**, and it can be **repeated.** The **VA actively offers — **UNVERIFIED**
+
+## docs/tbi/neuroendocrine.md
+
+- **L10** changes disposition.** Pooled prevalence of **any** pituitary-axis dysfunction is **~33%** (higher — **UNVERIFIED**
+- **L11** <3 months, much of it transient; **persistent ~15%** on strict criteria with repeat testing). By axis: — **UNVERIFIED**
+- **L12** **GH ~18%, gonadal ~16%, ACTH ~10%, TSH ~6%.** — **UNVERIFIED**
+- **L42** 2. **3–6 months — first comprehensive screen (morning):** **cortisol** (± ACTH-stimulation if — **UNVERIFIED**
+- **L46** 3. **12 months — repeat** if deficiencies were found at 3–6 months (some recover, some worsen) or if — **UNVERIFIED**
+- **L48** 4. **Beyond 12 months — stay alert:** new deficiencies can emerge **even 5 years out** — re-test on — **UNVERIFIED**
+- **L57** adrenal crisis: hydrocortisone 100 mg IV/IM immediately, then 200 mg/24 h infusion or 50 mg q6h**, — [Source 1](https://www.endocrinology.org/clinical-practice/clinical-guidance/adrenal-crisis/)
+- **L63** - **Central DI** (~2.9% acutely, more in severe TBI): **polyuria >3 L/day, polydipsia, — **UNVERIFIED**
+- **L64** hypernatremia, dilute urine.** Usually **transient** (hours–days); **~7% permanent.** — **UNVERIFIED**
+- **L77** deficiency (sensitivity ~50%). — **UNVERIFIED**
+- **L85** **Hypogonadotropic hypogonadism** is the **2nd commonest** deficiency (~16%): low libido, erectile — **UNVERIFIED**
+- **L89** - **Chronic (>3–6 months):** persistent hypogonadism warrants replacement — **testosterone** in men, — **UNVERIFIED**
+
+## docs/tbi/pain-substance.md
+
+- **L9** mechanism-based**, and **screen actively.** Chronic pain affects **~40–51%** after complicated — **UNVERIFIED**
+- **L11** **interference in ~55%.** Predictors: female sex, **military service**, pre-injury migraine, penetrating — **UNVERIFIED**
+- **L30** - **TCA — nortriptyline (preferred) or amitriptyline 10–75 mg qHS** — first-line neuropathic — **UNVERIFIED**
+- **L31** (NNT ~4.6) and a **two-for-one** with sleep/[headache](headache.md) prevention. **Use — **UNVERIFIED**
+- **L34** - **SNRI — duloxetine 60–120 mg/day** (strongest evidence) or **venlafaxine XR 150–225 mg/day** — — **UNVERIFIED**
+- **L35** first-line neuropathic (NNT ~7.4); also treats comorbid [depression](mood-ptsd.md). — **UNVERIFIED**
+- **L42** - **Topicals — lidocaine 5% patch, capsaicin** — for **localized** neuropathic pain, **minimal — **UNVERIFIED**
+- **L46** Medication-overuse headache sits at the pain–headache intersection: **~27% of moderate–severe PTH — **UNVERIFIED**
+- **L47** patients have probable MOH at 2–4 months** (88% on simple analgesics, only 7% on a preventive). — **UNVERIFIED**
+- **L53** (JAMA Netw Open 2024, n=158) — up to **12 sessions over 16 weeks** with a care manager delivering — **UNVERIFIED**
+- **L55** **sustained at 8 months**, and improved pain severity, depression, and anxiety. — **UNVERIFIED**
+- **L66** - **Already on opioids?** Use a **collaborative, patient-centered taper** — **gradual (5–20% every — **UNVERIFIED**
+- **L67** 4 weeks)** while **optimizing non-opioid therapy.** **Rapid tapering is harmful** (destabilizes — **UNVERIFIED**
+- **L73** (HR 1.41)**, and CNS-affecting drugs are far commoner in TBI patients than controls (37% vs 24%) — — **UNVERIFIED**
+- **L79** **New-onset SUD affects ~4.2% within 5 years** (global cohort, n≈1.89 M): **nicotine 2.4%, alcohol — **UNVERIFIED**
+- **L80** 1.1%, cannabis 0.9%, opioids 0.4%** — and **~50% of eventual SUD is diagnosed within 3 years.** In — **UNVERIFIED**
+- **L82** (highest early); among post-9/11 veterans with TBI, **26.9% received opioids** (of those, 30% also — **UNVERIFIED**
+- **L83** benzodiazepines, 36% sedative-hypnotics). — **UNVERIFIED**
+- **L88** - **When:** at **intake and follow-up**, with particular attention in the **first 3 years** (highest — **UNVERIFIED**
+- **L99** Cannabis is the **3rd most common new-onset SUD after TBI (~0.9%)** and is increasingly used for — **UNVERIFIED**
+
+## docs/tbi/seizures.md
+
+- **L14** - **Early PTS (≤7 days):** up to **15% in severe TBI** (down to **<5%** with prophylaxis); only — **UNVERIFIED**
+- **L15** **0–4% in mild/moderate** (mostly <2%). — **UNVERIFIED**
+- **L16** - **Subclinical (nonconvulsive) seizures:** **~25%** of moderate–severe TBI on continuous EEG — — **UNVERIFIED**
+- **L18** - **Post-traumatic epilepsy (late, unprovoked):** **~⅓ of severe** TBI survivors; **4–15%** in — **UNVERIFIED**
+- **L19** moderate–severe; **45–53% in penetrating** injury; **mTBI roughly triples** baseline risk — **UNVERIFIED**
+- **L20** (absolute ~1–4%). — **UNVERIFIED**
+- **L21** - **10-year epilepsy risk** (Swedish registry, n≈112,000): **12.9%** focal cerebral, 8.1% diffuse, — **UNVERIFIED**
+- **L22** 7.3% extracerebral, **2.6% mild** — vs **0.9%** in controls. — **UNVERIFIED**
+- **L23** - **Repeated TBI doubles it:** a Danish cohort (n≈2.5 M) found **HR 2.04 after a first** TBI and — **UNVERIFIED**
+- **L24** **HR 4.45 after a second**, staying elevated **for decades.** — **UNVERIFIED**
+- **L28** seizures** (especially delayed); **LOC/amnesia >1 day**; **>7 days to follow commands**; skull — **UNVERIFIED**
+- **L35** - **Who gets it:** moderate–severe TBI **with intracranial bleeding / risk factors** → **7 days** — **UNVERIFIED**
+- **L38** - **Agent — levetiracetam is preferred:** **levetiracetam 500–1000 mg IV/PO q12h** (or ~20 mg/kg — **UNVERIFIED**
+- **L39** load) **or phenytoin** (20 mg/kg load then maintenance with levels). Meta-analyses show — **UNVERIFIED**
+- **L40** **equivalent efficacy** (OR ~0.85), but levetiracetam has **fewer interactions, no drug-level — **UNVERIFIED**
+- **L42** - **Blunt injury without a seizure: start early, usually stop at 7 days.** A clinical/electrographic — [Source 1](https://www.tbiguidelines.com/gl/penetrating/seizure-prophylaxis)
+- **L44** PTS; **do not continue beyond 7 days** (Level B). — **UNVERIFIED**
+- **L46** absolute risk reduction of **0.6% (NNT 167)** — weigh against ASM harms and the real risk of — **UNVERIFIED**
+- **L47** **inappropriate continuation** past 7 days. — **UNVERIFIED**
+- **L50** The landmark **Temkin RCT** showed phenytoin cut **early** PTS from **14.2% → 3.6%** but had **no — **UNVERIFIED**
+- **L57** **Nonconvulsive seizures occur in ~25%** of moderate–severe TBI and are tied to **worse outcomes — **UNVERIFIED**
+- **L65** **Penetrating TBI carries the highest PTE risk (45–53%)**, and **frontal/temporal** injuries are — **UNVERIFIED**
+- **L67** higher-risk than blunt. Expert consensus recommends prophylaxis for **7 days or longer**, with — [Source 1](https://www.tbiguidelines.com/gl/penetrating/seizure-prophylaxis)
+- **L76** ≥60%** (often after severe structural TBI); do not presume that every remote mild concussion — [Source 1](https://www.ilae.org/guidelines/definition-and-classification/definition-of-epilepsy-2014)
+- **L95** EEG** (≈3× PTE risk within 14 days), serum **S100B** (HR ~2.12 in complicated mTBI), and — **UNVERIFIED**
+- **L96** neuroinflammatory markers. **Military relevance:** PTE is ~5% of all epilepsy and TBI is the — **UNVERIFIED**
+
+## docs/tbi/sleep.md
+
+- **L8** fatigue) — **fix it first.** Sleep–wake disturbance affects **30–70% of mTBI** and **~46% of chronic — **UNVERIFIED**
+- **L13** Poor sleep **worsens** post-traumatic headache (OR ~2.9 in the first 6 weeks), cognition, and — **UNVERIFIED**
+- **L31** - **Obstructive sleep apnea** — **20–77%** across studies; drives "refractory" fatigue/cognitive — **UNVERIFIED**
+- **L33** - **Post-traumatic hypersomnia** (**~11–22%**) — sleep need **≥2 h/day above pre-injury**, from — **UNVERIFIED**
+- **L35** - **Narcolepsy / narcolepsy-like** (**~6%**) — loss of hypocretin neurons → excessive daytime — **UNVERIFIED**
+- **L37** - **Periodic limb movement disorder** (**~7%**). — **UNVERIFIED**
+- **L49** effective** intervention across ISI/PSQI/ESS — supporting CBT-I; indirect comparisons do not prove superiority to every drug in every patient. **70–80%** get — **UNVERIFIED**
+- **L50** enduring benefit and **~50%** reach remission. — **UNVERIFIED**
+- **L54** (military CBT-I referrals rose 372% over 2005–2014). — **UNVERIFIED**
+- **L61** - **Melatonin (prolonged-release) 2–5 mg, ~2 h before bedtime** — best **TBI-specific** evidence: — **UNVERIFIED**
+- **L65** - **Dual orexin receptor antagonists (DORAs)** — **suvorexant 10–20 mg**, **lemborexant 5–10 mg**, — **UNVERIFIED**
+- **L66** or **daridorexant 25–50 mg** qhs. Work for **both onset and maintenance**, **less cognitive — **UNVERIFIED**
+- **L70** - **Low-dose doxepin 3–6 mg qhs** — FDA-approved for **sleep-maintenance** insomnia; the only — **UNVERIFIED**
+- **L85** - **Modafinil 100–200 mg** each morning, **or armodafinil 150–250 mg** each morning. A 2025 — **UNVERIFIED**
+- **L86** meta-analysis (3 RCTs, n=158) showed reduced ESS (**MD −1.65**, p=0.04); **armodafinil 250 mg** — **UNVERIFIED**
+- **L87** gave the clearest objective sleep-latency benefit (+7.2 vs +2.4 min). Watch for **treatment- — **UNVERIFIED**
+- **L88** emergent insomnia** (RR ~3.7). — **UNVERIFIED**
+- **L95** **≥3 intermediate, ≥5 high** risk. Have a low threshold — OSA prevalence in TBI is **20–77%.** — **UNVERIFIED**
+- **L104** setting. **Morning blue-wavelength light (~469 nm, 30 min)** phase-advanced sleep, cut daytime — **UNVERIFIED**
+- **L107** light ~10,000 lux, 60 min** improved insomnia, mood, and pain in a veteran cohort. — **UNVERIFIED**
+
+## docs/tbi/vestibular.md
+
+- **L7** **One-liner:** dizziness is the **second most common** post-mTBI symptom after headache — **50–80% — **UNVERIFIED**
+- **L8** acutely**, persisting in **25–30% beyond 3 months.** The highest-yield moves are to **catch the curable — **UNVERIFIED**
+- **L24** **non-spinning** dizziness/unsteadiness **≥3 months**, worse **upright, with self-motion, and with — **UNVERIFIED**
+- **L28** **sound/pressure-induced vertigo, autophony, pulsatile tinnitus** (~45% report a preceding — **UNVERIFIED**
+- **L64** - **Check *all* canals:** post-traumatic BPPV is **multi-canal in ~50–67%** (vs ~10% idiopathic) and — **UNVERIFIED**
+- **L67** repositioning is ~13.5 days in polytrauma, and earlier treatment improves outcomes. — **UNVERIFIED**
+- **L73** effect (SMD 0.63) and made patients **~3× more likely to return to sport by 8 weeks.** — **UNVERIFIED**
+- **L98** - If symptoms are **severe enough to limit function**, a **brief (<1 week) trial of meclizine 25 mg** — **UNVERIFIED**
+- **L106** - Persistent dizziness **>4 weeks** despite initial management. — **UNVERIFIED**
+
+## docs/tbi/vision.md
+
+- **L9** concussion-related convergence-insufficiency population.** Convergence insufficiency runs **~36%** and — **UNVERIFIED**
+- **L10** accommodative dysfunction **~43%** after TBI, visual-field loss **~18%** overall; **69%** of persisting — **UNVERIFIED**
+- **L11** concussions have **≥1** vision disorder, and **>40%** of blast-TBI veterans report diplopia. — **UNVERIFIED**
+- **L18** - **Accommodative insufficiency (AI)** — as common as CI (~43%); blur/headache/fatigue with near — **UNVERIFIED**
+- **L25** - **Visual-field loss** — **~18%** overall, far higher in **moderate–severe (40%) than mTBI (7%).** — **UNVERIFIED**
+- **L41** - **King-Devick** — rapid number-naming (saccadic speed), **<1 min**, sensitivity ~81%; **any — **UNVERIFIED**
+- **L59** RCT**, in **11–25-year-olds with symptomatic CI 4–24 weeks after concussion**, found — [Source 1](https://bjsm.bmj.com/content/early/2025/09/30/bjsports-2025-109807)
+- **L60** **88% successful-or-improved vs 8% with delayed treatment** on a composite NPC/PFV outcome at 6 weeks (NPC improved 7.9 vs 1.8 cm; PFV +17.5Δ vs — **UNVERIFIED**
+- **L61** 2.5Δ; **79% symptom improvement vs 13%**), and a secondary analysis showed **86% resolution of — **UNVERIFIED**
+- **L62** accommodative insufficiency vs 28%.** **Refer early** — immediate therapy shortens the — **UNVERIFIED**
+- **L86** **traumatic CN palsies often improve over 3–6 months.** Persistent/large-angle or afferent — **UNVERIFIED**

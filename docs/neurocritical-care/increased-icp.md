@@ -292,7 +292,7 @@ neurological assessment.
 ### Hypertonic saline vs mannitol — the choice (nudge: saline first)
 
 The **Neurocritical Care Society 2020 cerebral edema guideline prefers hypertonic saline over
-mannitol** for raised ICP in **TBI, SAH, and ICH** (weak/conditional recommendation, low- to
+mannitol** for raised ICP in **TBI and ICH** (weak/conditional recommendation, low- to
 very-low-quality evidence — in SAH it specifically favors **symptom-triggered HTS boluses over
 sodium-target regimens**); in ischemic stroke either agent is acceptable. SIBICC, by contrast, endorses neither over the
 other and applies the same sodium/osmolality limits to both. Two honest caveats: no trial has
@@ -333,8 +333,8 @@ rescue at a number. **Wean HTS gradually** — let sodium fall no faster than ~*
       Confirm with an **ABG**; ideally guide with PbtO₂ or SjvO₂. **Wean over hours** — abrupt
       normalization causes rebound ICP (CSF bicarbonate adaptation).
     - **Prophylactic mannitol in ICH** — not shown to help; may promote hematoma expansion.
-    - **Corticosteroids for TBI, ICH, or stroke edema** — no role. (Steroids *are* for vasogenic
-      edema from tumor or abscess.)
+    - **Corticosteroids for TBI, ICH, or stroke edema** — no role. (Steroids may be used for tumor vasogenic edema; in **brain abscess**, reserve them
+      for severe edema/impending herniation under specialist guidance, rather than routine use.)
     - **Hypotonic fluids** and any avoidable hypotension or hypoxia — each is a secondary-insult
       multiplier.
     - **Propofol infusion syndrome (PRIS):** risk rises at **>4 mg/kg/h for >48 h**, with
@@ -355,15 +355,10 @@ rescue at a number. **Wean HTS gradually** — let sodium fall no faster than ~*
       neurologic benefit; plus ICU-acquired weakness (worse with steroids), VTE, pressure
       injury, and corneal injury.
 
-!!! tip "TRICARE — ICP osmotherapy and ICU infusions"
-    Every drug on this page (3% and 23.4% saline, mannitol, propofol, pentobarbital,
-    cisatracurium/rocuronium, fentanyl, midazolam) is an **inpatient, facility-administered IV
-    agent** — it is given under the facility benefit in the ED/OR/ICU, not filled as an
-    outpatient pharmacy prescription, so there is no outpatient PA or step-therapy gate for the
-    acute agents themselves. The practical TRICARE issues are downstream: MTF vs civilian
-    neurocritical-care capability, transfer authorization, and continued-care coverage — settle
-    those with the referral/transfer center early, not at the bedside during a herniation.
-    *Verify current status at the TRICARE Formulary Search — DoD P&T revises tiers.*
+!!! tip "TRICARE — verified rules and the current form"
+    Emergency stabilization and inpatient treatment must proceed through the clinical/facility pathway. Outpatient drugs, prolonged home infusions and follow-up services may need separate benefit authorization. The official list flags **Xifaxan 550 mg** for PA; exact indication and quantity rules matter. Do not extrapolate this to every rifaximin strength or to all ICU drugs.
+
+    [Current PA/MN details, benefit routing and packet](../military/tricare.md) · [Live Formulary Search](https://www.express-scripts.com/frontend/open-enrollment/tricare/fst). Check the exact product, beneficiary and venue on the prescribing date.
 
 ## Decompressive craniectomy — the evidence, honestly stated
 
@@ -433,7 +428,7 @@ hours for:
   not after deterioration — especially under age 60; and any cerebellar infarct or hemorrhage
   with mass effect or hydrocephalus.
 - **Supratentorial ICH** with coma, shift, falling GCS, or hydrocephalus (for EVD); **any
-  cerebellar ICH >3 cm**.
+  cerebellar ICH **≥15 mL**, or smaller with deterioration/compression/hydrocephalus**.
 
 ## Disposition
 
@@ -448,33 +443,12 @@ hours for:
   HTS sodium falls ≤8–10 mEq/L per 24 h; hyperventilation normalizes over hours; barbiturates
   taper.
 
-!!! military "Military medicine — increased ICP / severe TBI"
-    *Framework — verify against current **AR 40-501**, **DoDI 6130.03**, **DoDI 1332.18**,
-    service deployment/aeromedical policy (and any relevant JTS CPG) before counseling.*
-
-    - **Deployability:** an acute intracranial-pressure event is a theater-evacuation problem,
-      not a downrange-management problem — osmotherapy (3%/23.4% saline, mannitol) and EVD
-      capability sit at Role 3 and above; nothing in Steps 2–3 travels. After recovery,
-      deployability turns on residual deficit and the skull: an unrepaired craniectomy defect
-      is generally non-deployable until cranioplasty and clearance.
-    - **Profile (DA Form 3349):** temporary profile through acute recovery, rehabilitation, and
-      cranioplasty; permanent profile if residual cognitive, motor, or seizure burden limits
-      duty. Document serial neuro examinations and functional measures, not just imaging.
-    - **EPTS / LOD:** most service-related cases are blast/blunt TBI — document mechanism,
-      loss of consciousness, and post-traumatic amnesia duration contemporaneously; they drive
-      both line-of-duty and later disability determinations. Pre-existing conditions (e.g.,
-      prior aneurysm, tumor) need the same onset documentation discipline.
-    - **Retention (AR 40-501 / DoDI 6130.03):** retention turns on the *residual* condition —
-      persistent neurological deficit, cognitive impairment, or post-traumatic epilepsy that
-      interferes with duty — rather than on the acute ICP event itself. Confirm the current
-      paragraph for the specific residual diagnosis before counseling.
-    - **MEB / IDES:** refer when residual deficits after TBI/stroke/ICH fail retention standards
-      or prevent performance of MOS duties; the record that carries a board is the longitudinal
-      one — serial GCS/examinations, imaging, rehabilitation course, neuropsychological testing,
-      and documented duty impact.
-    - **Aeromedical / special duty:** intracranial hemorrhage, craniectomy, and post-traumatic
-      seizures are disqualifying for flying and most special-duty statuses absent a waiver;
-      confirm current service aeromedical policy before returning any member to flight status.
+!!! military "Military medicine — duty, retention and deployment"
+    - **Profile / function:** Resuscitate and transfer to appropriate neurologic/critical care capability. Do not postpone treatment for an administrative readiness decision.
+    - **Retention / MEB–MAR2:** A temporary acute restriction does not establish permanent unfitness. After recovery, use the diagnosed cause and residual function to determine profile, retention and rehabilitation needs. Use the [retention framework](../military/deployability.md); permanent P3/4 does not by itself select DES versus MAR2.
+    - **Deployment / medications:** Active coma, delirium or intracranial hypertension is incompatible with routine operational duty. Reassess only after stabilization; document the underlying disease and all continuing drugs. See [the disease AND drug screen](../military/deployment-medications.md) for the current CENTCOM rules and waiver packet.
+    - **Special duty:** flight, diving and other special assignments have separate standards and waiver authorities; a general duty profile does not clear them.
+    - **LOD / EPTS:** document onset, duty status, exposures and aggravation objectively. The designated authority determines LOD/EPTS; neither in-service diagnosis nor a genetic finding settles it automatically.
 
 ---
 
@@ -483,7 +457,7 @@ hours for:
 *Written from primary guidelines and trials; source articles are a reading list, not copied.*
 
 - **Hypertonic saline is the default osmotic agent now — by guideline, not just habit.** The
-  NCS 2020 cerebral edema guideline prefers HTS over mannitol in TBI, SAH, and ICH (weak
+  NCS 2020 cerebral edema guideline prefers HTS over mannitol in TBI and ICH (weak
   recommendation, low-quality evidence); SIBICC stays neutral between the agents but standardizes
   the tiers and the shared Na <155 / osmolality <320 limits. No trial shows an outcome difference
   between the agents — the preference rests on ICP-lowering efficacy and on saline's volume/CPP
@@ -528,7 +502,7 @@ DECIMAL/DESTINY/HAMLET pooled analysis and DESTINY II; SWITCH (2024).
    sustained >5 min trigger; CPP ≥60 adjusted for autoregulation; PbtO₂ ≥15 mmHg.
 4. Cook AM, et al. [*Guidelines for the Acute Treatment of Cerebral Edema in Neurocritical Care
    Patients.* Neurocrit Care. 2020](https://doi.org/10.1007/s12028-020-00959-7) — NCS: hypertonic
-   saline suggested over mannitol in TBI, SAH, and ICH; bolus or goal-sodium strategies.
+   saline suggested over mannitol in TBI and ICH; bolus or goal-sodium strategies.
 5. Chesnut R, et al. [*A Consensus-Based Interpretation of the Seattle International Severe
    Traumatic Brain Injury Consensus Conference (SIBICC) Algorithms.* / SIBICC tiered algorithm.
    Intensive Care Med. 2019–2020] — Tier 0–3 escalation; shared Na/osmolality limits; EVD
@@ -557,35 +531,6 @@ DECIMAL/DESTINY/HAMLET pooled analysis and DESTINY II; SWITCH (2024).
 11. Beck J, et al. *SWITCH trial — decompressive craniectomy plus best medical treatment versus
     best medical treatment alone for spontaneous severe deep supratentorial ICH.* 2024 —
     stopped early; primary outcome RR 0.77 (95% CI 0.59–1.01), not significant.
-12. **TRICARE / DoD Uniform Formulary:** the agents on this page are facility-administered IV
-    drugs (hypertonic saline, mannitol, propofol, pentobarbital, neuromuscular blockers) given
-    under the inpatient benefit; no outpatient PA applies to the acute agents themselves.
-    *Verify current status at the TRICARE Formulary Search.*
+- [Official TRICARE sources, retrieved forms and access limits](../military/tricare.md).
 
-*Verified November 2026: thresholds and targets (ICP >22 mmHg, CPP 60–70, SBP floors, PbtO₂ ≥15)
-were checked against the BTF fourth-edition recommendations and the ACS 2024 best-practices
-document as captured from both research tools on 2026-11-11; the tier structure, EVD drainage
-modes and thresholds, and the Na <155 / osmolality <320 limits against SIBICC/ENLS as summarized
-by OpenEvidence; the hypertonic-saline-over-mannitol preference against the NCS 2020 cerebral
-edema guideline (weak recommendation, low-quality evidence — stated as such on the page); all
-drug doses (3% and 23.4% saline, mannitol, propofol infusion and PRIS criteria, pentobarbital
-load/infusion, cisatracurium) against the OpenEvidence Q2/Q3 answers captured the same day;
-DECRA, RESCUEicp (including the 24-month per-100 trade-off and favorable-outcome rates),
-DECIMAL/DESTINY/HAMLET pooled odds ratios, DESTINY II, and SWITCH against the OpenEvidence Q4
-answer. **Could not be pinned this run and flagged rather than invented:** (1) ChatGPT's Q1 and Q2
-answers were captured in full and cross-checked against this page (Q2 contributed the COBI
-trial result, the osmolar-gap cutoff caveat, and the SAH symptom-triggered-bolus preference —
-all incorporated). ChatGPT's **Q3 answer was still generating when this run wrapped** (its
-subagent research had completed; the one visible interim point — propofol controls ICP but
-ACS/SIBICC discourages escalating it to sustained burst suppression — agrees with the page);
-the EVD/propofol/barbiturate/NMB/hyperventilation sections therefore rest on the OpenEvidence
-Q3 answer, and **ChatGPT Q4 was not run** — the decompressive-craniectomy section rests on the
-OpenEvidence Q4 answer. Both mirror the accepted Acute Myelopathy precedent (a section resting
-on one source, flagged). (2) the SDH evacuation threshold sentence in the source answer was cut
-mid-phrase, so the page states SDH thickness >10 mm with "significant shift" qualitatively and
-gives no specific shift number; (3) the cerebellar-infarction ventriculostomy citation year
-("AHA/ASA 2026" per ChatGPT) is cited without the year; (4) no item-level outpatient TRICARE
-formulary status was verified for these facility-administered agents — the TRICARE box states
-the inpatient-benefit position and carries the standard verification line; (5) the military box
-follows the AR 40-501 / DoDI 6130.03 framework with its verify disclaimer — TBI-specific
-retention paragraph numbers were not pinned in this run's research.*
+*Evidence/policy audit: 21 November 2026. Material changes were checked against the linked primary sources; this is an AI-assisted review, not certification of every dose or claim. [Review scope and source limits](../evidence-review.md).*

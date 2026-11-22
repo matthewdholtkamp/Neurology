@@ -61,8 +61,7 @@ asymptomatic disease is increasingly a **best-medical-therapy** call.
     - **50–69% → revascularize in *selected* patients** — greater benefit in **men, older patients,
       hemispheric (vs retinal) events**; individualize.
     - **<50% → medical therapy only.**
-    - **Timing caveat:** avoid revascularizing a **large acute infarct** in the first ~48 h
-      (hemorrhage risk) — coordinate with stroke neurology.
+    - **Timing caveat:** a **large infarct, disabling stroke, altered consciousness, or hemorrhagic transformation** may require a substantially longer delay or preclude early intervention. Forty-eight hours is not an automatic clearance point; stroke and vascular teams determine timing from infarct burden and recovery.
 
 !!! orderset "Asymptomatic stenosis (≥70%) — a shared decision"
     - **Intensive medical therapy is the default comparator** and is often sufficient. Offer
@@ -90,18 +89,12 @@ Symptomatic high-grade stenosis → **urgent vascular surgery / neuro-interventi
 shared-decision revascularization discussion. All → the full
 [secondary-prevention plan](prevention.md).
 
-!!! military "Military medicine — carotid disease"
-    *Framework — verify against current **AR 40-501**, **DoDI 6130.03**, and aeromedical policy.*
-
-    - **Population skew:** symptomatic atherosclerotic carotid disease is largely an **older /
-      retiree / veteran** issue; in young active-duty stroke, think **dissection** first
-      ([dissection page](cervical-artery-dissection.md)).
-    - **Retention:** carotid disease that causes **stroke/TIA** is a cerebrovascular condition under
-      **DoDI 6130.03 Vol 2 para 5.26.b** (stroke b(3); **vascular stenosis b(2)**; recurrent TIA b(6)
-      *unless etiology identified and definitively treated*), Army **AR 40-501 3-31f** — a
-      **revascularized, asymptomatic** carotid with no residual deficit may retain per specialty review.
-    - **Deployability / aeromedical:** symptomatic disease and the peri-procedural period are
-      deployment- and flight-status-limiting/waiver-dependent.
+!!! military "Military medicine — duty, retention and deployment"
+    - **Profile / function:** Restrict hazardous duties while evaluating a new vascular event; document residual vision, strength, language, cognition, recurrence risk and bleeding risk.
+    - **Retention / MEB–MAR2:** DoDI V2 **5.26.b** and Army **3-31f** guide cerebrovascular retention assessment. Workup for a clotting disorder alone does not establish a permanent disability. Use the [retention framework](../military/deployability.md); permanent P3/4 does not by itself select DES versus MAR2.
+    - **Deployment / medications:** Therapeutic anticoagulation is a major CENTCOM exclusion; nonaspirin antiplatelets create a separate waiver issue. Do not stop indicated treatment to make a member deployable. See [the disease AND drug screen](../military/deployment-medications.md) for the current CENTCOM rules and waiver packet.
+    - **Special duty:** flight, diving and other special assignments have separate standards and waiver authorities; a general duty profile does not clear them.
+    - **LOD / EPTS:** document onset, duty status, exposures and aggravation objectively. The designated authority determines LOD/EPTS; neither in-service diagnosis nor a genetic finding settles it automatically.
 
 ---
 
@@ -111,7 +104,7 @@ shared-decision revascularization discussion. All → the full
   early benefit is large and time-sensitive.
 - **50–69% symptomatic** benefits *selected* patients (men, older, hemispheric events); **<50%**
   is medical only.
-- **Best medical therapy for everyone** — high-intensity statin (LDL <70), antiplatelet, BP <130/80,
+- **Best medical therapy for everyone** — high-intensity statin (LDL goal by ASCVD risk), antiplatelet, BP <130/80,
   risk-factor control — and it's the yardstick asymptomatic disease is measured against.
 - **CEA vs CAS vs TCAR:** CEA lowest peri-procedural stroke (esp. >70); CAS for high surgical risk;
   **TCAR** (flow reversal) outperforms transfemoral stenting in registries.
@@ -135,16 +128,6 @@ ESVS 2023 and SVS carotid guidelines; TCAR registry data.
    ipsilateral events); carotid-web and near-occlusion literature; TCAR registry (Vascular Quality
    Initiative).
 4. Kleindorfer DO, et al. *2021 AHA/ASA secondary-prevention guideline* (carotid + medical therapy).
-5. **TRICARE / DoD:** statins/antiplatelets generic-formulary. Retention: **DoDI 6130.03 Vol 2 para
-   5.26.b** (stenosis b(2), stroke b(3), TIA b(6)), Army **AR 40-501 3-31f.**
+- [Official TRICARE sources, retrieved forms and access limits](../military/tricare.md).
 
-*Verified July 2026: symptomatic 70–99% carotid stenosis warrants revascularization within ~2 weeks
-(CEA first-line; NASCET), 50–69% in selected patients; best medical therapy (high-intensity statin to
-LDL <70, antiplatelet, BP <130/80) applies to all; CEA generally has lower peri-procedural stroke than
-transfemoral CAS (TCAR superior to transfemoral CAS in registries). **The CREST-2 2025 readout
-(stenting + IMM > IMM alone; no added CEA benefit in asymptomatic ≥70%) is very recent — confirm
-against the formal guideline update before acting on it.** Retention framing per DoDI 6130.03 Vol 2
-para 5.26.b, Army AR 40-501 3-31f — verify before counseling. Plaque-morphology risk (intraplaque
-hemorrhage/ulceration on vessel-wall MRI), carotid web (young cryptogenic stroke), and near-occlusion
-(limited revascularization benefit) are added from current literature — an evolving area beyond the
-stenosis-percentage thresholds.*
+*Evidence/policy audit: 21 November 2026. Material changes were checked against the linked primary sources; this is an AI-assisted review, not certification of every dose or claim. [Review scope and source limits](../evidence-review.md).*

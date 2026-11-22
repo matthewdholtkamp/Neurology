@@ -9,11 +9,6 @@ will ask about, the SMA drug cabinet, and the respiratory/nutrition/symptom orde
 that determines survival. For the on-call neurologist or PCP seeing progressive weakness
 in clinic, on admit, or in the ED.
 
-!!! warning "Draft — not yet through the review pipeline"
-    This page has not had its `/page` review (FDA-label diff, OpenEvidence round, safety and
-    military agents). The October 2026 corrections are listed in the Verified footer; treat
-    anything the footer does not name as unconfirmed.
-
 !!! danger "🚩 Red flags — don't miss these"
     | Pattern | Worry | Do now |
     |---|---|---|
@@ -62,7 +57,7 @@ regions (fibrillations, positive sharp waves, chronic reinnervation).
 3. **Send genetics on every ALS patient** — C9orf72, SOD1, TARDBP, FUS at minimum. A
    SOD1 result unlocks tofersen; a C9orf72 result changes family counseling. Do not
    restrict testing to "familial" cases — ~10% of apparently sporadic ALS is genetic.
-4. **Start riluzole while you work the patient up** — the rest of the disease-modifying
+4. **Start riluzole once the clinical ALS diagnosis is established** — the rest of the disease-modifying
    decisions (edaravone, tofersen) and all of the survival-determining care (NIV,
    nutrition, symptom control) run in parallel, not in series.
 
@@ -74,7 +69,7 @@ regions (fibrillations, positive sharp waves, chronic reinnervation).
    cervical spine (thoracic if indicated), EMG/NCS with a motor-neuron protocol.
 2. **Baseline the patient** — ALSFRS-R, FVC (sitting and supine), MIP/SNIP, weight,
    swallow screen, orthopnea/morning-headache review, depression and PBA screen.
-3. **Start riluzole now** (Step 1 below) — do not wait for genetics or the full workup.
+3. **Start riluzole after clinical diagnosis** (Step 1 below); do not wait for genetics.
 4. **Send the ALS gene panel** and route by result: SOD1-positive → tofersen pathway;
    all others → an edaravone **discussion** (modest, contested benefit — below).
 5. **Set the survival infrastructure in parallel** — pulmonary (NIV thresholds), GI
@@ -120,12 +115,13 @@ regions (fibrillations, positive sharp waves, chronic reinnervation).
       benefit**. Offer it to patients who resemble the trial population, with that framing; it
       is reasonable to decline.
     - **Radicava ORS (oral) 105 mg (5 mL) PO or via feeding tube once daily.**
-      Cycle 1: 14 days on, 14 days off. Subsequent cycles: 10 days on, 14 days off.
-      Take on an empty stomach (≥1 hour before or ≥2 hours after food).
+      Cycle 1: 14 days on, 14 days off. Subsequent cycles: **10 treatment days within a 14-day period, then 14 drug-free days**.
+      Take in the morning after fasting: **8 h after a high-fat meal, 4 h after a low-fat meal,
+      or 2 h after a caloric supplement**; no food for **1 h after the dose** (water allowed).
     - **Radicava IV 60 mg IV over 60 minutes** if oral is not an option — Cycle 1:
       daily ×14 then 14-day drug-free period; then 10 of 14 days, then 14-day drug-free.
     - Oral is bioequivalent to IV and is the default; reserve IV for dysphagia without
-      tube access. Warnings include hypersensitivity and **sulfite allergic reactions** (the IV formulation contains sodium bisulfite).
+      tube access. Warnings include hypersensitivity and **sulfite allergic reactions** (**both IV and ORS formulations contain a sulfite**).
     - → If started, continue with riluzole and reassess at each clinic visit.
 
 !!! orderset "Step 2b — tofersen (for SOD1-ALS only)"
@@ -165,11 +161,18 @@ SMA — survivors of the treatment era — are now a growing adult-neurology pop
 | Agent | Who | Dosing | Key cautions |
 |---|---|---|---|
 | **Nusinersen (Spinraza)** — SMN2 splicing ASO | All ages, all SMA types | **12 mg/5 mL intrathecal**; loading doses on days **0, 14, 28**, the 4th **30 days after the 3rd**, then **every 4 months** | LP burden forever; thrombocytopenia/renal monitoring per label |
-| **Risdiplam (Evrysdi)** — oral SMN2 splicing modifier | ≥2 months | Daily PO: <2 yr **0.20 mg/kg**; ≥2 yr and <20 kg **0.25 mg/kg**; ≥2 yr and ≥20 kg **5 mg** | Take after a meal at the same time daily; the only oral option |
+| **Risdiplam (Evrysdi)** — SMN2 splicing modifier | Pediatric and adult patients | Daily PO: **<2 months 0.15 mg/kg**; **2 months–<2 years 0.2 mg/kg**; ≥2 years and <20 kg **0.25 mg/kg**; ≥2 years and ≥20 kg **5 mg** | **With or without food**, same time daily; formulation/feeding-tube instructions per current label |
 | **Onasemnogene abeparvovec (Zolgensma)** — one-time AAV9 gene therapy | **<2 years**, biallelic SMN1 mutations | **1.1×10¹⁴ vg/kg IV once** | **Boxed warning: acute serious liver injury and liver failure.** Screen AAV9 antibodies first; **prednisolone 1 mg/kg/day** starting the day before, ≥30 days then taper; monitor LFTs, platelets, troponin-I (hepatotoxicity, TMA, cardiac signals) |
 
+**Nusinersen also has a 2026 high-dose option:** **50 mg intrathecal, repeated 14 days later,
+then **28 mg beginning 4 months after the SECOND loading dose, repeated every 4 months**, with label-specific transition rules for patients on the 12-mg
+regimen. These regimens are not interchangeable by vial substitution.
+[Current FDA label](https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/209531s016lbl.pdf).
+
 An **intrathecal onasemnogene formulation (Itvisma)** for patients **≥2 years** was approved in
-late 2025 — confirm its label and dosing before use; it is not covered in the table above.
+**24 November 2025** for patients with confirmed **SMN1 mutation**. It has its own intrathecal
+label and serious safety/monitoring requirements; do not substitute the Zolgensma IV dose.
+[Itvisma FDA product information](https://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products/itvisma).
 
 ### The survival infrastructure — respiratory, nutrition, symptoms
 
@@ -188,9 +191,11 @@ parallel with Steps 1–2, not after.
       **before** the crisis; the evaluation visit should happen while FVC is still >50%.
 
 !!! orderset "Nutrition — the PEG plan"
-    - **Offer PEG when:** dysphagia with weight loss (≥10% baseline), prolonged
+    - **Discuss gastrostomy early**, before substantial weight loss or respiratory decline.
+      **Offer it for** dysphagia, inadequate intake, weight loss, prolonged
       mealtimes, or aspiration events — **place it before FVC falls below 50%** if
-      possible (anesthesia risk climbs steeply below that line).
+      possible; **FVC <50% is not an absolute prohibition**. A specialist team can select
+      technique and ventilatory support when the patient presents later.
     - Videofluoroscopy when the bedside screen is abnormal; dietitian at every ALS
       clinic visit; weigh the patient every visit without exception.
 
@@ -211,13 +216,10 @@ parallel with Steps 1–2, not after.
     - **Sleep/anxiety/depression:** treat directly and early; screen at every visit.
       Constipation from immobility and anticholinergics needs a standing bowel regimen.
 
-!!! tip "TRICARE — motor neuron disease prescribing"
-    Riluzole is generic and typically preferred with minimal barriers — it should never
-    be the drug that waits on paperwork. Radicava ORS, Qalsody, Spinraza, Evrysdi, and
-    Zolgensma are branded specialty agents and are PA-gated with neurology-specialty
-    requirements; expect step-therapy documentation and prior-authorization lead time,
-    so start the PA the same visit you decide. *Verify current status at the TRICARE
-    Formulary Search before counseling — DoD P&T revises tiers periodically.*
+!!! tip "TRICARE — verified rules and the current form"
+    **Radicava ORS and Evrysdi require pharmacy PA** in the official October file. Spinraza, Qalsody and gene therapy need benefit/specialty-site review; absence from the pharmacy list is not “no PA.” Current drug-specific functional/respiratory/genetic and renewal criteria were not obtained; retrieve them before promising access.
+
+    [Current PA/MN details, benefit routing and packet](../military/tricare.md) · [Live Formulary Search](https://www.express-scripts.com/frontend/open-enrollment/tricare/fst). Check the exact product, beneficiary and venue on the prescribing date.
 
 ## Disposition
 
@@ -233,41 +235,12 @@ parallel with Steps 1–2, not after.
 - **PMA/PLS:** same clinic structure; PLS patients need less respiratory urgency but
   equal spasticity and mobility management.
 
-!!! military "Military medicine — motor neuron disease"
-    *Framework — verify against current **AR 40-501**, **DoDI 6130.03 Vol 1 and Vol 2**,
-    **DoDI 1332.18** and service aeromedical policy. See
-    [Profiles, MEB/MAR2 & deployability](../military/deployability.md). Paragraph citations are
-    carried from that page, not re-extracted for this one.*
-
-    - **Retention — ALS has a named Army paragraph; use it.** AR 40-501 **3-31a** (ALS or other
-      progressive neurogenic atrophy) — which also reaches **PMA, SMA and Kennedy disease**. DoD
-      floor: DoDI 6130.03 Vol 2 **5.26.i** (paralytic disorders resulting in **permanent**
-      functional impairment) alongside the non-exhaustive **5.26.e** (neuromuscular disorders).
-      Unlike [LEMS](../nmj/lems.md), the permanence qualifier in 5.26.i **helps** here — ALS is
-      progressive by definition. **PLS** is pure UMN and does not fit 3-31a cleanly; use
-      **3-31k** → **para 3-1**.
-    - **The 5.26.a gate is met quickly, but it is still a gate:** document that weakness
-      **persists despite treatment** (riluzole ± edaravone/tofersen) **and** precludes duty. Do
-      not wait for decline to prove the second prong — functional limits at diagnosis are enough
-      when documented.
-    - **Profile (DA Form 3349):** **P** factor — **permanent P-3** once the diagnosis is
-      established, and a permanent 3 **is** the DES referral (AR 40-501 **3-4**). Functional
-      limits: lifting, carrying, marching, weapons handling, and any duty needing reliable
-      speech, swallow or respiratory reserve.
-    - **EPTS / LOD:** date the first attributable symptom (cramps, fasciculations, hand
-      weakness, a falling ACFT) from performance and sick-call records, not the EMG date. In
-      service, **state LOD affirmatively**. For **familial ALS or SMA**, record the genetic
-      result without implying pre-service onset you cannot document.
-    - **MEB / IDES:** refer at diagnosis — the clock runs faster than the board. The packet:
-      ALSFRS-R and FVC trends, EMG, genetic result, NIV/PEG status, and commander-corroborated
-      duty impact.
-    - **Deployability:** not deployable once diagnosed — NIV, cough assist, PEG, intrathecal
-      dosing and multidisciplinary follow-up do not exist downrange.
-    - **Aeromedical / special duty:** disqualifying; ground at diagnosis. AR 40-501 **4-27**
-      imports the accession neurologic standards for flying duty.
-    - **VA note:** VA presumes ALS service-connected for any veteran with **≥90 days of
-      continuous active service** and rates it **100%**. Make sure the Soldier and family hear
-      this before separation — the VSO conversation starts during the MEB, not after discharge.
+!!! military "Military medicine — duty, retention and deployment"
+    - **Profile / function:** Document progressive weakness, respiratory/bulbar function and assistive requirements. Prioritize multidisciplinary ALS/SMA care and safe work restrictions.
+    - **Retention / MEB–MAR2:** Army **3-31a/b** and the applicable DoDI neuromuscular/paralytic standards guide early retention/referral assessment. Do not wait a year solely because progression is gradual. Use the [retention framework](../military/deployability.md); permanent P3/4 does not by itself select DES versus MAR2.
+    - **Deployment / medications:** Progressive impairment and specialty/respiratory needs may preclude deployment. Oral therapy does not erase the diagnosis; injections, intrathecal therapy and monitoring need separate assessment. See [the disease AND drug screen](../military/deployment-medications.md) for the current CENTCOM rules and waiver packet.
+    - **Special duty:** flight, diving and other special assignments have separate standards and waiver authorities; a general duty profile does not clear them.
+    - **LOD / EPTS:** document onset, duty status, exposures and aggravation objectively. The designated authority determines LOD/EPTS; neither in-service diagnosis nor a genetic finding settles it automatically.
 
 ---
 
@@ -327,21 +300,6 @@ for NIV thresholds.
 8. **Spinraza (nusinersen), Evrysdi (risdiplam) and Zolgensma (onasemnogene abeparvovec) FDA
    labels** — SMA dosing and boxed warning.
    [DailyMed](https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&query=nusinersen)
-9. **TRICARE / DoD Uniform Formulary:** riluzole typically preferred/generic;
-   edaravone (oral/IV), tofersen, nusinersen, risdiplam, and onasemnogene abeparvovec
-   are generally specialty/PA-gated with neurology requirements. *Verify current status
-   at the TRICARE Formulary Search before counseling — DoD P&T revises tiers periodically.*
+- [Official TRICARE sources, retrieved forms and access limits](../military/tricare.md).
 
-*Verified October 2026 — **DRAFT, NOT YET REVIEWED.** Drafted 2026-10-10 from web research only
-(the usual OpenEvidence + clinician-ChatGPT route was not available), checked against primary
-reporting and the JAMA Neurol 2025 tofersen paper: VALOR figures, the April 2023 tofersen
-approval, Qalsody and Radicava dosing, riluzole monitoring, Nuedexta titration, and the Relyvrio
-timeline. Corrected on 2026-10-22: edaravone repositioned as a discussion rather than a default
-(MCI186-19 enriched population; no benefit in a large German real-world cohort), the nusinersen
-fourth loading dose (30 days after the third, per label), onasemnogene's label indication and
-boxed liver warning, the NIV oximetry and PaCO₂ criteria, the Gold Coast citation (Clin
-Neurophysiol 2020), and the military box rewritten with paragraph citations. The intrathecal
-onasemnogene (Itvisma) line and all dosing should be confirmed by the FDA-label diff, which could
-not be run (openFDA was unreachable from the editing environment). TRICARE statuses are not
-verified against the Uniform Formulary. Military paragraph citations are carried from the site's
-military page, not re-extracted.*
+*Evidence/policy audit: 21 November 2026. Material changes were checked against the linked primary sources; this is an AI-assisted review, not certification of every dose or claim. [Review scope and source limits](../evidence-review.md).*

@@ -10,9 +10,13 @@ ischemia, hydrocephalus, and hyponatremia in a neuro-ICU.
 !!! danger "🚩 Thunderclap headache = SAH until excluded"
     - **Sudden, severe, maximal-at-onset headache** (± brief LOC, vomiting, neck stiffness, sentinel
       "warning" headache days earlier). **Don't wait for a stiff neck or a deficit.**
-    - **Non-contrast CT first** — near-100% sensitive **within 6 h** of onset.
-    - **CT negative but story convincing → LP for xanthochromia** (or CTA) — a normal early CT does
-      **not** fully exclude SAH after 6 h.
+    - **Non-contrast CT first.** A negative scan within **6 h** can exclude SAH in selected
+      patients with a normal neurologic examination when scan quality and interpretation are adequate.
+      That rule is not a universal reassurance in anemia, poor-quality imaging, or neurologic deficit.
+    - **Negative CT after >6 h, or with a new neurologic deficit → LP when safe** under the
+      AHA/ASA pathway. Persistent high suspicion needs further evaluation. CTA is an alternative in
+      some ED pathways after discussion of its limits: an incidental aneurysm is not proof of rupture,
+      and a negative CTA does not exclude every cause of subarachnoid blood.
     - **Confirmed SAH → CTA/DSA to find the aneurysm**, and **transfer to a high-volume
       neurovascular center now** — outcomes are volume- and team-dependent.
 
@@ -79,7 +83,8 @@ treat aggressively (benefit of securing + lumbar drainage holds across grades).
 2. **Pre-securing:** BP control, analgesia/antiemetics, reverse anticoagulation, bed rest.
 3. **Secure the aneurysm <24 h** (coil preferred when equivalent — ISAT; clip for some MCA/wide-neck).
 4. **Nimodipine 60 mg PO q4h × 21 days.**
-5. **Neuro-ICU:** CSF diversion (**lumbar drain preferred** — EARLYDRAIN; EVD for hydrocephalus);
+5. **Neuro-ICU:** CSF diversion selected by anatomy and CSF-flow/ICP assessment
+   (**EVD for acute obstructive hydrocephalus**; lumbar drainage only in suitable secured cases);
    monitor for **DCI days 4–14**; manage Na⁺, seizures, fever, Hb.
 6. **DCI management:** euvolemia → **induced hypertension** → endovascular rescue (± IV milrinone).
 
@@ -110,15 +115,17 @@ treat aggressively (benefit of securing + lumbar drainage holds across grades).
 ## Nimodipine & the delayed-cerebral-ischemia watch
 
 !!! orderset "After securing — the two-week ICU course"
-    - **Nimodipine 60 mg PO q4h × 21 days** — **Class 1**; improves outcome (neuroprotective; it does
+    - **Nimodipine 60 mg PO/enteral q4h × 21 days** — **Class 1**; **never inject an oral formulation IV**; improves outcome (neuroprotective; it does
       **not** reliably reverse angiographic vasospasm). If it drops BP, split to **30 mg q2h**.
     - **DCI surveillance (days 4–14):** serial exams ± **transcranial Doppler**/CTP; **maintain
       euvolemia** (avoid prophylactic hypervolemia / old "triple-H").
-    - **Prophylactic CSF drainage lowers DCI — and a *lumbar* drain is preferred:** **EARLYDRAIN**
-      (RCT, all grades) — **lumbar drainage 5 mL/h started within 72 h** cut unfavorable outcome by
-      **~12% absolute** and secondary infarction by **~11%**; higher lumbar-drain volumes tracked with
-      better outcomes (and higher *EVD* volumes with worse). Now the **preferred CSF-diversion strategy
-      for DCI prevention** in suitable patients (no mass lesion / herniation risk).
+    - **Lumbar drainage is a selected adjunct after securing the aneurysm.** EARLYDRAIN compared
+      adding lumbar drainage with standard care; many patients also had an EVD. It did **not**
+      randomize lumbar drain versus EVD. Neurosurgery must assess CSF-flow obstruction, mass effect,
+      cisterns, and craniospinal pressure gradients. **Do not place/drain lumbar CSF in obstructive
+      hydrocephalus or a dangerous pressure gradient**; drainage amount and monitoring follow the
+      neuro-ICU protocol.
+
     - **Symptomatic DCI → induced hypertension** (vasopressors to raise BP); **refractory →
       endovascular** intra-arterial vasodilators / balloon angioplasty. **IV milrinone** is an
       **emerging** adjunct (retrospective data: less delayed infarction and less need for endovascular
@@ -126,7 +133,8 @@ treat aggressively (benefit of securing + lumbar drainage holds across grades).
     - **Hydrocephalus → EVD** (common; acute or delayed).
     - **Transfusion:** **SAHARA** (NEJM 2025) found **no significant difference** between liberal
       (Hb ≤10) and restrictive (Hb ≤8) thresholds, though pooled neuro-ICU data (TRAIN/HEMOTION) trend
-      toward liberal. Reasonable to **transfuse at Hb ≤9–10**, especially during the DCI-risk window.
+      toward liberal. There is **no universal Hb 9–10 mandate**. Individualize by active bleeding,
+      ischemia/DCI, hemodynamics, oxygen delivery, and transfusion risk with the neuro-ICU team.
     - **Hyponatremia** (cerebral salt wasting / SIADH) is common — **treat with isotonic/hypertonic
       saline; do NOT fluid-restrict** (worsens DCI). **Fludrocortisone** for salt wasting.
     - **Seizures:** treat clinical seizures with an ASM for **≤7 days (Class 1)**; **avoid phenytoin**
@@ -144,9 +152,10 @@ treat aggressively (benefit of securing + lumbar drainage holds across grades).
         infarction, and unfavorable outcome) but the evidence is small and predominantly Asian — **not
         yet guideline-endorsed.**
 
-!!! tip "TRICARE — SAH prescribing"
-    **Nimodipine is generic/formulary** — the one drug you must not skip. Acute BP agents and reversal
-    products are inpatient-stocked. Aneurysm securing (coil/clip) is inpatient neurovascular care.
+!!! tip "TRICARE — verified rules and the current form"
+    Determine outpatient drug coverage separately from emergency stroke treatment. Anticoagulant, antiplatelet, lipid-drug, dose and quantity rules are product/indication specific; do not infer “no PA” from generic status. Reversal agents and inpatient reperfusion use the facility pathway. Medical authorization for procedures is distinct from pharmacy coverage.
+
+    [Current PA/MN details, benefit routing and packet](../military/tricare.md) · [Live Formulary Search](https://www.express-scripts.com/frontend/open-enrollment/tricare/fst). Check the exact product, beneficiary and venue on the prescribing date.
 
 ## Disposition
 
@@ -154,23 +163,12 @@ treat aggressively (benefit of securing + lumbar drainage holds across grades).
 Transfer immediately if you can't secure the aneurysm and manage DCI locally. Long rehab and
 outpatient aneurysm/imaging follow-up.
 
-!!! military "Military medicine — subarachnoid hemorrhage"
-    *Framework — verify against current **AR 40-501**, **DoDI 6130.03**, **DoDI 1332.18**, and JTS
-    CPGs before counseling.*
-
-    - **Deployed:** a thunderclap headache in theater with no CT/neurosurgery is an **urgent MEDEVAC**
-      — control BP, analgesia, airway; definitive securing is rear at a neurovascular center.
-    - **Deployability / retention:** **DoDI 6130.03 Vol 2 para 5.26.b** names **subarachnoid
-      hemorrhage (b(1)) and aneurysm (b(4))** below-retention cerebrovascular conditions when they
-      **persist despite treatment and impair duty** (5.26.a); persistent sequelae (severe headaches,
-      seizures, cognitive/motor deficit) fall under **5.26.c** — Army **AR 40-501 3-31f/k**. A ruptured
-      aneurysm and its recovery are **non-deployable**; residual deficit, seizures, or an
-      **unsecured/untreated aneurysm** generally trigger the **DES (MEB/PEB)**. A **secured aneurysm
-      with full recovery** may return to duty per specialty review.
-    - **Aeromedical:** a history of SAH / intracranial aneurysm is **disqualifying/waiver-dependent**
-      for flying duty; confirm the standard for the class involved.
-    - **Screening context:** family history and unruptured-aneurysm findings raise
-      counseling/fitness questions — refer to neurovascular.
+!!! military "Military medicine — duty, retention and deployment"
+    - **Profile / function:** Restrict hazardous duties while evaluating a new vascular event; document residual vision, strength, language, cognition, recurrence risk and bleeding risk.
+    - **Retention / MEB–MAR2:** DoDI V2 **5.26.b** and Army **3-31f** guide cerebrovascular retention assessment. Workup for a clotting disorder alone does not establish a permanent disability. Use the [retention framework](../military/deployability.md); permanent P3/4 does not by itself select DES versus MAR2.
+    - **Deployment / medications:** Therapeutic anticoagulation is a major CENTCOM exclusion; nonaspirin antiplatelets create a separate waiver issue. Do not stop indicated treatment to make a member deployable. See [the disease AND drug screen](../military/deployment-medications.md) for the current CENTCOM rules and waiver packet.
+    - **Special duty:** flight, diving and other special assignments have separate standards and waiver authorities; a general duty profile does not clear them.
+    - **LOD / EPTS:** document onset, duty status, exposures and aggravation objectively. The designated authority determines LOD/EPTS; neither in-service diagnosis nor a genetic finding settles it automatically.
 
 ---
 
@@ -188,10 +186,10 @@ outpatient aneurysm/imaging follow-up.
   milrinone**); **abandon prophylactic triple-H.** **Treat hyponatremia with salt, never fluid
   restriction.**
 - **New: prophylactic lumbar drainage prevents DCI.** **EARLYDRAIN** (2023) — lumbar drainage 5 mL/h
-  within 72 h cut unfavorable outcome ~12% absolute; a *lumbar* drain beats an EVD for this, and it's
-  now the preferred CSF-diversion strategy in suitable patients.
+  within 72 h cut unfavorable outcome ~12% absolute; it is an **adjunct in selected secured cases**, not proof of superiority to or a replacement
+  for an EVD in obstructive hydrocephalus.
 - **Transfusion is a toss-up (lean slightly liberal).** **SAHARA** (2025) found no significant
-  difference between Hb ≤10 and Hb ≤8 thresholds; pooled data trend toward liberal — transfuse ~Hb ≤9–10.
+  difference between Hb ≤10 and Hb ≤8 thresholds; pooled data trend toward liberal — individualize the threshold; no routine Hb 9–10 trigger is established.
 - **Know what NOT to do:** routine **statins and IV magnesium are not recommended**; **clazosentan**
   fails to improve function (REACT; Japan-only); **cilostazol** is a promising but unproven adjunct.
 - **Re-bleed prevention is early securing** — routine antifibrinolytics are not recommended (**ULTRA**
@@ -217,17 +215,6 @@ milrinone and cilostazol series; modified Fisher / Hunt-Hess grading.
    no significant difference; pooled neuro-ICU data (TRAIN/HEMOTION) trend liberal.
 8. *REACT* (clazosentan, negative internationally; approved Japan only); milrinone retrospective
    cohorts; cilostazol meta-analyses (small, predominantly Asian).
-9. **TRICARE / DoD:** nimodipine generic-formulary; acute BP/reversal agents inpatient-stocked.
-   *Verify at the TRICARE Formulary Search.*
+- [Official TRICARE sources, retrieved forms and access limits](../military/tricare.md).
 
-*Verified July 2026: diagnostic pathway (non-contrast CT <6 h → LP/CTA), early aneurysm securing with
-coiling generally preferred (ISAT), **nimodipine 60 mg q4h × 21 days (Class 1)**, euvolemia +
-induced-hypertension DCI management, salt (not restriction) for hyponatremia, and no routine
-antifibrinolytics (ULTRA) follow the 2023 AHA/ASA aneurysmal SAH guideline; **pre-securing BP target
-is SBP ≤160 (an SAH target — the ICH INTERACT3 <140 bundle does not apply here).** Newer additions —
-**EARLYDRAIN** (prophylactic lumbar drainage), **SAHARA** (transfusion), milrinone, clazosentan
-(REACT negative / Japan-only), cilostazol, and the seizure-prophylaxis nuance (≤7-day treatment,
-Class 2b prophylaxis in high-risk, avoid phenytoin) — were supplied by expert review with citations;
-confirm the specific figures before relying on them. **Retention confirmed against the source: DoDI
-6130.03 Vol 2 para 5.26.b(1) (subarachnoid hemorrhage) and b(4) (aneurysm), gated by 5.26.a, Army
-AR 40-501 3-31f/k.**
+*Evidence/policy audit: 21 November 2026. Material changes were checked against the linked primary sources; this is an AI-assisted review, not certification of every dose or claim. [Review scope and source limits](../evidence-review.md).*

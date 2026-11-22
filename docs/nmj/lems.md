@@ -15,15 +15,15 @@ behaving — and the reason the page exists is that **finding LEMS means startin
     years** — so a new LEMS diagnosis is a mandate to search, and to keep searching if the first
     scan is clean.
 
-    - **Screen with thoracic CT *and* FDG-PET/CT** — not PET only if CT is negative. CT
-      sensitivity falls for **central and mediastinal** tumors, where PET was positive in 100% of
-      cases against 50% for CT. *(CT-first-then-PET is a reasonable resource-constrained fallback;
-      know that you are making that trade.)* **Chest radiograph is not a screening test** — 51%
-      sensitivity vs 83% for CT at first screen.
+    - **Begin with high-quality chest CT**; add **FDG-PET/CT** when initial imaging is negative
+      or equivocal and suspicion remains, or under the specialist’s high-risk screening plan.
+      Do not infer that every patient needs simultaneous CT and PET from a small sensitivity series.
+      A chest radiograph is inadequate to exclude SCLC.
+
     - **Repeat imaging every 4–6 months for 2 years** if the initial search is negative (2021
       PNS-Care criteria for high-risk phenotypes) — the tumor may not yet be radiologically
       visible.
-    - **Two years is the right stopping point:** 91–92% of SCLCs are found within 3 months of the
+    - **Two years is a common initial surveillance framework, not a guarantee of no future cancer:** 91–92% of SCLCs are found within 3 months of the
       LEMS diagnosis and **96% within 1 year.** Detections beyond 2 years occurred almost entirely
       in patients who had been screened inadequately.
     - **The strongest single risk factor is smoking.** A smoker with LEMS has SCLC until proven
@@ -89,8 +89,8 @@ is easy to ask about.
 1. **Recognize the triad** — proximal weakness + autonomic features + hyporeflexia, with
    facilitation.
 2. **Confirm** — VGCC antibody + EDx showing post-exercise facilitation.
-3. **Hunt for cancer — this is the priority.** CT chest **and** PET/CT → serial imaging every 4–6
-   months for 2 years. Score DELTA-P to set the interval, not to decide whether to look.
+3. **Hunt for cancer — this is the priority.** CT chest, PET/CT when indicated → risk-adapted repeat imaging, often every 4–6
+   months for 2 years in high-risk patients. Score DELTA-P to set the interval, not to decide whether to look.
 4. **Treat symptoms** — amifampridine, divided 3–5× daily, titrated toward 50–80 mg/day.
 5. **Treat the cause** — the tumor (paraneoplastic) or immunotherapy (autoimmune/non-tumor).
 6. **Military disposition** — and note that a paraneoplastic LEMS is a cancer diagnosis first.
@@ -168,7 +168,8 @@ is easy to ask about.
       LEMS-specific data at all** — and carries a boxed warning for embryofetal toxicity.
     - **IVIG 2 g/kg over 2 days** — the one crossover RCT (n=9) showed significant limb, bulbar and
       respiratory gains with a fall in VGCC titre; **peak at 2–4 weeks, declining by 8.** An acute
-      or bridging therapy, not maintenance.
+      or bridging option; selected refractory patients may receive individualized maintenance,
+      with limited supporting evidence.
     - **Plasma exchange** — open-label only; 8 of 9 responded, peak at 10–15 days. For acute severe
       or rapidly progressive weakness.
     - **Rituximab** — fourth-line, for refractory disease, on case-level evidence only. **No
@@ -214,152 +215,17 @@ is easy to ask about.
 
 ---
 
-!!! military "Military medicine — LEMS"
-    *Framework — verify against current **AR 40-501**, **DoDI 6130.03 Vol 1 and Vol 2**,
-    **DoDI 1332.18**, and service aeromedical policy.
-    See [Profiles, MEB/MAR2 & deployability](../military/deployability.md).*
+!!! military "Military medicine — duty, retention and deployment"
+    - **Profile / function:** Bulbar or respiratory weakness is an evacuation/airway problem before it is a profile problem. After stabilization document fatigability, strength, swallowing, autonomic effects and task endurance.
+    - **Retention / MEB–MAR2:** Generalized MG: DoDI V2 **5.26.l**, Army **3-31c**; ocular-only disease has a specific exception. LEMS, botulism and toxic paralysis require the applicable neuromuscular/functional standard, trajectory and recovery assessment. Use the [retention framework](../military/deployability.md); permanent P3/4 does not by itself select DES versus MAR2.
+    - **Deployment / medications:** Assess crisis risk, treatment interruption, infection, monitoring, immunosuppression and injection/infusion support. Acute botulism/nerve-agent injury needs treatment/evacuation and exposure reporting, followed by cause-specific clearance. See [the disease AND drug screen](../military/deployment-medications.md) for the current CENTCOM rules and waiver packet.
+    - **Special duty:** flight, diving and other special assignments have separate standards and waiver authorities; a general duty profile does not clear them.
+    - **LOD / EPTS:** document onset, duty status, exposures and aggravation objectively. The designated authority determines LOD/EPTS; neither in-service diagnosis nor a genetic finding settles it automatically.
 
-    **LEMS is named in no military medical standard.** Every citation below is a reasoned choice
-    among analogies — cite them that way in a memo, and say so.
+!!! tip "TRICARE — verified rules and the current form"
+    **Firdapse requires pharmacy PA** in the official October 2026 list. The current manual diagnostic/prior-treatment/renewal form was not obtained; document the confirmed LEMS diagnosis and response, then obtain the form before promising approval. IVIG/immune therapy may need medical-benefit and site authorization.
 
-    - **Retention (non-paraneoplastic) — the Army hook is 3-31k, not a bare "3-31."**
-      **AR 40-501 para 3-31k, "Other neurologic conditions,"** is the only subparagraph that
-      reaches an unnamed condition: *"…there remain residual symptoms and impairments such as
-      … **weakness, paralysis, or atrophy of important muscle groups** … as to meet the definition
-      of a disqualifying medical condition … as in **paragraph 3-1**."* Proximal girdle weakness is
-      that, on the face of the text.
-        - **Do not cite 3-31b** (all *primary muscle disorders* — LEMS is a presynaptic
-          junctionopathy, not a myopathy) or **3-31c** (myasthenia gravis; its extraocular
-          carve-out does not transfer).
-        - Because 3-31k closes on **para 3-1**, name the limbs actually met: **3-1b** (medication
-          requiring frequent physician monitoring), **3-1d** (dependence on medication, frequent
-          special treatments, or frequent clinical monitoring — amifampridine dependence,
-          immunotherapy, 2-year serial cancer surveillance), and **3-1a** (duty interference
-          substantiated by the commander).
-    - **DoD floor — lead with 5.26.e, and do not use 5.26.i.**
-      **DoDI 6130.03 Vol 2 para 5.26.e**, *"Neuromuscular disorders and muscular dystrophy
-      including, but not limited to…"* — the enumerated examples are dystrophies, but the lead-in
-      is **expressly non-exhaustive** and LEMS is by definition a neuromuscular disorder.
-        - **5.26.i** (*"peripheral neuropathy or paralytic disorders resulting in permanent
-          functional impairment"*) **works against you.** It is the only 5.26 subparagraph carrying
-          its own **permanence** qualifier on top of the 5.26.a gate, so citing it *raises* the bar
-          and invites the reply that a Soldier responding to amifampridine has no permanent
-          impairment. Use it only as a secondary citation where permanent impairment is documented
-          — and never describe LEMS as a peripheral neuropathy.
-        - **5.26.n** — *"Recurrent, neurogenic, or unexplained syncope or near syncope that
-          interferes with duty"* — is a genuinely **named** standard the dysautonomia engages
-          directly, without analogy. Cite it when the autonomic burden is documented.
-    - **LEMS is *not* an "upon diagnosis" condition — 5.26.a gates it.** Only **5.26.d (dementia)**
-      and **5.26.k (epilepsy)** carry *"Paragraph 5.26.a. does not apply."* Document **both**
-      prongs: the condition **persists despite appropriate treatment** (name drug, dose, duration —
-      amifampridine titrated to maximum tolerated, ± immunotherapy) **and** it **impairs function
-      so as to preclude satisfactory performance of duty.** A well-controlled Soldier has not met
-      the neurologic standard on the neuro hook alone; the case is then carried by 3-1b/3-1d, by
-      5.26.n if there is near-syncope, or by the malignancy standard.
-    - **Paraneoplastic LEMS — cite the malignancy standard by paragraph, and lead with it.**
-      **AR 40-501 para 3-34a:** *"Malignant neoplasms that are unresponsive to therapy. Or when
-      therapy is such as to require **prolonged, intensive medical supervision**, or when the
-      **residuals of treatment** themselves meet the definition… as in paragraph 3-1."* **SCLC
-      therapy meets the second limb on its face — you do not wait for the cancer to fail
-      treatment**, which is the point most memos miss. **3-34c** covers an inadequate
-      post-treatment observation period. DoD floor: **DoDI 6130.03 Vol 2 para 5.29** (its own
-      persist-despite-treatment gate in the lead-in; **5.29.a** surveillance, **5.29.b** residuals).
-        - **Cite both standards in the same memo.** The malignancy paragraphs carry the case; the
-          neurologic paragraphs document the **residual deficit that persists after the tumour is
-          treated** — which in LEMS is common, and is exactly the *"residuals"* language in 3-34a
-          and 5.29.b.
-    - **EPTS / LOD — onset-dating is the contested question here.** Symptoms commonly predate
-      diagnosis by **months to years** (proximal leg weakness written off as deconditioning, dry
-      mouth, erectile dysfunction, constipation). **Date the first attributable symptom, not the
-      serology.** Say what you reviewed — pre-accession records, prior PHAs, ACFT trend, sick-call
-      notes for "leg weakness." **AR 40-501 3-2, Note:** accession standards govern the first
-      **6 months** of AD (separation via **EPSBD**); after 6 months, chapter 3 governs. Accession
-      counterparts: **DoDI 6130.03 Vol 1 6.26.q** (history of chronic nervous system disorders —
-      non-exhaustive) and **6.26.n** (history of paralysis, weakness, lack of coordination), plus
-      **6.29.b** (history of malignancy) in a paraneoplastic case. Check **3-3c** before referring:
-      a condition **waived at accession**, essentially unchanged and not meeting para 3-1, is not a
-      DES referral. If diagnosed in service, **state LOD affirmatively** — a missing LOD is not
-      excludable time.
-    - **Profile (DA Form 3349).** LEMS profiles on the **P** factor; add **L**/**U** only where
-      documented girdle weakness limits extremity function (**E** is rarely engaged — ocular
-      involvement is mild or late).
-        - **Temporary** through diagnostic work-up, amifampridine titration, immunotherapy
-          induction, and — if paraneoplastic — staging and oncologic treatment. **≤90 days per
-          instrument, and link every extension** so the days-on-profile count is real.
-        - Convert to **permanent** at clinical MRDP or the **12-month administrative MRDP**,
-          whichever comes first. Generalized disease at MRDP → **permanent P-3**, which **is** the
-          DES referral (AR 40-501 3-4).
-        - Section 4 limits, written functionally: no sustained load-carriage or road march; no
-          repeated stair or ladder climbing; no sustained overhead work; no duty requiring rapid
-          unaided rise from prone; **no prolonged standing in formation** (orthostasis); no
-          unrestricted work in high heat; no duty requiring reliable independent egress under load.
-    - **MEB / MAR2 — run the fork, do not default to "refer."** Refer to the **DES** when MRDP is
-      reached **and** the Soldier fails retention standards under 3-31k → 3-1 (or 3-34 if
-      paraneoplastic). **If the Soldier meets retention standards on well-controlled disease but
-      cannot perform their PMOS, that is a MAR2** — an administrative review, not a disability
-      process — and sending it to DES gets the packet bounced. **Do not refer before MRDP.** The
-      permanent 3/4 profile in e-Profile **is** the referral; the approval authority's second
-      signature starts the clock.
-        - Document: first attributable symptom date, VGCC serostatus, EDx (baseline CMAP,
-          decrement, post-exercise facilitation), amifampridine dose and response, immunotherapy
-          by drug/dose/duration, autonomic burden, objective strength and timed measures, the
-          cancer-surveillance schedule and findings, and commander-corroborated duty impact.
-        - **Whether the Soldier is found fit is the PEB's decision, not yours — write the standard
-          and the evidence, not the outcome.** Put the oncologist's staging and prognosis in the
-          packet **as evidence**, not in the profile as a prediction.
-    - **Deployability — what actually fails forward:**
-        - **NMBA hypersensitivity is the deployment-defining hazard.** A Soldier needing emergency
-          anaesthesia forward — trauma laparotomy, appendicectomy, airway — risks **prolonged
-          post-operative ventilation at a Role 2 with no ICU and no spare ventilator.** Carry it on
-          the medical alert documentation, not just the neurology note.
-        - **Amifampridine has no theatre supply line.** Orphan drug, specialty-pharmacy
-          distribution, not on any theatre formulary, not locally resupplyable, not substitutable —
-          and dosed in **multiple divided doses across the day**, so a delayed shipment converts to
-          weakness within days.
-        - **It lowers the seizure threshold**, which interacts badly with heat, sleep deprivation,
-          exertional hyponatraemia, and other threshold-lowering agents in the deployed formulary.
-        - **Autonomic failure is operational, not merely clinical** — orthostasis in formation,
-          under load, and in armour; impaired sweating in a heat-injury environment.
-        - **On prednisone plus a steroid-sparing agent**, live vaccines required for theatre entry
-          are **contraindicated** — a theatre-entry blocker independent of disease control.
-        - **Rescue therapy is unavailable downrange** — IVIG needs continuous **2–8 °C** cold
-          chain; **PLEX does not exist below Role 3.**
-        - **Paraneoplastic cases are non-deployable on the cancer alone** — active SCLC, treatment
-          cycles, and 4–6 monthly imaging for 2 years are, in the words of **3-34a**, *"prolonged,
-          intensive medical supervision."*
-        - Field/formulary drugs that worsen NMJ transmission — **aminoglycosides,
-          fluoroquinolones, IV magnesium** — constrain deployed medical support.
-    - **Aeromedical: disqualifying — by import, and categorically if paraneoplastic.**
-      **AR 40-501 Chapter 4 never names LEMS.** **Para 4-27 (Neurological)** makes the flying-duty
-      standard *"the causes in the accession standards plus the following"* → **DoDI 6130.03 Vol 1
-      6.26.q** and **6.26.n**, neither with a carve-out. **In a paraneoplastic case the answer is
-      categorical and independent of the neurology: AR 40-501 para 4-30b, "History of any malignant
-      tumor"** — a history of SCLC ends flying-duty qualification on its own terms, whether or not
-      the LEMS improves. Waivers run through **USAAMA** and the applicable **Aeromedical Policy
-      Letters** (4-1c); amifampridine is not an approved aviation medication and a
-      seizure-threshold-lowering agent will not be treated as one. Non-Army Services follow their
-      own policy — confirm before counselling.
-
-!!! tip "TRICARE — LEMS prescribing"
-    **Amifampridine (Firdapse) is an orphan specialty drug — assume it is
-    prior-authorisation-gated.** Expect the PA to require a **documented LEMS diagnosis** (VGCC
-    seropositivity and/or the characteristic electrodiagnostic study), a **neurologist prescriber**,
-    and dispensing through the **specialty / home-delivery** channel rather than a retail counter.
-    **Start the authorisation the day you make the diagnosis** — this is not a drug an MTF pharmacy
-    keeps on the shelf.
-
-    **Know which benefit you are billing — LEMS treatment spans both sides.** Oral amifampridine
-    runs through the **pharmacy benefit** (Express Scripts; an approval applies at military
-    pharmacies, network pharmacies, and home delivery). **IVIG and plasma exchange run through the
-    medical benefit**, at an infusion or apheresis site, under a different authorisation path. That
-    split decides who authorises, who pays, and where the patient is treated — and it is the
-    commonest reason a LEMS treatment plan stalls.
-
-    **Verify current tier and criteria at the [TRICARE Formulary Search](https://www.express-scripts.com/frontend/open-enrollment/tricare/fst)
-    before you counsel a patient — DoD P&T revises formulary status and PA criteria without
-    notice.** *Firdapse's actual TRICARE tier and PA criteria text could not be confirmed from
-    public sources for this page; treat the expectations above as expectations, not as TRICARE
-    rules.*
+    [Current PA/MN details, benefit routing and packet](../military/tricare.md) · [Live Formulary Search](https://www.express-scripts.com/frontend/open-enrollment/tricare/fst). Check the exact product, beneficiary and venue on the prescribing date.
 
 ---
 
@@ -445,34 +311,4 @@ stability is not reassurance.**
     **5.26.i**, **5.26.n**, **5.29**; **DoDI 6130.03 Vol 1** (Chg 6, 3 Feb 2026) paras **6.26.n**,
     **6.26.q**, **6.29.b** — see the military box for why LEMS is cited by analogy throughout.
 
-*Verified August 2026: **amifampridine dosing, titration, weight bands, organ-impairment and NAT2
-adjustments, contraindications and adverse-reaction frequencies are taken from the current Firdapse
-FDA label (effective 2026-04-16)**, not from memory — including the correction that the page's
-former "80–100 mg/day" conflated the **US label maximum of 100 mg/day** with the **EMA ceiling and
-expert practice cap of 80 mg/day**. Cancer surveillance updated to **every 4–6 months for 2 years**
-per the **2021 PNS-Care** criteria (the former 3–6 months derived from the 2011 Titulaer
-recommendation), and screening changed to **CT *and* FDG-PET/CT** rather than PET only if CT is
-negative. The CMAP-facilitation threshold is resolved to **≥60%** (97% sensitive, 99% specific).
-The pyridostigmine position was softened because the only randomized trial was **intravenous,
-single-dose, n=9** while observational cohorts report ~67% subjective benefit from oral add-on. Two
-findings that reverse common assumptions are now stated explicitly: **LEMS does not reliably flare
-when the tumour recurs**, so it cannot serve as a recurrence sentinel; and **SCLC with LEMS carries
-materially better survival than SCLC alone.***
-
-***Military standards were re-verified verbatim against source PDFs, and the previous framing was
-wrong in a way that worked against the case: LEMS is named in no military medical standard, but the
-Army hook is the catch-all at **AR 40-501 3-31k** (which closes on the para 3-1 definition), and the
-DoD floor is the non-exhaustive **DoDI 6130.03 Vol 2 5.26.e**, gated by **5.26.a**, with **5.26.n**
-available where autonomic near-syncope is documented. **Do not cite 5.26.i** as though LEMS were a
-peripheral neuropathy — it is the only subparagraph carrying its own permanence qualifier and it
-raises the bar against you. A paraneoplastic case is governed primarily by the malignancy standard —
-**AR 40-501 3-34a** and **DoDI 6130.03 Vol 2 5.29** — and that citation should lead. Aeromedical
-disqualification runs by import through **4-27 → Vol 1 6.26.q / 6.26.n**, and categorically via
-**4-30b** in any paraneoplastic case.***
-
-***Not independently verified:** TRICARE formulary tier and prior-authorisation criteria for
-amifampridine (the militaryrx PA-criteria path 404s and the Formulary Search is a dynamic tool —
-verify there before counselling); the DA Pam 40-502 PULHES factor attribution, carried over from the
-myasthenia page rather than re-opened; AR 40-501 4-24/4-24a; and non-Army service aeromedical
-specifics. Whether any second amifampridine product remains US-marketed was not confirmed — none is
-named here.*
+*Evidence/policy audit: 21 November 2026. Material changes were checked against the linked primary sources; this is an AI-assisted review, not certification of every dose or claim. [Review scope and source limits](../evidence-review.md).*

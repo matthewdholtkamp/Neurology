@@ -11,7 +11,7 @@ them by **domain** (each has its own page in the sidebar under TBI), and the pat
 !!! danger "🚩 Acute TBI — exclude a structural emergency first"
     - **Image (non-contrast CT) for red flags:** worsening/severe headache, vomiting, ↓ or fluctuating
       consciousness, focal deficit, seizure, anticoagulation, or a high-risk mechanism (use a validated
-      head-CT rule). Suspect **cervical-artery dissection** with neck trauma/pain.
+      head-CT rule **within its validated population**). Suspect **cervical-artery dissection** with neck trauma/pain.
     - **Second-impact syndrome:** a second head impact **before the first concussion has recovered** can
       be catastrophic (diffuse cerebral edema) — **remove from activity and do not return to play/duty
       while symptomatic.**
@@ -24,17 +24,16 @@ them by **domain** (each has its own page in the sidebar under TBI), and the pat
 | Severity | GCS | LOC | Post-traumatic amnesia | Imaging |
 |---|---|---|---|---|
 | **Mild (concussion)** | **13–15** | ≤30 min | <24 h | Normal (or complicated-mild if abnormal) |
-| **Moderate** | **9–12** | 30 min–24 h | 1–7 days | Often abnormal |
-| **Severe** | **≤8** | >24 h | >7 days | Abnormal |
+| **Moderate** | **9–12** | >30 min–24 h | 1–7 days | Often abnormal |
+| **Severe** | **≤8** | >24 h | >7 days | May be normal or abnormal |
 
 !!! note "Confirming an mTBI diagnosis — 2023 ACRM criteria"
-    The table above grades **severity**; to **confirm the diagnosis of mild TBI**, the 2025 AAPM&R
-    guideline endorses (**Strong for**) the **2023 ACRM diagnostic criteria** as the preferred
-    standard — useful in Work-ups 2–3 to separate true mTBI from mimics. Require **all four:**
-    (1) a plausible **mechanism**; (2) **≥1 acute clinical sign** (LOC, post-traumatic amnesia,
-    disorientation, or an acute seizure); (3) **≥2 acute symptoms** (headache, dizziness, nausea,
-    fogginess, etc.); and (4) **≥1 objective finding** (cognitive impairment, balance deficit, or
-    oculomotor dysfunction). A **2026 structured interview** standardizes their application.
+    **Severity grading and diagnosis are separate.** Under the **2023 ACRM criteria**, a plausible
+    injury mechanism plus **one** of these pathways supports mTBI: **a clinical sign** attributable
+    to brain injury; **at least two acute symptoms plus an examination/laboratory finding**; or
+    **trauma-related intracranial imaging evidence**. Exclude competing explanations. You do **not**
+    need a sign, two symptoms, and an objective finding in every patient. LOC >30 min, GCS <13 after
+    30 min, or PTA >24 h excludes the *mild* qualifier. A normal CT does not exclude concussion.
 
 ## Which patient is in front of you? — pick the pathway
 
@@ -51,33 +50,37 @@ The work-up is completely different by **phase**. Sort the patient into one of t
 !!! orderset "The acute head-injury evaluation"
     1. **ABCs + C-spine precautions**; **GCS**, pupils, focal exam; glucose; note **anticoagulation/
        antiplatelet** use, LOC, and **post-traumatic amnesia.**
-    2. **Decide on CT with a validated rule (e.g., Canadian CT Head Rule).** Get a **non-contrast head
+    2. **Decide on CT with a validated rule (e.g., Canadian CT Head Rule).** CCHR applies to
+       eligible adults with minor head injury and LOC, amnesia, or disorientation; it is not a
+       universal clearance tool, particularly with anticoagulation or an unreliable examination. Get a **non-contrast head
        CT** for any high-risk feature: **GCS <15 at 2 h**, suspected **open/depressed skull fracture**,
        any **basilar-skull-fracture sign** (hemotympanum, raccoon eyes, Battle's sign, CSF oto/
        rhinorrhea), **≥2 episodes of vomiting**, **age ≥65**; or medium-risk: **retrograde amnesia
        ≥30 min**, **dangerous mechanism.** **Anticoagulation/coagulopathy or post-traumatic seizure →
-       image regardless.** Add **CTA neck** if dissection is a concern. **Blood biomarkers (GFAP +
-       UCH-L1)** can help *rule out* the CT in adult mTBI within 12 h — see box below.
+       image regardless.** Add **CTA neck** if dissection is a concern. **GFAP/UCH-L1 testing** may assist a CT decision in a selected adult under the specific
+       assay’s instructions; see below.
     3. **If there's a bleed:** **reverse anticoagulation** (specifics in the box below, or the
        [ICH reversal table](../stroke/intracerebral-hemorrhage.md#anticoagulation-antiplatelet-reversal)),
-       **BP control**, and **neurosurgery** for a surgical lesion (EDH/SDH/contusion) or raised ICP.
-       **Consider TXA within 3 h** for **mild–moderate TBI (GCS 9–15) with intracranial hemorrhage**;
-       **avoid in isolated severe TBI** (box below). Moderate/severe → trauma bay + **ICP/PbtO₂
-       pathway** (box below).
-    4. **Disposition:** admit/observe for an abnormal CT, GCS <15, persistent vomiting, anticoagulation,
+       **avoid hypoxia and hypotension**, and obtain **neurosurgery** for a surgical lesion
+       (EDH/SDH/contusion) or raised ICP. Do not import spontaneous-ICH BP-lowering targets into TBI.
+       In deployed moderate–severe TBI, follow **JTS/TCCC TXA guidance within 3 h** (below).
+       Moderate/severe → trauma bay + ICP pathway.
+    4. **Disposition:** admit/observe for an abnormal CT, GCS <15, persistent vomiting,
        or an unsafe home; **a normal CT with a normal exam and improving symptoms can go home** with a
        reliable observer, **written return precautions**, and **no return to play/duty the same day.**
+       ACEP does not recommend routine repeat CT or admission solely for anticoagulant/antiplatelet
+       use after a negative CT and baseline exam when no other monitoring indication exists.
     5. **In uniform:** after a potentially concussive event, **MACE2** and the mandated recovery period
        apply (military box).
 
-!!! note "Blood biomarkers — GFAP + UCH-L1 (rule out the CT)"
-    The **FDA-cleared GFAP + UCH-L1 assay** (Abbott i-STAT, cleared 2018) helps **rule out
-    intracranial injury** in adult mTBI evaluated **within 12 h of injury.** A negative panel —
-    **GFAP <30 pg/mL *and* UCH-L1 <360 pg/mL** (2024 ACS Best Practices thresholds) — carries an
-    **NPV approaching 100%.** A 2025 meta-analysis found **100% pooled sensitivity** (95% CI
-    99–100%) with ~31% specificity; a 2026 review estimated a **20–30% reduction in CT use.**
-    Highest value where **CT is limited (austere/deployed)** — a negative panel can safely omit
-    the scan. It does **not** override a red flag that already mandates imaging.
+!!! note "GFAP / UCH-L1 — an adjunct, not a CT permission slip"
+    Use the **specific device, specimen, age range, and time window** in its cleared instructions.
+    The **i-STAT whole-blood TBI assay** was cleared in **2024** for selected adults with suspected
+    mTBI **within 24 h**; other assays use a **12-h** window. Do not transplant cutoffs between
+    platforms. A **not-elevated result lowers the likelihood of a CT-visible traumatic lesion**;
+    it does not exclude concussion, diagnose recovery, or authorize return to duty. Follow the
+    **JTS biomarker pathway** in deployed care. Red flags or another established CT indication
+    still require imaging/evacuation regardless of the biomarker.
 
 !!! note "Anticoagulation reversal & TXA (acute bleed) — dosed"
     **Reversal (2024 ACS Best Practices / Neurocritical Care Society):**
@@ -96,13 +99,12 @@ The work-up is completely different by **phase**. Sort the patient into one of t
       consider **desmopressin (DDAVP) 0.4 µg/kg IV ×1**.
     - **Repeat CT at 6–24 h** to check for hematoma progression **before** starting VTE prophylaxis.
 
-    **Tranexamic acid — mixed and evolving.** **Consider TXA within 3 h** (1 g IV bolus + 1 g
-    infusion, **or a 2 g bolus**) for **mild–moderate TBI (GCS 9–15) with intracranial
-    hemorrhage** — CRASH-3 reduced head-injury–related death in this group, and a prehospital-trial
-    subgroup found a **2 g bolus** cut 28-day mortality in confirmed ICH (**17% vs 27%**).
-    **Avoid in isolated severe TBI (GCS ≤8)** — no benefit (CRASH-3), with a signal of possible
-    harm. A 2024 meta-analysis (9 RCTs, n=14,747) found **no overall mortality/disability benefit**,
-    though TXA may limit hematoma expansion.
+    **TXA — follow the setting-specific trauma pathway.** JTS recommends **2 g IV/IO within
+    3 h** for evidence of **moderate–severe TBI**. The civilian **CRASH-3** trial used 1 g over
+    10 min then 1 g over 8 h; benefit was clearest in mild–moderate injury, without a clear benefit
+    in the most severe subgroup. **Lack of subgroup benefit is not a blanket contraindication.**
+    Do not withhold indicated TXA for accompanying major hemorrhage because the patient also has
+    severe TBI. Use the current trauma protocol and avoid duplicate prehospital/hospital dosing.
 
 !!! note "VTE prophylaxis timing (2024 ACS Best Practices) — dosed"
     Balance re-bleeding against clot risk. **Agent — LMWH preferred over UFH:** **enoxaparin
@@ -118,7 +120,8 @@ The work-up is completely different by **phase**. Sort the patient into one of t
     prophylaxis started within 72 h.
 
 !!! note "Moderate–severe TBI — ICP / PbtO₂ / CPP targets (with doses)"
-    For **GCS <9 with an abnormal CT**, place **ICP monitoring** (Brain Trauma Foundation, 4th ed.);
+    **Prevent secondary injury:** JTS targets **SBP >110 mmHg** in adult deployed TBI; support
+    oxygenation and perfusion, accounting for concurrent hemorrhage. For **GCS <9 with an abnormal CT**, place **ICP monitoring** (Brain Trauma Foundation, 4th ed.);
     **treat ICP >22 mmHg.** Target **CPP 60–70 mmHg** — **avoid driving CPP >70** (increased ARDS
     risk). **PbtO₂ monitoring** target **>20 mmHg** is an emerging complement: **OXY-TC (Lancet
     Neurol 2023)** cut brain-hypoxia time with dual ICP + PbtO₂ monitoring, though 6-month
@@ -217,7 +220,9 @@ uniform, follow the **Progressive Return to Activity** stages (military box). Th
 detail is on the [post-traumatic headache page](../headache/post-traumatic.md).
 
 !!! orderset "Sub-threshold aerobic exercise prescription"
-    Start **early — within 24–72 h**, **not** after a rest period. Prescribe activity kept **below the
+    After **24–48 h of relative rest**, introduce light symptom-limited activity and an individualized
+    sub-threshold exercise plan. In DoD care, honor the **mandatory initial 24-h recovery period**
+    and the PRA stages; do not skip clearance stages because the patient feels better. Keep exercise **below the
     symptom-exacerbation threshold** (a **>2-point** rise on a 0–10 symptom scale = "more than mild" =
     went too hard):
 
@@ -252,42 +257,17 @@ detail is on the [post-traumatic headache page](../headache/post-traumatic.md).
     risk.** **Screen for suicidal ideation at every visit**, treat depression/PTSD/pain/sleep
     aggressively, restrict means, and connect to behavioral health / the Veterans Crisis Line.
 
-!!! tip "TRICARE — TBI prescribing"
-    Most symptom-directed drugs are **generic/formulary, no PA** — SSRIs/SNRIs, prazosin, trazodone,
-    melatonin, the oral headache preventives, levetiracetam, and standard hormone replacements. **CGRP
-    agents, onabotulinumtoxinA (chronic-migraine phenotype), and stimulants** carry the usual
-    **PA/specialist** requirements. Multidisciplinary rehab, CBT-I, vestibular/vision therapy, and
-    behavioral health go through normal specialty/rehab referral. *Verify at the TRICARE Formulary Search.*
+!!! tip "TRICARE — verified rules and the current form"
+    Most drugs here treat a specific comorbid symptom, often off label after TBI. Document that diagnosis, the trial and functional response. Do not promise coverage for stimulants, sleep drugs, devices, SGB or rehabilitation from the TBI label alone; obtain the current drug/service-specific rule.
 
-!!! military "Military medicine — TBI / concussion (mTBI)"
-    *Quoted from **DoDI 6130.03 Vol 1/Vol 2**, **AR 40-501**, the **VA/DoD mTBI CPG (2021)**, and
-    **DoDI 6490.11**; DES governed by **DoDI 1332.18 / DoDM 1332.18**. mTBI is protocolized in DoD —
-    follow the mandated pathway, not just this page.*
+    [Current PA/MN details, benefit routing and packet](../military/tricare.md) · [Live Formulary Search](https://www.express-scripts.com/frontend/open-enrollment/tricare/fst). Check the exact product, beneficiary and venue on the prescribing date.
 
-    - **Event-driven protocol:** after a potentially concussive event (blast, vehicle, fall, blunt), DoD
-      policy mandates evaluation + a **mandatory recovery period** — **screen with MACE2** and manage per
-      the deployed-concussion protocol before return to duty.
-    - **Return to activity:** use the **Progressive Return to Activity** stages; symptom recurrence → step
-      back a stage.
-    - **Deployability:** acute concussion is temporarily non-deployable pending clearance; **persistent
-      multi-domain sequelae** are deployment-limiting; **multiple concussions** raise the return-to-duty
-      bar.
-    - **Profile (DA 3349):** temporary during recovery; permanent for persistent, functionally limiting
-      post-concussive syndrome.
-    - **EPTS / LOD:** combat/duty-incurred TBI is typically **in the line of duty** — document event,
-      mechanism, timeline (drives LOD and VA rating).
-    - **Retention — DoD & Army:** **DoDI 6130.03 Vol 2 para 5.26.h** places **TBI with persistent
-      sequelae** — **severe headaches, cognitive/sensory/motor impairment, or seizures** — below
-      retention. Army: migraine-phenotype PTH ≥3 incapacitating days/mo under **AR 40-501 3-31g**, and
-      residual **persistent severe headache / other neuro sequelae** under **3-31k** → **DES (MEB/PEB).**
-      Document objective frequency, failed trials, neuropsych findings, and duty impact.
-    - **Accession — DoDI 6130.03 Vol 1 para 6.26:** **persistent post-concussive symptoms >1 month**,
-      a history of head trauma with persistent focal deficit, or **≥3 mild brain injuries** are
-      **disqualifying for entry.**
-    - **Aeromedical (AR 40-501 ch. 4, table 4-2):** head-injury standards are graded by **how long the
-      post-traumatic syndrome persists** — e.g., PTH resolving ~<14 days → temporary aviation suspension;
-      post-traumatic syndrome persisting **>~6 weeks** → **permanent DQ / 2-yr termination of aviation
-      service.** Confirm the exact table-4-2 tier for the class.
+!!! military "Military medicine — duty, retention and deployment"
+    - **Profile / function:** Use TBICoE progressive return-to-activity with documented symptom, balance, vision and cognitive recovery. A normal scan or biomarker does not clear return to hazardous duty.
+    - **Retention / MEB–MAR2:** DoDI V2 **5.26.h** and Army **3-31j** address residual TBI impairment; associated epilepsy, sleep, psychiatric or visual disorders may invoke separate standards. Use the [retention framework](../military/deployability.md); permanent P3/4 does not by itself select DES versus MAR2.
+    - **Deployment / medications:** CENTCOM has specific repeat-TBI evaluation rules. Assess the syndrome AND medication (controlled stimulants/hypnotics, injections, anticonvulsant exceptions); do not treat completion of a single recovery interval as deployment clearance. See [the disease AND drug screen](../military/deployment-medications.md) for the current CENTCOM rules and waiver packet.
+    - **Special duty:** flight, diving and other special assignments have separate standards and waiver authorities; a general duty profile does not clear them.
+    - **LOD / EPTS:** document onset, duty status, exposures and aggravation objectively. The designated authority determines LOD/EPTS; neither in-service diagnosis nor a genetic finding settles it automatically.
 
 ---
 
@@ -306,13 +286,12 @@ detail is on the [post-traumatic headache page](../headache/post-traumatic.md).
   in the first year — treatable), **OSA**, and **suicide risk** (screen every visit).
 - **Rest is not the treatment** — brief relative rest then **early sub-threshold aerobic exercise**
   (within 24–72 h; BCTT threshold or ~50% max HR) and graded return; **avoid opioids/butalbital.**
-- **Acute mTBI triage is getting a biomarker** — a negative **GFAP + UCH-L1** panel (within 12 h,
-  NPV ~100%) can safely **omit the CT** and may cut CT use 20–30% — high value in austere/deployed care.
-- **Acute bleed management has specifics** — **agent-specific reversal**, **TXA within 3 h for
-  mild–moderate TBI with ICH** (avoid in isolated severe), **VTE prophylaxis within 24–48 h** once the
+- **GFAP/UCH-L1 can assist selected CT decisions** under the specific assay’s cleared instructions
+  and JTS pathway; it does not override red flags or clear someone for duty.
+- **Acute bleed management has specifics** — **agent-specific reversal**, **TXA per the trauma/JTS pathway within 3 h**, **VTE prophylaxis within 24–48 h** once the
   follow-up CT is stable (LMWH preferred), and for GCS <9 **ICP >22 mmHg / CPP 60–70 / PbtO₂ >20** targets.
-- **Confirm mTBI with the 2023 ACRM criteria** (mechanism + acute sign + ≥2 symptoms + an objective
-  finding) — the 2025 AAPM&R-preferred standard, beyond the GCS/LOC/PTA severity grade.
+- **Confirm mTBI with the 2023 ACRM criteria** (mechanism plus a qualifying sign,
+  symptom/finding combination, or imaging evidence) — the 2025 AAPM&R-preferred standard, beyond the GCS/LOC/PTA severity grade.
 - **CTE is a post-mortem diagnosis; TES (2021 NINDS) is a *research* clinical syndrome** — counsel with
   honesty about uncertainty, don't disclose provisional CTE-certainty levels (nocebo), treat the modifiable.
 - **Post-traumatic seizure prophylaxis is 7 days** for early seizures in moderate–severe TBI — it does
@@ -360,21 +339,16 @@ guidance (British Neurotrauma Group); 2021 NINDS Traumatic Encephalopathy Syndro
     British Neurotrauma Group guidance*; post-traumatic hypopituitarism meta-analyses.
 14. Katz DI, Bernick C, Dodick DW, et al. *2021 NINDS consensus diagnostic criteria for Traumatic
     Encephalopathy Syndrome (TES)* (Neurology 2021) — research criteria; nocebo caution.
-15. **TRICARE / DoD:** symptom-directed drugs generic-formulary; CGRP/onabotulinumtoxinA/stimulants
-    PA-gated. Retention **DoDI 6130.03 Vol 2 para 5.26.h**, Army **AR 40-501 3-31g/k**; accession Vol 1
-    6.26; aeromedical AR 40-501 ch. 4 table 4-2. *Verify against the source.*
+- [Official TRICARE sources, retrieved forms and access limits](../military/tricare.md).
 
-*Verified July 2026: TBI severity classification (GCS/LOC/PTA) and the **2023 ACRM diagnostic
-criteria**; acute-ER management — **GFAP + UCH-L1** CT-rule-out thresholds (GFAP <30 / UCH-L1 <360
-pg/mL), **agent-specific anticoagulation reversal**, **TXA** (consider ≤3 h in mild–moderate TBI with
-ICH; avoid in isolated severe), **VTE-prophylaxis timing** (LMWH preferred), and **ICP/PbtO₂/CPP**
-targets — reflect the 2024 ACS Best Practices, CRASH-3, Brain Trauma Foundation, and OXY-TC (2023)
-sources cited above. Concussion-clinic tools (**SCAT6 ≤72 h, SCOAT6 3–30 d, VOMS, mSIT Plus**),
-**sub-threshold aerobic exercise** (BCTT / ~50% max HR, start 24–72 h), updated **persistence risk
-factors**, the domain-based comorbidity framework, 7-day seizure prophylaxis (does not prevent epilepsy),
-post-traumatic hypopituitarism screening, and the **CTE-vs-TES** distinction (CTE neuropathological;
-2021 NINDS TES a *research* clinical syndrome — nocebo caution) reflect current VA/DoD, AAPM&R (2025),
-Amsterdam (2023), and NINDS (2021) consensus sources. **The DoD retention/accession/aeromedical
-citations (DoDI 6130.03 Vol 2 5.26.h / Vol 1 6.26; AR 40-501 3-31g/k, ch. 4 table 4-2; DoDI 6490.11;
-MACE2) are quoted from those issuances — confirm current editions and the exact table-4-2 tier before
-counseling.**
+- [ACRM 2023 diagnostic criteria](https://doi.org/10.1016/j.apmr.2023.03.036).
+
+- [ACEP adult mTBI clinical policy](https://www.acep.org/patient-care/clinical-policies/mild-traumatic-brain-injury).
+
+- [FDA i-STAT whole-blood TBI clearance](https://www.accessdata.fda.gov/cdrh_docs/pdf23/K234143.pdf).
+
+- [JTS deployed TBI CPG](https://jts.health.mil/assets/docs/cpgs/TBI_Neurosurgery_Deployed%20Environment_15_Sep_2023_ID30_v1.1.pdf).
+
+- [TBICoE progressive return to activity](https://www.health.mil/Reference-Center/Publications/2024/02/23/Progressive-Return-to-Activity-Primary-Care-for-Acute-Concussion-Management).
+
+*Evidence/policy audit: 21 November 2026. Material changes were checked against the linked primary sources; this is an AI-assisted review, not certification of every dose or claim. [Review scope and source limits](../evidence-review.md).*

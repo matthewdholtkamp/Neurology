@@ -3,8 +3,8 @@
 <span class="reviewed-stamp">Last reviewed: July 2026</span>
 
 **One-liner:** a headache that is **daily and unremitting from the moment of onset** — the patient
-can often name the **exact day** it started — persisting **>3 months**, in someone **without a
-prior significant headache history**. It is a **diagnosis of exclusion**, and the exclusion work is
+can often name the **exact day** it started — persisting **>3 months**, with a clearly remembered onset. **Prior episodic migraine or tension-type headache does not
+exclude NDPH** if there was no preceding escalation and the new continuous onset is clear. It is a **diagnosis of exclusion**, and the exclusion work is
 the whole game.
 
 !!! danger "🚩 NDPH is where secondary headaches hide — work it up thoroughly"
@@ -39,8 +39,9 @@ infection (classically viral), a stressful life event, or surgery.
 ## Rapid approach
 
 1. **Confirm the ICHD-3 profile:** daily and continuous within 24 h of a **distinct remembered
-   onset**, present >3 months, no prior chronic headache.
-2. **Exclude secondary causes** — **MRI/MRV + LP with opening pressure** are the high-yield tests.
+   onset**, present >3 months; distinguish it from gradual chronification of a prior headache.
+2. **Exclude secondary causes** with targeted examination and imaging. MRI/MRV are often useful;
+   LP is selected for a clinical indication after imaging and procedural-safety assessment.
 3. **Classify the phenotype** (migraine-like vs tension-type-like) once secondary causes are out.
 4. **Treat by phenotype** and **set realistic expectations** — NDPH is often refractory.
 
@@ -48,29 +49,32 @@ infection (classically viral), a stressful life event, or surgery.
 
 ## The prescriptive flow (what I want done, in order)
 
-1. **Confirm the onset pattern** (daily-from-a-remembered-day, >3 months, no prior headache history).
+1. **Confirm the onset pattern** (daily-from-a-remembered-day, >3 months, no preceding progressive increase in frequency).
 2. **Complete the exclusion work-up** (order set below) — this is the deliverable that lets the
    diagnosis stand and that any board will scrutinize.
 3. **Classify the phenotype:** migraine-like or tension-type-like.
-4. **Treat early and in parallel — don't wait for the 3-month threshold.** At the same visit, start
-   **a transitional bridge AND a phenotype-matched preventive** (Step 1). Delay independently predicts
-   worse outcomes.
+4. **Treat disability while the work-up proceeds**, using phenotype-directed therapy. A bridge
+   can be considered for selected severe cases; observational response data do not establish that
+   every patient needs an IV bridge or that early treatment prevents chronification.
 5. **Fix perpetuators:** sleep, mood, and **medication overuse** (screen every visit).
 6. **Set expectations with the numbers:** ~¾ persist (refractory), ~15% remit, ~8% relapse-remit.
 7. **Refractory?** Escalate the transitional therapies, nerve blocks, Botox, CGRP, neuromodulation,
    **headache-specialist referral** (Step 3).
 
-## Workup — the mandatory exclusion set
+## Workup — exclude secondary causes with targeted testing
 
-!!! orderset "Order the whole exclusion work-up (normal studies are what let NDPH stand)"
-    This is the most thorough of the primary-headache work-ups. Do it once, completely:
+!!! orderset "Select the exclusion work-up from the clinical findings"
+    A normal test battery alone does not establish NDPH. Match investigations to the history,
+    examination, and secondary-headache differential:
 
     - **MRI brain with and without contrast** (mass, sinus disease, SIH signs — pachymeningeal
       enhancement, brain sag).
     - **MRV or CTV** — cerebral venous sinus thrombosis.
     - **MRI spine** if a **CSF leak** is suspected (postural component).
-    - **LP with opening pressure** and CSF studies — **high** (IIH) *and* **low** (leak) pressure,
-      plus infectious/inflammatory causes. Fundoscopy for papilledema first.
+    - **LP with opening pressure/CSF studies** when indicated for suspected raised pressure,
+      infection, or inflammation, **after** excluding a mass/obstructive process and checking
+      anticoagulation/coagulopathy. **Do not perform LP solely to diagnose a suspected CSF leak**:
+      normal opening pressure does not exclude SIH and a dural puncture may worsen it.
     - **ESR/CRP** in patients **≥50** (giant cell arteritis).
     - **Targeted labs** as history dictates (TSH, infectious/post-viral work-up).
 
@@ -82,7 +86,8 @@ is **treat aggressively and early**: a **transitional bridge produces the highes
 begin *before* the 3-month diagnostic threshold. So don't slow-walk it.
 
 !!! orderset "Step 1 — start a transitional bridge AND a preventive at the same visit (early)"
-    **Do both together, don't sequence them.**
+    **Individualize the plan.** Preventive treatment and a bridge may be combined when justified,
+    but IV lidocaine, ketamine, and steroid courses are specialist options with limited NDPH evidence.
 
     - **Transitional bridge (highest first-use response — start it):**
         - **Greater occipital ± other nerve blocks** — fast, low-risk, repeatable.
@@ -107,8 +112,7 @@ begin *before* the 3-month diagnostic threshold. So don't slow-walk it.
     !!! warning "CGRP mAbs help fewer NDPH patients than you'd expect — NDPH ≠ chronic migraine"
         In the largest prospective series, CGRP mAbs gave ≥30% improvement in only **~23% of NDPH**
         vs **46–84% in chronic migraine** (subjective improvement ~54%). Worth trying, but **set
-        realistic expectations** — NDPH is not equivalent to CM in treatment response. (Case reports
-        favor eptinezumab/rimegepant/atogepant over erenumab/galcanezumab — low-certainty.)
+        realistic expectations** — NDPH is not equivalent to CM in treatment response. (Case reports cannot establish superiority of one CGRP agent over another.)
 
 !!! orderset "Step 2 — fix the perpetuators (every visit)"
     - **Screen and treat medication overuse** ([MOH page](medication-overuse.md)) — it silently
@@ -131,36 +135,22 @@ begin *before* the 3-month diagnostic threshold. So don't slow-walk it.
     **Opioids and butalbital** — ineffective and they seed medication-overuse headache on top of an
     already-refractory disorder.
 
-!!! tip "TRICARE — NDPH prescribing"
-    There's no NDPH-specific pathway, so prescribe by phenotype: oral preventives (nortriptyline,
-    amitriptyline, topiramate) are **generic/formulary, no PA**. For a CGRP, **galcanezumab
-    (Emgality) is the preferred, no-PA** entry point — though note the NDPH-specific signal favors
-    eptinezumab/rimegepant/atogepant, which are **PA-gated** (and need neurologist involvement).
-    OnabotulinumtoxinA requires the **chronic-migraine** phenotype for on-label coverage.
+!!! tip "TRICARE — verified rules and the current form"
+    For migraine, **Emgality 120 mg** had no PA displayed in the live lookup; the **100 mg episodic-cluster formulation requires PA**. Ubrelvy/Qulipta have PA or claims-history rules; Nurtec is nonformulary with separate PA/MN requirements; Zavzpret is nonformulary with PA. See the **retrieved forms and exact failure/renewal criteria** below. A PTH/NDPH phenotype does not automatically establish covered Botox treatment.
+
+    [Current PA/MN details, benefit routing and packet](../military/tricare.md) · [Live Formulary Search](https://www.express-scripts.com/frontend/open-enrollment/tricare/fst). Check the exact product, beneficiary and venue on the prescribing date.
 
 ## Disposition
 
 Outpatient, with a **completed and documented secondary work-up** and phenotype-directed treatment
 plus follow-up. Consider a **headache-specialist referral** for refractory cases.
 
-!!! military "Military medicine — new daily persistent headache"
-    *Framework only — verify against current AR 40-501, DoDI 6130.03, DoDI 1332.18, and aeromedical
-    policy.*
-
-    - **Document the exclusion work-up** — MRI/MRV, LP with opening pressure, ESR/CRP — because
-      NDPH is a diagnosis of exclusion and any board will scrutinize the work-up.
-    - **Deployability:** a **daily unremitting** headache is frequently deployment-limiting while
-      active and being characterized.
-    - **Profile (DA Form 3349):** temporary during work-up/treatment trials; permanent if it
-      persists with functional limitation.
-    - **EPTS / LOD:** the distinct onset date helps establish timing relative to service.
-    - **Retention — AR 40-501:** an NDPH with a **migraine/tension phenotype** that is
-      incapacitating ≥3 days/month is handled under **para 3-31g** (neurology referral → up to
-      6 months prophylaxis → DES if uncontrolled); refractory **persistent severe headache** after
-      adequate treatment is captured by **para 3-31k** (other neurologic conditions) → **DES**
-      (MEB/PEB). Document the exclusion work-up, frequency, failed trials, and duty impact.
-    - **Aeromedical / special duty:** an active daily headache and its medications are generally
-      **disqualifying/waiver-dependent**.
+!!! military "Military medicine — duty, retention and deployment"
+    - **Profile / function:** Record incapacitating headache days, abortive success, preventive trials and drug effects. Grounding or hazardous-duty restrictions depend on attacks and treatment effects.
+    - **Retention / MEB–MAR2:** Headache: DoDI V2 **5.26.g** and Army **3-31g**; trigeminal neuralgia and other diagnoses need their applicable standard, rather than automatically borrowing the migraine threshold. Use the [retention framework](../military/deployability.md); permanent P3/4 does not by itself select DES versus MAR2.
+    - **Deployment / medications:** CENTCOM disruptive migraine may require waiver; injectable CGRP therapy/Botox is separately relevant. Valproate, carbamazepine and lamotrigine are named medication exceptions even when used for pain/headache. See [the disease AND drug screen](../military/deployment-medications.md) for the current CENTCOM rules and waiver packet.
+    - **Special duty:** flight, diving and other special assignments have separate standards and waiver authorities; a general duty profile does not clear them.
+    - **LOD / EPTS:** document onset, duty status, exposures and aggravation objectively. The designated authority determines LOD/EPTS; neither in-service diagnosis nor a genetic finding settles it automatically.
 
 ---
 
@@ -202,15 +192,8 @@ subforms (2010); 2026 ASRA inpatient-headache Practice Advisory; secondary-heada
 5. Robbins MS, et al. *Clinical and prognostic subforms of NDPH.* Neurology. 2010.
 6. Hoydonckx Y, et al. *Practice Advisory for IV management of headache in hospitalized patients
    (ASRA).* Reg Anesth Pain Med. 2026 — IV lidocaine/ketamine dosing and monitoring.
-7. **TRICARE / DoD Uniform Formulary:** phenotype-directed oral preventives generic/formulary;
-   galcanezumab (Emgality) preferred/no-PA; other CGRP agents + onabotulinumtoxinA (needs
-   chronic-migraine phenotype for on-label) PA + neurologist. *Verify at the TRICARE Formulary Search.*
+- [Official TRICARE sources, retrieved forms and access limits](../military/tricare.md).
 
-*Verified July 2026: NDPH remains a clinical diagnosis of exclusion with no NDPH-specific approved
-drug. The newer treatment emphases — **early combined transitional + preventive therapy** (delay
-worsens outcomes), **onabotulinumtoxinA as the best NDPH-specific evidence** (~⅓ adults / ~70%
-children), **lower CGRP-mAb response than in chronic migraine** (~23%), the **2026 ASRA IV
-lidocaine/ketamine** parameters, the **negative neuroinflammation biomarker** data, prognostic
-subforms (~76% persisting), the CoQ10 pediatric signal, and post-COVID phenotype-directed care — were
-supplied by expert review with citations; confirm the specific figures before relying on them.
-Service-specific aeromedical/retention specifics warrant confirmation before final sign-off.*
+- [SIH consensus guideline: LP is not a routine diagnostic test for a CSF leak](https://jnnp.bmj.com/content/94/10/835).
+
+*Evidence/policy audit: 21 November 2026. Material changes were checked against the linked primary sources; this is an AI-assisted review, not certification of every dose or claim. [Review scope and source limits](../evidence-review.md).*

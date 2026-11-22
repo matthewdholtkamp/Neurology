@@ -141,5 +141,8 @@ nav:
       - Neuroinfections (incl. autoimmune encephalitis, military exposures): neuroinfections/index.md
   - Military medicine:
       - Profiles, MEB/MAR2 & deployability: military/deployability.md
+      - Deployment — disease AND medications: military/deployment-medications.md
+      - TRICARE — coverage and prior authorization: military/tricare.md
   - About:
       - How to add a topic: contributing.md
+      - Evidence and update policy: evidence-review.md

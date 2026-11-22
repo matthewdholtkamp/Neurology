@@ -8,11 +8,6 @@ disease psychosis, Huntington's chorea, and the atypical-parkinsonism (MSA/PSP/C
 should make you reconsider a Parkinson diagnosis. For the on-call neurologist or PCP seeing these
 in clinic, on admit, or in the ED.
 
-!!! warning "Draft — not yet through the review pipeline"
-    This page has not had its `/page` review (FDA-label diff, OpenEvidence round, safety and
-    military agents). The October 2026 corrections are listed in the Verified footer; treat
-    anything the footer does not name as unconfirmed.
-
 !!! danger "🚩 Red flags — don't miss these"
     | Pattern | Worry | Do now |
     |---|---|---|
@@ -128,12 +123,10 @@ recognized early, and two of them are caused by the hospital.
       25–50 mg PO q6h) for **2–3 days** to prevent recurrence. **Laryngeal dystonia (stridor) is
       an airway emergency** — treat in a monitored setting with airway backup ready.
 
-!!! tip "TRICARE — inpatient movement emergencies"
-    Lorazepam, bromocriptine, dantrolene, cyproheptadine, diphenhydramine, benztropine and
-    carbidopa-levodopa are generic inpatient stock. **Rotigotine (Neupro)** and **apomorphine**
-    are branded — usually available on the inpatient formulary, but outpatient continuation is
-    PA-gated. *Verify current status at the TRICARE Formulary Search — DoD P&T revises tiers
-    periodically.*
+!!! tip "TRICARE — verified rules and the current form"
+    **Ingrezza/Austedo require PA; Nuplazid requires PA and is nonformulary** in the October files. Their indications and formal contraindications differ. Do not invent a tetrabenazine-failure requirement without the current form. PD infusions/injections, botulinum treatment and other services need product/site-specific review.
+
+    [Current PA/MN details, benefit routing and packet](../military/tricare.md) · [Live Formulary Search](https://www.express-scripts.com/frontend/open-enrollment/tricare/fst). Check the exact product, beneficiary and venue on the prescribing date.
 
 ---
 
@@ -143,20 +136,22 @@ Both **valbenazine (Ingrezza)** and **deutetrabenazine (Austedo/Austedo XR)** ar
 TD with level-A evidence and similar AIMS efficacy (roughly 2–3 point placebo-adjusted reduction;
 responder rates ~33–50%). **There is no head-to-head trial** — choose on dosing, titration
 granularity, CYP2D6/hepatic considerations, QTc, renal function, and formulary, not on assumed
-efficacy differences. Both are **contraindicated in congenital long QT syndrome** or arrhythmias
-associated with QT prolongation.
+efficacy differences. Both labels advise **avoiding congenital long QT or relevant QT-associated arrhythmia**;
+this is a warning, distinct from their formal contraindication lists.
 
 !!! orderset "Step 1 — start a VMAT2 inhibitor (pick one)"
     - **Valbenazine** — **40 mg PO once daily × 1 week, then 80 mg PO once daily**; 40 or 60 mg
       once daily may be used per response/tolerability. With or without food. **CYP2D6 poor
       metabolizer or strong CYP2D6 inhibitor → 40 mg once daily.** Strong CYP3A4 inhibitor →
-      40 mg once daily. Moderate/severe hepatic impairment → 40 mg once daily. Contraindicated with
-      MAOIs and strong CYP3A4 inducers; avoid in severe renal impairment.
+      40 mg once daily. Moderate/severe hepatic impairment → 40 mg once daily. **Avoid MAOIs** (including the 14-day washout); strong CYP3A4 inducers are **not recommended**.
+      **No renal dose adjustment is required, including severe renal impairment**, under the
+      current label. Formal contraindication: hypersensitivity.
     - **Deutetrabenazine** — **Austedo XR 12 mg PO once daily** (with or without food) **or
       immediate-release 6 mg PO BID with food**; **increase by 6 mg/day at weekly intervals** to
       lowest effective dose, **max 48 mg/day**. **CYP2D6 poor metabolizer or strong CYP2D6
       inhibitor → max 36 mg/day.** Do not crush/chew/break. **Contraindicated in hepatic
-      impairment** (any degree). Unaffected by renal function — preferred in renal impairment.
+      impairment** (any degree). **Renal pharmacokinetics have not been studied**; do not call it renal-neutral or
+      automatically prefer it over valbenazine in CKD.
     - Baseline and serial **AIMS** (same examiner/method); assess eating, speaking, social
       interaction — not just the score. Expect response to build over weeks; symptoms recur toward
       baseline within ~4 weeks of stopping valbenazine.
@@ -168,14 +163,17 @@ associated with QT prolongation.
     - → Inadequate response or intolerable adverse effect on one agent → consider switching to the
       other (no head-to-head data guides this; re-baseline AIMS).
 
-!!! tip "TRICARE — VMAT2 inhibitors for TD"
-    Both valbenazine and deutetrabenazine are specialty-tier agents that typically require prior
-    authorization on TRICARE, usually with neurologist or psychiatrist involvement and documented
-    TD diagnosis with baseline AIMS. Agent selection is often driven by formulary preference and
-    PA criteria — check which the plan prefers before the patient leaves. *Verify current status at
-    the TRICARE Formulary Search — DoD P&T revises tiers periodically.*
-
 ---
+
+## Starting treatment for Parkinson disease
+
+For established early PD with motor symptoms that warrant medication, **immediate-release levodopa is the preferred initial dopaminergic treatment** (AAN 2021, Level B). Do not make a newly diagnosed patient navigate the adjunct table first.
+
+- A labeled starting regimen is **carbidopa/levodopa IR 25/100 mg PO three times daily**; individualize and titrate to the lowest effective dose. Frailty, orthostasis, nausea, and hallucinations may warrant a slower specialist-guided start.
+- Review swallowing, falls, cognition, BP, sleepiness, and impulse-control symptoms. Arrange exercise/physiotherapy and a movement-disorders follow-up plan.
+- **2026 label update:** evaluate vitamin B6 before treatment and periodically; replace deficiency. Levodopa may begin/continue during supplementation. New seizures in a treated patient warrant assessment for deficiency among other causes.
+- Dopamine agonists are an option for selected younger patients, but avoid them in patients at high risk from hallucinations, daytime sleepiness, cognitive impairment, or impulse-control disorders. Sudden sleep attacks and orthostasis matter at the wheel and on duty.
+- In hospital, administer the patient’s established doses at their **actual home times**. NPO requires an urgent enteral/alternative plan, not an accidental drug holiday.
 
 ## Parkinson disease motor fluctuations — choosing the adjunct
 
@@ -213,23 +211,16 @@ It is the only agent that reduces both dyskinesia and OFF time.
     - → OFF time persists → reassess levodopa dose/timing and adherence before stacking adjuncts;
       refer to neurology rather than combining multiple adjuncts empirically.
 
-!!! tip "TRICARE — PD adjuncts"
-    Istradefylline, opicapone, and safinamide are all branded adjuncts that generally require prior
-    authorization on TRICARE, typically with neurologist involvement and documented motor
-    fluctuations on carbidopa-levodopa. Step-therapy requirements vary by agent — document the
-    phenotype (troublesome dyskinesia vs wearing-off) and any CYP3A4-inducer use, since that drives
-    the medical-necessity justification. *Verify current status at the TRICARE Formulary Search —
-    DoD P&T revises tiers periodically.*
-
 ---
 
 ## Neurogenic orthostatic hypotension (nOH)
 
 **Goal:** fewer symptomatic upright episodes — not normalizing every reading. **Before drugs:**
 medication review, volume/salt, abdominal binder/compression, avoid heat/large meals/prolonged
-standing. Then **one pressor**, chosen largely by **supine-hypertension risk**. Droxidopa (and
-off-label pyridostigmine/atomoxetine) is preferred when supine HTN is significant; fludrocortisone
-and midodrine are avoided in that setting.
+standing. Then **one pressor**, chosen largely by **supine-hypertension risk**. **All pressor choices require supine-BP assessment**. Droxidopa may have a lower supine-HTN
+signal than midodrine but still carries a boxed warning; it is not automatically appropriate
+for severe supine hypertension. A specialist may consider off-label pyridostigmine in selected
+patients. Avoid indiscriminate fludrocortisone/midodrine when supine BP is excessive.
 
 !!! orderset "Step 1 — start one pressor (choose by supine-BP risk)"
     - **Droxidopa (Northera)** — **100 mg PO TID** (on arising, midday, late afternoon);
@@ -266,13 +257,6 @@ and midodrine are avoided in that setting.
       measures, a specialist may consider a **short-acting bedtime antihypertensive** (e.g.,
       losartan or a nitroglycerin patch removed in the morning) — limited evidence; morning BP and
       nighttime fall risk must guide. Avoid reflex prescribing.
-
-!!! tip "TRICARE — nOH pressors"
-    Droxidopa is a specialty agent that generally requires prior authorization on TRICARE with
-    documented neurogenic orthostatic hypotension and often neurologist involvement; midodrine and
-    fludrocortisone are generically available with fewer barriers. Document supine/upright BPs and
-    failed non-pharmacologic measures to support the PA. *Verify current status at the TRICARE
-    Formulary Search — DoD P&T revises tiers periodically.*
 
 ---
 
@@ -315,13 +299,6 @@ severity-stratified approach is increasingly favored.
       it is actually helping — don't continue solely because it's easy to prescribe. Sedation and
       orthostatic hypotension are especially problematic in PD.
 
-!!! tip "TRICARE — PDP agents"
-    Pimavanserin is a specialty-tier branded agent requiring prior authorization on TRICARE,
-    typically with neurologist or psychiatrist involvement and documented PDP. Clozapine (generic)
-    and quetiapine (generic) have fewer formulary barriers but clozapine's mandatory ANC monitoring
-    infrastructure must be in place. *Verify current status at the TRICARE Formulary Search — DoD
-    P&T revises tiers periodically.*
-
 ---
 
 ## Huntington's disease chorea — VMAT2 inhibitors
@@ -329,8 +306,10 @@ severity-stratified approach is increasingly favored.
 **Tetrabenazine, deutetrabenazine and valbenazine** (since August 2023) are all FDA-approved for
 Huntington's chorea, and all carry a **boxed warning for depression and suicidality** in HD
 (prompted historically by a suicide in the tetrabenazine phase III program). **Screen for depression/suicidal ideation before treatment and repeatedly during
-titration**; involve caregivers; **contraindicated** in actively suicidal or untreated/inadequately
-treated depression. Neither is disease-modifying. **No blinded head-to-head trial** establishes
+titration**; involve caregivers. **Tetrabenazine/deutetrabenazine are contraindicated** in
+active suicidality or untreated/inadequately treated depression in HD. **Valbenazine carries
+a boxed warning**, requiring careful psychiatric assessment; it has a different formal
+contraindication list. None is disease-modifying. **No blinded head-to-head trial** establishes
 superior efficacy — choose on dosing/adherence, tolerability, CYP2D6 simplicity, hepatic function,
 and cost.
 
@@ -352,7 +331,7 @@ and cost.
       **40 mg PO once daily → +20 mg every 2 weeks → 80 mg once daily** (40 or 60 mg where
       response/tolerability lands) — KINECT-HD. Dose reductions for CYP2D6 poor metabolizers,
       strong CYP2D6 or CYP3A4 inhibitors, and moderate–severe hepatic impairment per label;
-      contraindicated with MAOIs. Watch somnolence and parkinsonism.
+      **avoid MAOIs**. Watch somnolence and parkinsonism.
     - **Overnight conversion** tetrabenazine → deutetrabenazine is supported (ARC-HD): start
       deutetrabenazine the day after stopping tetrabenazine using the conversion table; chorea
       control is preserved and improves with titration. No taper needed for either agent; re-titrate
@@ -360,13 +339,6 @@ and cost.
     - Monitor: depression/suicidality, sedation, akathisia/restlessness, parkinsonism/rigidity,
       swallowing, falls — and whether reduced chorea actually improves function. Review QT risk and
       sedating/QT-prolonging co-meds.
-
-!!! tip "TRICARE — Huntington's chorea agents"
-    Deutetrabenazine and valbenazine (branded) generally require prior authorization on TRICARE
-    with neurologist involvement and documented Huntington's chorea; generic tetrabenazine typically has fewer
-    formulary barriers and may be preferred on cost grounds. The boxed-warning depression screening
-    should be documented regardless of agent. *Verify current status at the TRICARE Formulary
-    Search — DoD P&T revises tiers periodically.*
 
 ---
 
@@ -400,12 +372,6 @@ praxis/cortical sensation; orthostatic vitals + post-void residual; MRI targeted
 cerebellar peduncles, putamen, and asymmetric frontoparietal cortex; consider autonomic testing,
 cardiac MIBG, and planimetric MRI metrics (MRPI, pons:midbrain ratio) in ambiguous cases.
 
-!!! tip "TRICARE — atypical parkinsonism workup"
-    Brain MRI, autonomic testing, and DaTscan/MIBG where indicated are generally covered with
-    appropriate diagnosis coding and neurology referral; advanced imaging (planimetric MRI analysis)
-    may need prior authorization depending on the facility. *Verify current status at the TRICARE
-    Formulary Search — DoD P&T revises tiers periodically.*
-
 ---
 
 ## Disposition
@@ -418,46 +384,12 @@ cardiac MIBG, and planimetric MRI metrics (MRPI, pons:midbrain ratio) in ambiguo
 - **Atypical parkinsonism:** early neurology referral; counsel that disease-modifying therapy is
   investigational — see Discover for the ATH434 signal.
 
-!!! military "Military medicine — movement disorders"
-    *Framework — verify against current **AR 40-501**, **DoDI 6130.03 Vol 1 and Vol 2**,
-    **DoDI 1332.18** and service aeromedical policy. See
-    [Profiles, MEB/MAR2 & deployability](../military/deployability.md). Paragraph citations are
-    carried from that page, not re-extracted for this one.*
-
-    - **Retention — match the paragraph to the disorder:**
-        - **Parkinson disease, Huntington's disease, atypical parkinsonism** — AR 40-501
-          **3-31d** (progressive basal ganglia and cerebellar degeneration) with DoDI 6130.03
-          Vol 2 **5.26.m** (tremor or dystonia with functional impairment). Progressive disease
-          meets the **5.26.a** gate once it persists despite treatment and impairs duty — which
-          for atypical parkinsonism and HD is a question of when, not whether.
-        - **Neurogenic orthostatic hypotension** with recurrent near-syncope — **5.26.n**
-          (recurrent, neurogenic or unexplained syncope that interferes with duty).
-        - **Tardive dyskinesia** — usually the catch-all **3-31k** → **para 3-1**, but the
-          retention question is often the **underlying psychiatric disorder** that needed the
-          antipsychotic, which is judged under its own standard and profiles on **S**.
-    - **Profile (DA Form 3349):** **P** factor for the movement disorder (add **S** for
-      psychosis or HD neuropsychiatric features). **Temporary** through diagnosis and titration;
-      **permanent** once progressive disease limits duty — a permanent 3 is the DES referral
-      (AR 40-501 **3-4**). Write limits functionally: weapons handling, driving, heights,
-      load-bearing and fall risk.
-    - **EPTS / LOD:** date the first attributable symptom from performance records and prior
-      PHAs, not the diagnosis date. **Tardive dyskinesia caused by an antipsychotic prescribed
-      in service is a line-of-duty question about the prescription**, and HD is genetic — so
-      record family history and the timeline without implying pre-service onset you cannot
-      document. The 6-month accession rule applies (AR 40-501 **3-2**).
-    - **MEB / IDES:** refer when the condition or its treatment prevents duty despite optimal
-      therapy. The packet carries phenomenology, MDS-UPDRS/AIMS or motor diaries, treatment
-      trials with doses and outcomes, supine/standing BPs for nOH, and commander-corroborated
-      duty impact.
-    - **Deployability:** controlled early PD on a stable oral regimen may be deployable with a
-      waiver; regimens needing frequent titration, infusion, or monitoring that does not exist
-      downrange (clozapine ANC draws) do not deploy. Heat and dehydration worsen nOH, and
-      VMAT2 inhibitors carry depression/suicidality monitoring that must travel with the
-      Soldier.
-    - **Aeromedical / special duty:** parkinsonism, chorea and most movement-disorder drugs
-      (dopaminergics, VMAT2 inhibitors, antipsychotics) are disqualifying for flying duty
-      pending waiver. AR 40-501 **4-27** imports the accession neurologic standards — confirm
-      the current Aeromedical Policy Letter with USAAMA before prescribing to an aviator.
+!!! military "Military medicine — duty, retention and deployment"
+    - **Profile / function:** Document falls, freezing, bradykinesia, tremor, cognition, dyskinesia and orthostasis; assess driving and sudden sleep risk.
+    - **Retention / MEB–MAR2:** Use the specific progressive-neurologic or functional standard rather than treating every tremor or drug-induced syndrome as permanent unfitness. Use the [retention framework](../military/deployability.md); permanent P3/4 does not by itself select DES versus MAR2.
+    - **Deployment / medications:** CENTCOM specifically lists dopamine agonists, antipsychotics and injectable drugs. Levodopa and other treatments still require review of indication, stability, monitoring and incapacitating effects. See [the disease AND drug screen](../military/deployment-medications.md) for the current CENTCOM rules and waiver packet.
+    - **Special duty:** flight, diving and other special assignments have separate standards and waiver authorities; a general duty profile does not clear them.
+    - **LOD / EPTS:** document onset, duty status, exposures and aggravation objectively. The designated authority determines LOD/EPTS; neither in-service diagnosis nor a genetic finding settles it automatically.
 
 ---
 
@@ -543,25 +475,15 @@ Alterity Therapeutics ATH434-201 press release 2026-10-05 (unverified topline).
     and End-of-Dose Motor Fluctuations.* Lancet Neurol. 2016 — opicapone OFF-time data.
 14. Borgohain R, et al. *Randomized trial of safinamide add-on to levodopa in Parkinson's disease
     with motor fluctuations.* Movement Disorders. 2014 — safinamide efficacy.
-15. **TRICARE / DoD Uniform Formulary:** VMAT2 inhibitors, PD adjuncts (istradefylline, opicapone,
-    safinamide), droxidopa, and pimavanserin are generally specialty/PA-gated; generics
-    (tetrabenazine, midodrine, fludrocortisone, quetiapine, clozapine) typically face fewer
-    barriers. *Verify current status at the TRICARE Formulary Search before counseling — DoD P&T
-    revises tiers periodically.*
+- [Official TRICARE sources, retrieved forms and access limits](../military/tricare.md).
 16. Alterity Therapeutics press release 2026-10-05 (GlobeNewswire) — ATH434-201 Phase 2 MSA
     topline (~52% slowing on UMSARS-11 at Week 52; company-reported, **not peer-reviewed**).
     [https://www.globenewswire.com/news-release/2026/10/05/3374418/0/en/alterity-therapeutics-presents-new-analyses-of-ath434-phase-2-data-in-multiple-system-atrophy-at-the-2026-international-congress-of-parkinson-s-disease-and-movement-disorders.html](https://www.globenewswire.com/news-release/2026/10/05/3374418/0/en/alterity-therapeutics-presents-new-analyses-of-ath434-phase-2-data-in-multiple-system-atrophy-at-the-2026-international-congress-of-parkinson-s-disease-and-movement-disorders.html)
 
-*Verified October 2026 — **DRAFT, NOT YET REVIEWED.** Drafted 2026-10-06 from OpenEvidence and
-clinician-ChatGPT research, cross-checked between the two tools; discrepancies were resolved
-toward the FDA-label version (deutetrabenazine contraindicated in hepatic impairment; clozapine
-REMS removed in 2025 with ANC monitoring continuing). Corrected on 2026-10-22: **valbenazine added
-for Huntington's chorea** (approved August 2023, KINECT-HD), amantadine dosing added, the **Inpatient
-emergencies** section added (NMS, parkinsonism-hyperpyrexia, the NPO PD patient, serotonin
-syndrome per Boyer & Shannon 2005, acute dystonia), and the military box rewritten with
-paragraph citations. The new emergency and valbenazine doses are written from standard
-references and labels as known at editing — the FDA-label diff could not be run (openFDA was
-unreachable from the editing environment), so `/page` must confirm them. The ATH434 figures are a
-company press release, **not peer-reviewed**. TRICARE statuses are not verified against the
-Uniform Formulary. Military paragraph citations are carried from the site's military page, not
-re-extracted.*
+- [AAN early Parkinson disease motor-treatment guideline — levodopa preferred initial therapy](https://pmc.ncbi.nlm.nih.gov/articles/pmid/34782410/).
+
+- [AAN 2021 early Parkinson disease dopaminergic therapy guideline](https://pmc.ncbi.nlm.nih.gov/articles/PMC8672433/).
+
+- [FDA Sinemet label, 2026 — vitamin B6 monitoring and initial dosing](https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/017555s076lbl.pdf).
+
+*Evidence/policy audit: 21 November 2026. Material changes were checked against the linked primary sources; this is an AI-assisted review, not certification of every dose or claim. [Review scope and source limits](../evidence-review.md).*

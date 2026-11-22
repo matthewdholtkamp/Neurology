@@ -48,7 +48,7 @@ fast is the entire game.
 | **Foodborne** | Preformed toxin — home-canned/fermented foods | Outbreak potential; **investigate co-exposed contacts** |
 | **Wound** | *C. botulinum* in a wound producing toxin in vivo | **Injection drug use, esp. black-tar heroin.** No GI prodrome; **needs antibiotics + debridement** in addition to antitoxin (avoid aminoglycosides) |
 | **Infant** | Spore colonization of the gut (honey, soil/dust) | **The "floppy baby"** — constipation, poor feeding, weak cry, hypotonia. **Treat with BabyBIG, not equine antitoxin** |
-| **Iatrogenic** | Cosmetic or therapeutic botulinum toxin — **overwhelmingly counterfeit or unlicensed product** | **Now the fastest-growing category — see below.** Mild and localized with authentic product at labelled doses; **severe and systemic with counterfeit** |
+| **Iatrogenic** | Cosmetic or therapeutic botulinum toxin; counterfeit/unlicensed products add risk | **Now the fastest-growing category — see below.** Distant toxin spread can be serious; counterfeit/unknown potency raises concern |
 | **Inhalational** | Aerosolized toxin | **Not natural — implies bioterrorism.** Botulinum neurotoxin is a **CDC Category A bioterrorism agent** and an **HHS Tier 1 Select Agent (42 CFR Part 73)** — two separate regimes. Presents as descending paralysis with diplopia, dysphagia, ptosis and pupillary dilation progressing to ventilatory failure, **without fever or altered mentation** |
 
 !!! danger "Iatrogenic botulism has changed character — ask every young patient about cosmetic injections"
@@ -65,10 +65,10 @@ fast is the entire game.
     | Türkiye → 4 EU countries | 2023 | >80 | Intragastric toxin for weight loss; ICU care |
     | US (NY, TX, WI) | 2025 | 3 | **Self-injection of product bought online** |
 
-    **It is product quality, not labelled dose, that produces systemic disease** — counterfeit
+    **Product quality, dose, injection site, and patient susceptibility all matter** — counterfeit
     preparations of unknown potency, mislabelled potency, research-grade toxin, injection into
     highly vascular targets (intragastric for weight loss, calves for slimming), and **underlying
-    NMJ disease** ([myasthenia](index.md), [LEMS](lems.md)) as a contraindication that is
+    NMJ disease** ([myasthenia](index.md), [LEMS](lems.md)) as a major warning/risk factor that is
     frequently ignored.
 
     **A young woman with acute bilateral cranial neuropathies and no food or injection-drug
@@ -129,9 +129,9 @@ fast is the entire game.
     usually precede hypoventilation.** In infant botulism the principal indication for intubation
     was **loss of protective airway reflexes**, not hypoxaemia or hypercarbia.
 
-    - **Intubate for loss of gag or cough, inability to handle secretions, or pooling in the
-      oropharynx — regardless of the numbers.** A patient with an intact vital capacity and an
-      absent gag needs a tube.
+    - **Secure the airway for ineffective cough, inability to handle secretions, aspiration,
+      ventilatory failure, or a deteriorating trajectory.** An **absent gag alone is not a reliable
+      intubation indication**; integrate airway protection and the full examination.
     - **Then monitor numbers serially (q2–4 h while progressing):** vital capacity **<20 mL/kg**,
       NIF worse than **−30 cmH₂O**, or a **≥30% fall from the patient's own baseline** — treat any
       of these as a prompt to intubate **now**, not a threshold to wait for.
@@ -163,18 +163,18 @@ fast is the entire game.
       **56 days for type A and 26 days for type B**, though outbreak medians run shorter (14 days).
 
 !!! orderset "Step 2 — antitoxin, as fast as possible"
-    **Adults and children >1 year — heptavalent botulinum antitoxin (BAT/HBAT, equine F(ab')₂),**
+    **Non-infant botulism — heptavalent botulinum antitoxin (BAT/HBAT, equine F(ab')₂),**
     covering toxin types **A–G**, US-licensed 2013, held in the Strategic National Stockpile and
     **released only through CDC via the state health department, 24/7.**
 
     - **The adult dose is the entire contents of ONE vial as a single IV infusion — it is not
       weight-based.** Exposure–response modelling predicts **>95.9% survival across all seven
       serotypes** after one vial.
-    - **Children 1–16 years receive a percentage of the adult vial scaled by age band; infants
-      under 1 year a weight-based percentage. Transcribe that table from the package insert at the
+    - **Pediatric BAT dosing uses the label’s age/weight calculation; infants receive a separate
+      labeled fraction. Transcribe that table from the package insert at the
       time of use — do not reproduce a paediatric percentage from memory.**
-    - Diluted **1:10 in 0.9% saline**, infused slowly with stepwise rate increases; **epinephrine
-      1:1000 and diphenhydramine at the bedside throughout**, because the product is equine.
+    - Diluted **1:10 in 0.9% saline**, infused slowly with stepwise rate increases; **epinephrine for anaphylaxis (1 mg/mL for IM use) and
+      appropriate resuscitation equipment immediately available**, because the product is equine.
       Verify infusion parameters against the insert, which is the controlling document.
 
     !!! tip "Do not delay BAT to perform skin testing — this is a change from older references"
@@ -227,9 +227,9 @@ fast is the entire game.
         exposure — and even then, discuss with CDC.
 
 !!! warning "Wound botulism specifics — and why the order matters"
-    **Antitoxin first, then antibiotics.** This is not sequencing preference: **antibiotic-induced
-    lysis of vegetative *C. botulinum* releases preformed intracellular neurotoxin**, which is only
-    safe once neutralizing antitoxin is aboard.
+    **Give antitoxin promptly and coordinate wound debridement/antibiotics.** Antibiotic-related
+    toxin release is a theoretical concern; **do not delay indicated treatment of sepsis or another
+    serious infection while antitoxin is in transit**. Discuss sequencing with CDC/ID.
 
     - **Penicillin G 20 million units/day IV divided q4–6h** (the labelled clostridial dose;
       penicillin G is FDA-labelled for botulism as adjunctive therapy to antitoxin).
@@ -296,177 +296,17 @@ E the shortest. Single-fibre EMG jitter persists beyond clinical recovery.*
 
 ---
 
-!!! military "Military medicine — botulism"
-    *Framework — verify against current **AR 40-501**, **DoDI 6130.03 Vol 2**, and applicable
-    force-health-protection / CBRN guidance. See
-    [Profiles, MEB/MAR2 & deployability](../military/deployability.md).*
+!!! military "Military medicine — duty, retention and deployment"
+    - **Profile / function:** Bulbar or respiratory weakness is an evacuation/airway problem before it is a profile problem. After stabilization document fatigability, strength, swallowing, autonomic effects and task endurance.
+    - **Retention / MEB–MAR2:** Generalized MG: DoDI V2 **5.26.l**, Army **3-31c**; ocular-only disease has a specific exception. LEMS, botulism and toxic paralysis require the applicable neuromuscular/functional standard, trajectory and recovery assessment. Use the [retention framework](../military/deployability.md); permanent P3/4 does not by itself select DES versus MAR2.
+    - **Deployment / medications:** Assess crisis risk, treatment interruption, infection, monitoring, immunosuppression and injection/infusion support. Acute botulism/nerve-agent injury needs treatment/evacuation and exposure reporting, followed by cause-specific clearance. See [the disease AND drug screen](../military/deployment-medications.md) for the current CENTCOM rules and waiver packet.
+    - **Special duty:** flight, diving and other special assignments have separate standards and waiver authorities; a general duty profile does not clear them.
+    - **LOD / EPTS:** document onset, duty status, exposures and aggravation objectively. The designated authority determines LOD/EPTS; neither in-service diagnosis nor a genetic finding settles it automatically.
 
-    - **There is no botulism vaccine — say this out loud, because the record may suggest
-      otherwise.** The investigational **pentavalent (ABCDE) botulinum toxoid** given to at-risk
-      laboratory and Army personnel under **IND 161** (CDC) and **IND 3723** (US Army) was
-      **discontinued by CDC effective 30 November 2011** — falling immunogenicity of several
-      serotype components, rising local reactogenicity on boosting, and a manufacture more than
-      thirty years old. **No FDA-licensed botulism vaccine exists.** The recombinant **rBV A/B**
-      successor completed Phase I/II, is **not licensed**, and today mainly immunizes plasma donors
-      for BabyBIG.
-        - **Do not treat a documented toxoid series as protection.** It does not raise the
-          threshold for suspicion and it does not delay antitoxin by one minute.
-        - **AR 40-562** (7 Oct 2013), the joint immunization regulation, contains **no botulinum
-          toxoid entry** — there is nothing to enforce, waive, or counsel against. Force health
-          protection here is **entirely non-pharmaceutical**: detection, avoidance, respiratory
-          protection, food and water surveillance, and post-exposure antitoxin.
-    - **This is an operational and public-health event before it is a disposition question.**
-      Botulinum neurotoxin is a **CDC Category A bioterrorism agent** *and* an **HHS Tier 1 Select
-      Agent (42 CFR Part 73)** — two separate regimes, and the second one creates independent
-      reporting obligations. A single case is a sentinel event.
-        - **What says "release" rather than "home canning":** any case of **inhalational** botulism
-          (it does not occur naturally); a **cluster of acute flaccid paralysis with prominent
-          bulbar palsy** — CDC's syndromic indicator of intentional release; a common-source
-          cluster with no shared food; or an unusual toxin type.
-        - **Notify in parallel with treating:** the **servicing MTF** and its preventive-medicine /
-          public-health element; the **Public Health Emergency Officer**; the chain as a
-          **reportable medical event**; and, where intentional release is in question, medical
-          intelligence via the **National Center for Medical Intelligence (NCMI)**. A suspected
-          **laboratory** exposure adds a **Federal Select Agent Program** report, separate from the
-          clinical one.
-        - **How the Soldier actually gets antitoxin: BAT is not stocked at your pharmacy and is not
-          ordered.** It is held in the **Strategic National Stockpile** and **released by CDC
-          through the state or territorial health department, 24/7.** Call the state health
-          department first; CDC's Emergency Operations Center is the backstop. **Make that call in
-          parallel with airway management, not after it.**
-        - **OCONUS and deployed:** work the same request through the servicing MTF and the
-          combatant command surgeon. *The specific OCONUS pathway and any theater-held stocks are
-          not in publicly releasable doctrine — confirm locally before you need it.*
-        - **A planning note.** Open-source global surveillance for **2017–2024 attributes 56% of
-          human botulism outbreaks to Ukraine** — food preservation and cold-chain disruption under
-          wartime conditions. Supporting operations in or near that AOR means knowing the antitoxin
-          request pathway **before** you need it.
-    - **Retention — the hook is 3-31k, not a bare "3-31," and it turns entirely on residual
-      deficit.** Botulism is **named in no military medical standard** — it appears nowhere in
-      AR 40-501 or in either volume of DoDI 6130.03. Cite it as a reasoned analogy and say so.
-        - **AR 40-501 para 3-31k, "Other neurologic conditions"** is the catch-all — *"any other
-          neurologic conditions when, after adequate treatment, there remain residual symptoms and
-          impairments such as … weakness, paralysis, or atrophy of important muscle groups … as to
-          meet the definition … as in **paragraph 3-1**."* Name the 3-1 limb you actually meet —
-          normally **3-1a** (duty interference substantiated by the commander). **3-1b and 3-1d are
-          usually NOT met** — there is no maintenance drug, no infusion schedule, no indefinite
-          monitoring. Do not pad the memo.
-        - **DoD floor: DoDI 6130.03 Vol 2 para 5.26.i** — *"peripheral neuropathy or paralytic
-          disorders resulting in permanent functional impairment."* **Its permanence qualifier,
-          which works against you in [LEMS](lems.md), is the right fit here**, because residual
-          deficit at MRDP is precisely the question. **Do not cite 5.26.c** — botulism is
-          peripheral and the sensorium is normal.
-        - **Not an "upon diagnosis" condition.** Only 5.26.d (dementia) and 5.26.k (epilepsy) carry
-          *"Paragraph 5.26.a. does not apply."* Document both 5.26.a prongs — but here "persists
-          despite appropriate treatment" means **a documented rehabilitation plateau** after
-          antitoxin and supportive care, not a failed drug trial.
-        - **The structural difference from MG and LEMS: the diagnosis carries no retention
-          consequence at all.** **A Soldier who recovers fully has no permanent profile, no MEB and
-          no MAR2** — the temporary profile closes and the episode ends there.
-    - **Profile (DA Form 3349) — the convalescence *is* the disposition, so write it properly.**
-      Profiles on the **P** factor; add **E** while accommodative paresis, mydriasis or blurred
-      near vision persist (prominent in botulism and late to resolve), and **L/U** for residual
-      girdle weakness.
-        - **Temporary** through ICU care, weaning, and all of rehabilitation. **≤90 days per
-          instrument; link every extension** so the days-on-profile count is real.
-        - **Do not close the profile at extubation.** Ventilation alone averages **~56 days in type
-          A** and ~26 in type B, and **68% of survivors report worse health at a median 4.3 years**,
-          with mechanical ventilation independently predicting worse long-term health. Close on
-          **documented functional recovery** — FVC and NIF back to baseline, exercise tolerance
-          restored, orthostasis and accommodation resolved — not on the ventilator being gone.
-        - **Expect the 12-month clock to matter more than the diagnosis.** A long ventilator course
-          plus a fatigue and dysautonomia tail will often run out the **administrative MRDP**.
-          Anticipate it at the first extension, and watch the **120 / 180 / 240-day** review gates.
-        - Section 4 limits, functionally written: no sustained load-carriage or road march; no duty
-          requiring reliable respiratory reserve or sustained protective-mask wear; no unrestricted
-          work in high heat; **no duty requiring sharp near vision or reliable accommodation**
-          (weapons sighting, NVD use, ATC/UAS consoles); no prolonged standing in formation while
-          orthostasis persists; no duty requiring reliable speech or swallow while bulbar weakness
-          persists.
-    - **EPTS / LOD — EPTS is a non-issue here; LOD may not be.** Botulism is an acute intoxication
-      with a datable exposure and onset, so there is nothing to date back to pre-accession and the
-      6-month accession/retention fork does not arise. **State LOD affirmatively** and record the
-      exposure factually — food source, wound, procedure, date, co-exposed personnel, duty status,
-      and the antitoxin product, serotype coverage, lot and date.
-        - **Anticipate the misconduct question in three settings**, and document neutrally rather
-          than conclusorily: **wound botulism associated with injection drug use**; **foodborne
-          botulism acquired off duty**; and **iatrogenic botulism after an elective cosmetic
-          injection.** Off-duty is **not** the same as not-in-line-of-duty — the LOD authority
-          adjudicates that, not you. Your job is a clean, dated exposure history.
-        - **A slow LOD is not excludable time** on the IDES clock.
-        - **Record the antitoxin as a durable fact.** BAT is **equine-derived** — flag the equine
-          exposure for any future re-administration, and watch for **serum sickness roughly 1–2
-          weeks out**, after the patient has left the ICU and may be back at their unit. A delayed
-          febrile rash with arthralgias in a botulism survivor is not a new infection until proven
-          otherwise.
-    - **MEB / MAR2 — run the fork, and expect the answer to be "neither."**
-        - **Full recovery, the usual outcome: no board.** Close the linked temporary profile on
-          documented functional recovery. **Do not write a permanent profile to "document the
-          history."**
-        - **Residual deficit at MRDP, still meets retention standards but cannot perform the PMOS →
-          MAR2**, an administrative review.
-        - **Residual deficit meeting 3-31k / para 3-1 → DES.** The permanent **P-3** in e-Profile
-          **is** the referral (AR 40-501 3-4).
-        - **Do not refer before MRDP** — rehabilitation must have plateaued or the 12-month clock
-          must have run. Premature referrals get bounced and delay the Soldier.
-        - Document increments a board can act on: **serial FVC/NIF**, ventilator days, weaning and
-          ambulation dates, timed walk or exercise tolerance, and **objective autonomic findings**.
-          Botulism recovery is gradual and cannot be reconstructed retrospectively.
-    - **Aeromedical — temporary suspension, not disqualification. Do not copy the MG/LEMS chain.**
-      **AR 40-501 4-27** names no botulism or peripheral-intoxication standard, and **DoDI 6130.03
-      Vol 1 6.26.q is the wrong hook — it requires a *chronic* nervous system disorder.** The
-      accession hook that feeds 4-27 is **6.26.n**, *"history of paralysis, weakness, lack of
-      coordination … or other specified paralytic syndromes, including, but not limited to,
-      Guillain-Barré Syndrome"* — GBS being named makes it the closest published analogy for an
-      acute paralytic illness that recovers.
-        - **Use 4-27g as the structural model**: for Classes 2, 2F, 2P, 3 and 4 its disposition is
-          *"until complete recovery without residual neurological deficits or other sequelae."*
-          So: **ground on suspicion, treat it as a temporary medical suspension from aviation
-          service pending complete recovery.**
-        - **USAAMA** reviews and recommends *"qualified, qualified with waiver, or medical
-          suspension from aviation service"* and issues the governing **Aeromedical Policy
-          Letters** — send the case rather than deciding it. Any condition producing a **PULHES
-          code greater than 1 requires a complete work-up per the APLs.**
-        - **What keeps an aircrew member grounded after the limbs recover is ocular and
-          autonomic** — accommodative paresis, mydriasis, blurred near vision, orthostatic
-          intolerance. If **binocular diplopia** persists, check **AR 40-501 3-7b** separately. The
-          same findings are decisive for **ATC and UAS operators** (4-34).
-    - **Deployability — time-limited, not permanent, and that is the difference from every other
-      page in this section.** Non-deployable through the acute illness and all of rehabilitation.
-      What actually fails downrange, and outlasts limb strength:
-        - **Impaired sweating from cholinergic autonomic blockade** → reduced thermoregulation and
-          real heat-injury risk in a hot AOR, invisible on a strength exam.
-        - **Reduced respiratory reserve vs sustained protective-mask wear.**
-        - **Accommodative paresis, mydriasis, blurred near vision** — weapons sighting, NVD use,
-          console and map work.
-        - **Orthostatic intolerance** under load and in formation; **dry mouth and dry eyes** in a
-          desert or high-particulate environment.
-        - **What does *not* fail:** no maintenance drug, no cold chain, no infusion schedule, no
-          immunosuppression, no live-vaccine conflict, and nothing that has to be monitored
-          forward. **Once recovery is documented, full deployability is the expected endpoint** —
-          reassess against sweating, respiratory reserve, accommodation and orthostasis, not
-          against ventilator status alone.
+!!! tip "TRICARE — verified rules and the current form"
+    Suspected botulism uses the **public-health/CDC consultation pathway for BAT**; do not wait for routine pharmacy PA. Infant BabyBIG uses a separate program and billing route. Coordinate follow-up services and any outstanding benefits with the hospital/contractor after urgent treatment.
 
-!!! tip "TRICARE — botulism: the access path is public health, not pharmacy"
-    **There is nothing here to look up on the formulary.** **BAT is not prescribed, not ordered,
-    and not purchased.** It is a **Strategic National Stockpile** product **released by CDC through
-    the state or territorial health department, 24/7, at no cost to the patient.** No TRICARE tier,
-    no prior authorization, no pharmacy-versus-medical-benefit split to reason about. **Do not
-    spend a minute of the therapeutic window looking for a way to order it — make the public health
-    call.**
-
-    - **BabyBIG is different.** It comes **only** from the **CDPH Infant Botulism Treatment and
-      Prevention Program**, and the program **bills for the product** — for a TRICARE-eligible
-      dependent infant that is a **coverage** question, not a formulary one. Involve the MTF or
-      regional contractor early, and **treat first.** *Current BabyBIG pricing and TRICARE billing
-      treatment were not verified for this page — confirm with the IBTPP and the regional
-      contractor.*
-    - **The rest of the episode is inpatient benefit** — ICU care, ventilation, and debridement
-      plus antibiotics for wound botulism. **Do not delay any of it for an authorization.**
-    - **Nothing here is a maintenance prescription.** The post-acute cost centre is
-      **rehabilitation**, which is where the authorization effort actually belongs.
-    - **Verify current coverage at the [TRICARE Formulary Search](https://www.express-scripts.com/frontend/open-enrollment/tricare/fst)
-      and with the regional contractor before you counsel.**
+    [Current PA/MN details, benefit routing and packet](../military/tricare.md) · [Live Formulary Search](https://www.express-scripts.com/frontend/open-enrollment/tricare/fst). Check the exact product, beneficiary and venue on the prescribing date.
 
 ---
 
@@ -480,7 +320,7 @@ muscle is chemically denervated. Recovery is not a matter of clearing the toxin;
 terminal to **sprout and rebuild new release sites**, which is why paralysis lasts weeks to months
 even after antitoxin. The same mechanism, dosed and localized, is what makes botulinum toxin a
 therapeutic — from [chronic migraine](../headache/migraine.md) to [cervical dystonia](index.md) —
-and what makes MG a **contraindication** to receiving it.
+and why MG confers a major risk of systemic weakness with it.
 
 **Why "treat on suspicion" is not just caution.** Antitoxin can only neutralize toxin that is still
 **circulating and unbound.** Once toxin has entered the nerve terminal, no antibody can retrieve it.
@@ -554,31 +394,6 @@ prescribe from it.
 11. **AR 40-501** para **3-31** (residual deficit); applicable **CBRN / force-health-protection**
     guidance for the operational response.
 
-*Verified August 2026: **BabyBIG dosing, infusion rates, reconstitution, and the type A/B and
-under-one-year indication boundaries are taken from the current FDA label (effective
-2025-12-08)**, not from memory. **BAT is deliberately not dosed numerically here beyond the
-one-vial adult rule**: it is absent from the openFDA drug-label API, its paediatric dosing is an
-age-band percentage table, and reproducing that from a secondary source is a realistic route to a
-paediatric overdose — **the package insert is the controlling document at the time of use.**
-Three positions were corrected outright. **Skin testing must not delay antitoxin** (AAAAI/CDC
-workgroup) — older references mandate it. **There is no interval beyond which antitoxin stops
-being beneficial**; toxin has been detected in serum 11–12 days after ingestion, and the page
-previously implied a closing window. And **iatrogenic botulism is no longer "usually mild"** — a
-single Chinese centre saw 195 cases in two months with 16.4% ventilated, driven by counterfeit
-product of unknown potency rather than by labelled dose.*
+- [CDC clinical botulism guideline](https://www.cdc.gov/mmwr/volumes/70/rr/rr7002a1.htm).
 
-*The airway section was rewritten around the fact that **airway obstruction and aspiration precede
-hypoventilation** in botulism, so the myasthenia thresholds do not transfer cleanly: no
-botulism-specific cutoff has ever been validated, vital capacity is unreliable when facial
-diplegia breaks the mouthpiece seal, and **NIV should be actively discouraged** — a real
-difference from myasthenic crisis. The diagnosis section now states that **17% of patients report
-paresthesias, 13% have raised CSF protein, and 7% are frankly atypical**, because those are the
-findings clinicians use to talk themselves out of the diagnosis, and that **a negative
-electrodiagnostic study cannot exclude botulism** (facilitation appears in only 50–60%, and
-sensitivity decays with time).*
-
-***Not independently verified:** BAT paediatric percentages and infusion parameters (consult the
-insert); stockpile and release logistics at any given installation; and the long-term morbidity
-figures, which come from a single large cohort in the Republic of Georgia and may not generalize.
-**Botulism is not a named retention condition** — disposition follows residual deficit, and the
-military box states its citations and their limits explicitly.*
+*Evidence/policy audit: 21 November 2026. Material changes were checked against the linked primary sources; this is an AI-assisted review, not certification of every dose or claim. [Review scope and source limits](../evidence-review.md).*

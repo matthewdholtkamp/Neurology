@@ -32,15 +32,18 @@ buckets that matter most are the **genetic generalized epilepsies** and the **fo
     - **Juvenile myoclonic epilepsy (JME)** — the classic adult IGE: **early-morning myoclonic jerks**
       (dropping the coffee cup), **generalized tonic-clonic seizures**, and often absence; onset in the
       teens; **usually lifelong** (needs long-term therapy). Counsel hard on **sleep and alcohol.**
-      **In childbearing potential, levetiracetam is the preferred non-valproate first-line** — head-to-
-      head it beat lamotrigine specifically in JME (treatment-failure HR ~0.47), and **lamotrigine
-      worsened myoclonus** in a subset. **Valproate is the most effective overall** but off the table
-      in anyone who could become pregnant.
+      **In childbearing potential, levetiracetam is often preferred to lamotrigine in JME** — an observational comparative
+      study favored it (treatment-failure HR ~0.47), and **lamotrigine
+      worsened myoclonus** in a subset. **Valproate is the most effective overall** but **avoided where clinically feasible in anyone who could become pregnant**; specialist
+      exceptions require an explicit benefit/risk and contraception discussion. Do not abruptly stop
+      effective treatment during pregnancy.
     - **Juvenile absence epilepsy (JAE)** — absence + GTC, onset around puberty; lifelong.
     - **Childhood absence epilepsy (CAE)** — frequent brief absences, onset 4–10 y; often remits.
       **Ethosuximide** is first-line for absence-only (valproate/lamotrigine if GTC coexists).
     - **Epilepsy with generalized tonic-clonic seizures alone (GTCA).**
-    - **Eyelid myoclonia with absences (Jeavons syndrome)** — a distinct childhood-onset generalized
+    **Another generalized syndrome, outside the four IGEs:**
+
+    - **Epilepsy with eyelid myoclonia (formerly Jeavons syndrome)** — a distinct childhood-onset generalized
       epilepsy: **eyelid myoclonia, eye-closure and photic sensitivity**; often drug-resistant and
       lifelong (valproate/levetiracetam; avoid Na-channel blockers).
 
@@ -64,9 +67,9 @@ buckets that matter most are the **genetic generalized epilepsies** and the **fo
       (hippocampal atrophy/T2 signal) + video-EEG.
         - **Anterior temporal lobectomy (ATL)** — the reference operation (~⅔ seizure-free at 2 y).
         - **Laser interstitial thermal therapy (LITT)** — minimally invasive alternative (2-yr
-          seizure-freedom ~53–62%, somewhat below ATL but **far lower complication rates and shorter
-          stay**) — favor it for **dominant-hemisphere** MTLE (better naming/memory preservation) or
-          when morbidity is the priority. First-line for hypothalamic hamartoma.
+          seizure-freedom ~53–62%, somewhat below ATL but **potentially shorter stay and different morbidity**) — selection, including dominant-side
+          memory/language tradeoffs, belongs to a comprehensive epilepsy-surgery assessment;
+          observational comparisons do not make LITT the default for every dominant-side case. First-line for hypothalamic hamartoma.
     - **Medically:** treat as focal — **lamotrigine, levetiracetam, lacosamide, or
       oxcarbazepine/carbamazepine.**
 
@@ -133,12 +136,12 @@ Mostly pediatric, but these patients **transition into adult care**, so recogniz
 For drug details, dosing, and the full comparison, see the **[antiseizure-medications page](asm.md)**;
 for status epilepticus and the first-seizure work-up, the **[seizure page](index.md).**
 
-!!! military "Military medicine — epilepsy syndromes"
-    A syndromic diagnosis of **epilepsy** (recurrent unprovoked seizures) is handled as on the
-    [seizure page](index.md): **AR 40-501 para 3-31i** / **DoDI 6130.03 Vol 2 para 5.26.c** →
-    generally below retention → **DES**; a **history of epilepsy is disqualifying for accession** and
-    for flying duty. A **self-limited childhood syndrome that fully remitted** (off medication, seizure
-    free) is the scenario most likely to support accession waiver / retention — document the remission.
+!!! military "Military medicine — duty, retention and deployment"
+    - **Profile / function:** Restrict driving and duties involving weapons, heights, water, flight or isolated operations after a seizure until the appropriate clinician/authority clears them. Record state-specific driving advice separately.
+    - **Retention / MEB–MAR2:** Diagnosed epilepsy: DoDI V2 **5.26.k**, action on diagnosis; provoked seizures: **5.26.j**. Army **3-31i** applies. Distinguish acute symptomatic events, epilepsy and nonepileptic attacks. Use the [retention framework](../military/deployability.md); permanent P3/4 does not by itself select DES versus MAR2.
+    - **Deployment / medications:** CENTCOM seizure activity in the preceding year is not waiverable; stable treatment with a year seizure-free may be considered. ASM indication and controlled-substance status matter separately. See [the disease AND drug screen](../military/deployment-medications.md) for the current CENTCOM rules and waiver packet.
+    - **Special duty:** flight, diving and other special assignments have separate standards and waiver authorities; a general duty profile does not clear them.
+    - **LOD / EPTS:** document onset, duty status, exposures and aggravation objectively. The designated authority determines LOD/EPTS; neither in-service diagnosis nor a genetic finding settles it automatically.
 
 ---
 
@@ -179,14 +182,7 @@ meta-analysis, Drugs 2023); Wickstrom et al. (NORSE/FIRES consensus, Epilepsia 2
    Wickstrom R, et al. *NORSE/FIRES international consensus* (Epilepsia 2022); Yardi R, et al.
    *Epilepsy surgery incl. LITT* (Lancet Neurol 2026); Asadi-Pooya AA, et al. *Adult Epilepsy*
    (Lancet 2023).
-5. **Retention:** **AR 40-501 para 3-31i**, **DoDI 6130.03 Vol 2 para 5.26.c** (accession Vol 1) —
+5. **Retention:** **AR 40-501 para 3-31i**, **DoDI 6130.03 Vol 2 para 5.26.k** (accession Vol 1) —
    *verify against the source.*
 
-*Verified July 2026: the syndrome framework follows the ILAE 2022 position papers (IGEs; **variable-
-age syndromes incl. SHE, MTLE-HS, LGI1**; self-limited focal epilepsies — note EE-SWAS evolution;
-DEEs incl. FIRES) and ILAE 2017 classification. Newer points — **levetiracetam > lamotrigine in JME**
-and the **LEV+LTG second-line combo**, **fenfluramine/stiripentol/cannabidiol** for Dravet (lamotrigine
-contraindicated), **NORSE/FIRES immunotherapy** (anakinra/tocilizumab), **LITT vs ATL** for MTLE, and
-genetic-testing/psychiatric-screening guidance — were supplied by expert review with citations;
-confirm before quoting. Retention citations should be confirmed against AR 40-501 / DoDI 6130.03
-before counseling.*
+*Evidence/policy audit: 21 November 2026. Material changes were checked against the linked primary sources; this is an AI-assisted review, not certification of every dose or claim. [Review scope and source limits](../evidence-review.md).*

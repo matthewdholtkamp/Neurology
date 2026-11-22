@@ -1,6 +1,6 @@
 # CIDP & IVIG Order Set
 
-<span class="reviewed-stamp">Last reviewed: NOV 2026</span>
+<span class="reviewed-stamp">Last reviewed: November 2026</span>
 
 **One-liner:** the prescriptive approach to chronic inflammatory demyelinating
 polyneuropathy (CIDP) under the 2021 EAN/PNS criteria — how to make the diagnosis
@@ -19,7 +19,7 @@ eligibility against current labeling and guidelines before ordering.
     | **Respiratory or bulbar weakness** | Ventilatory failure — rare in CIDP, dangerous whenever present | Admit, forced vital capacity / negative inspiratory force, ICU triage |
     | **Marked asymmetry, severe pain, or stepwise deficits** | Vasculitic neuropathy or multifocal CIDP mimics (vasculitis, HNPP, multifocal motor neuropathy) | Urgent vasculitis workup; do not default to "CIDP" on asymmetry alone |
     | **IgM paraprotein, especially with distal sensory-predominant disease** | Anti-MAG neuropathy — no longer classed as CIDP, and it responds poorly to standard CIDP therapy | Anti-MAG antibody; reframe the diagnosis before escalating immunotherapy |
-    | **Sensory neuronopathy pattern (sensory ataxia, pseudoathetosis, normal motor studies)** | Sensory neuronopathy or CISP, not sensory CIDP | Dorsal-root-ganglion / paraneoplastic workup; sensory CIDP requires the pattern below |
+    | **Sensory ataxia/pseudoathetosis with normal motor studies** | Sensory neuronopathy, CISP, or sensory CIDP — distinguish by sensory conduction and the clinical distribution | Dorsal-root-ganglion / paraneoplastic workup; sensory CIDP requires the pattern below |
     | **Upper-motor-neuron signs, fasciculations with pure motor disease** | Motor neuron disease mimicking motor CIDP | EMG + neurology review before committing to chronic immunotherapy |
     | **Nodal–paranodal antibody clues (e.g. severe ataxia, tremor, poor IVIG response)** | Autoimmune nodopathy — a separate entity, not CIDP | Nodal–paranodal antibody panel; nodopathies may need rituximab rather than IVIG |
 
@@ -28,8 +28,8 @@ eligibility against current labeling and guidelines before ordering.
 CIDP is a **clinical phenotype + electrodiagnostic** diagnosis. There are only two
 certainty levels — **"CIDP"** and **"possible CIDP"**. The old
 "definite/probable/possible" scheme was dropped: without a gold standard, definite
-and probable performed no differently. All recommendations rest on low-certainty
-evidence, and real-world validation found more than a third of patients meeting
+and probable performed no differently. Diagnostic and many sequencing recommendations rest on low-certainty
+evidence; **IVIG efficacy versus placebo has high-certainty support**, and real-world validation found more than a third of patients meeting
 electrodiagnostic criteria fit no defined phenotype — so phenotype first, numbers
 second.
 
@@ -87,14 +87,15 @@ time. At least one of the following, with nerve counts by phenotype:
 - **Typical CIDP = "CIDP"** if motor criteria are met in ≥2 nerves **and** sensory
   abnormalities in ≥2 nerves; **"possible"** if motor criteria in only 1 nerve.
 - If the clinical picture fits but minimal electrodiagnostic criteria are not met,
-  **possible typical CIDP** can still be diagnosed with an **objective response**
-  to IVIG, steroids, or plasma exchange.
+  **possible typical CIDP** may be supported by **objective treatment response plus at least
+  one other supportive criterion**, following the guideline’s specific pathway.
 - Distal / multifocal / focal / motor variants follow the same structure: "CIDP"
   when ≥2 nerves meet criteria, "possible" when 1 does; the nerves must fit the
   phenotype pattern (distal criteria are especially strict — the main source of
   misdiagnosis).
-- **Focal CIDP and sensory CIDP can only ever be "possible CIDP"** — supportive
-  criteria cannot upgrade them.
+- **Pure sensory CIDP** has a maximum certainty of **possible sensory CIDP**. **Focal CIDP
+  can meet CIDP criteria** when motor criteria occur in ≥2 nerves in one limb and sensory
+  abnormalities in ≥2 affected-limb nerves; one qualifying motor nerve supports possible focal CIDP.
 
 ### Supportive criteria — upgrade "possible" → "CIDP" (two needed, or one + objective treatment response in some pathways)
 
@@ -148,9 +149,9 @@ time. At least one of the following, with nerve counts by phenotype:
 !!! orderset "Required CIDP workup — order at diagnosis"
     - **Monoclonal gammopathy screen in every patient** (serum/urine immunofixation + free light chains)
     - **Anti-MAG antibody if an IgM paraprotein is present**
-    - **Nodal–paranodal antibody panel** (neurofascin, contactin, Caspr1 and related targets per local panel)
-    - **CSF:** protein + cell count (raised protein with WBC <10/µL is supportive)
-    - **Nerve ultrasound** (proximal median nerve, cervical roots, brachial plexus) **or MRI** of roots/plexus with gadolinium, where available
+    - **Nodal–paranodal antibodies when clinically indicated** (e.g., atypical features or poor response): (neurofascin, contactin, Caspr1 and related targets per local panel)
+    - **CSF when needed for support or exclusion of mimics:** protein + cell count (raised protein with WBC <10/µL is supportive)
+    - **Supportive imaging when needed: nerve ultrasound** (proximal median nerve, cervical roots, brachial plexus) **or MRI** of roots/plexus with gadolinium, where available
     - **Nerve biopsy** only when the diagnosis remains uncertain after the above — sural, occasionally superficial peroneal
     - **Baseline objective scales before treatment:** INCAT disability score, grip dynamometry, I-RODS, MRC sum score, timed walking
     - **Draw any needed serologies BEFORE the first immunoglobulin infusion** — passively transferred antibodies cause false positives, including a positive Coombs test
@@ -167,14 +168,14 @@ time. At least one of the following, with nerve counts by phenotype:
 !!! orderset "Step 2 — switch first-line, then maintenance alternatives"
     - **Switch to another first-line option before adding anything else.** After IVIG failure, 67% responded to PLEX and 59% to steroids; ~75% who then failed PLEX/steroids responded to the remaining option. Involve the patient in the choice.
     - **Subcutaneous immunoglobulin (SCIg) for maintenance** — FDA-approved for adult CIDP maintenance since 2018: **0.2 or 0.4 g/kg/week** (split 2–3 infusions/week for induction-style loading where used: 0.4 g/kg/week × 5 weeks, limited evidence). In PATH, both doses beat placebo (absolute relapse reduction 25% at 0.2 g/kg, 30% at 0.4 g/kg). Good candidates: poor venous access, headache/systemic IVIG side effects, long distance to an infusion centre, frequent travel. More injection-site reactions; fewer systemic effects; no venous access or premedication needed.
-    - **Efgartigimod alfa–hyaluronidase (Vyvgart Hytrulo) — subcutaneous once weekly** as a maintenance alternative: **1,000 mg efgartigimod alfa + 10,000 units hyaluronidase in a prefilled syringe** (patient/caregiver-administered), or **1,008 mg + 11,200 units from a vial**. FDA-approved for adults with CIDP June 2024 (also EMA-approved) on the ADHERE trial — see Discover. The approval is not restricted to patients who have failed IVIG, and it applies to the subcutaneous combination product (IV Vyvgart remains labeled for generalized myasthenia gravis). No head-to-head vs IVIG and no established superiority to IVIG; treat as an **alternative maintenance option, not a replacement for established first-line therapy**. Reasonable when maintenance IVIG/SCIg is burdensome, poorly tolerated, or contraindicated, when IVIG supply/access is a problem, or when the patient prefers weekly home self-injection. Caution: response was lower in previously IVIG-treated patients, and FcRn blockade acts on IgG, so presumed IgM- or IgA-mediated disease may not respond. How best to transition from IgG therapy is not yet defined, and a switch from effective IVIG requires careful monitoring — clinician ChatGPT flagged an FDA 2026 safety update concerning severe CIDP worsening after initiation, which was not independently verified; check the current label before switching.
+    - **Efgartigimod alfa–hyaluronidase (Vyvgart Hytrulo) — subcutaneous once weekly** as a maintenance alternative: **1,000 mg efgartigimod alfa + 10,000 units hyaluronidase in a prefilled syringe** (patient/caregiver-administered), or **1,008 mg + 11,200 units from a vial**. FDA-approved for adults with CIDP June 2024 (also EMA-approved) on the ADHERE trial — see Discover. The approval is not restricted to patients who have failed IVIG, and it applies to the subcutaneous combination product (IV Vyvgart remains labeled for generalized myasthenia gravis). No head-to-head vs IVIG and no established superiority to IVIG; treat as an **alternative maintenance option, not a replacement for established first-line therapy**. Reasonable when maintenance IVIG/SCIg is burdensome, poorly tolerated, or contraindicated, when IVIG supply/access is a problem, or when the patient prefers weekly home self-injection. Caution: response was lower in previously IVIG-treated patients, and FcRn blockade acts on IgG, so presumed IgM- or IgA-mediated disease may not respond. How best to transition from IgG therapy is not yet defined, and a switch from effective IVIG requires careful monitoring — **the current label reports worsening CIDP signs/symptoms during transition from IVIG**. Establish objective baselines and a monitoring/rescue plan, and reassess continuation if neurological symptoms worsen.
     - → Still refractory after all three first-line options → **Step 3**.
 
 !!! orderset "Step 3 — refractory CIDP"
     - **Plasma exchange induction first: 5 exchanges over 10 days.**
     - **Second-line (EAN/PNS, case-series evidence only):** **rituximab**, **cyclophosphamide**, or **cyclosporine** — **stop if no objective benefit within 3–6 months**.
     - **Steroid-/IVIG-sparing agents:** azathioprine, mycophenolate, cyclosporine — take **>6 months** to work; evidence for azathioprine and methotrexate is not robust.
-    - **Investigational / last resort (flagged as such, not routine):** riliprubart (C1s complement inhibitor), phase 2 — 88% responded after switching from standard therapy, 50% of refractory patients improved. Other FcRn inhibitors (nipocalimab, batoclimab) are in trials; small phase 2 rozanolixizumab was negative. Autologous haematopoietic stem-cell transplant has been reported to benefit selected patients. **Not supported:** alemtuzumab, natalizumab, fingolimod, methotrexate, and others.
+    - **Investigational / last resort (flagged as such, not routine):** **riliprubart (C1s inhibitor)** remains investigational; the **MOBILIZE phase 3 refractory-CIDP study was stopped in June 2026**. Earlier phase-2 response percentages do not establish phase-3 efficacy. Other FcRn inhibitors (nipocalimab, batoclimab) are in trials; small phase 2 rozanolixizumab was negative. Autologous haematopoietic stem-cell transplant has been reported to benefit selected patients. **Not supported:** alemtuzumab, natalizumab, fingolimod, methotrexate, and others.
     - **Before escalating any "refractory" label:** specialty referral and diagnostic reconsideration — many patients labeled IVIG-refractory improve when maintenance is increased (e.g. every-2-week dosing), and misdiagnosis is common.
 
 ### Choosing first-line therapy
@@ -208,7 +209,7 @@ time. At least one of the following, with nerve counts by phenotype:
     - **Dose:** **2 g/kg total induction, split over 2–5 days** (usual cap ≤80 g/day); maintenance **1 g/kg every 3 weeks**, titrating to the lowest effective dose (**0.4–1 g/kg every 2–6 weeks**).
     - **Pre-infusion labs / screening:** BUN + creatinine before the first infusion and periodically after; confirm the patient is not volume-depleted. CBC + ABO blood group (non-O groups carry higher hemolysis risk, highest in AB then A); baseline haemoglobin as the reference for post-infusion monitoring. Clot-risk review: age >65, prior VTE/arterial events, atherosclerosis/cardiovascular disease, diabetes, hypertension, hypercholesterolaemia, immobility, dehydration, heart failure, kidney failure. Viscosity at baseline when hyperviscosity is possible (monoclonal gammopathy, cryoglobulins, markedly high triglycerides). Migraine history (raises aseptic-meningitis risk). **IgA: low IgA alone is NOT a contraindication** — IVIG is contraindicated only in IgA-deficient patients who have anti-IgA antibodies **plus** a prior hypersensitivity reaction; routine anti-IgA testing adds little.
     - **Premedication:** **routine premedication NOT required.** After a prior reaction: acetaminophen or ibuprofen + diphenhydramine or a non-sedating H1 blocker, with or without hydrocortisone, **1 hour before infusion**. Hydration (oral or IV) before infusion helps prevent hypotension, renal injury, and aseptic meningitis — limit volume in heart failure/kidney failure. **Keep epinephrine at the bedside for every infusion.**
-    - **Infusion rates (10% product; Gamunex-C CIDP label):** **2 mg/kg/min (0.02 mL/kg/min) for the first 30 minutes, then step up as tolerated to a maximum of 8 mg/kg/min (0.08 mL/kg/min).** Use the minimum practical rate with kidney or clot risk. Other brands are product-specific (e.g. ASCENIV starts at 0.5 mg/kg/min); products are clinically equivalent for CIDP, and switching brands can relieve side effects. Reactions are most likely during the first infusion of a given product and less likely after 3 treatments with the same product.
+    - **Infusion rates (10% product; Gamunex-C CIDP label):** **2 mg/kg/min (0.02 mL/kg/min) for the first 30 minutes, then step up as tolerated to a maximum of 8 mg/kg/min (0.08 mL/kg/min).** Use the minimum practical rate with kidney or clot risk. Other brands are product-specific (e.g. ASCENIV starts at 0.5 mg/kg/min); **brands differ in approved indications, excipients, contraindications and rates**; do not infer CIDP approval or interchangeability from class membership. A specialist-directed switch may improve tolerability. Reactions are most likely during the first infusion of a given product and less likely after 3 treatments with the same product.
     - **Monitoring during infusion:** vital signs; watch for anaphylaxis, fluid overload, and TRALI (respiratory distress, hypoxaemia, fever 1–6 hours after starting).
     - **Monitoring after infusion:** creatinine + urine output in at-risk patients; haemoglobin, reticulocytes, LDH, bilirubin, and direct antiglobulin test if haemolysis is suspected — haemolysis typically occurs **5–10 days after a high-dose course**; consider routine checks in that window for non-O patients receiving 2 g/kg. Watch clot symptoms and headache/meningism for up to 48 hours. **Sodium: distinguish true hyponatraemia from pseudohyponatraemia** from high serum protein — restricting water in pseudohyponatraemia worsens viscosity/clot risk. Track efficacy objectively with INCAT, grip strength, and I-RODS.
 
@@ -217,20 +218,16 @@ time. At least one of the following, with nerve counts by phenotype:
 | Adverse effect | When / who | Prevention | Management |
 |---|---|---|---|
 | Infusion reactions (headache, flushing, chills, myalgia, BP changes) | During infusion; 5–15% of infusions; headache was the most common adverse event in ProCID | Slow titration, hydration, premedicate after a prior reaction | Slow or stop 15–30 min, then restart at the last tolerated rate |
-| Anaphylaxis / IgA-related | Seconds to hours; IgA deficiency with anti-IgA IgE | Low-IgA product or SCIg after a significant reaction; epinephrine available | Stop infusion; epinephrine, oxygen, antihistamines, IV steroids |
+| Anaphylaxis / IgA-related | Seconds to hours; IgA deficiency with anti-IgA IgE | After a serious reaction, stop and obtain allergy/immunology + neuromuscular review; a low-IgA product or SCIg is **not automatically safe**, and exact product contraindications apply | Stop infusion; epinephrine, oxygen, antihistamines, IV steroids |
 | Acute kidney injury | Pre-existing CKD, volume depletion, older age, diabetes, sucrose-stabilized products | Hydrate, avoid sucrose products, minimum rate, check creatinine first | Stop IVIG if kidney function worsens |
 | Thrombosis (MI, stroke, DVT/PE) | Usually at the end of or after infusion; CV risk factors, age >65, hyperviscosity, immobility | Hydrate, minimum rate, check viscosity if at risk, consider splitting doses over more days | Standard clot management; reassess benefit vs risk |
 | Haemolysis | 5–10 days after; blood group AB/A, dose ≥2 g/kg, first course | Know the ABO group, products with reduced isoagglutinins, lower doses/splitting where possible | Confirm with labs; supportive care; transfusion if needed |
 | Aseptic meningitis | Hours to 2 days; dose ≥2 g/kg, rapid infusion, migraine history | Acetaminophen, hydration, slow rate | Lumbar puncture to exclude infection; analgesia; stop IVIG if possible; resolves within days with no lasting effects |
 
-!!! tip "TRICARE — CIDP prescribing"
-    IVIG, SCIg, and efgartigimod are specialty, prior-authorization-gated therapies in
-    most formularies, and steroids/PLEX carry their own facility and coverage rules —
-    **TRICARE tier and PA status for these agents was not verified for this page and
-    is not stated here.** Confirm the current preferred product, PA requirements
-    (including step therapy and neurology-specialty requirements), and infusion-site
-    rules before ordering, and *verify current status at the TRICARE Formulary
-    Search — DoD P&T revises tiers.*
+!!! tip "TRICARE — verified rules and the current form"
+    **Vyvgart Hytrulo 1,000 mg/5 mL prefilled syringe** has a pharmacy PA flag; **HyQvia/Hizentra** have 365-day prior-use/history rules. IVIG products and clinician-administered therapies may use medical-benefit authorization. Obtain the current CIDP form, objective diagnostic/response measures and renewal criteria; payer failure counts were not independently verified.
+
+    [Current PA/MN details, benefit routing and packet](military/tricare.md) · [Live Formulary Search](https://www.express-scripts.com/frontend/open-enrollment/tricare/fst). Check the exact product, beneficiary and venue on the prescribing date.
 
 ## Disposition
 
@@ -243,18 +240,12 @@ time. At least one of the following, with nerve counts by phenotype:
 - **Follow-up:** reassess INCAT/grip/I-RODS at every maintenance interval change;
   formal taper attempts every 6–12 months in the first 2–3 years, then every 1–2 years.
 
-!!! military "Military medicine — CIDP"
-    *Framework — verify against current **AR 40-501**, **DoDI 6130.03**, **DoDI 1332.18**, service
-    deployment/aeromedical policy (and any relevant JTS CPG) before counseling. No
-    paragraph-level retention or deployability threshold for CIDP was verified for
-    this page — do not counsel from this box alone.*
-
-    - **Deployability:** chronic immunoglobulin therapy, infusion dependence, and progressive weakness generally limit deployability; maintenance infusions and cold-chain/logistics do not travel downrange.
-    - **Profile (DA Form 3349):** temporary profile during induction and titration; permanent profile if weakness, sensory loss, or treatment burden imposes lasting functional limits.
-    - **EPTS / LOD:** document onset relative to service entry and any pre-service neuropathy history; CIDP arising in service is typically service-connected for LOD purposes, subject to formal review.
-    - **Retention (AR 40-501 / DoDI 6130.03):** retention review is triggered by persistent functional limitation or ongoing immunosuppressive/infusion therapy that interferes with duty — confirm the current standard before counseling.
-    - **MEB / IDES:** refer when weakness or treatment burden produces lasting duty limitation despite optimal therapy; objective scales (INCAT, grip, I-RODS) and infusion records are the documentation that carries a board.
-    - **Aeromedical / special duty:** flight status and special-duty eligibility require waiver review where weakness, sensory loss, or sedating premedication affects performance; do not assume retention of flight status on maintenance immunotherapy.
+!!! military "Military medicine — duty, retention and deployment"
+    - **Profile / function:** Document strength, gait, hand function, falls and measurable treatment response; restrict tasks affected by weakness or sensory loss.
+    - **Retention / MEB–MAR2:** Use the applicable neuropathy/functional standards, including DoDI V2 **5.26.i** and Army Chapter 3; do not infer a board solely from receiving IVIG. Use the [retention framework](military/deployability.md); permanent P3/4 does not by itself select DES versus MAR2.
+    - **Deployment / medications:** Weekly SC therapy, home administration or improved gait is not deployment clearance. Evaluate injections, immunomodulation, rescue needs, resupply and objective deterioration if treatment is delayed. See [the disease AND drug screen](military/deployment-medications.md) for the current CENTCOM rules and waiver packet.
+    - **Special duty:** flight, diving and other special assignments have separate standards and waiver authorities; a general duty profile does not clear them.
+    - **LOD / EPTS:** document onset, duty status, exposures and aggravation objectively. The designated authority determines LOD/EPTS; neither in-service diagnosis nor a genetic finding settles it automatically.
 
 ---
 
@@ -262,7 +253,7 @@ time. At least one of the following, with nerve counts by phenotype:
 
 *Written from primary guidelines and trials; source articles are a reading list, not copied.*
 
-- **The 2021 EAN/PNS guideline rebuilt CIDP diagnosis around phenotype + electrodiagnostics** and dropped "definite/probable" — a patient is "CIDP" or "possible CIDP," and focal/sensory CIDP can only ever be "possible." The practical consequence is diagnostic discipline: distal CIDP criteria are strict because that phenotype is where misdiagnosis concentrates, and anti-MAG disease, nodopathies, and CISP are now separate diagnoses, not CIDP subtypes.
+- **The 2021 EAN/PNS guideline rebuilt CIDP diagnosis around phenotype + electrodiagnostics** and dropped "definite/probable" — a patient is "CIDP" or "possible CIDP," and **pure sensory CIDP** has a possible-only ceiling; **focal CIDP can meet full criteria**. The practical consequence is diagnostic discipline: distal CIDP criteria are strict because that phenotype is where misdiagnosis concentrates, and anti-MAG disease, nodopathies, and CISP are now separate diagnoses, not CIDP subtypes.
 - **First-line therapy is a three-way tie on efficacy, not a ladder:** IVIG, steroids, and PLEX each help roughly 50–80%, and switching between them rescues most "failures" — which is why the guideline insists on an adequate trial of each (including a second IVIG course) before declaring refractory disease.
 - **Maintenance is where the field moved:** SCIg (PATH) made home maintenance routine, ProCID defined the dose–response curve for IVIG maintenance (0.5 → 1.0 → 2.0 g/kg every 3 weeks), and ADHERE added weekly subcutaneous efgartigimod as a maintenance alternative — with a 61% reduction in relapse risk vs placebo in the randomized-withdrawal phase, but no head-to-head against IVIG.
 - **The order set is the safety story:** most IVIG harm is preventable — hydration and slow titration for kidney injury and meningitis, ABO awareness for haemolysis at days 5–10, and clot-risk review before every high-dose course.
@@ -277,6 +268,10 @@ time. At least one of the following, with nerve counts by phenotype:
 4. ADHERE trial — efgartigimod alfa–hyaluronidase in CIDP (Stage A open-label response 214/322, 66%; Stage B relapse 27.9% vs 53.6%, HR 0.39; FDA approval June 2024). Efgartigimod dosing and positioning on this page.
 5. Gamunex-C prescribing information (CIDP label) — IVIG infusion-rate titration (2 → 8 mg/kg/min) and daily cap context.
 6. Privigen prescribing information; Ontario IVIG Infusion Guide and Adverse Reaction Chart v3.0; Payne et al., *Hospital Pharmacy* 2025, IVIG administration protocol review — order-set, premedication, and adverse-effect details.
-7. **TRICARE / DoD Uniform Formulary:** preferred/PA status of IVIG, SCIg, efgartigimod, and second-line agents on this page was **not verified**. *Verify at the TRICARE Formulary Search.*
+- [Official TRICARE sources, retrieved forms and access limits](military/tricare.md).
 
-*Verified NOV 2026: every dose, threshold, and trial figure on this page was checked against the OpenEvidence answers for the four research questions (2021 EAN/PNS criteria; first-line comparison; ADHERE/efgartigimod and refractory options; IVIG order set) and cross-checked against the clinician ChatGPT answers for the same questions. Could NOT be pinned and still needs confirmation before sign-off: OpenEvidence evidence-grade badges; full verbatim ChatGPT bodies (the Mac accessibility tree does not expose them — capture was by headings, fragments, and reference lists); TRICARE formulary tier/PA status for every drug on this page; paragraph-level AR 40-501 / DoDI 6130.03 retention thresholds for CIDP; efgartigimod cycle/continuation detail beyond the once-weekly label dosing stated; and a clinician-ChatGPT fragment flagging a 2026 label safety update on severe CIDP worsening after starting efgartigimod, which was not independently verified and is not stated as fact on this page — check the current label before prescribing.*
+- [HyQvia — FDA-approved facilitated SC immunoglobulin for adult CIDP maintenance](https://www.fda.gov/vaccines-blood-biologics/approved-blood-products/hyqvia).
+
+- [Vyvgart Hytrulo — current label, including transition-worsening reports](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=7104d9e5-9910-47f5-9a93-741ac50f43b6).
+
+*Evidence/policy audit: 21 November 2026. Material changes were checked against the linked primary sources; this is an AI-assisted review, not certification of every dose or claim. [Review scope and source limits](evidence-review.md).*

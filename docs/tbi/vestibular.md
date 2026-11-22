@@ -36,8 +36,10 @@ which shifts testing and rehab.
 
 !!! danger "Acute — exclude a central cause first"
     New acute vestibular syndrome after trauma: exclude **[posterior-circulation stroke](../stroke/index.md)
-    or vertebral/carotid dissection** — use **HINTS** (a normal head-impulse, direction-changing
-    nystagmus, or skew deviation is *central*), plus red flags (headache/neck pain, focal signs). Don't
+    or vertebral/carotid dissection**. **HINTS requires a trained examiner and the appropriate
+    continuous acute vestibular syndrome with nystagmus**; it is not a rule-out test for all dizziness
+    or for dissection. A normal head impulse, direction-changing nystagmus, or skew is concerning
+    in that setting. Neck pain/headache, focal signs, or uncertainty → stroke/vascular imaging pathway. Don't
     call new dizziness "concussion" until the central cause is excluded.
 
 ## Assess
@@ -74,8 +76,9 @@ which shifts testing and rehab.
     - **Provider matters** — ideally a therapist with **post-graduate vestibular-rehab training.**
 
 !!! orderset "Cervicogenic dizziness — identify and treat the neck"
-    Common after **whiplash/blast** (cervical proprioceptive dysfunction). **Suspect** when dizziness is
-    **provoked by neck movement**, with **neck pain and restricted cervical ROM.** **Identify** with the
+    A **diagnosis of exclusion** considered after whiplash/blast. Neck symptoms alone are not
+    diagnostic, and no single bedside test confirms it. Consider it when dizziness is
+    **provoked by neck movement**, with **neck pain and restricted cervical ROM.** **Support assessment** with the
     **cervical joint-position-error test** and **smooth-pursuit neck-torsion test.** **Treat** with
     **cervical manual therapy + proprioceptive retraining** (Langevin 2022 RCT improved cervical and
     vestibular measures).
@@ -83,10 +86,11 @@ which shifts testing and rehab.
 !!! note "PPPD — break the dizziness→anxiety→avoidance cycle"
     Persistent dizziness often becomes maladaptive: **dizziness → anxiety → movement avoidance →
     deconditioning → worse dizziness** (the mechanism behind PPPD) — high-yield to catch in service
-    members, where avoidance degrades duty performance. **Treat all three arms:** **SSRI/SNRI**
+    members, where avoidance degrades duty performance. **Use an individualized multimodal plan:** **SSRI/SNRI**
     (sertraline, venlafaxine), **CBT** targeting dizziness-related anxiety/avoidance (see
     [mood/PTSD](mood-ptsd.md)), and **graded vestibular exposure** via rehab. **Suppressants make it
-    worse.**
+    worse.** Evidence for these PPPD interventions remains limited; explain that uncertainty
+    and measure response rather than promising a proven three-part cure.
 
 !!! warning "Vestibular suppressants — mostly a *don't* after concussion"
     - **Not recommended** routinely (VA/DoD) — they **delay central compensation** and promote
@@ -139,10 +143,6 @@ framing.
 11. Gottlieb M, Peksa GD, Carlson JN. *HINTS for central causes of acute vestibular syndrome — SR*
     (Cochrane 2023).
 
-*Verified July 2026: prevalence (50–80% acute, 25–30% persistent) and blast-otolith vulnerability, the
-expanded differential (vestibular migraine, PPPD [Bárány 2017], SSCD, labyrinthine concussion, perilymph
-fistula, hydrops, central), assessment cutoffs (VOMS ≥2/NPC >5 cm, DHI >30, DVA ≥2 lines, FGA), the
-distinct features of post-traumatic BPPV (multi-canal 50–67%), VRT evidence and goal-based reassessment,
-cervicogenic-dizziness work-up, the "suppressants delay compensation" guidance (brief meclizine only; no
-benzodiazepines), and referral criteria for formal testing reflect the VA/DoD (2021) CPG and the
-peer-reviewed sources cited above. Confirm current specialty-referral pathways before disposition.*
+**Military follow-through:** [retention/profile framework](../military/deployability.md), [disease and medication deployment screen](../military/deployment-medications.md), and [TRICARE access](../military/tricare.md). Apply the diagnosis-specific assessment rather than clearing duty from symptom improvement alone.
+
+*Evidence/policy audit: 21 November 2026. Material changes were checked against the linked primary sources; this is an AI-assisted review, not certification of every dose or claim. [Review scope and source limits](../evidence-review.md).*

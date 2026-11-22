@@ -33,7 +33,8 @@ injury, and poor sleep/mood/PTSD.
       [cognition](cognitive.md).
     - **SNRI — duloxetine 60–120 mg/day** (strongest evidence) or **venlafaxine XR 150–225 mg/day** —
       first-line neuropathic (NNT ~7.4); also treats comorbid [depression](mood-ptsd.md).
-    - **Gabapentinoid — gabapentin 1200–3600 mg/day** or **pregabalin 150–600 mg/day** — effective for
+    - **Gabapentinoid — titrate gabapentin or pregabalin from a low dose**, with **renal adjustment**
+      and an indication-specific maximum; those are target ranges, not starting doses — effective for
       neuropathic pain, **but sedation/cognitive effects are a real problem in TBI** — weigh against the
       cognitive comorbidity, titrate slowly.
     - **NSAIDs** — for nociceptive/musculoskeletal pain; **limit duration** and **cap acute-medication
@@ -65,7 +66,9 @@ injury, and poor sleep/mood/PTSD.
     - **Already on opioids?** Use a **collaborative, patient-centered taper** — **gradual (5–20% every
       4 weeks)** while **optimizing non-opioid therapy.** **Rapid tapering is harmful** (destabilizes
       patients, worsens depression, increases suicidal ideation, drives illicit use).
-    - **Suspect OUD at any point → treat it** (**buprenorphine/naloxone**, **naltrexone**).
+    - **Suspect OUD at any point → treat it** (**buprenorphine**, or **methadone through an opioid treatment program**;
+      extended-release **naltrexone** is an option only after an adequate opioid-free interval to
+      avoid precipitated withdrawal).
     - **TBI-specific:** strong opioids carry the **highest hazard for 30-day mortality after TBI
       (HR 1.41)**, and CNS-affecting drugs are far commoner in TBI patients than controls (37% vs 24%) —
       another reason to stay opioid-sparing.
@@ -79,8 +82,8 @@ injury, and poor sleep/mood/PTSD.
     (highest early); among post-9/11 veterans with TBI, **26.9% received opioids** (of those, 30% also
     benzodiazepines, 36% sedative-hypnotics).
 
-    - **Tools:** **AUDIT / USAUDIT-C** (alcohol — consider a **higher cutoff ≥11** after TBI vs the usual
-      ≥8), **DAST-10** (drugs), or **TAPS** (tobacco, alcohol, prescription misuse, illicit — one
+    - **Tools:** **AUDIT / AUDIT-C** (use the validated cutoff for that instrument and population;
+      **do not raise screening thresholds solely because the patient has TBI**), **DAST-10** (drugs), or **TAPS** (tobacco, alcohol, prescription misuse, illicit — one
       instrument). All validated in TBI.
     - **When:** at **intake and follow-up**, with particular attention in the **first 3 years** (highest
       risk).
@@ -131,10 +134,6 @@ implications — an added reason to stay opioid-sparing and screen early. See th
    linking TBI, chronic pain, and SUD* (J Neurotrauma 2022); Olsen CM, Corrigan JD. *Does TBI cause
    risky substance use?* (Biol Psychiatry 2022) — bidirectional mechanisms.
 
-*Verified July 2026: prevalence (chronic pain ~40–51%, ~2× general population; median 4 locations; SUD
-~4.2% at 5 years), the IASP mechanism classification, the dosed pharmacologic ladder with TBI cognitive/
-sedation caveats, the MOH intersection, the TBI Care collaborative-care RCT (the only disease-specific
-chronic-pain RCT), the 2022 VA/DoD Opioid CPG taper framework and the strong-opioid HR 1.41 mortality
-signal, SUD screening tools/timing (AUDIT cutoff ≥11, DAST-10, TAPS; first-3-year window), the
-bidirectional TBI–SUD mechanisms, and the cannabis military caveat reflect the sources cited above.
-Confirm current TRICARE formulary/PA status and service-specific substance policies before counseling.*
+**Military follow-through:** [retention/profile framework](../military/deployability.md), [disease and medication deployment screen](../military/deployment-medications.md), and [TRICARE access](../military/tricare.md). Apply the diagnosis-specific assessment rather than clearing duty from symptom improvement alone.
+
+*Evidence/policy audit: 21 November 2026. Material changes were checked against the linked primary sources; this is an AI-assisted review, not certification of every dose or claim. [Review scope and source limits](../evidence-review.md).*

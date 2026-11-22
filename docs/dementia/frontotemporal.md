@@ -10,13 +10,13 @@ years, frequently **inherited**, and the dementia most likely to present in some
 
 **Who this is for:** the provider seeing a **45–65-year-old** whose personality has changed, whose
 job performance has collapsed, or whose speech is failing — and who has already been through
-psychiatry. In a military population this is **the one degenerative dementia that can genuinely
-present on active duty.**
+psychiatry. In a military population this is **a key degenerative dementia to consider on active duty**; young-onset AD and other
+neurological disorders can also occur.
 
 !!! danger "🚩 The pattern that should stop you calling it psychiatric"
     | Finding | Why it matters |
     |---|---|
-    | **Personality change in a 50-year-old with no psychiatric history** | New-onset primary psychiatric illness in mid-life is uncommon. **Late-onset "depression" that is really apathy, or "mania" that is really disinhibition, is bvFTD until proven otherwise** |
+    | **Personality change in a 50-year-old with no psychiatric history** | New-onset primary psychiatric illness in mid-life is uncommon. **Consider bvFTD alongside psychiatric, medication, structural, and other neurological causes; obtain collateral history and assess progression** |
     | **Loss of empathy, socially inappropriate behaviour, loss of insight** | Not a mood disorder. The family, not the patient, brings the complaint |
     | **New compulsive or ritualised behaviour; dietary change, especially carbohydrate craving** | Highly characteristic and rarely volunteered — ask |
     | **Progressive language failure with preserved memory** | Primary progressive aphasia |
@@ -117,8 +117,8 @@ valuable interventions are non-pharmacological.
       dose-dependent **QT prolongation**. All are **off-label for FTD**.
     - **Trazodone** is used for agitation and sleep, also off-label. **It carries the
       antidepressant class boxed warning for suicidal thoughts and behaviours in young adults** —
-      which matters more here than in late-life dementia, because FTD patients are frequently under
-      65 and sometimes under 55.
+      the increased short-term risk underpinning this warning is in **children/adolescents and
+      adults aged 18–24**, not everyone under 65. Monitor suicidality and behavioral change at all ages.
     - **Antipsychotics: avoid where possible.** The **boxed warning for increased mortality in
       elderly patients with dementia-related psychosis** applies, and **patients with FTD may be
       unusually sensitive to extrapyramidal effects.** If genuinely required, use the lowest dose of
@@ -134,52 +134,19 @@ valuable interventions are non-pharmacological.
     - **Assuming a PPA syndrome is FTD** — the logopenic variant is usually Alzheimer's disease.
     - **Genetic testing without counselling**, particularly in a service member.
 
-!!! tip "TRICARE — FTD prescribing"
-    - **There is no disease-modifying therapy to authorize**, and the symptomatic agents — SSRIs,
-      trazodone — are **generic and formulary.** The prescribing side of this page is inexpensive.
-    - **The cost and coverage questions here are diagnostic and supportive**, not pharmaceutical:
-      **FDG-PET**, **neuropsychological testing**, **genetic testing and counselling**, speech and
-      language therapy for PPA, and — the largest by far — **long-term care and caregiver support**
-      for a patient who may be decades from retirement age.
-    - **Young-onset disease creates benefit problems that older-onset disease does not** — dependent
-      children, a working spouse, and an active-duty or recently separated status that determines
-      which system the family lands in. **Involve case management early**; this is the single most
-      useful thing an MTF can do for these families.
-    - **Verify current coverage at the
-      [TRICARE Formulary Search](https://www.express-scripts.com/frontend/open-enrollment/tricare/fst)
-      and with the regional contractor.** *Not independently verified for this page.*
+!!! tip "TRICARE — verified rules and the current form"
+    Coverage follows the **specific diagnosis, drug and service**. Symptom-directed drugs may be off label. Anti-amyloid approval for Alzheimer disease does not establish treatment eligibility for FTD or an undifferentiated rapidly progressive syndrome. For suspected immune disease or a treatable infection, arrange the relevant drug/service authorization alongside timely clinical care.
+
+    [Current PA/MN details, benefit routing and packet](../military/tricare.md) · [Live Formulary Search](https://www.express-scripts.com/frontend/open-enrollment/tricare/fst). Check the exact product, beneficiary and venue on the prescribing date.
 
 ---
 
-!!! military "Military medicine — frontotemporal dementia"
-    *Section-wide framing on the [hub](index.md#military-medicine--cognitive-impairment-and-dementia).
-    Only the deltas are here — and this is the page where they matter most.*
-
-    - **This is the one degenerative dementia that genuinely presents on active duty.** Peak onset
-      spans the **late 40s to early 60s** — squarely within a senior NCO or field-grade career.
-    - **The realistic presentation is a disciplinary or performance problem, not a medical one.**
-      Uncharacteristic misconduct, financial irresponsibility, inappropriate remarks, apathy read as
-      laziness, or a collapse in evaluation reports. **A previously exemplary senior Soldier whose
-      conduct changes in mid-life deserves a neurological thought before an administrative one.** By
-      the time the diagnosis is made, the record may already contain adverse actions the disease
-      caused.
-    - **The documentation problem is the screening instrument.** In bvFTD, **judgment and impulse
-      control are impaired before cognition tests abnormal** — **a MoCA of 27 does not exclude it,
-      and normal screening does not rebut the diagnosis.** What carries a board is a **formal
-      executive and behavioural neuropsychological battery** plus **collateral and command
-      corroboration**, which is also what satisfies the **AR 40-501 3-1a** limb (duty interference
-      *"as substantiated by the Soldier's commander or supervisor"*) while a screening score is
-      normal.
-    - **Profile: P primary, with S carried explicitly** — disinhibition and personality change are
-      exactly what DA Pam 40-502 puts under S. **Section 4 must reach weapons access, financial
-      responsibility and supervisory authority.**
-    - **EPTS/LOD is most contested here.** Symptoms precede diagnosis by years and the evidence sits
-      in **evaluation reports and financial or disciplinary records**, not in medicine.
-    - **Where misconduct has already occurred**, the interaction between the medical diagnosis and
-      any administrative or UCMJ action is a **legal and command question, not a medical one** —
-      document the neurological findings and their timeline factually and promptly, and let the
-      appropriate authorities weigh them. **Do not editorialise about culpability in the medical
-      record.**
+!!! military "Military medicine — duty, retention and deployment"
+    - **Profile / function:** Restrict safety-sensitive work while cognition or alertness is impaired; establish collateral and task-based function. Treat reversible causes before labeling a progressive dementia.
+    - **Retention / MEB–MAR2:** DoDI V2 **5.26.d** calls for action on diagnosis of permanent/progressive dementia; a reversible encephalopathy requires its own diagnosis and reassessment. Use Army **3-31k** and the applicable cause-specific standard. Use the [retention framework](../military/deployability.md); permanent P3/4 does not by itself select DES versus MAR2.
+    - **Deployment / medications:** Cognitive impairment may itself prevent deployment. Anti-amyloid injections/infusions require MRI/specialty support and medication review; symptom benefit does not restore operational capacity automatically. See [the disease AND drug screen](../military/deployment-medications.md) for the current CENTCOM rules and waiver packet.
+    - **Special duty:** flight, diving and other special assignments have separate standards and waiver authorities; a general duty profile does not clear them.
+    - **LOD / EPTS:** document onset, duty status, exposures and aggravation objectively. The designated authority determines LOD/EPTS; neither in-service diagnosis nor a genetic finding settles it automatically.
 
 ---
 
@@ -222,18 +189,4 @@ progressive aphasias; FTD genetics literature for C9orf72, MAPT and GRN.
 5. **TBI — work-up & return to duty** — [this site](../tbi/index.md), for the CTE/TES boundary.
 6. **AR 40-501** para **3-31k**, **3-1**, **3-4**, **4-27**; **DoDI 6130.03 Vol 2** para **5.26.d**.
 
-*Verified August 2026: corrections applied — **trazodone's antidepressant boxed warning was missing
-entirely** and has been added, which matters more here than in late-life dementia because FTD
-patients are frequently under 65; the **criteria citations are now named and confirmed current**
-(**Rascovsky 2011** for bvFTD, **Gorno-Tempini 2011** for the PPA variants, neither revised); and the
-**genetics figures were refined** — family history in up to **40%**, clear autosomal dominant in
-**~10–30%**, with C9orf72/MAPT/GRN accounting for about **60% of familial cases**. A military review
-confirmed the **disciplinary-presentation framing and the UCMJ/culpability boundary as sound and
-appropriately bounded**, and added the documentation point that **normal screening does not rebut the
-diagnosis** — a MoCA of 27 does not exclude bvFTD, and a board reading only the MoCA will get it
-wrong. **Profile factor corrected from S to P primary, with S carried explicitly.***
-
-***Not independently verified:** SSRI and trazodone dosing in FTD — **deliberately not quoted**,
-because all use here is off-label and the doses were not label-pulled; the claim that cholinesterase
-inhibitors may worsen FTD behaviour (confirmed as current consensus, not as trial evidence); the
-comparative caregiver-burden claim; and TRICARE criteria.*
+*Evidence/policy audit: 21 November 2026. Material changes were checked against the linked primary sources; this is an AI-assisted review, not certification of every dose or claim. [Review scope and source limits](../evidence-review.md).*

@@ -38,9 +38,9 @@ epilepsy.**
     - **Agent — levetiracetam is preferred:** **levetiracetam 500–1000 mg IV/PO q12h** (or ~20 mg/kg
       load) **or phenytoin** (20 mg/kg load then maintenance with levels). Meta-analyses show
       **equivalent efficacy** (OR ~0.85), but levetiracetam has **fewer interactions, no drug-level
-      monitoring, and shorter ICU stays** — the 2026 Brain Trauma Foundation penetrating-TBI guideline
-      names it the modern preferred agent.
-    - **Start early, stop at 7 days.** AAN (Level A) — start ASAP after **severe** TBI to reduce early
+      monitoring, and shorter ICU stays** — but the penetrating-TBI guideline does **not** establish a superior agent.
+    - **Blunt injury without a seizure: start early, usually stop at 7 days.** A clinical/electrographic
+      seizure changes the question from prophylaxis to treatment; discuss duration with neurology. AAN (Level A) — start ASAP after **severe** TBI to reduce early
       PTS; **do not continue beyond 7 days** (Level B).
     - **Mild/moderate TBI:** the benefit is small — a 2024 JAMA Neurology meta-analysis found an
       absolute risk reduction of **0.6% (NNT 167)** — weigh against ASM harms and the real risk of
@@ -64,18 +64,24 @@ epilepsy.**
 !!! note "Penetrating TBI — highest risk, least certainty"
     **Penetrating TBI carries the highest PTE risk (45–53%)**, and **frontal/temporal** injuries are
     likely more epileptogenic. The 2026 Brain Trauma Foundation penetrating-TBI guideline flags pTBI as
-    higher-risk than blunt but **did not reach consensus on prophylaxis *duration* or cessation
-    criteria** — a genuine uncertainty for providers managing **combat-related penetrating injury.**
+    higher-risk than blunt. Expert consensus recommends prophylaxis for **7 days or longer**, with
+    **no superior drug established**. Optimal longer duration and cessation remain uncertain; agree
+    a documented neurosurgical plan rather than automatically stopping all penetrating cases on day 7.
 
 ## Late seizures & follow-up
 
 !!! orderset "Late (>7-day) unprovoked seizure = post-traumatic epilepsy"
-    - A late **unprovoked** seizure means **epilepsy** — **start treatment and work it up.** Risk is
+    - A late **unprovoked** seizure warrants urgent neurology review, MRI/EEG, and a treatment decision.
+      Epilepsy can be diagnosed after one seizure **when the estimated 10-year recurrence risk is
+      ≥60%** (often after severe structural TBI); do not presume that every remote mild concussion
+      meets that threshold. Risk is
       highest after **penetrating or severe** TBI and can emerge **months–years** later.
-    - **Driving (2025 AAN position statement):** exclusively **provoked** seizures from factors unlikely
-      to recur may **not** need a seizure-free interval — but **sleep deprivation and alcohol
-      withdrawal are *not* exceptions.** For unprovoked seizures the **minimum interval is ~3 months**,
-      individualized by a medical advisory board.
+    - **Driving:** stop driving and document counseling. The **2025 AAN/AES/EFA statement** ordinarily
+      supports at least **3 seizure-free months**, with individualized exceptions for exclusively
+      provoked events whose cause is unlikely to recur. **State law and licensing decisions govern**;
+      this is not a universal national legal interval. Sleep deprivation is not a reassuring one-off
+      cause, and alcohol withdrawal requires recurrence/substance-risk assessment.
+
     - **Full management** — the **status-epilepticus ladder**, first-seizure work-up, and ASM selection
       — is on the **[seizure & status epilepticus page](../seizure/index.md)** and the
       **[antiseizure medications page](../seizure/asm.md)**.
@@ -92,7 +98,7 @@ epilepsy.**
     prevention trials.
 
 *Military note:* post-traumatic **epilepsy** is handled as any seizure disorder (AR 40-501 3-31i /
-DoDI 6130.03 Vol 2 5.26.c → generally below retention; flying-duty disqualifying) — see the
+DoDI 6130.03 Vol 2 **5.26.k → action on diagnosis of epilepsy**; separate flying-duty standards apply) — see the
 [TBI hub](index.md) and [seizure page](../seizure/index.md).
 
 ## References
@@ -124,11 +130,8 @@ DoDI 6130.03 Vol 2 5.26.c → generally below retention; flying-duty disqualifyi
     Rev Neurol 2024); Yazdi SM, et al. *Emerging biomarkers and therapeutic targets* (Seizure 2025);
     Lolk K, et al. *S100B as a biomarker for epilepsy after TBI* (Epilepsia 2026).
 
-*Verified July 2026: prevalence/risk stratification (early PTS 15% severe vs <2% mild; PTE ~⅓ severe,
-45–53% penetrating, ~1–4% mild; repeated-TBI HR 4.45), the ACS 2024 risk-factor list, prophylaxis
-indications (7 days with intracranial bleeding; not for isolated tSAH; NNT 167 in mild/moderate),
-levetiracetam-preferred dosing and equivalence to phenytoin, the AAN "stop at 7 days" and Temkin
-"does-not-prevent-epilepsy" evidence, ~25% subclinical seizures / cEEG for the "won't wake up" patient,
-the penetrating-TBI distinction, the 2025 AAN driving guidance, and the antiepileptogenesis horizon
-reflect the sources cited above. The DoD retention/aeromedical citations (AR 40-501 3-31i; DoDI 6130.03
-Vol 2 5.26.c) are quoted from those issuances — confirm current editions before counseling.*
+- [BTF penetrating TBI seizure prophylaxis recommendations](https://www.tbiguidelines.com/gl/penetrating/seizure-prophylaxis).
+
+**Military follow-through:** [retention/profile framework](../military/deployability.md), [disease and medication deployment screen](../military/deployment-medications.md), and [TRICARE access](../military/tricare.md). Apply the diagnosis-specific assessment rather than clearing duty from symptom improvement alone.
+
+*Evidence/policy audit: 21 November 2026. Material changes were checked against the linked primary sources; this is an AI-assisted review, not certification of every dose or claim. [Review scope and source limits](../evidence-review.md).*

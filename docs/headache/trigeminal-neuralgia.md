@@ -99,14 +99,10 @@ in patients of **Han Chinese, Thai, or other Southeast Asian ancestry** (SJS/TEN
 
     - **Lamotrigine** — titrate **slowly** (25 mg, up over weeks to ~200–400 mg/day) for **rash/SJS**
       risk; good add-on evidence.
-    - **Gabapentin / pregabalin** — well tolerated; **the go-to add-on for the continuous-pain
-      component** (see note below).
+    - **Gabapentin / pregabalin** — off-label alternatives or add-ons; consider particularly when continuous neuropathic pain coexists. Evidence in TN is limited. Use the [oral dose table](../seizure/asm.md#the-working-formulary) and the chosen product’s low-start titration/renal-dose instructions; monitor sedation, ataxia and respiratory risk with opioids.
     - **Baclofen** — **5–10 mg TID up to ~60–80 mg/day**; classic add-on to carbamazepine (taper on
       discontinuation).
-    - **Botulinum toxin type A** — subcutaneous/submucosal injection; **evidence has firmed up** —
-      meta-analyses show **~OR 7.5 for ≥50% pain reduction** vs placebo (RCTs), well tolerated. A
-      solid **adjunctive third-line** option, especially in **poor surgical candidates** or when
-      sodium-channel blockers are contraindicated.
+    - **Botulinum toxin type A** — a specialist-administered **off-label adjunct**. EAN’s recommendation is weak and based on very-low-quality evidence. Studies used **25–100 units**, with variable products and injection methods; this range is **not a transferable injection prescription**, and different toxin products’ units are not interchangeable. Discuss an experienced injector’s product-specific protocol.
     - **Increasingly used off-label:** **eslicarbazepine** (once-daily, fewer interactions than CBZ —
       a reasonable dibenzazepine switch) and **lacosamide** (another Na-channel blocker). Phenytoin is
       a further option.
@@ -129,7 +125,6 @@ in patients of **Han Chinese, Thai, or other Southeast Asian ancestry** (SJS/TEN
       cardiac monitoring.
     - **IV lidocaine** — ~**5 mg/kg over 1 h**, monitored — relief up to ~24 h; buys time to
       up-titrate an oral agent or arrange surgery.
-    - **IV magnesium** — a further reported acute-crisis option (adjunct).
     - Up-titrate/optimize the oral sodium-channel blocker in parallel; involve neurology/neurosurgery.
 
 !!! orderset "Step 3 — refractory → procedural (refer early; don't over-medicate)"
@@ -147,11 +142,10 @@ in patients of **Han Chinese, Thai, or other Southeast Asian ancestry** (SJS/TEN
       compression). Lower invasiveness, but **higher recurrence and sensory-loss/anesthesia-dolorosa**
       trade-offs — and **avoid ablation when continuous pain is prominent** (worsens neuropathic pain).
 
-!!! tip "TRICARE — TN prescribing"
-    **Carbamazepine, oxcarbazepine, lamotrigine, gabapentin, pregabalin, and baclofen** are all
-    **generic, on-formulary, no PA** — the entire medical ladder is low-friction. **Botulinum toxin
-    type A for TN is off-label** and will need a **PA with specialist justification**. Surgical
-    referral (MVD/radiosurgery) goes through normal specialty-care authorization.
+!!! tip "TRICARE — verified rules and the current form"
+    Check the exact carbamazepine/oxcarbazepine, adjunct formulation and quantity in the current formulary. Off-label botulinum treatment for TN requires the regional coverage determination; the migraine PA is not its authorization. No universal no-PA claim for every generic was verified.
+
+    [Current PA/MN details, benefit routing and packet](../military/tricare.md) · [Live Formulary Search](https://www.express-scripts.com/frontend/open-enrollment/tricare/fst). Check the exact product, beneficiary and venue on the prescribing date.
 
 ## Disposition
 
@@ -159,21 +153,12 @@ Outpatient, unless the patient is in a **pain crisis** (admit — see order set)
 neurosurgery/ENT when medication fails or isn't tolerated. If the MRI shows an **MS plaque**, pivot
 to the demyelinating work-up — the TN is a symptom of the larger diagnosis.
 
-!!! military "Military medicine — trigeminal neuralgia"
-    *Framework only — verify against current AR 40-501, DoDI 6130.03, DoDI 1332.18, and aeromedical
-    policy.*
-
-    - **The MS question dominates disposition.** If TN is **secondary to MS**, the MS drives
-      retention, profile, and board decisions — work it up accordingly.
-    - **Deployability:** limited during titration; sodium-channel blockers cause **sedation,
-      cognitive slowing, hyponatremia**, and need lab monitoring — relevant to duty and austere
-      settings. A pain crisis is non-deployable.
-    - **Profile (DA Form 3349):** temporary during titration or crisis; permanent for refractory
-      disease or post-procedural limitations.
-    - **Retention / MEB:** refractory TN with duty impact, or TN secondary to a disqualifying
-      condition (MS, tumor), warrants board referral. Document drug trials, imaging, and any surgery.
-    - **Aeromedical / special duty:** carbamazepine/oxcarbazepine and uncontrolled TN are generally
-      **disqualifying/waiver-dependent**.
+!!! military "Military medicine — duty, retention and deployment"
+    - **Profile / function:** Record incapacitating headache days, abortive success, preventive trials and drug effects. Grounding or hazardous-duty restrictions depend on attacks and treatment effects.
+    - **Retention / MEB–MAR2:** Headache: DoDI V2 **5.26.g** and Army **3-31g**; trigeminal neuralgia and other diagnoses need their applicable standard, rather than automatically borrowing the migraine threshold. Use the [retention framework](../military/deployability.md); permanent P3/4 does not by itself select DES versus MAR2.
+    - **Deployment / medications:** CENTCOM disruptive migraine may require waiver; injectable CGRP therapy/Botox is separately relevant. Valproate, carbamazepine and lamotrigine are named medication exceptions even when used for pain/headache. See [the disease AND drug screen](../military/deployment-medications.md) for the current CENTCOM rules and waiver packet.
+    - **Special duty:** flight, diving and other special assignments have separate standards and waiver authorities; a general duty profile does not clear them.
+    - **LOD / EPTS:** document onset, duty status, exposures and aggravation objectively. The designated authority determines LOD/EPTS; neither in-service diagnosis nor a genetic finding settles it automatically.
 
 ---
 
@@ -196,7 +181,7 @@ to the demyelinating work-up — the TN is a symptom of the larger diagnosis.
   higher surgical complications (but less numbness).
 - **Natural history remits and relapses** — try a **drug-free taper after sustained remission**
   (cumulative CBZ/OXC toxicity), but expect worsening over time.
-- **Acute crisis = admit** for IV fosphenytoin, lidocaine, or magnesium + rehydration.
+- **Acute crisis = admit** for rehydration and specialist-directed, monitored IV fosphenytoin or lidocaine.
 - **Screen HLA-B\*15:02** before carbamazepine in Southeast Asian ancestry (SJS/TEN).
 
 **Key sources:** ICHD-3 (TN criteria); EAN 2019 & AAN/EFNS 2008 guidelines; MVD-vs-Gamma-Knife
@@ -216,17 +201,6 @@ emerging-drug (eslicarbazepine/lacosamide/vixotrigine/basimglurant) reviews.
    (Neurosurg Rev 2026); Barker FG, et al. *Long-term MVD outcome* (NEJM 1996); Stern JI, et al.
    *Medical management of refractory TN* (Curr Opin Neurol 2026 — eslicarbazepine/lacosamide/IV Mg);
    botulinum-toxin umbrella review (Drugs 2026) and meta-analyses.
-6. **TRICARE / DoD Uniform Formulary:** carbamazepine, oxcarbazepine, lamotrigine, gabapentin,
-   pregabalin, baclofen generic-formulary (no PA); botulinum toxin A for TN off-label (PA +
-   specialist). *Verify at the TRICARE Formulary Search.*
+- [Official TRICARE sources, retrieved forms and access limits](../military/tricare.md).
 
-*Verified July 2026: carbamazepine/oxcarbazepine remain first-line per EAN 2019 (CBZ 200–1200 mg/day,
-OXC 300–1800 mg/day); lamotrigine, gabapentin, pregabalin, baclofen, botulinum toxin A, and phenytoin
-are second-line/add-on; microvascular decompression is first-line surgery for classical TN; acute
-crises are managed in-hospital with IV fosphenytoin or lidocaine; HLA-B\*15:02 screening precedes
-carbamazepine in at-risk ancestry. The newer additions — **TN suicide/self-harm risk (SIR ~2.1)**,
-emerging off-label agents (eslicarbazepine, lacosamide) and pipeline drugs (vixotrigine, basimglurant),
-strengthened botulinum-toxin evidence, MVD-vs-Gamma-Knife quantification, continuous-pain management,
-IV magnesium, and the remit/relapse drug-free-trial guidance — were supplied by expert review with
-citations; confirm the specific figures before relying on them. Service-specific aeromedical/retention
-specifics warrant confirmation before final sign-off.*
+*Evidence/policy audit: 21 November 2026. Material changes were checked against the linked primary sources; this is an AI-assisted review, not certification of every dose or claim. [Review scope and source limits](../evidence-review.md).*

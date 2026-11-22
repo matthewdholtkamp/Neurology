@@ -104,7 +104,8 @@ a degenerative one. Work these categories deliberately rather than by associatio
    antibodies — **subacute onset (<3 months) of working-memory deficit, altered mental status or
    psychiatric symptoms, PLUS at least one of: new focal CNS findings, unexplained seizures, CSF
    pleocytosis, or MRI features suggestive of encephalitis — with reasonable exclusion of
-   alternatives.** If that is met, you have enough to treat.
+   alternatives.** These are **possible-AE criteria**, not proof of immune disease. Use the whole phenotype and
+   exclusion of infection, metabolic disease, malignancy, and other mimics to make the treatment decision.
 6. **If autoimmune encephalitis is plausible, start immunotherapy — do not wait for antibodies.**
    Antibody results take days to weeks; outcome tracks time to treatment.
 7. **Look for the tumour**, and keep looking if the first screen is negative and suspicion persists.
@@ -119,8 +120,8 @@ a degenerative one. Work these categories deliberately rather than by associatio
     1. **Is aciclovir running?** Start it first in any febrile or possibly infectious
        encephalopathy. **Steroids into untreated HSV, TB, cryptococcus or a parasitic CNS infection
        is how a survivable illness becomes a fatal one.**
-    2. **Has the LP been done, and the CSF sent for cytology and flow cytometry?** **Steroids clear
-       the CSF, abolish the pleocytosis and destroy the cytology yield within 24–48 hours.** Tap
+    2. **Has the LP been done, and the CSF sent for cytology and flow cytometry?** **Steroids can reduce diagnostic yield, especially for lymphoma; obtain CSF/tissue first when
+       safe and clinically feasible.** Do not claim that every CSF abnormality disappears in 24–48 h. Tap
        first if you can tap at all.
     3. **Is there an enhancing mass lesion that could be lymphoma?** If so, **talk to neurosurgery
        and haematology before the steroid, not after.** **Steroids melt primary CNS lymphoma** — the
@@ -128,18 +129,19 @@ a degenerative one. Work these categories deliberately rather than by associatio
        the time. **A dramatic steroid response is not evidence for autoimmune encephalitis; PCNSL
        does exactly the same thing.**
 
-    None of these is a reason to delay treatment in a patient without a mass lesion. **They take
-    minutes, not days.**
+    None of these is a reason to delay treatment in a patient without a mass lesion. Urgent sampling and specialist decisions may take time; balance the cost of delay against
+    infection and biopsy risks explicitly.
 
 !!! orderset "Treat the treatable — and treat empirically where waiting costs more than acting"
-    - **Thiamine — give it on suspicion, before any glucose, parenterally, and give the TREATMENT
+    - **Thiamine — give it promptly on suspicion, parenterally, and give the TREATMENT
       dose, not the 100 mg maintenance dose.**
         - **Thiamine 500 mg IV over 30 minutes every 8 hours for 2–3 days**, then **250 mg IV/IM
           daily for 5 days**, then oral. Continue while the diagnosis remains plausible.
         - **If 500 mg cannot be stocked, the floor is 200 mg IV three times daily — never 100 mg
           once.** **100 mg IV is prophylaxis, not treatment.**
         - **Watch the vial arithmetic:** thiamine is stocked at **100 mg/mL**, so a 500 mg dose is
-          **5 mL — five vials.** Drawing one vial is the commonest way this is under-dosed.
+          **5 mL only for that concentration**. The **number of vials depends on vial volume**;
+          calculate **mg ÷ mg/mL**, check the actual product, and dilute per local policy.
         - **Give magnesium alongside** — thiamine-dependent enzymes are magnesium-dependent, and
           replacement fails in hypomagnesaemia.
         - **Do not withhold glucose from a hypoglycaemic patient** while hunting for thiamine. Give
@@ -180,73 +182,24 @@ a degenerative one. Work these categories deliberately rather than by associatio
       patients are found.
     - **Attributing a first psychiatric presentation with neurological signs to psychiatry** without
       excluding autoimmune encephalitis.
-    - **Glucose before thiamine** in a malnourished patient.
+    - **Delaying hypoglycemia treatment for thiamine.** Give dextrose immediately and thiamine
+      promptly alongside; prolonged carbohydrate without thiamine is the avoidable risk.
     - **Ordering 14-3-3 as the prion test.** It lacks specificity; **RT-QuIC is the test.**
     - **Brain biopsy before the non-invasive treatable work-up is complete.**
 
-!!! tip "TRICARE — rapidly progressive dementia"
-    - **This is an inpatient problem, and the inpatient benefit covers it.** Do not delay MRI, LP,
-      EEG or empiric treatment for an authorization.
-    - **The specialty items to anticipate** are the **autoimmune and paraneoplastic antibody
-      panels** (send-out, expensive, and frequently queried), **CSF RT-QuIC** (sent to a specialist
-      prion laboratory), **whole-body FDG-PET** for occult malignancy, and **IVIG or plasma
-      exchange** — which run through the **medical benefit** and, in the outpatient continuation
-      phase, need authorization.
-    - **Second-line immunotherapy** (rituximab, cyclophosphamide) is high-cost, off-label for most
-      autoimmune encephalitis indications, and should be argued as **off-label medical necessity
-      with literature support**, not filed as a formulary request.
-    - **Verify current coverage at the [TRICARE Formulary Search](https://www.express-scripts.com/frontend/open-enrollment/tricare/fst)
-      and with the regional contractor before counselling — DoD P&T revises criteria without
-      notice.** *Not independently verified for this page.*
+!!! tip "TRICARE — verified rules and the current form"
+    Coverage follows the **specific diagnosis, drug and service**. Symptom-directed drugs may be off label. Anti-amyloid approval for Alzheimer disease does not establish treatment eligibility for FTD or an undifferentiated rapidly progressive syndrome. For suspected immune disease or a treatable infection, arrange the relevant drug/service authorization alongside timely clinical care.
+
+    [Current PA/MN details, benefit routing and packet](../military/tricare.md) · [Live Formulary Search](https://www.express-scripts.com/frontend/open-enrollment/tricare/fst). Check the exact product, beneficiary and venue on the prescribing date.
 
 ---
 
-!!! military "Military medicine — rapidly progressive dementia"
-    *Framework — verify against current **AR 40-501**, **DoDI 6130.03 Vol 1 and Vol 2**,
-    **DoDI 1332.18**, and applicable force-health-protection guidance. See
-    [Profiles, MEB/MAR2 & deployability](../military/deployability.md).*
-
-    - **This is the one page in this section that is genuinely an active-duty problem.** Autoimmune
-      encephalitis and CNS infection are **diseases of young adults**, and a service member with a
-      subacute psychiatric-then-neurological presentation is a realistic scenario in a way that
-      Alzheimer's disease is not.
-    - **The military-specific risk is a psychiatric admission.** A young service member with new
-      psychosis, agitation or behavioural change is very likely to reach behavioural health before
-      neurology. **Autoimmune encephalitis presenting to a military behavioural health service and
-      treated as a primary psychiatric illness is the failure mode this page exists to prevent.**
-      Seizures, movement disorder, autonomic instability, hyponatraemia, or a course that does not
-      behave like psychiatry should trigger neurology and an LP.
-    - **Disposition follows the cause and the residual deficit, not the presentation — and the
-      regulation says so on its face.** **DoDI 6130.03 Vol 2 para 5.26.d** reaches *"**permanent or
-      progressive** cognitive impairment due to Alzheimer's disease or other dementias."* A treatable
-      autoimmune encephalitis or CNS infection with expected recovery is **neither permanent nor
-      progressive**, so **5.26.d does not engage at all** until permanence or progression is
-      established. **That is a textual argument, not a clinical judgement call — make it.**
-        - Until then the ordinary route applies: **temporary profile, linked extensions, MRDP**
-          (clinical, or the 12-month administrative point), then the retention question under
-          **AR 40-501 3-31k → para 3-1** — or **3-31i** if seizures persist — **gated normally by
-          5.26.a.**
-    - **MEB / MAR2 — and here, unlike the rest of this section, MAR2 is genuinely on the table.**
-      These Soldiers may recover into a Soldier who **meets retention standards but cannot perform
-      their PMOS** — which is a **MAR2**, an administrative review, not a disability process. Refer
-      to the **DES** only if residual impairment fails 3-31k → 3-1 at MRDP. **Do not refer before
-      MRDP**; recovery here runs for months.
-    - **Profile:** **temporary** through the diagnostic work-up, treatment and recovery — which can
-      run many months. Link every extension; **do not close it at hospital discharge**, and expect
-      the **12-month administrative MRDP** to become the driver in a slow recoverer.
-    - **EPTS / LOD:** onset is datable here, unlike the degenerative dementias, which makes LOD
-      relatively straightforward. **Document the exposure or trigger where one exists**, and, in
-      infectious cases, whether it was deployment-associated — that determination has downstream
-      consequences.
-    - **Deployability: non-deployable** during work-up, treatment and recovery. **Reassess against
-      documented cognitive recovery, seizure freedom and medication requirement**, not against
-      discharge from hospital.
-    - **Aeromedical:** grounded; **USAAMA** adjudicates, and a seizure or a residual cognitive
-      deficit will each independently keep an aircrew member grounded.
-    - **The CBRN and outbreak angle** — a **cluster** of subacute encephalopathy in a deployed or
-      garrison population is a public health event, not a series of individual cases. Notify
-      preventive medicine and the public health emergency officer, as for
-      [botulism](../nmj/botulism.md).
+!!! military "Military medicine — duty, retention and deployment"
+    - **Profile / function:** Restrict safety-sensitive work while cognition or alertness is impaired; establish collateral and task-based function. Treat reversible causes before labeling a progressive dementia.
+    - **Retention / MEB–MAR2:** DoDI V2 **5.26.d** calls for action on diagnosis of permanent/progressive dementia; a reversible encephalopathy requires its own diagnosis and reassessment. Use Army **3-31k** and the applicable cause-specific standard. Use the [retention framework](../military/deployability.md); permanent P3/4 does not by itself select DES versus MAR2.
+    - **Deployment / medications:** Cognitive impairment may itself prevent deployment. Anti-amyloid injections/infusions require MRI/specialty support and medication review; symptom benefit does not restore operational capacity automatically. See [the disease AND drug screen](../military/deployment-medications.md) for the current CENTCOM rules and waiver packet.
+    - **Special duty:** flight, diving and other special assignments have separate standards and waiver authorities; a general duty profile does not clear them.
+    - **LOD / EPTS:** document onset, duty status, exposures and aggravation objectively. The designated authority determines LOD/EPTS; neither in-service diagnosis nor a genetic finding settles it automatically.
 
 ---
 
@@ -277,35 +230,14 @@ for sporadic CJD; the rapidly progressive dementia differential literature.
 
 ## References
 
-1. **Autoimmune encephalitis clinical approach and consensus criteria** — the "treat on clinical
-   grounds" principle and the syndrome definitions summarised above. *Citation not verified for this
-   draft.*
-2. **CSF RT-QuIC for sporadic CJD** — the assay that superseded 14-3-3. *Citation and performance
-   figures not verified for this draft.*
+1. Graus et al. [Clinical approach to autoimmune encephalitis (2016)](https://pmc.ncbi.nlm.nih.gov/articles/PMC5066574/);
+   Abboud et al. [Best-practice diagnosis and acute management (2021)](https://pmc.ncbi.nlm.nih.gov/articles/PMC8223680/).
+2. [National Prion Disease Pathology Surveillance Center — CSF testing](https://case.edu/medicine/pathology/divisions/national-prion-disease-pathology-surveillance-center/resources-professionals/cerebrospinal-fluid-csf-testing).
+   RT-QuIC supports prion diagnosis; a negative result does not exclude all subtypes.
+
 3. **Cerebral amyloid angiopathy–related inflammation** —
    [this site](../stroke/cerebral-amyloid-angiopathy.md), which carries the CAA-ri regimen.
 4. **Status epilepticus** — [this site](../seizure/index.md), for non-convulsive status.
 5. **AR 40-501** para **3-31k**, **3-1**, **3-4**, **4-27**; **DoDI 6130.03 Vol 2** para **5.26.d**.
 
-*Verified August 2026: **this page was the subject of a dedicated safety review, and it changed the
-most.** The drafting decision to quote **no doses at all** was judged **correct for IVIG, plasma
-exchange, rituximab and cyclophosphamide — and wrong for thiamine, aciclovir and corticosteroids.**
-Three specific hazards were found and fixed. **Thiamine now carries a treatment dose (500 mg IV q8h),
-because the site's own [status epilepticus page](../seizure/index.md) prescribed 100 mg IV — the
-exact maintenance dose this page warned against** — and that page has been corrected in the same
-pass. **Aciclovir now carries 10 mg/kg IV q8h and the warning that a negative CSF HSV PCR in the
-first 72 hours does not exclude HSV encephalitis**, because the previous wording ("while PCR is
-pending") read as a stop condition. **A pre-steroid checklist was added**, because the page's own
-differential includes primary CNS lymphoma and its Avoid box was pushing readers toward
-steroid-before-tissue. The **Graus 2016 threshold** now replaces "answer it clinically," and
-**RT-QuIC is stated with its real performance** (sens 92–97%, spec 99–100%, **but 44–78% in MM2**,
-so a negative does not exclude; 14-3-3 and t-tau retained where RT-QuIC is unavailable).*
-
-*A military review confirmed the disposition argument and **strengthened its basis**: 5.26.d reaches
-only *"permanent or progressive"* cognitive impairment, so **it does not engage at all** in a
-treatable encephalitis with expected recovery — a textual argument, not a judgement call. **MAR2 is
-genuinely on the table here**, unlike elsewhere in this section, and that bullet was missing.*
-
-***Not independently verified:** IVIG, plasma exchange, rituximab and cyclophosphamide regimens —
-**deliberately still not quoted**, and routed to institutional protocol for the reasons above; the
-differential categories and their relative frequencies; and TRICARE criteria.*
+*Evidence/policy audit: 21 November 2026. Material changes were checked against the linked primary sources; this is an AI-assisted review, not certification of every dose or claim. [Review scope and source limits](../evidence-review.md).*

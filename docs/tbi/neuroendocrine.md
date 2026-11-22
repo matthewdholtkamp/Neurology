@@ -52,17 +52,19 @@ changes disposition.** Pooled prevalence of **any** pituitary-axis dysfunction i
 
 !!! danger "Acute adrenal insufficiency — treat before you confirm"
     Life-threatening in the ICU: **refractory hypotension, hyponatremia, hemodynamic instability.**
-    A **random cortisol <10 µg/dL** in an acutely ill TBI patient is **highly suspicious**; **<3 µg/dL
-    is diagnostic.** **If suspected and the patient is unstable, give stress-dose hydrocortisone
-    50–100 mg IV q8h — do not wait for confirmatory testing.** Chronically it is subtle (fatigue, weight
-    loss, orthostasis, hyponatremia) and easily mislabeled "post-concussive"; an undiagnosed patient can
-    go into **adrenal crisis** with intercurrent illness — which is exactly why screening matters.
+    Draw cortisol/ACTH **before treatment if this causes no delay**, but random critical-illness
+    cortisol thresholds are not interchangeable with stable outpatient morning testing. **Suspected
+    adrenal crisis: hydrocortisone 100 mg IV/IM immediately, then 200 mg/24 h infusion or 50 mg q6h**,
+    with isotonic fluid resuscitation and glucose/electrolyte monitoring. **Do not await confirmation.**
+    Chronic central adrenal insufficiency may present with fatigue, weight loss, orthostasis, and
+    hyponatremia; arrange endocrine testing and a sick-day/emergency steroid plan.
 
 !!! warning "Sodium disorders — DI, SIADH, and cerebral salt wasting"
     - **Central DI** (~2.9% acutely, more in severe TBI): **polyuria >3 L/day, polydipsia,
       hypernatremia, dilute urine.** Usually **transient** (hours–days); **~7% permanent.**
     - **SIADH** (commoner than DI acutely): **hyponatremia, concentrated urine, euvolemia** — usually
-      self-limited; **fluid restriction.**
+      self-limited; **specialist-guided fluid/electrolyte management.** Do not reflexively restrict fluid in
+      an unstable brain-injured patient; exclude cortisol deficiency and hypovolemia first.
     - **Triphasic response** (classic, rare): **DI → SIADH → permanent DI** over days as the posterior
       pituitary necroses and dumps stored AVP.
     - **Distinguish SIADH from cerebral salt wasting** — **euvolemic vs hypovolemic** hyponatremia;
@@ -76,11 +78,8 @@ changes disposition.** Pooled prevalence of **any** pituitary-axis dysfunction i
     - **Confirm with dynamic testing:** the **insulin tolerance test (ITT)** is gold standard;
       **glucagon stimulation** or **macimorelin** are alternatives. **GHRH-arginine is no longer
       recommended** (arginine supply).
-    - **rhGH replacement** improved IGF-1, fatigue, mood, physical performance, and cognition across
-      studies (with neuroimaging changes — increased cortical thickness/gray matter), and 6–12 months
-      improved processing speed, memory, depression, and quality of life — but the **evidence base is
-      still limited** (small, heterogeneous). The **BIAFAC** concept (benefit in patients *below normal
-      but above* classic GH-deficiency cutoffs) is evolving.
+    - **Confirmed GH deficiency** warrants endocrinology-directed replacement after dynamic testing and contraindication review. Small heterogeneous post-TBI studies suggest benefits in selected deficient patients, but **GH is not an established general treatment for post-concussion fatigue or cognitive symptoms**. Treatment above traditional deficiency thresholds remains investigational; do not prescribe from a low-normal IGF-1 alone.
+
 
 !!! note "Gonadal axis — relevant to the military population"
     **Hypogonadotropic hypogonadism** is the **2nd commonest** deficiency (~16%): low libido, erectile
@@ -135,12 +134,8 @@ the disposition — document the axis, the confirmatory test, and the replacemen
 9. Debert CT, Lithgow K. *Evaluation of neuroendocrine deficits following TBI — role of the
    neurorehabilitation specialist* (Growth Horm IGF Res 2026) — symptom-overlap trap.
 
-*Verified July 2026: prevalence (any dysfunction ~33%; persistent ~15%; GH 18%/gonadal 16%/ACTH 10%/TSH
-6%), the refined who-to-screen framework (complicated mild + moderate/severe; symptomatic uncomplicated
-mTBI only), the screening timeline (acute cortisol/sodium only → 3–6-month panel → 12-month repeat →
-new deficits up to ~5 years), pathophysiology, the acute adrenal-insufficiency thresholds and stress-dose
-hydrocortisone, DI/SIADH/CSW distinctions, GH diagnostic caveats (IGF-1 screening only; dynamic testing;
-rhGH evidence), gonadal-axis management, and glucocorticoid-before-thyroid sequencing reflect the 2026
-JCEM review (Kelestimur et al.), the 2025 Best Practice & Research Clinical Endocrinology & Metabolism
-special issue, the Endocrine Society (2016) guideline, and the sources cited above. Confirm current
-endocrinology referral pathways and TRICARE coverage before disposition.*
+- [Society for Endocrinology adrenal-crisis guidance](https://www.endocrinology.org/clinical-practice/clinical-guidance/adrenal-crisis/).
+
+**Military follow-through:** [retention/profile framework](../military/deployability.md), [disease and medication deployment screen](../military/deployment-medications.md), and [TRICARE access](../military/tricare.md). Apply the diagnosis-specific assessment rather than clearing duty from symptom improvement alone.
+
+*Evidence/policy audit: 21 November 2026. Material changes were checked against the linked primary sources; this is an AI-assisted review, not certification of every dose or claim. [Review scope and source limits](../evidence-review.md).*

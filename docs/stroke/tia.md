@@ -18,7 +18,8 @@ a "come back to clinic next week."
 ## Rapid approach
 
 1. **Confirm it's vascular and transient** (sudden, focal, negative symptoms; fully resolved).
-2. **Risk-stratify** (ABCD² — below) to decide admit vs. expedited-outpatient.
+2. **Urgent brain/vessel imaging plus mechanism and follow-up assessment** determine disposition;
+   ABCD² is an adjunct, never the sole discharge gate.
 3. **Same-day work-up** — MRI, vessel imaging, ECG/telemetry, echo (order set).
 4. **Start secondary prevention immediately** — don't wait for the work-up to finish.
 5. **Find the mechanism** and treat it (AF → anticoagulate; carotid → revascularize).
@@ -92,7 +93,7 @@ risk → admit / urgent work-up.***
           *lower*-risk carriers), if genotyping is available.
     - **Lower-risk TIA:** **single antiplatelet** — **aspirin or clopidogrel** (ASA-dipyridamole is no
       longer preferred/widely available).
-    - **High-intensity statin — atorvastatin 80 mg**, target **LDL <70** (TST/2021 AHA) — escalate
+    - **High-intensity statin — atorvastatin 80 mg**, target **LDL <70** (2026 dyslipidemia guideline; assess the ASCVD risk category) — escalate
       **ezetimibe → PCSK9 inhibitor** to get there. *(European ESC/EAS guidance targets **<55** for
       very-high-risk ASCVD, which includes most atherosclerotic stroke/TIA — a stricter goal worth
       knowing.)*
@@ -117,10 +118,9 @@ risk → admit / urgent work-up.***
       **don't anticoagulate (or use ticagrelor) empirically** for ESUS.
     - **Prolonged rhythm monitoring** — an **insertable cardiac monitor** finds AF in **~12–15% at
       12 months** (vs ~2–5% with external monitors); worth it even in *non-cryptogenic* stroke
-      (STROKE-AF: ~12%). Anticoagulate by **device-AF duration thresholds** (≥24 h + CHA₂DS₂-VASc ≥2 →
-      anticoagulate; <5 min → don't) — per the 2024 ACC arrhythmia-monitoring pathway; full detail on
+      (STROKE-AF: ~12%). Anticoagulate by **device-AF duration thresholds** (≥24 h + CHA₂DS₂-VASc ≥2 → anticoagulation is reasonable after shared assessment; <5 min without another indication → do not anticoagulate) — per the 2024 ACC arrhythmia-monitoring pathway; full detail on
       the [prevention page](prevention.md).
-    - **PFO closure** for age <60 with an otherwise-cryptogenic embolic event and high-risk PFO
+    - **PFO closure** for selected adults 18–60 with an **imaging-confirmed otherwise-cryptogenic ischemic stroke**, after exclusion of other mechanisms; **isolated TIA alone is not the established closure-trial population**. Assess high-risk PFO
       features (use the PASCAL classification).
 
 ## Disposition
@@ -134,18 +134,12 @@ risk → admit / urgent work-up.***
   targets, support) cut major cardiovascular events at 12 months (**STROKE-CARD**: 5.4% vs 8.3%,
   HR 0.63). Book the follow-up and own the risk factors, don't just discharge on pills.
 
-!!! military "Military medicine — TIA"
-    *Framework — verify against current **AR 40-501**, **DoDI 6130.03**, and aeromedical policy.*
-
-    - **Retention hinges on the work-up.** **DoDI 6130.03 Vol 2 para 5.26.b(6)** places **recurrent
-      TIA below retention standards *unless the underlying etiology is identified and definitively
-      treated*** (gated by 5.26.a); Army implements at **AR 40-501 para 3-31f.** So a **single TIA with
-      a fully worked-up, definitively-treated cause** (e.g., carotid revascularized, AF anticoagulated)
-      can retain — an **unexplained or recurrent** TIA trends toward the **DES (MEB/PEB).** Document
-      the etiology work-up, the treatment, and duty impact.
-    - **Deployability:** non-deployable during work-up; a treated single-cause TIA may return to duty
-      per specialty review; **anticoagulation** for AF is itself deployment/special-duty-limiting.
-    - **Aeromedical:** a history of TIA is **disqualifying/waiver-dependent** for flying duty.
+!!! military "Military medicine — duty, retention and deployment"
+    - **Profile / function:** Restrict hazardous duties while evaluating a new vascular event; document residual vision, strength, language, cognition, recurrence risk and bleeding risk.
+    - **Retention / MEB–MAR2:** DoDI V2 **5.26.b** and Army **3-31f** guide cerebrovascular retention assessment. Workup for a clotting disorder alone does not establish a permanent disability. Use the [retention framework](../military/deployability.md); permanent P3/4 does not by itself select DES versus MAR2.
+    - **Deployment / medications:** Therapeutic anticoagulation is a major CENTCOM exclusion; nonaspirin antiplatelets create a separate waiver issue. Do not stop indicated treatment to make a member deployable. See [the disease AND drug screen](../military/deployment-medications.md) for the current CENTCOM rules and waiver packet.
+    - **Special duty:** flight, diving and other special assignments have separate standards and waiver authorities; a general duty profile does not clear them.
+    - **LOD / EPTS:** document onset, duty status, exposures and aggravation objectively. The designated authority determines LOD/EPTS; neither in-service diagnosis nor a genetic finding settles it automatically.
 
 ---
 
@@ -157,7 +151,7 @@ risk → admit / urgent work-up.***
   prevention**; rapid TIA pathways cut recurrent stroke **~80%.**
 - **21-day DAPT** for high-risk TIA/minor stroke (CHANCE/POINT), then single agent — **and the window
   extends to 72 h** (INSPIRES), so a patient seen days out still benefits; ticagrelor+ASA / CHANCE-2
-  for CYP2C19 LOF. Add **high-intensity statin to LDL <70**; **BP <130/80.**
+  for CYP2C19 LOF. Add **high-intensity statin to the risk-based LDL goal**; **BP <130/80.**
 - **ABCD² is effectively retired as a triage gate** (2023 AHA/ASA ED statement) — ~20% of ABCD²<4
   had serious findings; **image everyone, let imaging + mechanism decide.** The **Canadian TIA Score**
   (AUC ~0.70 vs ~0.60) is the better tool. A **negative early DWI (<3–4.5 h) can be falsely
@@ -189,19 +183,6 @@ Prevention after Ischemic Stroke* (NEJM 2026); 2021 AHA/ASA secondary-prevention
    ACC arrhythmia-monitoring-after-stroke pathway* (JACC 2025); Donners SJA, et al. *ECST-2* (Lancet
    Neurol 2025); Furie KL, Kelly PJ. [*Secondary Prevention after Ischemic Stroke.* NEJM. 2026](https://www.nejm.org/doi/full/10.1056/NEJMcp2415601).
 5. Kleindorfer DO, et al. *2021 AHA/ASA guideline for secondary prevention of stroke/TIA.*
-6. **TRICARE / DoD:** antiplatelets/statins generic-formulary; preferred DOAC per Uniform Formulary
-   (verify). Retention: **DoDI 6130.03 Vol 2 para 5.26.b(6)** (recurrent TIA), Army **AR 40-501 3-31f.**
+- [Official TRICARE sources, retrieved forms and access limits](../military/tricare.md).
 
-*Verified July 2026: the tissue-based TIA definition, ABCD²/ABCD²-I risk stratification, same-day
-work-up (MRI/vessel imaging/rhythm monitoring), immediate 21-day DAPT for high-risk TIA (CHANCE/POINT;
-**INSPIRES extends the start window to 72 h**; CHANCE-2 for CYP2C19 LOF), high-intensity statin to LDL
-<70, and mechanism-directed prevention (early DOAC, carotid revascularization within 2 weeks) reflect
-current AHA/ASA guidance. **The 2023 AHA/ASA ED-TIA statement effectively retires ABCD² as a triage
-gate — image everyone; imaging/mechanism drive disposition** (Canadian TIA Score superior; AUC ~0.70).
-The newer points — INSPIRES 72-h window (Asian data), the DAPT reperfusion/carotid-exclusion, the
-ticagrelor bleeding signal, CATALYST early-DOAC, ICM/2024-ACC monitoring thresholds, ECST-2, DWI
-false-negatives, STROKE-CARD follow-up, and the LDL <55 European target — were supplied by expert
-review with citations; confirm before quoting. **Retention citation
-confirmed against the source: DoDI 6130.03 Vol 2 para 5.26.b(6) — recurrent TIA unless etiology
-identified and definitively treated — Army AR 40-501 3-31f. TRICARE preferred DOAC not pinned — verify
-before counseling.**
+*Evidence/policy audit: 21 November 2026. Material changes were checked against the linked primary sources; this is an AI-assisted review, not certification of every dose or claim. [Review scope and source limits](../evidence-review.md).*

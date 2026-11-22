@@ -220,7 +220,7 @@ for every GCS 3T or deeply comatose patient):
 | Unequal, with ptosis and eye turned "down and out" | CN III lesion — consider uncal herniation if acute |
 | Horner syndrome (miosis + ptosis + anhidrosis) | Ipsilateral sympathetic interruption (hypothalamus → brainstem → cord) |
 | Light–near dissociation (reacts to near but not light) | Dorsal midbrain (Parinaud) lesion |
-| Fixed midposition pupils with loss of all other brainstem reflexes | Often **toxic-metabolic, with a better prognosis** — do not assume structural catastrophe from this finding alone |
+| Fixed midposition pupils with loss of all other brainstem reflexes | **Severe brainstem dysfunction or a toxic/metabolic mimic** — urgent structural and toxicological evaluation; no favorable prognosis can be inferred from this finding alone |
 
 **Pupil rule:** reactive pupils + otherwise absent brainstem reflexes strongly favor
 a toxic-metabolic cause; asymmetric or early loss of pupillary reactivity favors
@@ -237,7 +237,7 @@ FOUR score.
 | **Ocular dipping** (slow downward, rapid upward) | Anoxic encephalopathy / diffuse cortical dysfunction |
 | **Conjugate gaze toward the lesion side** (eyes look toward the lesion) | Acute frontal lobe lesion ("looks toward the lesion"); **overcome by doll's-eyes** (oculocephalic) maneuver |
 | **Conjugate gaze away from the lesion** | Pontine lesion ("looks away"); **cannot** be overcome by doll's-eyes |
-| **"Wrong-way" eyes** (conjugate deviation away from the side of weakness) | Thalamic hemorrhage |
+| **"Wrong-way" eyes** (conjugate deviation **toward the hemiparetic side**, away from the hemispheric lesion) | Thalamic hemorrhage |
 | **Oculocephalic reflex (doll's eyes) intact** | Brainstem and vestibular pathways intact — a good prognostic sign |
 | **Skew deviation** (vertical misalignment) | Brainstem lesion (commonly pontine) or cerebellar disease |
 | **Internuclear ophthalmoplegia** (adduction failure) | MLF lesion (brainstem) |
@@ -254,7 +254,7 @@ FOUR score.
 | **Asymmetric motor response** (one side localizes, the other postures or is flaccid) | **Focal structural lesion** — a hemispheric mass or unilateral injury |
 | **Flaccid, no motor response** | Severe bilateral hemispheric, brainstem, or spinal cord injury; or the expected effect of sedatives/paralytics |
 | **Extensor posturing that changes with stimulation** | Uncal herniation or acute structural shift |
-| **Acute flaccid quadriparesis + coma** | Brainstem lesion, or high cervical cord injury |
+| **Acute flaccid quadriparesis + coma** | Brainstem lesion; high cervical injury explains quadriparesis but **does not itself explain coma** |
 | **Unilateral flaccid limb** | Focal lesion or peripheral process |
 | **Generalized myoclonus** (especially post-arrest) | Consider status myoclonus, or myoclonic status epilepticus |
 
@@ -299,8 +299,9 @@ and respiratory arrest can occur with relatively preserved pupils.
       ≥24 hours (prolonged hypoglycemia risk). Do not delay dextrose to wait for
       thiamine.
     - **Thiamine (if at risk — malnutrition, alcohol use, possible Wernicke):**
-      **thiamine 100 mg IV** (up to **500 mg IV** if Wernicke encephalopathy is
-      suspected) — give before or with dextrose.
+      For **suspected Wernicke**, give **500 mg IV over 30 min every 8 h initially**, or the
+      institution’s evidence-based treatment regimen; see [AMS](ams-workup.md). A one-off 100 mg
+      dose is not the treatment regimen. Give promptly alongside dextrose without delaying glucose.
     - **Naloxone (if opioid toxicity with respiratory depression):** **naloxone
       0.04–0.4 mg IV** titrated to adequate breathing, up to **2 mg**; repeat doses
       as needed. Goal is breathing, not arousal. Fentanyl analogues may need larger
@@ -309,7 +310,8 @@ and respiratory arrest can occur with relatively preserved pupils.
       infusion at ~two-thirds of the effective reversal dose per hour.
     - **Seizure (if convulsing):** **lorazepam 0.1 mg/kg IV** (max 4 mg/dose, may
       repeat once) **or midazolam 10 mg IM** (>40 kg) **or diazepam 0.15–0.2 mg/kg IV**
-      (max 10 mg). Treat hypoglycemia and hyponatremia first.
+      (max 10 mg). Correct hypoglycemia or severe symptomatic hyponatremia **in parallel**; do not delay the
+      benzodiazepine for ongoing convulsive status while awaiting laboratory confirmation.
     - **What NOT to do in Step 1:** do not give **flumazenil** empirically (seizure
       risk in chronic benzodiazepine users and co-ingestants); do not give the
       universal "coma cocktail" to every patient; do not assume ethanol explains
@@ -321,10 +323,11 @@ and respiratory arrest can occur with relatively preserved pupils.
       **30–45°**, head/neck midline, adequate analgesia/sedation, ventilator
       synchrony. **Hyperosmolar therapy: mannitol 0.5–1 g/kg IV or hypertonic saline
       23.4% 30 mL central / 3% 250–500 mL** (hypertonic saline preferred first —
-      see the [ICP page](increased-icp.md)). Limits: serum Na ≥155 mEq/L,
-      osmolality ≥320 mOsm/kg, osmolar gap ≥20. Target CPP 60–70 mmHg. Treat
+      see the [ICP page](increased-icp.md)). Monitor sodium, chloride, osmolality/osmolar gap, renal function, and perfusion.
+      **These are toxicity/safety checks, not targets to exceed**; see the ICP page for qualified limits. Target CPP 60–70 mmHg. Treat
       hyperthermia; maintain euvolemia. **Dexamethasone only for vasogenic edema
-      from tumor or abscess** — harmful in TBI. Evacuate mass lesions; EVD for
+      from tumor**; abscess steroids only for severe edema/impending herniation under a
+      specialist plan — harmful in TBI. Evacuate mass lesions; EVD for
       obstructive hydrocephalus. For refractory ICP: barbiturate coma to burst
       suppression, mild hypothermia 35–36 °C, or decompressive craniectomy.
     - **Status epilepticus:** first-line benzodiazepine (above). Second-line at
@@ -346,8 +349,9 @@ and respiratory arrest can occur with relatively preserved pupils.
       uncertain poisoning. **TCA with wide QRS:** sodium bicarbonate **1–2 mEq/kg
       IV boluses**. **CO poisoning:** 100% oxygen ± hyperbaric oxygen; obtain
       co-oximetry (standard pulse oximetry may appear normal). **Toxic alcohols:**
-      fomepizole ± hemodialysis. **Lithium, salicylate, valproate, barbiturates:**
-      hemodialysis. **Acetaminophen:** N-acetylcysteine. **Organophosphates:** atropine
+      fomepizole ± hemodialysis. **Lithium, salicylate, valproate, selected barbiturates:**
+      consult toxicology/nephrology for **EXTRIP-based dialysis indications**, rather than dialyzing
+      every exposure. **Acetaminophen:** N-acetylcysteine. **Organophosphates:** atropine
       + pralidoxime. **Adrenal crisis:** hydrocortisone **100 mg IV**. **Myxedema:**
       IV levothyroxine + hydrocortisone first. **DKA/HHS:** fluids + insulin, slow
       osmolality correction. **Uremia:** dialysis. **Hypercapnia:** ventilation.
@@ -358,8 +362,7 @@ and respiratory arrest can occur with relatively preserved pupils.
       the water deficit at a controlled rate while treating the underlying cause.
     - **Infection (meningitis/encephalitis):** blood cultures, then empiric antibiotics
       plus dexamethasone — and acyclovir if encephalitis is possible — **before CT or
-      LP** (doses per local meningitis/encephalitis protocol; not pinned in this run's
-      research — see footer). Never delay antimicrobials for imaging or LP.
+      LP** (see the [neuroinfection regimens](../neuroinfections/index.md) and local protocol). Never delay antimicrobials for imaging or LP.
     - **Structural (hemorrhage, mass, hydrocephalus):** correct coagulopathy, reverse
       anticoagulants, neurosurgery consultation early. Suspected basilar occlusion →
       CTA immediately, stroke team, thrombectomy consideration — see the
@@ -377,12 +380,13 @@ and respiratory arrest can occur with relatively preserved pupils.
     - **Prognosis — multimodal, never from a single exam:** etiology is the strongest
       determinant. Toxic/metabolic causes (including early-treated hypoglycemia) carry
       a good prognosis even in deep coma with absent brainstem reflexes. **Avoid the
-      self-fulfilling prophecy.** After cardiac arrest, formal prognostic assessment at
-      **≥72 h**, off sedation, normothermic; poor outcome is likely with **≥2** of:
-      bilaterally absent pupillary + corneal reflexes at ≥72 h; bilaterally absent N20
-      SSEP; highly malignant EEG after 24 h; status myoclonus within 72 h; NSE
-      **>60 µg/L** at 48 and/or 72 h; diffuse anoxic injury on CT/MRI. 0–1 predictors
-      = indeterminate (~50%) — continue observation. IMPACT is population-level only.
+      self-fulfilling prophecy.** After cardiac arrest, defer formal prognostication until **≥72 h
+      after ROSC**, or **≥72 h after rewarming if hypothermia was used**, with sedation and other
+      confounders excluded. Use an explicit **multimodal guideline algorithm**, not a tally of
+      loosely timed findings. Absent early corneals, myoclonus without EEG, or an isolated NSE value
+      must not determine withdrawal. **Persistent coma at 72 h is not itself a poor-outcome
+      prediction**; indeterminate cases may require longer observation.
+
       Features favoring recovery: rapid correction of a reversible cause; preserved
       pupillary, corneal, oculocephalic/vestibular and cough reflexes; improving motor
       responses and spontaneous eye opening; reactive/continuous EEG background.
@@ -391,12 +395,13 @@ and respiratory arrest can occur with relatively preserved pupils.
       2023 AAN/AAP/CNS/SCCM guideline: known catastrophic permanent mechanism with
       consistent imaging; observation **≥24 h** after hypoxic-ischemic injury
       (≥24 h after rewarming to ≥36 °C if hypothermia ≤35.5 °C); core temp **≥36 °C**;
-      SBP **≥100 mmHg**; no severe metabolic/endocrine derangement; sedatives cleared
+      SBP **≥100 mmHg and MAP ≥75 mmHg**; no severe metabolic/endocrine derangement; sedatives cleared
       (~5 half-lives or levels); neuromuscular blockade reversed (train-of-four).
       Do not evaluate if there is any consciousness, preserved brainstem reflex,
       brain-mediated movement, or spontaneous breathing. Ancillary blood-flow studies
       (nuclear perfusion, catheter angiography, transcranial Doppler) only when the
-      exam or apnea test cannot be completed or confounders cannot be excluded. Full
+      exam/apnea test cannot be completed or another accepted indication applies; **ancillary
+      testing cannot bypass hypothermia or high sedative levels**. Full
       exam and apnea-test details: see the [brain death page](brain-death.md).
 
 !!! warning "Avoid"
@@ -415,20 +420,10 @@ and respiratory arrest can occur with relatively preserved pupils.
       injury and other toxic-metabolic causes are excluded.
     - Do **not** wait for MRI to treat suspected basilar occlusion or herniation.
 
-!!! tip "TRICARE — coma workup and acute ICU drugs"
-    - The acute agents on this page are generic inpatient/ED drugs — dextrose,
-      thiamine, naloxone, lorazepam, levetiracetam, fosphenytoin, valproate,
-      mannitol, hypertonic saline, sodium bicarbonate, hydrocortisone — typically
-      formulary without prior authorization as inpatient agents. Maintenance
-      antiseizure drugs (levetiracetam, valproate) are generic formulary options
-      for outpatient continuation; newer or branded agents are the ones that
-      typically require PA or step therapy.
-    - The TRICARE tier status of these acute IV agents was **not individually
-      re-verified against the current formulary in this run** — verify at
-      [TRICARE Formulary Search](https://www.express-scripts.com/frontend/open-enrollment/tricare/fst/#/).
-    - For service members, acute inpatient care and ICU drugs are covered under the
-      military treatment facility / TRICARE system; the practical bottleneck is
-      usually not the drug — it is getting the right exam, EEG, and MRI in time.
+!!! tip "TRICARE — verified rules and the current form"
+    Emergency stabilization and inpatient treatment must proceed through the clinical/facility pathway. Outpatient drugs, prolonged home infusions and follow-up services may need separate benefit authorization. The official list flags **Xifaxan 550 mg** for PA; exact indication and quantity rules matter. Do not extrapolate this to every rifaximin strength or to all ICU drugs.
+
+    [Current PA/MN details, benefit routing and packet](../military/tricare.md) · [Live Formulary Search](https://www.express-scripts.com/frontend/open-enrollment/tricare/fst). Check the exact product, beneficiary and venue on the prescribing date.
 
 ## Disposition
 
@@ -446,24 +441,12 @@ and respiratory arrest can occur with relatively preserved pupils.
   management, substance-use treatment, metabolic workup, driving restrictions
   after seizures, and rehabilitation for any residual deficits.
 
-!!! military "Military medicine — coma, retention, and deployability"
-    - **Profile:** coma from any cause requires a temporary profile during recovery;
-      persistent deficits, cognitive impairment, or seizures after recovery generally
-      require a permanent profile and a Medical Evaluation Board (MEB) referral.
-    - **Retention:** retention standards (AR 40-501, DoDI 6130.03) address seizures
-      and cognitive impairment as the usual disqualifying sequelae; specific paragraph
-      citations were not verified in this run — verify against the current regulation
-      before counseling a service member.
-    - **Deployability:** prolonged coma, anoxic injury, or persistent neurologic
-      deficits are generally non-deployable; a service member who recovers fully
-      from a reversible toxic-metabolic cause (e.g., hypoglycemia) without sequelae
-      is typically returnable to duty once the underlying cause is treated.
-    - **Fitness for duty:** after anoxic brain injury or prolonged coma, fitness
-      determination is usually via the Integrated Disability Evaluation System
-      (IDES) once recovery has plateaued (DoDI 1332.18).
-    - **Aeromedical:** any history of coma with neurologic sequelae or seizures is
-      generally disqualifying for flight duties — verify against current aeromedical
-      policy before counseling.
+!!! military "Military medicine — duty, retention and deployment"
+    - **Profile / function:** Resuscitate and transfer to appropriate neurologic/critical care capability. Do not postpone treatment for an administrative readiness decision.
+    - **Retention / MEB–MAR2:** A temporary acute restriction does not establish permanent unfitness. After recovery, use the diagnosed cause and residual function to determine profile, retention and rehabilitation needs. Use the [retention framework](../military/deployability.md); permanent P3/4 does not by itself select DES versus MAR2.
+    - **Deployment / medications:** Active coma, delirium or intracranial hypertension is incompatible with routine operational duty. Reassess only after stabilization; document the underlying disease and all continuing drugs. See [the disease AND drug screen](../military/deployment-medications.md) for the current CENTCOM rules and waiver packet.
+    - **Special duty:** flight, diving and other special assignments have separate standards and waiver authorities; a general duty profile does not clear them.
+    - **LOD / EPTS:** document onset, duty status, exposures and aggravation objectively. The designated authority determines LOD/EPTS; neither in-service diagnosis nor a genetic finding settles it automatically.
 
 ## 📚 Discover — evidence brief
 
@@ -489,28 +472,19 @@ toxic-metabolic) with EEG, MRI, and LP by the clock.
   across the ACEP and AES guidelines.
 - **Herniation management is a bundle, not a single drug:** HOB 30–45°, midline neck,
   CPP 60–70 mmHg, hyperosmolar therapy (mannitol 0.5–1 g/kg or hypertonic saline),
-  normocapnia (PaCO₂ 30–35 only as a brief bridge), and dexamethasone only for
-  vasogenic edema from tumor or abscess. See the [ICP page](increased-icp.md) for the
+  normocapnia (PaCO₂ 30–35 only as a brief bridge), and dexamethasone for tumor-related vasogenic edema or **selected severe abscess-associated edema/herniation**, not routine abscess treatment. See the [ICP page](increased-icp.md) for the
   full tiered approach.
 - **Prognostication after cardiac arrest is multimodal and time-gated.** The ERC-ESICM
-  2021 and NCS 2023 guidance requires ≥72 hours off sedation and normothermic, with
+  2021 algorithm and NCS 2023 guidance differ in predictor details. Use a complete current
+  protocol, including ≥72 h after ROSC/rewarming and absence of confounding, rather than
   ≥2 of six predictors (absent pupillary + corneal reflexes at ≥72 h, absent N20 SSEP,
   highly malignant EEG after 24 h, status myoclonus within 72 h, NSE >60 µg/L, diffuse
   anoxic injury on imaging) before a poor outcome is considered likely — and 0–1
   predictors means indeterminate, not good.
-- **Brain death is a clinical diagnosis with strict prerequisites** under the 2023
-  AAN/AAP/CNS/SCCM consensus guideline — known catastrophic mechanism, ≥24 h
-  observation after hypoxic-ischemic injury, core temp ≥36 °C, SBP ≥100 mmHg, sedatives
-  cleared (~5 half-lives), neuromuscular blockade reversed. One point of disagreement
-  between this run's two sources: the MAP threshold (OpenEvidence: SBP ≥100 or MAP
-  ≥60; ChatGPT: SBP ≥100 and MAP ≥75) — the page states SBP ≥100 mmHg, which both
-  sources agree on, and defers the MAP target to local protocol.
+- **Brain death requires the complete 2023 AAN/AAP/CNS/SCCM prerequisites and examination.** In adults, maintain **SBP ≥100 AND MAP ≥75 mmHg**; clear confounding drugs with adequate time for the actual exposure, renal/hepatic function and temperature. Follow the specified observation, apnea-testing and ancillary-test requirements. Use the [brain-death page](brain-death.md) and the facility policy rather than a shortened checklist.
 
-**What remains uncertain:** empiric meningitis antibiotic and acyclovir dosing was not
-pinned in this run's research (doses per local protocol, flagged above); the MAP
-threshold for BD/DNC prerequisites differs between sources (see above); and the
-specific AR 40-501 paragraph citations for retention after coma were not verified
-(flagged in the military box).
+**Limits:** a coma syndrome does not supply a single retention paragraph. Diagnose and treat the cause, and reassess residual function after recovery. Empiric antimicrobial regimens are detailed on the [neuroinfection page](../neuroinfections/index.md); adjust to local resistance, organ function and the individual patient.
+
 
 ## References
 
@@ -548,4 +522,6 @@ specific AR 40-501 paragraph citations for retention after coma were not verifie
 18. American Clinical Neurophysiology Society. "Consensus Statement on Continuous EEG
     in Critically Ill Adults and Children." 2015.
 
-*Verified November 2026: all doses, thresholds, and sequences above were checked against OpenEvidence (Osler model) and clinician ChatGPT answers to four identical clinical questions on coma (initial stabilization, localization, workup, management/prognosis/brain death), run 2026-11-12. The two sources agreed on every dose, threshold, and sequence used on this page except the MAP prerequisite for brain-death evaluation (OpenEvidence: SBP ≥100 or MAP ≥60; ChatGPT: SBP ≥100 and MAP ≥75) — the page states SBP ≥100 mmHg, which both sources agree on. **Not verified in this run and flagged above:** empiric meningitis antibiotic and acyclovir doses (use local protocol); specific AR 40-501 paragraph citations for retention after coma; individual TRICARE tier status of the acute IV agents (verify at TRICARE Formulary Search).*
+- [NCS cardiac-arrest neuroprognostication guideline](https://link.springer.com/article/10.1007/s12028-023-01688-3).
+
+*Evidence/policy audit: 21 November 2026. Material changes were checked against the linked primary sources; this is an AI-assisted review, not certification of every dose or claim. [Review scope and source limits](../evidence-review.md).*

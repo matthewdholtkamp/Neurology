@@ -26,7 +26,10 @@ MRI) and **keep it away from anticoagulation**, because it re-bleeds.
     hyperintensities.**
 
     - **Boston criteria v2.0 (2022)** added cSS and the **non-hemorrhagic white-matter features** —
-      now allowing a diagnosis of **probable CAA even without a hemorrhage.** Deep microbleeds point
+      allowing **probable CAA without a symptomatic macrohemorrhage**, but not without MRI
+      hemorrhagic markers. In the appropriate age/clinical setting, probable CAA requires **≥2
+      strictly lobar hemorrhagic lesions**, or **1 lobar hemorrhagic lesion + 1 qualifying white-matter
+      feature**, with exclusions applied. Deep microbleeds point
       *away* from CAA (toward hypertensive small-vessel disease). **Know its blind spot:** validation
       shows **~75% sensitivity / 95% specificity overall — but only ~55% sensitivity for *non-ICH*
       (cognitive) presentations** vs ~90% for ICH. CAA can be advanced enough to impair cognition
@@ -48,7 +51,9 @@ MRI) and **keep it away from anticoagulation**, because it re-bleeds.
 3. **Aggressive blood-pressure control** — the one intervention that clearly lowers recurrence.
 4. **Antithrombotic decision — risk-stratify** (bleeding phenotype vs. thrombotic need); it's *not*
    a blanket "never."
-5. **For AF needing stroke prevention:** weigh **DOAC vs. LAAO vs. antiplatelet** by re-bleed risk.
+5. **For AF needing stroke prevention:** weigh **DOAC versus LAAO or withholding anticoagulation** through a specialist assessment.
+   **Antiplatelet therapy is not an equivalent substitute for anticoagulation for AF**; prescribe it
+   only for a separate supported indication.
 6. **CAA-ri → immunosuppression** (steroids, below); **screen before anti-amyloid dementia drugs**
    (ARIA risk).
 
@@ -58,9 +63,9 @@ MRI) and **keep it away from anticoagulation**, because it re-bleeds.
     - **Blood pressure control is the dominant lever** — long-term **<130/80** reduces recurrent ICH.
     - **Anticoagulation is *high-risk, not absolutely forbidden* — stratify** (2026 NEJM review). CAA
       re-bleeds at **~7–8%/year** vs ~1% for non-CAA ICH, amplified by cortical superficial siderosis.
-        - **AF + microbleeds only (no ICH, no cSS):** a **DOAC may be reasonable.** (COCROACH IPD
-          meta-analysis: OAC after ICH in AF cut ischemic MACE **HR 0.27** with **no statistically
-          significant** rise in hemorrhage.)
+        - **AF + microbleeds only (no ICH, no cSS):** a **DOAC may be reasonable.** (Earlier COCROACH estimates were imprecise; **PRESTIGE-AF (2025)** found fewer
+          ischemic strokes **and more recurrent ICH** with DOACs. Neither result proves safety in
+          a specific high-risk CAA phenotype.)
         - **Prior lobar ICH, disseminated cSS, or multiple bleeds:** **avoid anticoagulation** →
           **LAAO**, antiplatelet monotherapy, or a trial. Pooled LAAO data in AF + prior ICH: ischemic
           stroke and recurrent-ICH each **~2%/year** (~4% in the CAA/parenchymal-hemorrhage subgroup);
@@ -105,7 +110,9 @@ MRI) and **keep it away from anticoagulation**, because it re-bleeds.
       cases — **the EMA excluded ε4 homozygotes** from lecanemab's authorization.
     - **Pre-treatment microhemorrhages (≥2–4)** raise ARIA-E (~OR 2.5); **cortical superficial
       siderosis** raises it (~OR 2.2) and is generally a **contraindication.**
-    - **Elevated blood pressure (MAP >107)** is the sole *modifiable* ARIA risk factor — control it.
+    - **Control blood pressure** and review other potentially modifiable hazards, including
+      antithrombotic exposure and monitoring adherence. Do not treat a single study’s MAP cutpoint
+      as a universal ARIA safety threshold.
 
     This is the practical bridge between CAA and the anti-amyloid dementia workup.
 
@@ -115,16 +122,12 @@ Acute lobar ICH → see the [intracerebral hemorrhage page](intracerebral-hemorr
 reversal). Otherwise outpatient neurology with **BP optimization, antithrombotic-risk counseling**,
 cognitive assessment, and a clear note in the chart that **anticoagulation is high-risk.**
 
-!!! military "Military medicine — cerebral amyloid angiopathy"
-    *Framework — verify against current **AR 40-501**, **DoDI 6130.03**, and aeromedical policy.*
-
-    - **Older/retiree and veteran population:** CAA is largely a disease of older adults — more
-      relevant to **retiree/VA care and MEB dispositions** than to young active-duty members.
-    - **Retention:** CAA presenting as **intracerebral hemorrhage** falls under **DoDI 6130.03 Vol 2
-      para 5.26.b(1)**; persistent sequelae (severe headaches, seizures, cognitive deficit) under
-      **5.26.c** — Army **AR 40-501 3-31f/k** → **DES** where duty is impaired.
-    - **Key counseling point:** flag in the record that **anticoagulation is high-risk** — it affects
-      any future AF/VTE management decision.
+!!! military "Military medicine — duty, retention and deployment"
+    - **Profile / function:** Restrict hazardous duties while evaluating a new vascular event; document residual vision, strength, language, cognition, recurrence risk and bleeding risk.
+    - **Retention / MEB–MAR2:** DoDI V2 **5.26.b** and Army **3-31f** guide cerebrovascular retention assessment. Workup for a clotting disorder alone does not establish a permanent disability. Use the [retention framework](../military/deployability.md); permanent P3/4 does not by itself select DES versus MAR2.
+    - **Deployment / medications:** Therapeutic anticoagulation is a major CENTCOM exclusion; nonaspirin antiplatelets create a separate waiver issue. Do not stop indicated treatment to make a member deployable. See [the disease AND drug screen](../military/deployment-medications.md) for the current CENTCOM rules and waiver packet.
+    - **Special duty:** flight, diving and other special assignments have separate standards and waiver authorities; a general duty profile does not clear them.
+    - **LOD / EPTS:** document onset, duty status, exposures and aggravation objectively. The designated authority determines LOD/EPTS; neither in-service diagnosis nor a genetic finding settles it automatically.
 
 ---
 
@@ -132,8 +135,7 @@ cognitive assessment, and a clear note in the chart that **anticoagulation is hi
 
 - **CAA is the top cause of lobar ICH in the elderly** — recognize the phenotypes (lobar bleed,
   amyloid spells, lobar microbleeds, cortical superficial siderosis).
-- **Boston criteria v2.0 (2022)** added **cSS and non-hemorrhagic markers** (diagnose without a
-  hemorrhage) — but it's **insensitive for cognitive (non-ICH) presentations (~55%).** **Edinburgh CT
+- **Boston criteria v2.0 (2022)** added **cSS and non-hemorrhagic markers** (diagnose without symptomatic macrohemorrhage; MRI hemorrhagic markers remain required) — but it's **insensitive for cognitive (non-ICH) presentations (~55%).** **Edinburgh CT
   criteria** help when there's no MRI and now carry **prognostic** weight.
 - **Anticoagulation is high-risk, not absolutely banned — stratify.** Microbleeds-only AF may take a
   **DOAC** (COCROACH); prior ICH / disseminated cSS → **LAAO** or antiplatelet. **Warfarin is out** in
@@ -165,15 +167,8 @@ Boston criteria v2.0 (Charidimou et al., Lancet Neurol 2022); CAA imaging review
 4. **Thrombolysis / CAA-ri / ARIA:** Marzoughi S, et al. *CAA markers & thrombolysis (AcT)* (Stroke
    2026); Regenhardt RW, et al. *Immunosuppression in CAA-ri* (JAMA Neurol 2020); anti-amyloid mAb
    ARIA data (lecanemab/donanemab; APOE ε4-homozygote risk, EMA exclusion).
-5. **TRICARE / DoD:** antihypertensives generic-formulary. Retention: **DoDI 6130.03 Vol 2 para
-   5.26.b(1)/5.26.c**, Army **AR 40-501 3-31f/k.**
+- [Official TRICARE sources, retrieved forms and access limits](../military/tricare.md).
 
-*Verified July 2026: CAA phenotypes, **Boston criteria v2.0** (with its ~55% non-ICH sensitivity gap),
-Edinburgh CT criteria (diagnostic + prognostic), the **risk-stratified** antithrombotic approach (2026
-NEJM review — DOAC reasonable for microbleeds-only AF per COCROACH; LAAO/antiplatelet for
-disseminated-cSS/multiple-ICH; RESTART supports antiplatelet resumption; warfarin avoided; resume ~7–8
-wk), cSS as the dominant re-bleed/thrombolysis danger marker (AcT), recurrence stratification (~7.4%/y
-high-risk vs ~6%/5 y microbleeds-only), CAA-ri immunosuppression (IV methylprednisolone → prednisone
-taper), and ARIA thresholds reflect current literature. **The specific effect sizes/rates were supplied
-by expert review with citations — confirm before quoting. Retention framing per DoDI 6130.03 Vol 2 para
-5.26.b(1)/5.26.c (Army AR 40-501 3-31f/k) — verify before counseling.**
+- [PRESTIGE-AF (2025)](https://pubmed.ncbi.nlm.nih.gov/40023176/).
+
+*Evidence/policy audit: 21 November 2026. Material changes were checked against the linked primary sources; this is an AI-assisted review, not certification of every dose or claim. [Review scope and source limits](../evidence-review.md).*

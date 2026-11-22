@@ -90,7 +90,7 @@ does not need routine imaging. There is no blood or imaging test that "rules in"
 
     - **Migraine-like PTH** → the [migraine acute + preventive ladders](migraine.md):
         - **Acute:** stratified — NSAID → **triptan**, or a **gepant/lasmiditan** where triptans are
-          unsuitable. **Cap acute days; prefer a gepant** (no MOH) given the high overuse risk here —
+          unsuitable. **Track acute-treatment days; a gepant may reduce MOH concern** (observe its label’s exposure limits) given the high overuse risk here —
           *but note the gepant preference is extrapolated from migraine; there are **no PTH-specific
           gepant efficacy data**.*
         - **Only positive acute-PTH RCT:** **metoclopramide 10 mg + diphenhydramine 25 mg IV** beat
@@ -108,8 +108,7 @@ does not need routine imaging. There is no blood or imaging test that "rules in"
         compound the TBI patient's existing cognitive complaints** (Lancet Neurology algorithm; not
         among the 2025 AAPM&R named options). **Prefer amitriptyline, venlafaxine, candesartan, or
         propranolol.**
-        **Prazosin** is a useful military-population option — emerging PTH evidence with minimal side
-        effects and a **dual benefit for comorbid PTSD nightmares** (generic/formulary).
+        **Prazosin** is a useful military-population option — emerging PTH evidence; monitor orthostatic hypotension and first-dose syncope and a **dual benefit for comorbid PTSD nightmares** (generic/formulary).
 
 !!! orderset "Prescribe sub-threshold aerobic exercise — the best non-drug evidence in concussion/PTH"
     Exercise is a **specific therapy**, not generic advice — start it **early, even while symptomatic.**
@@ -150,9 +149,10 @@ does not need routine imaging. There is no blood or imaging test that "rules in"
     - **CGRP therapies** — worth trying, but note the PTH-specific signal: the **fremanezumab (ligand)**
       phase-2 RCT was **negative** (a *non-significant* reduction in moderate-to-severe headache days),
       while **erenumab (receptor)** showed an **open-label** benefit — so if you use a CGRP for PTH,
-      the **receptor**-targeting agents (erenumab, or an oral gepant) are the more rational bet
-      (low-certainty).
-    - **OnabotulinumtoxinA — the only treatment with a *positive PTH-specific RCT*.** In military
+      neither this negative RCT nor a separate uncontrolled erenumab series establishes
+      receptor-over-ligand superiority. Choose an individualized specialist trial; document the
+      off-label indication and the limited PTH-specific evidence.
+    - **Botulinum toxin type A — a small positive PTH-specific randomized trial in veterans.** In military
       veterans (Zirovich 2021 crossover), headaches/week **fell ~43% vs *worsened* ~35% on placebo**
       (p<0.001), with less pain severity. Combined with the preclinical "early dosing prevents
       chronification" signal, **consider it earlier — don't wait for a strict chronic-migraine
@@ -165,7 +165,8 @@ does not need routine imaging. There is no blood or imaging test that "rules in"
 
 !!! orderset "Acute refractory PTH flare (migraine phenotype)"
     Use the [status migrainosus ER protocol](migraine.md#order-set-status-migrainosus-er)
-    (dopamine antagonist + NSAID + nerve block; magnesium; **dexamethasone** before discharge).
+    (choose a supported option, reassess, and add treatment as indicated; avoid automatic
+    dopamine-antagonist stacking or universal steroid dosing).
     **No opioids or butalbital.** **Ensure a structural cause has been excluded first** — a
     post-traumatic patient with a *new* or escalating headache gets imaged, not just medicated.
 
@@ -173,15 +174,10 @@ does not need routine imaging. There is no blood or imaging test that "rules in"
     - **Opioids and butalbital** — ineffective and drive MOH and dependence.
     - **Prolonged strict rest** — brief relative rest, then a **graded return to activity**.
 
-!!! tip "TRICARE — PTH prescribing"
-    Prescribe by phenotype: **amitriptyline, nortriptyline, venlafaxine, candesartan, propranolol,
-    and prazosin** are all **generic/formulary, no PA** — the TCAs are an efficient first pick
-    (headache + sleep + mood), and prazosin is a two-for-one with PTSD nightmares. **Topiramate is
-    formulary but cognitively costly in TBI** — not first-line here. For a CGRP, **galcanezumab
-    (Emgality) is the preferred, no-PA** option — but the PTH evidence favors **receptor**-targeting
-    agents, and **erenumab (Aimovig) / atogepant (Qulipta)** are **PA-gated + neurologist**.
-    **OnabotulinumtoxinA** needs the chronic-migraine phenotype for on-label coverage. Nerve blocks,
-    manual/vestibular PT, and **headache-specific CBT** go through normal specialty/rehab referral.
+!!! tip "TRICARE — verified rules and the current form"
+    For migraine, **Emgality 120 mg** had no PA displayed in the live lookup; the **100 mg episodic-cluster formulation requires PA**. Ubrelvy/Qulipta have PA or claims-history rules; Nurtec is nonformulary with separate PA/MN requirements; Zavzpret is nonformulary with PA. See the **retrieved forms and exact failure/renewal criteria** below. A PTH/NDPH phenotype does not automatically establish covered Botox treatment.
+
+    [Current PA/MN details, benefit routing and packet](../military/tricare.md) · [Live Formulary Search](https://www.express-scripts.com/frontend/open-enrollment/tricare/fst). Check the exact product, beneficiary and venue on the prescribing date.
 
 ## Disposition
 
@@ -200,38 +196,12 @@ cases.
     - **Blood biomarkers (GFAP, total tau) are NOT ready for routine clinical use** — don't adopt
       prematurely.
 
-!!! military "Military medicine — post-traumatic headache / concussion (mTBI)"
-    *Standards below are quoted from **DoDI 6130.03 Vol 1/Vol 2**, **AR 40-501**, the **VA/DoD mTBI
-    CPG**, and **DoDI 6490.11**; the DES process is governed by **DoDI 1332.18 / DoDM 1332.18**.
-    mTBI is protocolized in DoD — follow the mandated pathway, not just this page.*
-
-    - **Event-driven protocol:** after a potentially concussive event (blast, vehicle, fall,
-      blunt), DoD policy mandates evaluation and a mandatory recovery period — **screen with
-      MACE2** and manage per the deployed-concussion protocol before return to duty.
-    - **Deployability:** acute concussion is temporarily non-deployable pending clearance;
-      **persistent PTH** with cognitive, sleep, or mood comorbidity can be deployment-limiting.
-      Multiple concussions raise the stakes for return-to-duty decisions.
-    - **Return to activity:** use the **Progressive Return to Activity** stages; symptom
-      recurrence means step back a stage.
-    - **Profile (DA Form 3349):** temporary profile during recovery; permanent profile for
-      persistent, functionally limiting PTH/post-concussive syndrome.
-    - **EPTS / LOD:** combat/duty-incurred TBI is typically **in the line of duty** — document
-      the event, mechanism, and timeline carefully; it drives both LOD and VA rating.
-    - **Retention — DoD & Army:** the joint standard (**DoDI 6130.03 Vol 2, para 5.26.h**) places
-      **TBI with persistent sequelae** — including **severe headaches**, sensory/cognitive/motor
-      impairment, or seizures — below retention standards. For the Army, a migraine-phenotype PTH
-      incapacitating ≥3 days/month falls under **AR 40-501 para 3-31g**, and residual **persistent
-      severe headaches** under **para 3-31k** → **referral to the DES** (MEB/PEB). Document objective
-      frequency, failed trials, neuropsych findings, and duty impact.
-    - **Accession — DoDI 6130.03 Vol 1, para 6.26:** for *applicants*, **persistent post-concussive
-      symptoms interfering with normal activities or lasting > 1 month** (headache, dizziness,
-      cognitive/memory problems), a history of head trauma with persistent focal deficit, or **≥3
-      mild brain injuries**, are **disqualifying for entry**.
-    - **Aeromedical / special duty (AR 40-501 ch. 4, table 4-2):** head-injury standards are graded
-      by **how long the headache/post-traumatic syndrome persists** — e.g., **PTH resolving within
-      ~14 days** causes a temporary aviation suspension (≈1–3 months by class), while **post-
-      traumatic syndrome persisting beyond ~6 weeks** causes **permanent disqualification / 2-year
-      termination of aviation service**. Confirm the exact tier in table 4-2 for the class involved.
+!!! military "Military medicine — duty, retention and deployment"
+    - **Profile / function:** Record incapacitating headache days, abortive success, preventive trials and drug effects. Grounding or hazardous-duty restrictions depend on attacks and treatment effects.
+    - **Retention / MEB–MAR2:** Headache: DoDI V2 **5.26.g** and Army **3-31g**; trigeminal neuralgia and other diagnoses need their applicable standard, rather than automatically borrowing the migraine threshold. Use the [retention framework](../military/deployability.md); permanent P3/4 does not by itself select DES versus MAR2.
+    - **Deployment / medications:** CENTCOM disruptive migraine may require waiver; injectable CGRP therapy/Botox is separately relevant. Valproate, carbamazepine and lamotrigine are named medication exceptions even when used for pain/headache. See [the disease AND drug screen](../military/deployment-medications.md) for the current CENTCOM rules and waiver packet.
+    - **Special duty:** flight, diving and other special assignments have separate standards and waiver authorities; a general duty profile does not clear them.
+    - **LOD / EPTS:** document onset, duty status, exposures and aggravation objectively. The designated authority determines LOD/EPTS; neither in-service diagnosis nor a genetic finding settles it automatically.
 
 ---
 
@@ -258,13 +228,13 @@ cases.
 - **The first formal PTH treatment guidance arrived (2025 AAPM&R Action Collaborative):** lifestyle
   first, **preventive at ≥10 headache days/month or disabling**, named options **amitriptyline,
   venlafaxine, candesartan, and CGRP inhibitors**, and **manual therapy for cervicogenic** PTH.
-- **OnabotulinumtoxinA is the only positive PTH-specific RCT** (Zirovich 2021, veterans: ~43% fewer
+- **A small botulinum-toxin-A trial was positive in PTH** (Zirovich 2021, veterans: ~43% fewer
   headaches vs worsening on placebo) — consider it earlier than "chronic-migraine only."
 - **Headache-specific CBT is the strongest non-drug evidence** (McGeary 2022: HIT-6 −3.4 + PTSD
   benefit in veterans) — and **treating PTSD alone did not fix the headache.**
 - **Avoid opioids/butalbital**, and **avoid topiramate/valproate first-line** (cognitive cost in TBI).
 - **CGRP evidence is mechanism-relevant:** **fremanezumab (ligand)** phase-2 negative vs **erenumab
-  (receptor)** open-label positive — prefer receptor-targeting agents if using a CGRP.
+  (receptor)** open-label positive — the designs do not establish receptor-targeting superiority.
 - **The evidence base is still thin** — a 2026 systematic review found only 2 low-bias RCTs (1
   PTH-specific); nearly all treatment is extrapolated.
 
@@ -295,30 +265,14 @@ review); **Saleh 2026** systematic review.
    et al. *Factors associated with persisting symptoms after concussion* (JAMA Netw Open 2025);
    Saleh S, et al. *Pharmacological treatments for post-TBI headache — systematic review*
    (Cephalalgia 2026).
-9. **Concussion / exercise / neuromodulation:** Leddy JJ. [*Sport-Related Concussion.* NEJM. 2025](https://www.nejm.org/doi/full/10.1056/NEJMra2400691)
+9. **Concussion / exercise / neuromodulation:** Leddy JJ. [*Sport-Related Concussion.* NEJM. 2025](https://www.nejm.org/doi/full/10.1056/NEJMcp2400691)
    (aerobic-exercise Rx, cervical/vestibular PT, SCOAT6, biomarkers); Leddy JJ, et al. *Early
    subthreshold aerobic exercise RCT* (JAMA Pediatr 2019); File C, et al. *Nerve blocks for refractory
    PTH* (Pain Physician 2025); Stilling J, et al. *rTMS for persistent PTH — pilot RCT* (J Neurotrauma
    2020); Minen MT, et al. *PTH treatment review* (Curr Pain Headache Rep 2024 — metoclopramide+
    diphenhydramine; fremanezumab result).
-10. **TRICARE / DoD Uniform Formulary:** phenotype-directed oral preventives (amitriptyline,
-   nortriptyline, venlafaxine, candesartan, propranolol, prazosin) generic/formulary; galcanezumab
-   (Emgality) preferred/no-PA; erenumab/atogepant + onabotulinumtoxinA PA + neurologist. *Verify at
-   the TRICARE Formulary Search.*
+- [Official TRICARE sources, retrieved forms and access limits](../military/tricare.md).
 
-*Verified July 2026: DoDI 6490.11 (mandates MACE screening across the Services), MACE2, the 2021
-VA/DoD mTBI CPG, and the 6-stage Progressive Return to Activity framework are current and correctly
-characterized. PTH treatment is still largely extrapolated (no robust PTH-specific approved drug — a
-2026 systematic review found only 2 low-bias RCTs). The newer emphases — the **2025 AAPM&R** treatment
-synthesis (prophylaxis ≥10 d/mo; amitriptyline/venlafaxine/candesartan/CGRP; manual therapy for
-cervicogenic; topiramate/valproate cognitive caution), **onabotulinumtoxinA as the only positive
-PTH-specific RCT** (Zirovich 2021), **headache-specific CBT** (McGeary 2022, > PTSD-only therapy),
-**risk factors for persistence** (TRACK-TBI/McIntosh), early-treatment/chronification prevention,
-**prazosin**, **prescribed subthreshold aerobic exercise** (2025 NEJM/Leddy — strongest non-drug
-evidence), **quantified nerve-block efficacy** (File 2025), **metoclopramide+diphenhydramine as the
-only positive acute-PTH RCT**, the **no-PTH-specific-gepant-data** caveat, and **rTMS** (VA/DoD
-suggests against) — were supplied by expert review with citations; confirm the specific figures
-before relying on them. CGRP mechanism note (fremanezumab-ligand negative vs
-erenumab-receptor open-label) stands. Retention/accession standards are quoted from DoDI 6130.03 Vol 2
-(5.26.h) / Vol 1 (6.26) and AR 40-501 (3-31g/k); the graded aviation head-injury standards are AR
-40-501 ch. 4, table 4-2 — confirm the exact table-4-2 tier at sign-off.*
+- [TBICoE headache following concussion clinical recommendation (March 2024)](https://health.mil/Headache-mTBI-CR).
+
+*Evidence/policy audit: 21 November 2026. Material changes were checked against the linked primary sources; this is an AI-assisted review, not certification of every dose or claim. [Review scope and source limits](../evidence-review.md).*

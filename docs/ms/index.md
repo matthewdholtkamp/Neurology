@@ -43,8 +43,10 @@ it is a named referral condition under AR 40-501 3-31e.
     associated with severe NMOSD attacks. Starting an MS DMT in an unrecognized NMOSD patient can
     precipitate blindness or a devastating myelitis.
 
-    **Send cell-based assay serum AQP4-IgG and MOG-IgG in every case of optic neuritis, myelitis,
-    or an atypical demyelinating presentation — before the first DMT dose.** Cell-based assay,
+    **Send serum cell-based AQP4-IgG/MOG-IgG when the syndrome raises concern for NMOSD or MOGAD**,
+    particularly severe/bilateral optic neuritis, LETM/conus disease, ADEM, or atypical brainstem/
+    cortical presentations. Broad low-pretest-probability screening can generate misleading
+    low-positive MOG results; interpret through the published criteria before choosing a DMT. Cell-based assay,
     not ELISA. Draw **before** or well after steroids/PLEX where possible, since treatment lowers
     titers and produces false negatives.
 
@@ -52,10 +54,13 @@ it is a named referral condition under AR 40-501 3-31e.
 
 1. **Confirm it is a true demyelinating attack** — objective, CNS-localizing, >24 h, no fever/infection.
 2. **MRI brain and full spine with and without gadolinium**, using an MS protocol.
-3. **Send AQP4-IgG and MOG-IgG** (cell-based) — always, before treatment decisions.
+3. **Test for AQP4-IgG/MOG-IgG when the clinical/MRI phenotype warrants it**; use serum
+   cell-based assays and interpret low positives cautiously. Do not delay urgent attack treatment.
 4. **LP** for oligoclonal bands and kappa free light chain index when the diagnosis isn't already
    secure, and always when the presentation is atypical.
-5. **Apply the 2024 McDonald criteria** — dissemination in space and in time.
+5. **Apply the full 2024 McDonald decision framework with an MS specialist.** DIT is not
+   required in every qualifying pathway; the simplified lists below are an orientation, not the
+   complete diagnostic matrix.
 6. **Treat the relapse** if disabling (steroids → PLEX for refractory).
 7. **Start a DMT** — early, and in most cases high-efficacy.
 8. **Address symptoms and the military disposition** — profile, and a DES referral under 3-31e.
@@ -169,7 +174,9 @@ same as "well controlled," and why the field is chasing agents that touch smould
     - **IVIG 0.4 g/kg/day × 5 days** (total 2 g/kg).
     - Evidence in acute MS relapse is **weaker than for PLEX** — treat it as the fallback, not the
       equal. It is a reasonable choice when vascular access, haemodynamic instability, or
-      availability rules out exchange, and it is the preferred option in pregnancy.
+      availability rules out exchange, but is **not automatically preferred in pregnancy**. A disabling attack during pregnancy
+      needs individualized neurology/obstetric planning; PLEX remains an option for severe
+      steroid-refractory disease.
 
 !!! warning "Do not"
     - Do **not** give steroids for a pseudo-relapse.
@@ -189,10 +196,7 @@ recognition that damage accrued early is not recoverable.
 !!! note "The evidence status, stated honestly"
     The two randomised trials built to settle this — **DELIVER-MS** (36-month brain volume loss)
     and **TREAT-MS** (sustained EDSS-plus worsening) — are the definitive tests, and their
-    **primary results were not yet published as of July 2026.** DELIVER-MS has completed
-    enrolment (816 participants) and published its treatment-decision data in June 2026, so the
-    primary analysis is imminent — notably, **67% of the observational cohort chose early
-    high-efficacy treatment**, which tells you where practice already sits.
+    **outcome results are not posted in the trial registries as of 22 November 2026.** DELIVER-MS’s registry estimates primary completion in **July 2027**; TREAT-MS records primary completion in **July 2026**. Completion dates are not outcome results. DELIVER-MS’s June 2026 treatment-decision report describes choices, not proof that one strategy improves disability. [DELIVER-MS registry](https://clinicaltrials.gov/study/NCT03535298) · [TREAT-MS registry](https://clinicaltrials.gov/study/NCT03500328).
 
     Meanwhile the position has firmed. The July 2026 *NEJM* review by **Hauser** states that
     long-term prospective trials and real-world experience indicate the most effective control of
@@ -208,18 +212,18 @@ recognition that damage accrued early is not recoverable.
     - **Ocrelizumab (Ocrevus)** — 300 mg IV × 2 doses two weeks apart, then **600 mg IV every 6
       months.** Also the **only agent approved for PPMS** (ORATORIO).
         - **Ocrevus Zunovo** is **ocrelizumab coformulated with hyaluronidase**
-          (ocrelizumab/hyaluronidase-zhzo) for **subcutaneous** injection, approved for the **same
-          adult indications** as IV. OCARINA II showed comparable pharmacokinetics and efficacy.
+          (ocrelizumab/hyaluronidase-ocsq): **920 mg/23,000 units in 23 mL SC over about 10 minutes every 6 months**, administered by a healthcare professional with label-directed premedication and observation. Approved for the **same adult indications** as IV. **Do not substitute the IV dose or route.** OCARINA II showed comparable pharmacokinetics and efficacy. [Current label](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=b216af61-99d0-42a3-afc2-b5bf86df1ec0).
         - **Paediatric approval, 8 May 2026** — for **relapsing–remitting MS specifically**, ages
           **≥10 years and ≥25 kg (55 lb)**. Note this is **narrower than the adult label**, which
           covers *relapsing forms* including CIS and active SPMS. Based on **OPERETTA II** vs
           fingolimod (non-inferior ARR; 48% fewer new/enlarging T2 and 87% fewer enhancing lesions).
-    - **Ofatumumab (Kesimpta)** — **20 mg subcutaneous monthly**, self-administered at home. The
+    - **Ofatumumab (Kesimpta)** — **20 mg SC at weeks 0, 1, and 2; then 20 mg monthly
+      starting at week 4**, self-administered after instruction. The
       logistically simplest high-efficacy option and often the right answer for a mobile population.
-    - **Ublituximab (Briumvi)** — IV, 1-hour infusions after the first. **Five-year ULTIMATE I/II
+    - **Ublituximab (Briumvi)** — **150 mg IV initially, 450 mg two weeks later, then 450 mg 24 weeks after the FIRST infusion and every 24 weeks thereafter**. The first infusion takes about 4 hours; later infusions about 1 hour. Use label-directed premedication and monitoring. [FDA label](https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/761238s026lbl.pdf). **Five-year ULTIMATE I/II
       open-label extension data** (*JAMA Neurology*, February 2026) confirm sustained low
       annualised relapse rate and a favourable long-term safety profile.
-    - **Rituximab** — off-label, but **no longer merely "widely used."** **OVERLORD-MS**
+    - **Rituximab** — **off label**. The OVERLORD-MS protocol used **1,000 mg IV initially, then 500 mg IV every 6 months** with infusion precautions. Other neurology regimens differ; use a documented MS protocol and the [shared safety order set](../immunotherapy-order-sets.md). [Trial protocol](https://www.nejm.org/doi/suppl/10.1056/NEJMoa2600993/suppl_file/nejmoa2600993_protocol.pdf). **No longer merely "widely used."** **OVERLORD-MS**
       (*NEJM*, July 2026) is the first head-to-head randomised trial: in 216 newly diagnosed
       relapsing patients across 12 Norwegian and Swedish centres, **rituximab was non-inferior to
       ocrelizumab** for freedom from new or enlarging T2 lesions between months 6 and 24
@@ -246,9 +250,8 @@ recognition that damage accrued early is not recoverable.
     - **Natalizumab (Tysabri)** — 300 mg IV every 4 weeks. Highly effective, but **PML risk** —
       stratify with **JCV antibody index**. High index plus prior immunosuppression plus long
       duration is the danger zone. A **biosimilar (Tyruko)** is available.
-    - **Alemtuzumab (Lemtrada)** — induction; durable but carries **secondary autoimmunity**
-      (thyroid, ITP, anti-GBM) requiring **monthly monitoring for 4 years** after the last course.
-    - **Cladribine (Mavenclad)** — oral short-course induction over two years.
+    - **Alemtuzumab (Lemtrada)** — **12 mg/day IV for 5 consecutive days, then 12 mg/day for 3 days 12 months later**. Specialist/REMS treatment; the label generally reserves it for inadequate response to at least two MS drugs. Give label-directed steroid premedication and herpes prophylaxis. Secondary autoimmunity (thyroid, ITP, anti-GBM) requires **monthly CBC/creatinine/urinalysis and thyroid tests every 3 months until 48 months after the last infusion**. [Prescribing information](https://products.sanofi.us/lemtrada/lemtrada.html).
+    - **Cladribine (Mavenclad)** — **3.5 mg/kg PO cumulative over two yearly courses (1.75 mg/kg per year)**, each split into two cycles. Prescribe from the **weight-based cycle table**, not a flat daily dose. Screen for pregnancy, malignancy, infection and lymphopenia; complete the label’s pretreatment and monitoring requirements. Generally used after inadequate response/intolerance to an alternative MS drug; not recommended for CIS. [Current label](https://www.emdserono.com/us-en/pi/mavenclad-pi.pdf).
     - **Autologous haematopoietic stem cell transplantation (aHSCT)** — **off-label**, but it
       appears to provide **durable long-term benefit in relapsing MS**, and in selected patients
       with aggressive, highly active disease failing conventional therapy it is a legitimate
@@ -273,7 +276,10 @@ recognition that damage accrued early is not recoverable.
     - **Interferon-beta** (Avonex, Rebif, Plegridy, Betaseron) — flu-like reactions, LFTs.
       **Best pregnancy safety record** of the DMTs.
     - **Glatiramer acetate** (Copaxone, Glatopa; a further generic approved January 2026) — injection
-      site reactions, rare post-injection systemic reaction. Also pregnancy-friendly.
+      site reactions and immediate post-injection reactions. **FDA boxed warning: serious/fatal
+      anaphylaxis can occur with the first dose or after years of treatment**. Symptoms may overlap
+      a post-injection reaction; persistent/worsening breathing, throat, circulatory, or multisystem
+      symptoms require emergency treatment. Discuss pregnancy use individually.
     - **Teriflunomide** — **teratogenic**, long half-life, requires **cholestyramine accelerated
       elimination**. Avoid in anyone who may become pregnant.
     - **Fumarates** — all three deliver the same active metabolite, **monomethyl fumarate**, and
@@ -314,7 +320,7 @@ recognition that damage accrued early is not recoverable.
           teriflunomide, with ARR reductions of **51.1%** and **58.5%** (n≈1,497 combined, 96
           weeks), plus reduced risk of disability worsening (26% and 20%). Presented AAN, 2026.
           Liver enzyme elevations >3× ULN were comparable to teriflunomide.
-        - **Not yet FDA-approved** — filings were to be submitted together with FENtrepid.
+        - **Not FDA-approved as of this audit.** Roche announced **FDA acceptance for priority review on 30 September 2026** for relapsing MS and PPMS. [Sponsor regulatory announcement](https://www.roche.com/media/releases/med-cor-2026-09-30).
           If approved it would be the **first high-efficacy oral** covering both relapsing MS
           and PPMS.
     - **Tolebrutinib** — brain-penetrant but **relatively non-selective**, and its programme is
@@ -332,16 +338,13 @@ recognition that damage accrued early is not recoverable.
           disability progression); MRI measures improved only. **Sanofi will not pursue PPMS
           registration.**
         - **Regulatory:** **FDA Complete Response Letter, December 2025** — **not approved in the
-          US.** EMA granted conditional marketing authorisation, and the UAE approved it for
+          US.** EU **Cenrifki** marketing authorisation was issued **19 June 2026** for adults with SPMS
+          without relapses in the preceding two years, and the UAE approved it for
           non-relapsing SPMS in August 2025. Given the GEMINI and PERSEUS results, treat near-term
           US approval as genuinely uncertain rather than imminent.
     - **Remibrutinib** — in phase 3 (**REMODEL-1** and **REMODEL-2**); no primary results yet.
 
-    **The honest bottom line for non-active progressive MS:** outside ocrelizumab in PPMS and
-    siponimod in active SPMS, **there is still no DMT that clearly helps**, and fenebrutinib —
-    though the most promising candidate the field has had — is not yet approved. Say this plainly
-    rather than implying a treatment exists. **Rehabilitation, exercise, symptom management, and
-    vascular risk control** remain the interventions that change these patients' lives.
+    **Progressive MS needs phenotype- and jurisdiction-specific counseling.** Ocrelizumab is FDA-approved for PPMS and siponimod for active SPMS. Fenebrutinib remains under FDA review. Tolebrutinib has positive HERCULES evidence and EU authorization for SPMS without recent relapses, while the US application received a CRL. Do not translate lack of a US approval into lack of any treatment evidence. Rehabilitation, exercise, symptom management and vascular-risk care remain essential. [EMA Cenrifki indication](https://www.ema.europa.eu/en/medicines/human/EPAR/cenrifki).
 
 ### Choosing — the practical decision table
 
@@ -362,28 +365,18 @@ recognition that damage accrued early is not recoverable.
     **Screen:** CBC with differential, CMP, **hepatitis B (HBsAg + anti-HBc)**, hepatitis C, HIV,
     **TB (quantiferon)**, **VZV IgG**, and pregnancy test. **Vaccinate before starting** — live
     vaccines are contraindicated once immunosuppressed, and **anti-CD20 blunts vaccine response**,
-    so complete the schedule **≥4 weeks before** the first infusion where possible.
+    follow the chosen product’s schedule: for anti-CD20 agents, generally **≥4 weeks for live
+    vaccines and, when possible, ≥2 weeks for non-live vaccines** before initiation. Do not delay
+    urgent disease treatment without a specialist plan.
 
     **Hepatitis B reactivation** with anti-CD20 is a named, preventable catastrophe. Check it every
     time. **Monitor immunoglobulins** on long-term anti-CD20 — hypogammaglobulinaemia accumulates
     over years and drives infection risk.
 
-!!! tip "TRICARE — MS prescribing"
-    MS DMTs are **high-cost specialty drugs and are PA-gated across the board** — expect prior
-    authorisation for essentially every agent, usually with a **neurologist prescriber
-    requirement** and documentation of diagnosis, MRI activity, and prior therapy.
+!!! tip "TRICARE — verified rules and the current form"
+    The October pharmacy list flags **Kesimpta, Mayzent, Zeposia and Mavenclad** for PA. **Vumerity** is PA/nonformulary, and **Gilenya** has a prior-use rule. Confirm current forms and exact brand/generic requirements. Ocrelizumab, ublituximab, rituximab and other clinician-administered treatments need benefit/site-specific authorization. The live pharmacy restriction alone does not establish a medical-benefit criterion.
 
-    - **Infused agents** (ocrelizumab, natalizumab, rituximab, alemtuzumab) are typically handled as
-      a **medical benefit** rather than pharmacy — the authorisation pathway differs and often runs
-      through the MTF or regional contractor rather than Express Scripts.
-    - **Self-injected and oral agents** (ofatumumab, S1P modulators, fumarates, teriflunomide,
-      glatiramer, interferons) run through the **specialty pharmacy** benefit.
-    - **Generics** — glatiramer, dimethyl fumarate, fingolimod, and teriflunomide now have generic
-      entrants, which usually eases the PA burden considerably.
-
-    **Verify every agent at the TRICARE Formulary Search before counseling**, and start the PA early
-    — specialty authorisations are the usual cause of a months-long gap between decision and first
-    dose. For an active-duty patient that gap is disease activity you cannot get back.
+    [Current PA/MN details, benefit routing and packet](../military/tricare.md) · [Live Formulary Search](https://www.express-scripts.com/frontend/open-enrollment/tricare/fst). Check the exact product, beneficiary and venue on the prescribing date.
 
 ---
 
@@ -401,47 +394,18 @@ under-report.
 | **Trigeminal neuralgia** | Common in MS and often bilateral — see [trigeminal neuralgia](../headache/trigeminal-neuralgia.md). Carbamazepine/oxcarbazepine first |
 | **Depression** | Prevalent and under-treated; **suicide risk is elevated in MS.** SSRI/SNRI plus psychotherapy. Screen at every visit |
 | **Cognitive impairment** | Processing speed most affected. Formal neuropsych testing when duty or employment is in question |
-| **Gait / walking speed** | **Dalfampridine 10 mg BID** (extended release) — improves walking in a responder subset. **Contraindicated with seizure history or renal impairment** |
+| **Gait / walking speed** | **Dalfampridine 10 mg BID** (extended release) — improves walking in a responder subset. **Contraindicated with seizure history or CrCl ≤50 mL/min; even CrCl 51–80 requires
+  a careful seizure-risk/benefit assessment. Check renal function before treatment and periodically** |
 | **Heat intolerance (Uhthoff)** | Cooling strategies, activity timing, hydration. **Operationally decisive** — see the military box |
 
 ---
 
-!!! military "Military medicine — multiple sclerosis"
-    *Framework — verify against current **AR 40-501**, **DoDI 6130.03 Vol 2**, **DoDI 1332.18**, and
-    service aeromedical policy before counseling. See the full process on
-    [Profiles, MEB/MAR2 & deployability](../military/deployability.md).*
-
-    - **Retention:** **AR 40-501 para 3-31e** names **"multiple sclerosis, optic neuritis,
-      transverse myelitis, and similar demyelinating disorders"** directly among the causes for
-      referral to the **DES**. The DoD floor is **DoDI 6130.03 Vol 2 para 5.26.f** — "chronic or
-      recurrent demyelinating processes" — which is gated by **5.26.a** (must persist despite
-      appropriate treatment **and** impair duty performance). **Cite both.**
-    - **Referral is expected, and expected early.** Under AR 40-501 3-3d, a profiling provider who
-      identifies a Chapter 3 condition **should initiate a permanent profile at the time of
-      identification**, which is what prompts the DES referral. A confirmed MS diagnosis is not a
-      wait-and-see profile.
-    - **Deployability:** MS is **deployment-limiting** on several independent grounds, and it is
-      worth naming them separately because they persist even in a patient doing well:
-        - **Heat intolerance (Uhthoff's phenomenon)** — a fundamental incompatibility with hot
-          climates, MOPP gear, and sustained exertion. This alone is often decisive.
-        - **Infusion-dependent therapy** — an every-6-month infusion requirement is not supportable
-          in most deployed settings. *Self-injected ofatumumab is the DMT most compatible with
-          field conditions — worth weighing when the patient may remain in service.*
-        - **Monitoring burden** — MRI surveillance, labs, JCV index, immunoglobulins.
-        - **Unpredictable relapse** with visual, motor, or cognitive deficit.
-    - **Profile (DA Form 3349):** temporary during the diagnostic work-up and acute relapse;
-      **permanent** once the diagnosis is established. Write **functional** limits in Section 4 —
-      heat exposure, sustained exertion, load carriage, vision, alertness — not just "MS."
-    - **EPTS / LOD:** MS onset frequently predates diagnosis by years, so **EPTS is genuinely
-      contested** in service members. Document the first attributable symptom carefully, review
-      pre-accession records, and address service aggravation explicitly. This determination has
-      large downstream consequences for the Soldier.
-    - **Aeromedical / special duty:** MS is **disqualifying for flying duty.** Assume permanent
-      suspension and confirm the class-specific standard.
-    - **What carries the board:** relapse dates and objective deficits, MRI lesion burden and new
-      activity over time, EDSS or timed 25-foot walk and 9-hole peg, documented DMT trials, and
-      concrete duty impact. See the [worked example](../military/deployability.md) of profile
-      language that carries versus language that gets bounced.
+!!! military "Military medicine — duty, retention and deployment"
+    - **Profile / function:** Record relapse date, residual disability, visual/motor function, fatigue and heat sensitivity; protect against tasks that amplify those deficits.
+    - **Retention / MEB–MAR2:** DoDI V2 **5.26.f** and Army **3-31e** address demyelinating disease. Apply the specific Army standard; a monophasic syndrome and a chronic relapsing disorder are not interchangeable. Use the [retention framework](../military/deployability.md); permanent P3/4 does not by itself select DES versus MAR2.
+    - **Deployment / medications:** CENTCOM MS requires stability/heat/medication assessment for waiver. SC self-injection still triggers the injectable rule; immunosuppression, infection risk and lab/infusion support require separate review. See [the disease AND drug screen](../military/deployment-medications.md) for the current CENTCOM rules and waiver packet.
+    - **Special duty:** flight, diving and other special assignments have separate standards and waiver authorities; a general duty profile does not clear them.
+    - **LOD / EPTS:** document onset, duty status, exposures and aggravation objectively. The designated authority determines LOD/EPTS; neither in-service diagnosis nor a genetic finding settles it automatically.
 
 ---
 
@@ -555,29 +519,10 @@ counselling conversation yet, but both explain where the next decade of DMTs com
 19. **AR 40-501**, *Standards of Medical Fitness*, 27 June 2019 — para **3-31e**.
     **DoDI 6130.03 Vol 2** — para **5.26.f** (gated by **5.26.a**).
 
-*Verified July 2026: the diagnostic framework is the **2024 revisions of the McDonald criteria**,
-published in Lancet Neurology September 2025 — the optic nerve as a fifth DIS topography, kappa free
-light chain index as an alternative to oligoclonal bands for DIT, central vein sign and paramagnetic
-rim lesions as supportive biomarkers, and the RIS-to-MS pathway are all taken from that publication
-and its ECTRIMS slide deck; published critique of over-diagnosis risk exists and is flagged in the
-text. **Tolebrutinib is NOT FDA-approved** — the FDA issued a Complete Response Letter in December
-2025 after two PDUFA extensions. **Its wider programme is mixed and is now stated in full: HERCULES
-positive (31% risk reduction, HR 0.69 — a hazard-ratio reduction, not a "delay"), but GEMINI 1/2
-failed against teriflunomide and PERSEUS failed in PPMS, with PPMS registration abandoned.**
-**Fenebrutinib** (FENtrepid non-inferior to ocrelizumab in PPMS, HR 0.88; FENhance 1/2 positive vs
-teriflunomide, 51.1% and 58.5% ARR reductions) is **not yet FDA-approved** — these are ACTRIMS/AAN
-2026 conference and sponsor-release data pending full publication. **OVERLORD-MS** (rituximab
-non-inferior to ocrelizumab; more infections) is peer-reviewed, *NEJM* July 2026. Ocrelizumab's
-paediatric approval (8 May 2026) is for **relapsing–remitting MS specifically, ages ≥10 and ≥25 kg**
-— **narrower than the adult "relapsing forms" label** — and the January 2026 generic glatiramer
-approval is current. **DELIVER-MS and TREAT-MS primary results were not published as of July 2026**;
-DELIVER-MS has completed enrolment and published decision-making data, and the early-high-efficacy
-position follows the July 2026 *NEJM* Hauser review while randomised confirmation remains pending.
-**aHSCT, extended-interval anti-CD20 dosing, and CD19-directed/CAR-T strategies are described as
-off-label or investigational** and are labelled as such. Retention standards are quoted from **AR 40-501 3-31e**
-and **DoDI 6130.03 Vol 2 5.26.f/5.26.a**, verified against the source PDFs. **Not independently
-verified:** TRICARE formulary tiers and PA criteria for individual DMTs — these are described
-structurally (specialty/medical benefit split, neurologist requirement) rather than by tier, and
-**must be checked at the TRICARE Formulary Search** before counseling. Relapse dosing follows
-standard practice (methylprednisolone 1 g × 3–5 days; PLEX 5–7 exchanges); symptomatic drug doses
-are conventional and should be titrated to the individual.*
+- [Kesimpta current FDA label (including loading doses)](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6a8a3f53-2062-48ff-9dbe-b939df133ca3).
+
+- [Glatiramer acetate current FDA label and boxed warning](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=028fdf0e-2340-407b-bcd8-5a99accdddbf).
+
+- [Dalfampridine current FDA label](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=354a97e8-35c8-418b-91b2-9e8e066cec65).
+
+*Evidence/policy audit: 21 November 2026. Material changes were checked against the linked primary sources; this is an AI-assisted review, not certification of every dose or claim. [Review scope and source limits](../evidence-review.md).*

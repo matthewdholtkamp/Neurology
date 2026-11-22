@@ -7,10 +7,10 @@ the prerequisites, examination, and apnea test that make the diagnosis, per the 
 AAN/AAP/CNS/SCCM consensus guideline. BD/DNC is a **clinical diagnosis**: permanent coma,
 brainstem areflexia, and apnea despite adequate hypercarbic/acidemic stimulation.
 
-!!! warning "Draft — not yet through the review pipeline"
-    This page has not had its `/page` review (FDA-label diff, OpenEvidence round, safety and
-    military agents). The October 2026 corrections are listed in the Verified footer; treat
-    anything the footer does not name as unconfirmed.
+!!! warning "Use the hospital’s approved adult BD/DNC protocol"
+    The **2023 consensus guideline and its correction** control this summary. Only credentialed,
+    trained clinicians should perform the determination; apply institutional and jurisdictional
+    requirements. This page is an adult reference, not a pediatric protocol.
 
 !!! danger "🚩 Do not start — or do not continue — the evaluation if"
     | Pattern | Why it stops you | Do this instead |
@@ -76,7 +76,8 @@ brainstem areflexia, and apnea despite adequate hypercarbic/acidemic stimulation
     - **Drugs:** exclude intoxication and CNS depressants. Blood alcohol **≤80 mg/dL**;
       **pentobarbital <5 μg/mL or below the lab's detection limit**. If drug levels are
       unavailable, allow **≥5 half-lives** — longer with renal/hepatic dysfunction, obesity,
-      or prior hypothermia.
+      or prior hypothermia. **Suspected overdose can require much longer and toxicology input**;
+      routine half-life calculations alone cannot clear an unknown ingestion.
     - **Blockade:** exclude paralysis with **train-of-four stimulation** or demonstrable
       deep-tendon reflexes.
 
@@ -116,7 +117,9 @@ brainstem areflexia, and apnea despite adequate hypercarbic/acidemic stimulation
     AND **PaCO₂ ≥20 mm Hg above baseline**.
 
     **Chronic hypercarbia:** use the known premorbid PaCO₂ as baseline. If unknown, estimate
-    it — the same endpoints apply relative to the pretest PaCO₂.
+    it to establish an appropriate pretest value. **If chronic CO₂ retention is suspected but
+    the premorbid baseline is unknown, an accepted ancillary test is also required**, even if the
+    apnea-test pH/PaCO₂ endpoints are achieved.
 
     **Abort the test** (reconnect, stabilize, ABG before reconnection if feasible) for:
     - **SBP <100 or MAP <75 mm Hg** despite support,
@@ -163,24 +166,8 @@ component was completed** — the legal time of death is when the determination 
 result to the family and the primary team directly, and notify the organ-procurement
 organization per local protocol.
 
-!!! military "Military medicine — brain death"
-    *BD/DNC is death. The frame below is casualty and benefits, not readiness — verify against
-    current service casualty-affairs and LOD policy before counseling a family.*
-
-    - **Deployability:** not applicable — the service member is deceased. In theater, death
-      determination follows the same clinical standard; coordinate with the chain of command
-      and mortuary affairs.
-    - **Profile (DA Form 3349):** not applicable.
-    - **EPTS / LOD:** a **line-of-duty determination** still matters — it drives survivor
-      benefits (death gratuity, SGLI, VA benefits). Document the mechanism and circumstances
-      of the injury precisely; casualty reporting (DD Form 1300) runs through casualty affairs,
-      not the medical chain.
-    - **Retention (AR 40-501 / DoDI 6130.03):** not applicable.
-    - **MEB / IDES:** not applicable — death ends any disability process. The family's benefits
-      path is casualty affairs + VA, not the DES.
-    - **Aeromedical / special duty:** not applicable. Note for the chart: organ-donor
-      suitability screening and OPO notification are required per hospital policy regardless of
-      duty status.
+!!! military "Military medicine — death by neurologic criteria"
+    Follow the facility’s authorized determination policy, governing law and credentialing requirements; involve the responsible critical care/neurology team. Coordinate casualty reporting, family support, organ-donation referral and documentation through established channels. **Retention and deployment decisions are not the purpose of a brain-death determination.**
 
 ---
 
@@ -229,14 +216,6 @@ Neurology Clinical Practice implementation guideline.
    — implementation companion: tables comparing 2023 vs prior guidelines, acceptable vs
    unacceptable ancillary tests.
 
-*Verified October 2026 — **DRAFT, NOT YET REVIEWED** (no `/page` run yet; the only 2026-10-22
-change was the ancillary-test table heading). Every numeric threshold on this page (temperatures, pressures,
-24-hour waits, apnea-test PaCO₂/pH endpoints, abort criteria, drug washout rules, and the
-supplement's laboratory warning ranges) was checked against the 2023 consensus guideline
-(Greer et al., Neurology 2023), its 2024 correction, and the Neurology Clinical Practice
-companion, via both OpenEvidence and clinician ChatGPT research runs on 2026-10-04 plus
-direct source verification. The laboratory ranges are explicitly the supplement's
-**consensus warning thresholds, not validated diagnostic boundaries** — that framing is
-from the guideline itself. Institutional and state-law requirements (number of examiners,
-who may examine, consent/notification rules) vary and were **not** pinned to a single
-source — follow local policy.*
+**Military follow-through:** [retention/profile framework](../military/deployability.md), [disease and medication deployment screen](../military/deployment-medications.md), and [TRICARE access](../military/tricare.md). Apply the diagnosis-specific assessment rather than clearing duty from symptom improvement alone.
+
+*Evidence/policy audit: 21 November 2026. Material changes were checked against the linked primary sources; this is an AI-assisted review, not certification of every dose or claim. [Review scope and source limits](../evidence-review.md).*

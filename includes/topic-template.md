@@ -7,9 +7,9 @@
     • Tiered `!!! orderset` boxes — Step 1 → 2 → 3 — WITH DOSES on every drug.
     • Decision tables (comorbidity → agent, situation → target, etc.).
     • A `!!! tip "TRICARE — ..."` box wherever drugs are prescribed
-      (preferred/no-PA vs PA-gated; neurologist requirements; verify at Formulary Search).
+      (verified product, benefit, indication, PA/MN and source date; use Formulary Search).
     • The standardized `!!! military` box (fixed 5 fields).
-    • A "📚 Discover" evidence brief + linked References + a "*Verified MON YYYY: ...*" footer.
+    • A "📚 Discover" evidence brief + linked References + a "*Evidence/policy audit: DD Month YYYY. ...*" footer.
   Prescriptive > comprehensive: the reader should know EXACTLY what to do at each step.
   See docs/headache/migraine.md as the reference implementation.
 -->
@@ -72,9 +72,8 @@ box if there's a mandatory test set to order.>
     - **<agent/approach>** — <why it's wrong here>.
 
 !!! tip "TRICARE — <topic> prescribing"
-    <Which agents are preferred/formulary/no-PA vs PA-gated (and what the PA requires — step
-    therapy, specialty). Name the go-to. Always add: *verify current status at the TRICARE
-    Formulary Search — DoD P&T revises tiers.*>
+    <Give product-specific coverage details supported by the current form. State which criteria
+    are unavailable and link the TRICARE access guide and live Formulary Search.>
 
 ## Disposition
 
@@ -84,7 +83,7 @@ box if there's a mandatory test set to order.>
     *Framework — verify against current **AR 40-501**, **DoDI 6130.03**, **DoDI 1332.18**, service
     deployment/aeromedical policy (and any relevant JTS CPG) before counseling.*
 
-    - **Deployability:** <impact; meds/monitoring that don't travel downrange>
+    - **Deployability:** <condition and medication effects under the current destination’s policy>
     - **Profile (DA Form 3349):** <temporary vs permanent; functional limits>
     - **EPTS / LOD:** <onset / pre-service considerations>
     - **Retention (AR 40-501 / DoDI 6130.03):** <threshold that triggers review — cite the para>
@@ -108,5 +107,4 @@ box if there's a mandatory test set to order.>
 2. **TRICARE / DoD Uniform Formulary:** <preferred/PA status of the drugs on this page>. *Verify at
    the TRICARE Formulary Search.*
 
-*Verified MON YYYY: <one-paragraph audit trail — which specifics were checked against which current
-source, and explicitly which claims could NOT be pinned and still need confirmation before sign-off.>*
+*Evidence/policy audit: DD Month YYYY. <Describe what was checked, the primary sources, and remaining limitations.>*

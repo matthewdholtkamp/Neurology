@@ -79,8 +79,8 @@ a **corticobasal syndrome** that is sometimes AD pathology. Young onset skews at
 3. **Structural imaging** — MRI to support the pattern and, critically, **to establish the vascular
    and microhaemorrhage baseline** that governs anti-amyloid eligibility.
 4. **Decide whether anti-amyloid therapy is genuinely on the table** — stage, comorbidity,
-   anticoagulation, MRI findings, logistics, and the patient's own values. **If it is not, do not
-   order amyloid biomarkers.**
+   anticoagulation, MRI findings, logistics, and the patient's own values. **Biomarkers can also clarify an uncertain diagnosis when that changes counseling or care;
+   avoid testing that cannot answer a useful clinical question.**
 5. **If it is:** confirm amyloid pathology, **test ApoE ε4 genotype**, baseline MRI, and counsel on
    ARIA before the first dose.
 6. **Start symptomatic therapy** — a cholinesterase inhibitor, adding memantine as disease advances.
@@ -137,13 +137,15 @@ a **corticobasal syndrome** that is sometimes AD pathology. Young onset skews at
 
     **Confirm before anyone commits:**
 
-    - **Amyloid pathology is confirmed** (PET or CSF) — this is a label requirement, not a nicety.
+    - **Amyloid pathology is confirmed** — a label requirement. PET or accepted CSF testing are
+      established pathways; use specialist and payer criteria for any blood-based confirmation.
     - **ApoE ε4 genotype is known.** **Homozygotes — roughly 15% of AD patients — have a
       substantially higher incidence of ARIA**, including symptomatic, serious and severe
       radiographic ARIA. **Test before initiating, and counsel before testing**, including what a
       result means for blood relatives.
-    - **A recent baseline MRI has been reviewed**, and the exclusions are numeric: **more than 4
-      microhaemorrhages, or any single macrohaemorrhage, excludes treatment.** Pre-existing
+    - **A recent baseline MRI has been reviewed**, and the exclusions are numeric: **>4 microhemorrhages or a prior hemorrhage >1 cm were trial exclusions**. These are not
+      blanket FDA-labeled contraindications; apply the specific agent’s specialist appropriate-use
+      criteria, MRI findings (including siderosis/CAA), and coverage policy. Pre-existing
       microhaemorrhage or superficial siderosis raises ARIA risk. This is where
       [cerebral amyloid angiopathy](../stroke/cerebral-amyloid-angiopathy.md) and this page meet;
       read that page's ARIA section before your first patient.
@@ -155,7 +157,7 @@ a **corticobasal syndrome** that is sometimes AD pathology. Young onset skews at
 
 !!! orderset "Lecanemab (Leqembi) — dosing and monitoring"
     - **Intravenous: 10 mg/kg over approximately 1 hour every 2 weeks.**
-    - **Subcutaneous (LEQEMBI IQLIK autoinjector): 500 mg once weekly.**
+    - **Subcutaneous initiation: 500 mg once weekly as TWO 250-mg/1.25-mL LEQEMBI IQLIK autoinjector injections.** The maintenance device is **360 mg/1.8 mL**. [July 2026 FDA label](https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/761375s001lbl.pdf).
     - **After 18 months**, either continue the starting regimen or transition to maintenance:
       **IV 10 mg/kg every 4 weeks**, or **SC 360 mg once weekly.**
     - **MRI schedule: baseline, then after 1, 2, 3 and 6 months of treatment.**
@@ -173,8 +175,8 @@ a **corticobasal syndrome** that is sometimes AD pathology. Young onset skews at
     - **Consider stopping** once amyloid plaques are reduced to minimal levels on amyloid PET —
       a genuinely different treatment philosophy from lecanemab's open-ended maintenance, and worth
       explaining to patients as a potential **finite course.**
-    - **Confirm amyloid pathology before initiating; baseline MRI and serial monitoring as
-      labelled.**
+    - **MRI: recent baseline, then before infusions 2, 3, 4, and 7**, reviewed before treatment;
+      obtain additional MRI for suspected ARIA. Confirm amyloid pathology before starting.
 
 !!! orderset "If ARIA occurs — what to actually do"
     Management is driven by **severity and whether the patient has symptoms.** Radiographic ARIA
@@ -182,10 +184,15 @@ a **corticobasal syndrome** that is sometimes AD pathology. Young onset skews at
 
     | Situation | Action |
     |---|---|
-    | **Asymptomatic, mild** | **Continue treatment** with MRI surveillance |
-    | **Asymptomatic, moderate** | **Suspend**; resume by shared decision after radiographic resolution |
-    | **Symptomatic, mild or moderate** | **Suspend.** Consider **IV methylprednisolone 1 g daily × 3–5 days**, then an oral prednisone taper. **Monthly MRI until resolution.** **Avoid anticoagulants and thrombolytics** |
-    | **Severe, or recurrent ARIA** | **Permanently discontinue.** Corticosteroids; inpatient management |
+    | **Asymptomatic, mild ARIA** | Label permits continued dosing with appropriate surveillance; specialist review |
+    | **Moderate/severe imaging findings or clinically significant symptoms** | **Hold treatment**, urgent specialist assessment; apply the separate agent-specific **ARIA-E and ARIA-H tables** |
+    | **Severe symptoms, seizures, encephalopathy, or major hemorrhage** | **Hospitalize**, neurocritical/stroke consultation, withhold drug; consider high-dose steroids for severe inflammatory ARIA under a specialist protocol |
+    | **Resumption or permanent discontinuation** | Individualized after symptoms and imaging resolve/stabilize; recurrent/severe ARIA or major hemorrhage often favors stopping |
+
+    **Steroids are not routine treatment of every mild symptomatic ARIA.** Product labels differ
+    between edema and hemorrhagic ARIA and allow judgment in selected mild cases. Do not treat this
+    summary as a replacement for those tables. New focal deficits require an emergency stroke/ARIA
+    assessment; thrombolysis can be dangerous when the presentation is ARIA.
 
     - **Recurrence after resumption runs 13.8–25.6%** — factor that into the shared decision rather
       than treating resumption as a return to baseline.
@@ -256,42 +263,19 @@ a **corticobasal syndrome** that is sometimes AD pathology. Young onset skews at
     - **Starting an anti-amyloid antibody without MRI capacity** for the required schedule.
     - **Ordering an amyloid biomarker in a patient you would not treat.**
 
-!!! tip "TRICARE — Alzheimer's prescribing"
-    - **The symptomatic agents are generic and formulary** — donepezil, rivastigmine (oral and
-      patch), galantamine, memantine. Start here; expect no prior authorization.
-    - **Anti-amyloid monoclonals are high-cost specialty biologics** and should be assumed
-      **prior-authorization-gated**. Expect requirements mirroring the label: **confirmed amyloid
-      pathology, MCI or mild dementia stage, ApoE ε4 genotyping, baseline MRI, and a documented
-      monitoring plan.** They are **infused agents and run through the medical benefit**, so the
-      authorization question includes **site of care** as well as the drug.
-    - **The MRI schedule is part of the cost.** Baseline plus scans at 1, 2, 3 and 6 months is
-      four to five studies in the first half-year — build that into the authorization request
-      rather than discovering it at the second scan.
-    - **Brexpiprazole** is a branded specialty agent; expect PA and expect the criteria to require a
-      documented **AD** diagnosis and failed non-pharmacological management.
-    - **Verify current status and criteria at the
-      [TRICARE Formulary Search](https://www.express-scripts.com/frontend/open-enrollment/tricare/fst)
-      before counselling — DoD P&T revises tiers and criteria without notice.**
-      *TRICARE-specific coverage for anti-amyloid therapy and for amyloid PET was not independently
-      verified for this page.*
+!!! tip "TRICARE — verified rules and the current form"
+    Separate diagnostic-service authorization from medication coverage. **Leqembi IQLIK initiation and maintenance products have pharmacy PA flags**; lecanemab IV and donanemab require benefit/site-specific medical review. Nuplazid is PA/nonformulary in the October files. Biomarker eligibility, MRI safety and payer authorization are separate requirements; do not promise anti-amyloid access from FDA approval alone.
+
+    [Current PA/MN details, benefit routing and packet](../military/tricare.md) · [Live Formulary Search](https://www.express-scripts.com/frontend/open-enrollment/tricare/fst). Check the exact product, beneficiary and venue on the prescribing date.
 
 ---
 
-!!! military "Military medicine — Alzheimer's disease"
-    *The section-wide framing — retention under **5.26.d** acting on diagnosis, the profile,
-    EPTS/LOD, the referral sequence and aeromedical — is on the
-    [hub](index.md#military-medicine--cognitive-impairment-and-dementia). Only the deltas are here.*
-
-    - **Population: beneficiaries, not Soldiers.** Active-duty AD is rare and, when it occurs, is
-      **young-onset and often familial** — so genetic counselling is in scope and should precede any
-      testing.
-    - **Army hook is the plain catch-all** — **AR 40-501 3-31k + para 3-1**. No better-named
-      subparagraph exists for AD.
-    - **The anti-amyloid delta is a beneficiary problem, not a fitness one.** Two things an MTF must
-      plan for: the **MRI monitoring burden** at a facility without ready capacity, and the fact
-      that **ARIA-E mimics ischaemic stroke.** If you have beneficiaries on these drugs, your
-      emergency department — and any remote or deployed facility they might present to — needs to
-      know it before the thrombolysis decision.
+!!! military "Military medicine — duty, retention and deployment"
+    - **Profile / function:** Restrict safety-sensitive work while cognition or alertness is impaired; establish collateral and task-based function. Treat reversible causes before labeling a progressive dementia.
+    - **Retention / MEB–MAR2:** DoDI V2 **5.26.d** calls for action on diagnosis of permanent/progressive dementia; a reversible encephalopathy requires its own diagnosis and reassessment. Use Army **3-31k** and the applicable cause-specific standard. Use the [retention framework](../military/deployability.md); permanent P3/4 does not by itself select DES versus MAR2.
+    - **Deployment / medications:** Cognitive impairment may itself prevent deployment. Anti-amyloid injections/infusions require MRI/specialty support and medication review; symptom benefit does not restore operational capacity automatically. See [the disease AND drug screen](../military/deployment-medications.md) for the current CENTCOM rules and waiver packet.
+    - **Special duty:** flight, diving and other special assignments have separate standards and waiver authorities; a general duty profile does not clear them.
+    - **LOD / EPTS:** document onset, duty status, exposures and aggravation objectively. The designated authority determines LOD/EPTS; neither in-service diagnosis nor a genetic finding settles it automatically.
 
 ---
 
@@ -348,20 +332,8 @@ FDA labelling for the cholinesterase inhibitors, memantine and brexpiprazole.
    Boston v2.0 criteria, ARIA thresholds and the pre-treatment screen.
 6. **AR 40-501** para **3-31k**, **3-1**, **3-4**, **4-27**; **DoDI 6130.03 Vol 2** para **5.26.d**.
 
-*Verified August 2026: **all dosing on this page is from current FDA labels** — lecanemab
-(eff. 2026-07-21, **including the LEQEMBI IQLIK autoinjector**), donanemab (eff. 2025-12-30),
-brexpiprazole (eff. 2026-05-06), and the current generic labels for the cholinesterase inhibitors and
-memantine. **The label pull caught something the evidence round had wrong:** OpenEvidence listed
-subcutaneous lecanemab as still investigational; it is **approved and on the label.** Corrections
-applied: the **2024 AA Revised Criteria** replace the NIA-AA framework; **a second FDA-approved agent
-for agitation in AD now exists — dextromethorphan/bupropion (Auvelity, 2026), the first
-non-antipsychotic** — so brexpiprazole is no longer "the" option; **numeric anti-amyloid exclusions**
-(>4 microhaemorrhages, ≥1 macrohaemorrhage); a full **ARIA management protocol**; **effect sizes
-quoted rather than described** (lecanemab CDR-SB −0.45, ~27%, ≈4–5 months' delay; donanemab −0.67 /
-36% in low-medium tau); **ARIA incidence** (12.6% lecanemab, 24.0% donanemab, ~70% asymptomatic); the
-**TRAILBLAZER-ALZ 6 rationale** for donanemab's titration (ARIA-E 24.2% → 15.6%); and **aducanumab's
-November 2024 US withdrawal.***
+- [Lecanemab current full prescribing information](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=9d1ff786-e577-410a-a273-c4d7d0e4e975).
 
-***Not independently verified:** the Auvelity dosing for the agitation indication (**not label-pulled
-— check the label before prescribing**); TRICARE coverage for anti-amyloid therapy and amyloid PET;
-and the military paragraph citations beyond those verified on the [hub](index.md).*
+- [Donanemab current full prescribing information](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=190352d4-ef62-4679-b4fa-e846e2766afa).
+
+*Evidence/policy audit: 21 November 2026. Material changes were checked against the linked primary sources; this is an AI-assisted review, not certification of every dose or claim. [Review scope and source limits](../evidence-review.md).*

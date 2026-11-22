@@ -145,7 +145,7 @@ is so treatable (the "indomethacin test").*
 
 ### Paroxysmal hemicrania · hemicrania continua · SUNCT/SUNA
 
-!!! orderset "Short-lasting/continuous TACs — run the indomethacin trial first"
+!!! orderset "Short-lasting/continuous TACs — match treatment to the syndrome"
     - **Paroxysmal hemicrania & hemicrania continua → indomethacin trial.** Uptitrate
       **25 mg TID → 50 mg TID (up to 75 mg TID / ~225 mg/day)**, each step held a few days, **with GI
       protection (PPI)**. A **complete** response confirms the diagnosis and is the treatment; taper
@@ -168,43 +168,22 @@ is so treatable (the "indomethacin test").*
     - Before discharge: start a **GON block or prednisone bridge** + **verapamil (with baseline ECG)**,
       script **home oxygen**, and arrange **neurology follow-up**.
 
-!!! tip "TRICARE — cluster prescribing"
-    - **Verapamil, prednisone, lithium, topiramate** are **generic/formulary, no PA.**
-    - **Galcanezumab (Emgality)** is the **preferred, no-PA CGRP** on TRICARE and carries the
-      **episodic-cluster** indication — the frictionless CGRP choice here too (dose **300 mg** for
-      cluster).
-    - **Home oxygen** requires a prescription documenting the **cluster diagnosis and flow rate
-      (12–15 L/min, non-rebreather)**; arrange the setup explicitly — coverage/logistics are the
-      usual failure point, not efficacy. *Verify current DME coverage with the regional contractor.*
+!!! tip "TRICARE — verified rules and the current form"
+    **Emgality 100 mg ×3 for episodic cluster requires PA**, distinct from the 120 mg migraine formulation. The retrieved form requires adult episodic cluster, neurologist involvement and failure/intolerance/contraindication to verapamil or topiramate or lithium; initial approval is six months with response-based continuation. Oxygen requires a separate equipment/service pathway.
+
+    [Current PA/MN details, benefit routing and packet](../military/tricare.md) · [Live Formulary Search](https://www.express-scripts.com/frontend/open-enrollment/tricare/fst). Check the exact product, beneficiary and venue on the prescribing date.
 
 ## Disposition
 
 Outpatient. The wins are diagnostic (don't miss an indomethacin-responsive TAC) and logistical
 (get the patient home oxygen and a verapamil-plus-ECG plan started the same day).
 
-!!! military "Military medicine — cluster & TACs"
-    *Standards below are quoted from **DoDI 6130.03 Vol 1/Vol 2** and **AR 40-501 (27 June 2019)**;
-    the DES process is governed by **DoDI 1332.18 / DoDM 1332.18**. Confirm current editions and
-    aeromedical policy.*
-
-    - **Deployability:** an **active cluster bout** is severely disabling and typically
-      deployment-limiting — the regimen (home/therapeutic **oxygen dependence**, **verapamil with
-      serial ECGs**, injectable triptans, refrigerated CGRP) is hard to sustain in theater. Between
-      bouts, many are functional.
-    - **Profile (DA Form 3349):** temporary profile during a bout; permanent profile for **chronic
-      cluster** or refractory TACs with duty impact.
-    - **EPTS / LOD:** document onset and periodicity.
-    - **Retention — DoD & Army:** both the joint standard (**DoDI 6130.03 Vol 2, para 5.26.g**) and
-      **AR 40-501 para 3-31g** explicitly name "migraine, tension, **or cluster** headaches" —
-      **frequent incapacitating attacks** (Army: interfering with duty/social activities ≥3 days/
-      month) require **neurologist referral**, permit up to **6 months** of prophylaxis, and mandate
-      **referral to the DES** (MEB/PEB) if not controlled at 6 months. A cluster bout easily meets
-      the frequency threshold.
-    - **Accession — DoDI 6130.03 Vol 1, para 6.26.g:** a **history of cluster headaches** is
-      **disqualifying for entry**.
-    - **Aeromedical / special duty:** active cluster and its medications (verapamil, triptans,
-      lithium, topiramate) are generally **disqualifying/waiver-dependent**, and a history of
-      chronic/recurrent/incapacitating headache is disqualifying for flying duty (AR 40-501, ch. 4).
+!!! military "Military medicine — duty, retention and deployment"
+    - **Profile / function:** Record incapacitating headache days, abortive success, preventive trials and drug effects. Grounding or hazardous-duty restrictions depend on attacks and treatment effects.
+    - **Retention / MEB–MAR2:** Headache: DoDI V2 **5.26.g** and Army **3-31g**; trigeminal neuralgia and other diagnoses need their applicable standard, rather than automatically borrowing the migraine threshold. Use the [retention framework](../military/deployability.md); permanent P3/4 does not by itself select DES versus MAR2.
+    - **Deployment / medications:** CENTCOM disruptive migraine may require waiver; injectable CGRP therapy/Botox is separately relevant. Valproate, carbamazepine and lamotrigine are named medication exceptions even when used for pain/headache. See [the disease AND drug screen](../military/deployment-medications.md) for the current CENTCOM rules and waiver packet.
+    - **Special duty:** flight, diving and other special assignments have separate standards and waiver authorities; a general duty profile does not clear them.
+    - **LOD / EPTS:** document onset, duty status, exposures and aggravation objectively. The designated authority determines LOD/EPTS; neither in-service diagnosis nor a genetic finding settles it automatically.
 
 ---
 
@@ -249,15 +228,6 @@ crossover trial; indomethacin-alternative and psilocybin cluster series.
 7. **Emerging / adjuncts:** psilocybin pulse-dosing cluster RCT extension and sleep study; ongoing
    phase-2 LSD trials; demand-valve-oxygen crossover trial; indomethacin-alternative reviews
    (melatonin, COX-2 inhibitors, acemetacin, topiramate); SPG-stimulation RCTs (device now unavailable).
-8. **TRICARE / DoD Uniform Formulary:** galcanezumab (Emgality) preferred/no-PA; verapamil,
-   prednisone, lithium, topiramate generic-formulary; home oxygen requires documented diagnosis and
-   flow rate. *Verify current status at the TRICARE Formulary Search.*
+- [Official TRICARE sources, retrieved forms and access limits](../military/tricare.md).
 
-*Verified July 2026: acute oxygen (100%, ≥12 L/min, NNT ≈ 2), sumatriptan 6 mg SC, and nasal
-zolmitriptan are Level A per the AHS 2016 and EAN 2023 cluster guidelines; verapamil ≥240 mg/day
-with ECG monitoring is first-line prevention; galcanezumab is FDA-approved at **300 mg SC monthly for
-episodic cluster only**, and **all CGRP mAbs have failed in chronic-cluster RCTs.** The suicide-risk,
-demand-valve-oxygen, indomethacin-alternative, SPG-unavailability, and psychedelic points were supplied
-by expert review with citations and are characterized as emerging/case-level where noted — confirm the
-specific figures before relying on them. Service-specific aeromedical and TRICARE DME (oxygen)
-specifics warrant confirmation before final sign-off.*
+*Evidence/policy audit: 21 November 2026. Material changes were checked against the linked primary sources; this is an AI-assisted review, not certification of every dose or claim. [Review scope and source limits](../evidence-review.md).*

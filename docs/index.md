@@ -199,7 +199,7 @@ brief** and a standardized **military-medicine layer**.
 
 </div>
 
-Every clinical page also carries its own **Military medicine** box applying that framework to
+Every clinical page carries a **Military medicine** box or links to the relevant shared framework, applying it to
 the condition — deployability, profile, EPTS/LOD, retention standards, and MEB/MAR2 referral.
 
 ## How to use this
@@ -213,13 +213,6 @@ the condition — deployability, profile, EPTS/LOD, retention standards, and MEB
 - **Search** — press `/` anywhere and type a symptom, drug, or trial name.
 
 !!! note "How current is this?"
-    Every page carries a visible **Last reviewed** stamp and a **Verified** footer that states
-    what was checked against source, what is conference or press-release data rather than
-    peer-reviewed, and what still needs confirmation before you act on it. Where a
-    recommendation rests on observational rather than randomized evidence, the page says so.
+    **Site-wide evidence/policy review: 21 November 2026.** All 59 existing Markdown pages were read; material corrections were checked against accessible primary guidelines, FDA labels, trials and official military/TRICARE sources. The site now contains **62 pages**, including **56 clinical pages** and the new shared references.
 
-    **57 pages** across headache, cerebrovascular disease, seizure, traumatic brain injury,
-    demyelinating disease, neuromuscular-junction disorders, movement disorders, motor neuron
-    disease, myopathy, spinal cord, root and peripheral nerve, neuroimmunology therapeutics,
-    dementia, neuroinfections, neurocritical care and military medicine.
-    Pages marked **Draft** at the top have not yet been through the review pipeline.
+    This is an **AI-assisted evidence review**, not clinician certification of every claim. See [review scope and source limits](evidence-review.md), [TRICARE PA/MN requirements](military/tricare.md), and [deployment — disease AND medications](military/deployment-medications.md). Some specialty PA criteria and controlled policy procedures still need current-source confirmation.

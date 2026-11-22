@@ -29,8 +29,9 @@ picking an antiseizure medication (ASM).
 
 !!! orderset "Step 0 — Stabilize (0–5 min)"
     - **ABCs**, O₂, position, suction; **IV access ×2**; **continuous ECG, BP, SpO₂.**
-    - **Point-of-care glucose** — if low, **D50W 50 mL IV + thiamine** (thiamine first/with glucose in
-      the malnourished/alcohol-use patient).
+    - **Point-of-care glucose** — if low, **D50W 50 mL IV** (or local IV dextrose protocol), with prompt
+      glucose recheck. Give thiamine promptly in malnutrition/alcohol-use risk, **but never delay
+      correction of hypoglycemia while waiting for thiamine**.
         - **100 mg IV is prophylaxis.** If Wernicke encephalopathy is *suspected* rather than merely
           being prevented, that dose is inadequate — give the **treatment** regimen instead:
           **thiamine 500 mg IV over 30 min every 8 h**. See
@@ -53,9 +54,9 @@ picking an antiseizure medication (ASM).
 
     - **Levetiracetam 60 mg/kg IV (max 4500 mg)** — fewest interactions/contraindications; a good
       default (esp. cardiac/hepatic disease, pregnancy).
-    - **Fosphenytoin 20 mg PE/kg IV (≤150 mg PE/min)** — **avoid** in hypotension/arrhythmia; watch
+    - **Fosphenytoin 20 mg PE/kg IV (ESETT maximum 1500 mg PE; ≤150 mg PE/min)** — **avoid** in hypotension/arrhythmia; watch
       the BP and QT.
-    - **Valproate 40 mg/kg IV (may add 20 mg/kg)** — **avoid** in hepatic disease and
+    - **Valproate 40 mg/kg IV (ESETT maximum 3000 mg)** — **avoid** in hepatic disease and
       pregnancy/childbearing potential.
     - *(Phenobarbital 15 mg/kg IV if none of the above is available.)*
     - **Broadening landscape:** **IV lacosamide** and **brivaracetam** are increasingly used as
@@ -145,7 +146,7 @@ faint; get an ECG/cardiac workup — cardiac syncope can kill), **psychogenic no
     | Situation | Preferred → alternative |
     |---|---|
     | **Focal (most adults)** | **Lamotrigine** (best tolerated/cost) → **levetiracetam** (when rapid titration needed) or **lacosamide**; oxcarbazepine/carbamazepine |
-    | **Generalized (GTC)** | **Valproate** (most effective) → **lamotrigine** or **levetiracetam** *(valproate off the table in childbearing potential)* |
+    | **Generalized (GTC)** | **Valproate** (most effective) → **lamotrigine** or **levetiracetam** *(avoid valproate when clinically feasible in people who could become pregnant; involve an epilepsy specialist and do not abruptly stop effective therapy during pregnancy)* |
     | **Absence** | Ethosuximide, valproate, lamotrigine |
     | **Myoclonic (e.g., JME)** | **Valproate, levetiracetam** *(avoid carbamazepine/oxcarbazepine/phenytoin — worsen myoclonus/absence)* |
     | **Childbearing potential** | **Lamotrigine or levetiracetam** — **avoid valproate** (neural-tube defects, low IQ) |
@@ -168,12 +169,14 @@ faint; get an ECG/cardiac workup — cardiac syncope can kill), **psychogenic no
       seizure type, localization, or comorbidity (including psychiatric disease or comorbid PNES) —
       plus consider VNS/RNS/DBS and video-EEG.
 
-## Classify it (ILAE 2017)
+## Classify it (ILAE 2025 update)
 
-Three levels: **seizure type** (focal / generalized / unknown onset; **aware vs impaired awareness**;
-motor vs non-motor) → **epilepsy type** (focal / generalized / combined / unknown) → **epilepsy
-syndrome.** Getting the type right drives ASM choice (e.g., don't give a sodium-channel blocker in a
-generalized/myoclonic syndrome).
+Describe **seizure type → epilepsy type → epilepsy syndrome**. The 2025 seizure classification
+uses **focal, generalized, unknown whether focal or generalized, and unclassified**. For focal and
+unknown seizures, document **preserved or impaired consciousness**, assessed through awareness
+(recall) and responsiveness; describe the chronological semiology. Translate older records using
+2017 “aware/impaired-awareness” terms rather than treating them as new diagnoses. Seizure type
+still drives ASM choice: some sodium-channel agents aggravate generalized/myoclonic syndromes.
 
 ## Counseling, rescue plan & driving
 
@@ -187,9 +190,11 @@ generalized/myoclonic syndrome).
     Prescribe an **outpatient rescue benzodiazepine** and a written action plan — standard of care for
     epilepsy at risk of clusters/prolonged seizures. FDA-approved options:
 
-    - **Midazolam nasal spray (Nayzilam)** — age ≥12.
-    - **Diazepam nasal spray (Valtoco)** — age ≥6.
-    - **Rectal diazepam gel (Diastat)** — age ≥2.
+    - **Midazolam nasal spray (Nayzilam), age ≥12:** **5 mg** in one nostril. If prescribed and needed, **5 mg** in the other nostril after **10 minutes**. Maximum **2 doses** per cluster. Do not give the second dose with trouble breathing or unusually excessive sedation. [FDA labeling on DailyMed](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=2b29422e-54d5-4a49-8522-e9cf752368c3)
+    - **Diazepam nasal spray (Valtoco), age ≥2:** use the labeled age/weight device table (**0.5 mg/kg** age 2–5, **0.3 mg/kg** age 6–11, **0.2 mg/kg** age ≥12, rounded to the dispensed device dose). If prescribed, a second dose is **at least 4 h** later. Maximum **2 doses** per episode. [FDA prescribing information](https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/211635Orig1s012corrected_lbl.pdf)
+    - **Rectal diazepam gel, age ≥2:** use its own age/weight prescribing table and caregiver action plan. Do not substitute nasal device strengths or redosing rules.
+
+    **Write the EMS trigger explicitly.** A convulsion lasting 5 minutes, recurring without recovery, or associated with breathing difficulty needs emergency care. The interval before a repeat outpatient rescue dose does not justify waiting to call EMS.
 
 !!! warning "SUDEP — discuss it early, not just when uncontrolled"
     Sudden unexpected death in epilepsy is **~1/1,000 adults with epilepsy per year, rising to ~6–9/
@@ -205,29 +210,17 @@ be **discharged with urgent neurology follow-up, safety/driving counseling, and 
 Admit for a prolonged postictal state, an unremitting/nonconvulsive picture, a concerning cause, or an
 unsafe home situation.
 
-!!! tip "TRICARE — seizure prescribing"
-    **Levetiracetam, lamotrigine, valproate, phenytoin, carbamazepine, oxcarbazepine, phenobarbital,
-    gabapentin** are **generic/formulary, no PA** — the whole core ladder is low-friction. **Newer
-    agents (brivaracetam, lacosamide, cenobamate, perampanel)** are typically **PA-gated** (step
-    therapy / specialist). Emergency IV agents are inpatient-stocked. *Verify at the TRICARE Formulary
-    Search.*
+!!! tip "TRICARE — verified rules and the current form"
+    Use the exact ASM, strength and formulation in the live formulary. This review did not establish a blanket PA requirement for newer ASMs or unrestricted coverage for every generic. Document seizure type, previous trials and the rescue plan for any requested exception. Do not delay status treatment for outpatient PA.
 
-!!! military "Military medicine — seizure / epilepsy"
-    *Framework — verify against current **AR 40-501**, **DoDI 6130.03**, **DoDI 1332.18**, and
-    aeromedical policy before counseling.*
+    [Current PA/MN details, benefit routing and packet](../military/tricare.md) · [Live Formulary Search](https://www.express-scripts.com/frontend/open-enrollment/tricare/fst). Check the exact product, beneficiary and venue on the prescribing date.
 
-    - **Retention (Army):** **AR 40-501 para 3-31i** addresses **seizure disorders/epilepsy** — a
-      diagnosis of epilepsy (recurrent unprovoked seizures), or seizures not controlled off medication,
-      generally falls below retention → **DES (MEB/PEB).** The joint floor is **DoDI 6130.03 Vol 2 para
-      5.26.c** (CNS conditions with persistent sequelae, incl. **seizures**). Document seizure type,
-      frequency, provoking factors, work-up, ASM trials, and control.
-    - **Accession:** a **history of epilepsy/recurrent seizures** is **disqualifying for entry** (DoDI
-      6130.03 Vol 1) — waivers hinge on a documented seizure-free, medication-free interval.
-    - **Deployability:** active epilepsy, ongoing ASMs, and the need for lab/level monitoring and
-      reliable sleep are **deployment-limiting.** A **provoked** seizure with a corrected cause may
-      return to duty per neurology review.
-    - **Aeromedical / special duty:** a seizure history (and most ASMs) is **disqualifying for flying
-      and many special-duty positions** — waiver-dependent; confirm the standard for the class.
+!!! military "Military medicine — duty, retention and deployment"
+    - **Profile / function:** Restrict driving and duties involving weapons, heights, water, flight or isolated operations after a seizure until the appropriate clinician/authority clears them. Record state-specific driving advice separately.
+    - **Retention / MEB–MAR2:** Diagnosed epilepsy: DoDI V2 **5.26.k**, action on diagnosis; provoked seizures: **5.26.j**. Army **3-31i** applies. Distinguish acute symptomatic events, epilepsy and nonepileptic attacks. Use the [retention framework](../military/deployability.md); permanent P3/4 does not by itself select DES versus MAR2.
+    - **Deployment / medications:** CENTCOM seizure activity in the preceding year is not waiverable; stable treatment with a year seizure-free may be considered. ASM indication and controlled-substance status matter separately. See [the disease AND drug screen](../military/deployment-medications.md) for the current CENTCOM rules and waiver packet.
+    - **Special duty:** flight, diving and other special assignments have separate standards and waiver authorities; a general duty profile does not clear them.
+    - **LOD / EPTS:** document onset, duty status, exposures and aggravation objectively. The designated authority determines LOD/EPTS; neither in-service diagnosis nor a genetic finding settles it automatically.
 
 ---
 
@@ -262,7 +255,7 @@ unsafe home situation.
 Neurol 2025 SE review**; ESETT (Kapur, NEJM 2019); TRENdS (lacosamide); RAMPART (Silbergleit, NEJM
 2012); Fisch et al. (burst-suppression, Neurology 2023); AAN/AES 2015 first-seizure guideline;
 **SANAD II** (Marson, Lancet 2021); cenobamate comparative-effectiveness (JAMA Neurol 2026); ILAE 2022
-surgical-referral consensus; ILAE SUDEP task force (Epilepsia 2026); ILAE 2017 classification.
+surgical-referral consensus; ILAE SUDEP task force (Epilepsia 2026); **ILAE 2025 seizure classification** (2017 terminology retained in older records).
 
 ## References
 
@@ -286,18 +279,10 @@ surgical-referral consensus; ILAE SUDEP task force (Epilepsia 2026); ILAE 2017 c
    (Nayzilam/Valtoco/Diastat).
 8. Source scutbook: *Seizure* (M. Holtkamp) — ER checklist, escalation, toxin antidotes, PNES
    semiology, first-seizure work-up, ASM-by-population approach (modernized to AES 2016 / ESETT).
-9. **TRICARE / DoD:** core ASMs generic-formulary (no PA); newer agents PA-gated. Retention:
-   **AR 40-501 para 3-31i**, **DoDI 6130.03 Vol 2 para 5.26.c** (accession Vol 1). *Verify at the
-   TRICARE Formulary Search.*
+- [Official TRICARE sources, retrieved forms and access limits](../military/tricare.md).
 
-*Verified July 2026: the timed status-epilepticus algorithm follows AES 2016 + the Lancet Neurology
-2025 review; **ESETT** establishes levetiracetam/fosphenytoin/valproate as equivalent second-line
-(lacosamide/brivaracetam emerging — TRENdS); refractory SE targets **seizure** (not routine burst-)
-suppression (Fisch 2023), with allopregnanolone negative and hypothermia unhelpful. The ILAE
-two-timepoint definition (GTC 5 min / focal-impaired-awareness 10 min), **SANAD II** maintenance
-defaults (lamotrigine focal / valproate generalized; levetiracetam for rapid titration), **cenobamate**
-for drug-resistant focal epilepsy, the **2022 ILAE surgical-referral** and **SUDEP-communication**
-consensus, rescue-medication options, and ILAE 2017 classification are current. **The specific
-figures were supplied by expert review with citations — confirm before quoting. Retention citations
-(AR 40-501 3-31i; DoDI 6130.03 Vol 2 5.26.c) and state-specific driving/reporting rules should be
-confirmed against the current source before counseling.**
+- [ILAE 2025 seizure classification update](https://www.ilae.org/news-and-media/news-about-ilae/the-international-league-against-epilepsy-updates-classification-of-epileptic-seizures).
+
+- [Current FDA Valtoco prescribing information](https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/211635Orig1s012corrected_lbl.pdf).
+
+*Evidence/policy audit: 21 November 2026. Material changes were checked against the linked primary sources; this is an AI-assisted review, not certification of every dose or claim. [Review scope and source limits](../evidence-review.md).*

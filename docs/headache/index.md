@@ -2,9 +2,7 @@
 
 <span class="reviewed-stamp">Last reviewed: July 2026</span>
 
-The first job in any headache patient is not to diagnose migraine — it is to **exclude a
-secondary headache** that will hurt the patient if you miss it. Triage on red flags first,
-then treat the primary headache.
+**One-liner:** Screen for secondary headache that needs urgent treatment, then identify and treat the primary phenotype. The patient may know their usual migraine better than the chart does. Ask what is different tonight.
 
 *Scale of the problem (GBD 2023):* headache disorders affect **~2.9 billion people** and are the
 **6th leading cause of health loss** worldwide, with **~2× the disability burden in women.**
@@ -60,10 +58,10 @@ its place.
 2. **Normal exam + no red flags?** Classify the primary headache by phenotype.
 3. **Route to the diagnosis:**
     - Recurrent, moderate–severe, disabling, ± photophobia/phonophobia/nausea/aura →
-      **[Migraine](migraine.md)** *(if it reached neurology, it is almost never "just tension")*
+      **[Migraine](migraine.md)** *(confirm the phenotype; referral alone does not establish migraine)*
         - **Quick screen — ID Migraine** (<2 min, AHS-endorsed): in the last 3 months, did headaches
           (1) **limit your activities ≥1 day?** (2) **cause nausea?** (3) **make you sensitive to
-          light?** **≥2 "yes" → migraine** (≈84% sensitive, **93% PPV**).
+          light?** **≥2 “yes” → screen positive for probable migraine; confirm clinically** (≈84% sensitive, **93% PPV**).
         - **"Sinus headache" is migraine until proven otherwise** — up to **88%** of self-diagnosed
           sinus headaches meet migraine criteria (recurrent, predictable, photophobia/nausea, normal
           exam → migraine, not antibiotics).
@@ -84,7 +82,7 @@ its place.
       VA/DoD; common in service members with neck trauma/load-bearing)
     - Headache **≥15 days/month with acute-med overuse** → **[Medication overuse
       headache](medication-overuse.md)**
-    - **Daily and unremitting from a remembered onset**, no prior headache history →
+    - **Daily and unremitting from a remembered onset**, with or without a prior episodic headache history →
       **[New daily persistent headache](new-daily-persistent.md)**
     - Headache after head/neck trauma → **[Post-traumatic headache](post-traumatic.md)**
 
@@ -96,12 +94,15 @@ its place.
     drugs, sexual activity, exertion, or the postpartum state**; may cause **convexity (not basal)
     SAH**, and CTA/MRA shows **"string of beads"** vasoconstriction. **Use the RCVS² score** (≥5 →
     ~90% sensitive/~99% specific; ≤2 excludes it). **Steroids worsen RCVS** — the key distinction
-    from primary CNS angiitis. **Treat with nimodipine + trigger avoidance.**
+    from primary CNS angiitis. **Stop vasoactive triggers, involve neurology, and monitor for stroke/hemorrhage.**
+    Nimodipine is often used for headache relief, but controlled evidence that it prevents stroke
+    or changes the disease course is lacking. Early vascular imaging may be normal; repeat when
+    clinical suspicion remains high.
 
 !!! danger "IIH vs SIH — same "positional," opposite pressure and treatment"
     - **Idiopathic intracranial hypertension (IIH — high pressure):** young, **overweight woman**,
       daily headache + **transient visual obscurations + pulsatile tinnitus + papilledema.** Dx: **MRI/
-      MRV** (exclude mass/CVST) → **LP opening pressure >250 mm.** Rx: **weight loss + acetazolamide**;
+      MRV** (exclude mass/CVST) → **LP opening pressure >25 cm H₂O**, measured correctly and interpreted with the full diagnostic criteria. Rx: **weight loss + acetazolamide**;
       **surgery (ONSF, CSF shunt, venous stenting) for progressive vision loss** (untreated → permanent
       visual loss in 15–20%). **GLP-1 receptor agonists** are an emerging option.
     - **Spontaneous intracranial hypotension (SIH — low pressure):** **orthostatic** headache (worse
@@ -170,13 +171,6 @@ The headache vertical is complete: **[Migraine](migraine.md)**,
 10. **Pregnancy:** ACOG *Headaches in Pregnancy and Postpartum* CPG No. 3 (2022); AHA *Maternal Stroke*
    scientific statement (2026).
 
-*Verified July 2026: the red-flag screen follows the full **SNNOOP10** list (Do 2019); the
-**6-hour non-contrast CT rule** for thunderclap/SAH and the Ottawa SAH Rule reflect the 2023 AHA/ASA
-SAH guidance; TTH and cervicogenic headache are added per the **2023 VA/DoD Headache CPG**; RCVS
-(RCVS² score, no-steroids rule), the IIH-vs-SIH positional distinction, GCA, and the pregnancy/
-postpartum differential follow current review/guideline sources; burden figures are from GBD 2023.
-**ID Migraine** (≥2/3 → migraine), the **AHS Grade-A "don't image stable migraine"** rule, the
-**"sinus headache = migraine"** pitfall, post-COVID headache, the headache-diary/structured-history
-recommendation, acute angle-closure glaucoma, and the emerging (not-clinic-ready) GFAP/NfL biomarker
-note were added from the cited sources. Specific epidemiologic and score figures were drawn from those
-sources — confirm before quoting in a formal document.*
+**Military follow-through:** [retention/profile framework](../military/deployability.md), [disease and medication deployment screen](../military/deployment-medications.md), and [TRICARE access](../military/tricare.md). Apply the diagnosis-specific assessment rather than clearing duty from symptom improvement alone.
+
+*Evidence/policy audit: 21 November 2026. Material changes were checked against the linked primary sources; this is an AI-assisted review, not certification of every dose or claim. [Review scope and source limits](../evidence-review.md).*

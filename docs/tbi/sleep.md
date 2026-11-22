@@ -44,9 +44,9 @@ TBI** patients (insomnia the commonest), and a VA cohort of **~200,000 veterans*
 ## Insomnia
 
 !!! orderset "Step 1 — CBT-I is first-line (Strong for)"
-    **CBT-I before drugs.** VA/DoD 2019 Chronic Insomnia CPG gives it a **Strong for** recommendation;
+    **CBT-I before drugs.** VA/DoD **2025** Insomnia/OSA CPG gives it a **Strong for** recommendation;
     a 2026 network meta-analysis (22 RCTs, n=1,299 TBI patients) found **CBT the most consistently
-    effective** intervention across ISI/PSQI/ESS — **outperforming every drug tested.** **70–80%** get
+    effective** intervention across ISI/PSQI/ESS — supporting CBT-I; indirect comparisons do not prove superiority to every drug in every patient. **70–80%** get
     enduring benefit and **~50%** reach remission.
 
     - **No in-person CBT-I?** Use **internet-delivered CBT-I (eCBT-I / SHUTi)** — a 2024 JAMA Netw Open
@@ -66,10 +66,11 @@ TBI** patients (insomnia the commonest), and a VA cohort of **~200,000 veterans*
       or **daridorexant 25–50 mg** qhs. Work for **both onset and maintenance**, **less cognitive
       impairment** than benzodiazepines, low abuse potential; a 2025 network meta-analysis shows all
       three beat placebo. Mechanistically apt (TBI disrupts the orexin system) — but **contraindicated
-      in narcolepsy** (exclude first). *Likely PA-gated on TRICARE.*
+      in narcolepsy** (exclude first). *Current drug-specific TRICARE criteria were not obtained; check the exact form.*
     - **Low-dose doxepin 3–6 mg qhs** — FDA-approved for **sleep-maintenance** insomnia; the only
       sedating antidepressant with **consistent** insomnia efficacy (2024 NEJM review).
-    - **Trazodone 25–100 mg qhs** — widely used off-label (helpful with comorbid mood), but **no
+    - **Trazodone is suggested against for chronic insomnia in the 2025 VA/DoD guideline.** It is
+      used off-label in practice, but low hypnotic doses are not adequate antidepressant treatment. **No
       TBI-specific RCT** and "inconsistent efficacy evidence" for general insomnia; a head-to-head vs
       melatonin vs combination trial is underway (2026).
     - **Avoid:** chronic **benzodiazepines / Z-drugs** (cognition, dependence, fall/duty risk) and
@@ -94,7 +95,7 @@ TBI** patients (insomnia the commonest), and a VA cohort of **~200,000 veterans*
       **≥3 intermediate, ≥5 high** risk. Have a low threshold — OSA prevalence in TBI is **20–77%.**
     - **Phased, cost-effective work-up:** STOP-Bang → **home sleep apnea (portable) testing** →
       **lab PSG** if portable testing is negative/discordant but suspicion remains.
-    - **PAP therapy is first-line** (VA/DoD 2019 OSA CPG, **Strong for**). **Set expectations:** CPAP
+    - **PAP therapy is first-line** (VA/DoD **2025** Insomnia/OSA CPG). **Set expectations:** CPAP
       reliably improves **AHI** but **may not fully resolve daytime sleepiness** in TBI — reassess for
       a coexisting central hypersomnia if sleepiness persists on adherent PAP.
 
@@ -105,12 +106,10 @@ TBI** patients (insomnia the commonest), and a VA cohort of **~200,000 veterans*
     n=278) found reduced sleep disturbance (SMD −0.63) and depression (SMD −1.00). **Morning bright
     light ~10,000 lux, 60 min** improved insomnia, mood, and pain in a veteran cohort.
 
-!!! tip "TRICARE — TBI sleep prescribing"
-    **Melatonin, trazodone, doxepin, modafinil/armodafinil** are generic/formulary (modafinil-class are
-    **Schedule IV**; generic modafinil is preferred over branded). **DORAs (suvorexant, lemborexant,
-    daridorexant)** are **PA-gated** — document CBT-I ± prior-agent failure. **CBT-I, eCBT-I, PSG, and
-    PAP** go through normal sleep-medicine/behavioral-health referral. *Verify at the TRICARE Formulary
-    Search.*
+!!! tip "TRICARE — verified rules and the current form"
+    Most drugs here treat a specific comorbid symptom, often off label after TBI. Document that diagnosis, the trial and functional response. Do not promise coverage for stimulants, sleep drugs, devices, SGB or rehabilitation from the TBI label alone; obtain the current drug/service-specific rule.
+
+    [Current PA/MN details, benefit routing and packet](../military/tricare.md) · [Live Formulary Search](https://www.express-scripts.com/frontend/open-enrollment/tricare/fst). Check the exact product, beneficiary and venue on the prescribing date.
 
 *Military note:* untreated **OSA**, chronic **hypnotics**, and **Schedule IV wake-promoting agents** are
 duty/deployability considerations — document the work-up, diagnosis, and PAP adherence. See the
@@ -147,9 +146,8 @@ duty/deployability considerations — document the work-up, diagnosis, and PAP a
 13. Silverberg ND, Lee K, Mikolić A, et al. *Action Collaborative on TBI Care — adapted CPG* (Ann Fam
     Med 2025) — prioritize sleep as a treatment target.
 
-*Verified July 2026: prevalence (30–70% mTBI, ~46% chronic; VA n≈200,000), the disorder spectrum with
-approximate prevalences, CBT-I/eCBT-I as first-line (VA/DoD Strong-for; 2026 NMA), dosed pharmacotherapy
-(melatonin 2–5 mg, DORAs, doxepin 3–6 mg, trazodone caveats), modafinil/armodafinil for hypersomnia
-(AASM 2021 Conditional), STOP-Bang phased OSA work-up + PAP (VA/DoD Strong-for), and light therapy
-reflect the sources cited above. Confirm current TRICARE formulary/PA status and Schedule IV prescribing
-constraints before counseling.*
+- [VA/DoD 2025 Insomnia/OSA CPG](https://www.healthquality.va.gov/guidelines/CD/insomnia/).
+
+**Military follow-through:** [retention/profile framework](../military/deployability.md), [disease and medication deployment screen](../military/deployment-medications.md), and [TRICARE access](../military/tricare.md). Apply the diagnosis-specific assessment rather than clearing duty from symptom improvement alone.
+
+*Evidence/policy audit: 21 November 2026. Material changes were checked against the linked primary sources; this is an AI-assisted review, not certification of every dose or claim. [Review scope and source limits](../evidence-review.md).*

@@ -30,11 +30,11 @@ rehabilitate what remains. TRACK-TBI found **13.5% of mTBI** patients had a poor
       clearance**, not an afterthought.
 
 !!! warning "Performance validity testing (PVT) — include it in *every* evaluation"
-    In compensation/litigation contexts, an estimated **~40% of mTBI cases fail effort tests**, which
-    **invalidates** the cognitive scores; failing even a **single PVT** predicts significantly lower
-    performance. Failure is commoner with **uncomplicated mTBI, compensation-seeking, and longer time
-    since injury.** **PVT failure ≠ malingering** — interpret in context (**pain, fatigue, depression,
-    medication effects, poor engagement**). This is directly load-bearing for **MEB/VA** ratings, where
+    Include appropriate validity measures and interpret the **whole pattern** with the
+    neuropsychologist. **A failed validity measure does not by itself diagnose malingering or
+    invalidate every cognitive result.** Selected forensic-cohort failure rates should not be
+    applied to every injured service member. Consider the instrument, severe impairment, literacy,
+    language, pain, fatigue, medications, and psychiatric factors. This is directly load-bearing for **MEB/VA** ratings, where
     cognitive documentation drives the outcome — a report **without** validity testing is incomplete.
 
 ## Manage
@@ -73,14 +73,15 @@ rehabilitate what remains. TRACK-TBI found **13.5% of mTBI** patients had a poor
         - **Should be offered** → **depressive symptoms** when rapid response and/or cognitive
           impairment are priorities (d 1.06; overlaps [mood/PTSD](mood-ptsd.md)).
         - A 2024 meta-analysis (14 RCTs, n=4,434) confirms a small but real cognitive effect (d 0.34).
-    - **Amantadine 100 mg BID** (up to 200 mg BID) — for **moderate–severe TBI in the subacute phase.**
-      The **NEJM 2012 RCT (n=184)** showed it **accelerates functional recovery** in disorders of
-      consciousness; benefit is **greatest started in the first week for <1 month**, and a 2025
-      meta-analysis found it significant **only in the first ~6 weeks** (no long-term advantage). **Not**
-      for chronic mTBI.
-    - **Donepezil 5 → 10 mg/day** — **emerging**; a 2024 meta-analysis showed a large effect (d 1.68)
-      but on only 3 studies, and a small crossover RCT improved short-term memory and sustained
-      attention. Insufficient for a guideline recommendation — **specialist-guided** option.
+    - **Amantadine 100–200 mg BID**, adjusted for renal function — the strongest recommendation is
+      for adults with **traumatic vegetative/unresponsive wakefulness or minimally conscious states
+      4–16 weeks after injury**, to accelerate recovery during treatment. The pivotal trial did
+      **not** establish that starting in week 1 is best. This is not routine treatment of chronic
+      mTBI cognitive complaints.
+    - **Donepezil 5 mg daily, then 10 mg if tolerated** — off-label, specialist-guided. The **2025
+      MEMRI-TBI-D randomized trial** supports benefit in selected adults with persistent, functionally
+      limiting verbal-memory impairment after TBI. Balance nausea/diarrhea, bradycardia/syncope, and
+      uncertain generalizability; pair with rehabilitation and measured goals.
 
 !!! note "Long-term: repeated exposure & dementia risk"
     **mTBI is an emerging dementia risk factor**, and TRACK-TBI shows some patients decline after an
@@ -88,11 +89,10 @@ rehabilitate what remains. TRACK-TBI found **13.5% of mTBI** patients had a poor
     honest counseling about continuing high-risk activity, and connect it to the **TES/CTE** discussion
     on the [TBI hub](index.md#long-term-cte-neurodegeneration-suicide-risk).
 
-!!! tip "TRICARE — cognitive prescribing"
-    **Generic methylphenidate** (**Schedule II** — stimulant/drug-testing rules apply), **amantadine**,
-    and **donepezil** are formulary. **Cognitive rehabilitation** (SLP/OT) and **neuropsychological
-    testing** go through normal rehab/behavioral-health referral. *Verify at the TRICARE Formulary
-    Search.*
+!!! tip "TRICARE — verified rules and the current form"
+    Most drugs here treat a specific comorbid symptom, often off label after TBI. Document that diagnosis, the trial and functional response. Do not promise coverage for stimulants, sleep drugs, devices, SGB or rehabilitation from the TBI label alone; obtain the current drug/service-specific rule.
+
+    [Current PA/MN details, benefit routing and packet](../military/tricare.md) · [Live Formulary Search](https://www.express-scripts.com/frontend/open-enrollment/tricare/fst). Check the exact product, beneficiary and venue on the prescribing date.
 
 *Military note:* objective **neuropsych findings (with PVTs)** carry weight in retention/DES decisions,
 and **RBANS** predicts return-to-duty vs medical retirement — document them. See the
@@ -130,10 +130,10 @@ and **RBANS** predicts return-to-duty vs medical retirement — document them. S
     Anaesthesiol 2025) — exercise/neuroplasticity; Silverberg ND, et al. *Action Collaborative on TBI
     Care — adapted CPG* (Ann Fam Med 2025) — early sub-threshold exercise Good Practice.
 
-*Verified July 2026: prevalence and heterogeneous impairment profiles (TRACK-TBI 2022/2023; PROTECT-TBI),
-the 2026 ACRM domain-specific methylphenidate recommendations, amantadine's subacute moderate–severe role
-(NEJM 2012; 2025 meta-analysis), donepezil as emerging, clinician-directed cognitive rehabilitation with
-compensatory-strategy priority (VA/DoD; ASHA 2022), the medications-to-avoid/minimize list, neuropsych
-testing timing (against routine <30 days; RBANS for disposition), performance-validity testing, and the
-dementia-risk counseling point reflect the sources cited above. Confirm current TRICARE formulary/PA
-status and Schedule II constraints before prescribing.*
+- [AAN disorders-of-consciousness guideline (amantadine 4–16 weeks)](https://doi.org/10.1212/WNL.0000000000005926).
+
+- [MEMRI-TBI-D donepezil randomized trial](https://pubmed.ncbi.nlm.nih.gov/39628282/).
+
+**Military follow-through:** [retention/profile framework](../military/deployability.md), [disease and medication deployment screen](../military/deployment-medications.md), and [TRICARE access](../military/tricare.md). Apply the diagnosis-specific assessment rather than clearing duty from symptom improvement alone.
+
+*Evidence/policy audit: 21 November 2026. Material changes were checked against the linked primary sources; this is an AI-assisted review, not certification of every dose or claim. [Review scope and source limits](../evidence-review.md).*

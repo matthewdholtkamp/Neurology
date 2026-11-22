@@ -34,7 +34,7 @@ column. Use the tabs below.
     | Risk factor | Target / action | Notes |
     |---|---|---|
     | **Hypertension** | **<130/80** (stage 2, or stage 1 with high ASCVD risk) | Lifestyle + antihypertensive; the dominant modifiable risk |
-    | **Lipids** | **Statin** by ACC/AHA eligibility: LDL ≥190, diabetes age 40–75, 10-yr ASCVD ≥7.5–20% (intermediate: use risk enhancers), or ≥20% (high) → moderate–high intensity | Higher-risk → high-intensity |
+    | **Lipids** | **Statin** by ACC/AHA eligibility: LDL ≥190 mg/dL or other categorical indications; for adults 30–79 without ASCVD, use **2026 PREVENT-ASCVD**, risk enhancers, and selective CAC. Consider therapy at 3–<5%; discuss initiation at 5–<10%; ≥10% favors high-intensity therapy. Diabetes/CKD stage 3–4/HIV at age 40–75 are specific indications | Higher-risk → high-intensity |
     | **Diabetes + high CV risk / CVD (A1c ≥7%)** | **GLP-1 RA** (semaglutide, dulaglutide) — **Class 1** | SUSTAIN-6 / REWIND cut stroke. **SGLT2i is for HF/CKD — it is *neutral* on stroke**, so don't pick it *for* stroke prevention |
     | **Atrial fibrillation** | **Anticoagulate (DOAC)** — **Class 1 if CHA₂DS₂-VASc ≥2 (men) / ≥3 (women)**; **Class 2a ("reasonable") at 1 (men) / 2 (women)** | DOAC over warfarin for non-valvular AF; not a hard cutoff |
     | **Overweight/obesity** | Weight loss; consider GLP-1 | |
@@ -76,7 +76,7 @@ column. Use the tabs below.
     1. **Define the mechanism** (cardioembolic vs large-artery vs small-vessel vs ESUS) — it dictates
        the antithrombotic.
     2. **Antithrombotic:** antiplatelet **or** anticoagulant (never reflexively both).
-    3. **High-intensity statin → LDL <70** (± ezetimibe / PCSK9).
+    3. **High-intensity statin → risk-based LDL goal:** **<55 mg/dL for very-high-risk ASCVD**; **<70 mg/dL for ASCVD not at very high risk** (2026 dyslipidemia guideline). Add ezetimibe/PCSK9 therapy as needed.
     4. **BP <130/80.**
     5. **Diabetes / obesity** — GLP-1 RA or SGLT2i where indicated.
     6. **Mechanism-specific procedure** (carotid, PFO, LAAO).
@@ -84,7 +84,7 @@ column. Use the tabs below.
 
     !!! orderset "Every patient (start in hospital)"
         - **High-intensity statin — atorvastatin 80 mg** (or **rosuvastatin 20 mg**, up to 40);
-          **target LDL <70** (TST); add **ezetimibe → PCSK9 inhibitor** to get there.
+          **target LDL <55 mg/dL when very-high-risk ASCVD, otherwise <70 mg/dL**. TST supports the historical <70 target after atherosclerotic stroke; the **2026 dyslipidemia guideline** further stratifies ASCVD risk. Add **ezetimibe → PCSK9 inhibitor** when needed.
         - **BP <130/80** once stable; restart/optimize antihypertensives.
         - **Diabetes:** A1c control; **GLP-1 RA** for its **stroke** benefit. **SGLT2i is for HF/CKD
           — neutral on stroke** (use it for those indications, not as a stroke-prevention drug).
@@ -101,7 +101,7 @@ column. Use the tabs below.
     | **Cardioembolic (AF)** | **DOAC** (apixaban/rivaroxaban/dabigatran/edoxaban) over warfarin |
     | **Symptomatic carotid 70–99% (or 50–69% selected patients)** | **CEA or CAS within 2 weeks** + medical therapy — greater benefit in men; less in women and retinal-only events |
     | **ESUS / cryptogenic** | Antiplatelet (**not** anticoagulation — see box) + **prolonged rhythm monitoring** (≥30-day external or implantable monitor; 24–48 h telemetry misses most paroxysmal AF); anticoagulate only if AF is found |
-    | **PFO, age <60, otherwise-cryptogenic** | **PFO closure** (RESPECT/CLOSE/REDUCE) + antiplatelet — use the **PASCAL classification** to select ("probable" benefits; "unlikely" does not) |
+    | **PFO, age 18–60, imaging-confirmed otherwise-cryptogenic ischemic stroke** | **PFO closure** (RESPECT/CLOSE/REDUCE) + antiplatelet — use the **PASCAL classification** to select ("probable" benefits; "unlikely" does not) |
 
     !!! note "CYP2C19 genotyping is moving into practice"
         Clopidogrel is a prodrug: **~25% of White and ~60% of East Asian patients carry a CYP2C19
@@ -118,7 +118,7 @@ column. Use the tabs below.
         - **Stroke despite adequate anticoagulation (OAC failure):** **LAAO is an emerging option** —
           observational data (STR-OAC LAAO) show a large risk reduction (HR ~0.33) added to OAC, and
           surgical LAAO cut stroke on top of anticoagulation (LAAOS III). **RCT confirmation is
-          pending** (CHAMPION-AF, OPTION, OCCLUSION-AF) — reasonable to consider, not yet proven.
+          still needed in this specific OAC-failure population**. **OPTION was published in 2024** and studied patients after AF ablation; it does not establish benefit after breakthrough stroke. Refer for multidisciplinary assessment after checking adherence, dosing, interactions, and competing mechanisms.
 
     !!! danger "Do NOT empirically anticoagulate ESUS"
         Embolic stroke of undetermined source is **not** an indication for empiric anticoagulation.
@@ -136,14 +136,12 @@ column. Use the tabs below.
         drop to a single agent; extended DAPT only adds bleeding. And **don't combine an antiplatelet
         with an anticoagulant** unless there's a separate, explicit indication.
 
-    !!! note "On the horizon — factor XIa inhibition (watch this space)"
-        **OCEANIC-STROKE** (NEJM 2026) is the first positive phase-3 trial of a new antithrombotic
-        class for stroke prevention in over a decade: **asundexian 50 mg/day (a factor XIa inhibitor)
-        added to antiplatelet** therapy for **non-cardioembolic** stroke / high-risk TIA cut ischemic
-        stroke **26%** (HR 0.74) **with no increase in major bleeding** — the long-sought uncoupling of
-        antithrombotic efficacy from bleeding risk. **Not yet guideline-incorporated**, and the
-        companion milvexian trial (**LIBREXIA-STROKE**) is pending — but this may reshape
-        non-cardioembolic prevention. Don't prescribe it off-study yet; know it's coming.
+    !!! note "November 2026 update — asundexian (Sunharbo)"
+        **FDA-approved 9 November 2026** for adults with recent non-cardioembolic ischemic stroke (**NIHSS ≤15**) or high-risk TIA, **with antiplatelet therapy**. Dose **50 mg PO daily**. Stroke-team selection should address bleeding, liver function and interacting drugs. [FDA approval](https://www.fda.gov/drugs/novel-drug-approvals-fda/novel-drug-approvals-2026).
+
+        **OCEANIC-STROKE** found fewer ischemic strokes. Overall major bleeding rates were similar, with uncertainty around the estimate and higher GI-bleeding rates. A neutral major-bleeding comparison does not establish absence of bleeding risk. [Trial report](https://doi.org/10.1056/NEJMoa2513880).
+
+        The label advises avoiding combined P-gp/strong CYP3A4 inducers, use is not recommended in Child-Pugh B/C disease, and procedures or thrombolysis require the specific interruption plan. It is not an AF anticoagulation substitute. Current TRICARE access and theater clearance require separate assessment. [Prescribing information](https://labeling.bayerhealthcare.com/html/products/pi/Sunharbo_PI.pdf).
 
 ## The full acute-stroke workup and reperfusion algorithm
 
@@ -151,27 +149,17 @@ For the **code-stroke** side — last-known-well, imaging, thrombolysis, and thr
 [acute ischemic stroke page](index.md). This page is the **prevention** companion; secondary
 prevention is *started* during that admission and *owned* in clinic afterward.
 
-!!! tip "TRICARE — prevention prescribing"
-    - **Statins (atorvastatin/rosuvastatin), aspirin, and clopidogrel** are **generic/formulary,
-      no PA** — the backbone of both columns.
-    - **DOACs** are covered; a **preferred DOAC** exists on the Uniform Formulary — **verify the
-      current preferred agent and any PA at the TRICARE Formulary Search.**
-    - **GLP-1 RAs and PCSK9 inhibitors** are typically **PA-gated** (indication/step-therapy) — plan
-      for the prior authorization.
-    - **Ezetimibe** is generic/formulary and an easy add-on toward LDL <70.
+!!! tip "TRICARE — verified rules and the current form"
+    Determine outpatient drug coverage separately from emergency stroke treatment. Anticoagulant, antiplatelet, lipid-drug, dose and quantity rules are product/indication specific; do not infer “no PA” from generic status. Reversal agents and inpatient reperfusion use the facility pathway. Medical authorization for procedures is distinct from pharmacy coverage.
 
-!!! military "Military medicine — stroke prevention"
-    *Framework — verify against current **AR 40-501**, **DoDI 6130.03**, and aeromedical policy.*
+    [Current PA/MN details, benefit routing and packet](../military/tricare.md) · [Live Formulary Search](https://www.express-scripts.com/frontend/open-enrollment/tricare/fst). Check the exact product, beneficiary and venue on the prescribing date.
 
-    - **Risk-factor control is a readiness issue:** untreated HTN, tobacco, and obesity drive both
-      stroke risk and profile/PHA findings — treat aggressively.
-    - **Anticoagulation is deployment- and duty-limiting:** AF on a DOAC, or a mechanical valve on
-      warfarin, complicates deployment and many special-duty positions — factor it into MEB/profile
-      discussions.
-    - **Aeromedical:** anticoagulation and most post-stroke states are **disqualifying/waiver-
-      dependent** for flying duty; confirm the standard for the class involved.
-    - **Young service members:** don't anchor on "too young for stroke" — pursue dissection, PFO,
-      hypercoagulable states, and substance use; the etiology drives the prevention plan.
+!!! military "Military medicine — duty, retention and deployment"
+    - **Profile / function:** Restrict hazardous duties while evaluating a new vascular event; document residual vision, strength, language, cognition, recurrence risk and bleeding risk.
+    - **Retention / MEB–MAR2:** DoDI V2 **5.26.b** and Army **3-31f** guide cerebrovascular retention assessment. Workup for a clotting disorder alone does not establish a permanent disability. Use the [retention framework](../military/deployability.md); permanent P3/4 does not by itself select DES versus MAR2.
+    - **Deployment / medications:** Therapeutic anticoagulation is a major CENTCOM exclusion; nonaspirin antiplatelets create a separate waiver issue. Do not stop indicated treatment to make a member deployable. See [the disease AND drug screen](../military/deployment-medications.md) for the current CENTCOM rules and waiver packet.
+    - **Special duty:** flight, diving and other special assignments have separate standards and waiver authorities; a general duty profile does not clear them.
+    - **LOD / EPTS:** document onset, duty status, exposures and aggravation objectively. The designated authority determines LOD/EPTS; neither in-service diagnosis nor a genetic finding settles it automatically.
 
 ---
 
@@ -190,11 +178,11 @@ prevention is *started* during that admission and *owned* in clinic afterward.
   in the CHANCE/POINT window; 90-day DAPT for ICAD per SAMMPRIS), **DOAC for AF started early**
   (CATALYST), carotid revascularization for symptomatic high-grade stenosis within 2 weeks, and PFO
   closure under 60 (select with the **PASCAL** classification).
-- **Lipids: lower is better after atherosclerotic stroke** — high-intensity statin to **LDL <70**
+- **Lipids: lower is better after atherosclerotic stroke** — high-intensity statin to the **2026 risk-based LDL goal (<55 for very-high-risk ASCVD; otherwise <70 mg/dL)**
   (TST), escalating with ezetimibe/PCSK9.
 - **Blood pressure is the common denominator** — the highest-yield lever in both columns.
-- **On the horizon (not yet guideline):** **factor XIa inhibition** — OCEANIC-STROKE (asundexian)
-  cut ischemic stroke 26% with no excess bleeding in non-cardioembolic prevention (LIBREXIA/milvexian
+- **New FDA-approved option:** **factor XIa inhibition** — OCEANIC-STROKE (asundexian)
+  reduced ischemic stroke in the studied non-cardioembolic population, with similar overall major-bleeding rates and higher GI bleeding in the label’s safety analysis (LIBREXIA/milvexian
   pending); **CYP2C19 genotyping** to steer clopidogrel vs ticagrelor (CHANCE-2); **LAAO for OAC
   failure** (observational, RCTs pending); and **duration-based** anticoagulation for device-detected
   subclinical AF. **Colchicine** is stroke-neutral in stroke-specific trials (CONVINCE, CHANCE-3) and
@@ -219,24 +207,15 @@ RESPECT/CLOSE/REDUCE + PASCAL (PFO); 2024 ACC arrhythmia-monitoring-after-stroke
 7. **Lipids:** Treat Stroke to Target (TST) — LDL <70 mg/dL after ischemic stroke.
 8. **Newer primary-prevention additions:** SSaSS (potassium salt substitution); colchicine — with
    stroke-specific caveats from **CONVINCE** (Lancet 2024) and **CHANCE-3** (BMJ 2024, sICAS harm signal).
-9. **Emerging (not yet guideline):** **OCEANIC-STROKE** — asundexian (FXIa inhibitor) for
+9. **OCEANIC-STROKE and subsequent November 2026 FDA approval:** — asundexian (FXIa inhibitor) for
    non-cardioembolic secondary prevention (NEJM 2026); LIBREXIA-STROKE (milvexian) pending.
    **CHANCE-2** — ticagrelor+ASA in CYP2C19 LOF carriers.
    **STR-OAC LAAO** / **LAAOS III** — LAAO with OAC failure. **2023 ACC/AHA AF guideline** —
    duration-tiered anticoagulation for device-detected AF.
-10. **TRICARE / DoD Uniform Formulary:** statins/aspirin/clopidogrel/ezetimibe generic-formulary;
-    preferred DOAC + GLP-1/PCSK9 PA status — *verify at the TRICARE Formulary Search.*
+- [Official TRICARE sources, retrieved forms and access limits](../military/tricare.md).
 
-*Verified July 2026: primary-prevention content (no routine aspirin per ASPREE/ARRIVE/ASCEND; GLP-1 RA
-Class 1 for diabetes + high CV risk; **SGLT2i stroke-neutral**; BP <130/80; Life's Essential 8;
-**potassium salt substitution Class 2a / colchicine Class 2b**; AF anticoagulation **Class 1 at
-CHA₂DS₂-VASc ≥2/≥3 and Class 2a at 1/2**; women/SDOH emphasis) follows the **2024 AHA/ASA Primary
-Prevention of Stroke guideline**. Secondary-prevention antithrombotic-by-mechanism, LDL <70 (TST),
-21-day DAPT (CHANCE/POINT), 90-day DAPT for ICAD (SAMMPRIS), early DOAC (CATALYST), carotid within
-2 weeks, **no empiric anticoagulation for ESUS (NAVIGATE ESUS/RE-SPECT ESUS/ARCADIA/ATTICUS negative)**,
-and PFO closure <60 selected by **PASCAL** (RESPECT/CLOSE/REDUCE) are current. **Emerging items
-(OCEANIC-STROKE/asundexian, CHANCE-2/CYP2C19, LAAO-for-OAC-failure, device-AF duration thresholds,
-colchicine stroke-specific data) are flagged as not-yet-guideline and their trial figures were
-supplied by expert review — confirm before acting on them clinically. AR 40-501 stroke retention
-paragraph and the TRICARE preferred DOAC were not pinned to a citable source — verify before
-counseling.**
+- [2026 ACC/AHA multisociety dyslipidemia guideline](https://www.ahajournals.org/doi/10.1161/CIR.0000000000001423).
+
+- [OPTION randomized trial — post-AF-ablation population, 2024](https://www.nejm.org/doi/full/10.1056/NEJMoa2408308).
+
+*Evidence/policy audit: 21 November 2026. Material changes were checked against the linked primary sources; this is an AI-assisted review, not certification of every dose or claim. [Review scope and source limits](../evidence-review.md).*

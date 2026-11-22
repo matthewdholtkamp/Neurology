@@ -80,9 +80,10 @@ cases labeled "transverse myelitis," and an early MRI can be normal in infarctio
    lesions or rising edema.
 2. **Emergent MRI whole spine (with contrast)** — plus brain MRI with gadolinium once
    compression is excluded, and orbits if there are visual symptoms.
-3. **If compressive, infectious, or vascular — treat that first (Step 1).** Do not give
-   empiric steroids for presumed myelitis until compression, abscess, hematoma, ischemia,
-   and dural AV fistula are excluded. Malignant compression is the exception: steroids
+3. **If compressive, infectious, or vascular — treat that first (Step 1).** Obtain urgent MRI to exclude compression/hematoma and assess infection/vascular mimics
+   before empiric myelitis steroids. **MRI alone cannot exclude early infarction or every DAVF**;
+   pursue DWI/repeat imaging/angiography when indicated without creating an unnecessary delay
+   in a convincing inflammatory emergency. Malignant compression is the exception: steroids
    start on suspicion.
 4. **If inflammatory — IVMP 1,000 mg IV daily × 3–5 days** (Step 2), with disease-specific
    escalation and taper (table below). In NMOSD, do not wait: add PLEX early, ideally
@@ -113,7 +114,7 @@ AQP4-IgG by live cell-based assay (sensitivity >80%, specificity >99%; ELISA can
 false-positive low titers — confirm on a cell-based assay if the picture is atypical;
 false negatives occur during immunosuppression or after PLEX, so retest off treatment or
 during a relapse; CSF AQP4 testing adds little) and MOG-IgG (live assays more specific
-than fixed; titers <1:100 are nonspecific; titers fluctuate and can be negative outside
+than fixed; low-positive titers require phenotype/MRI support and exclusion of a better diagnosis; titers fluctuate and can be negative outside
 attacks in up to 57% of patients). Coexistence of both antibodies is rare.
 
 **Systemic screen:** ANA, ENA (SSA/SSB), dsDNA, antiphospholipid antibodies, ACE, chest
@@ -166,9 +167,7 @@ clinically isolated syndrome is established and alternatives are unlikely.
 ## Management
 
 !!! orderset "Step 1 — treat the surgical, infectious, or vascular cause first (before any myelitis therapy)"
-    - **Malignant spinal cord compression — dexamethasone 10–16 mg IV bolus, then 4–6 mg
-      every 6 hours** (NCCN minimum 4 mg every 6 hours; a 10 mg bolus followed by 16 mg/day
-      was enough in a small trial). **Start on suspicion, even before imaging, then taper.**
+    - **Malignant spinal cord compression with neurological symptoms/signs — dexamethasone 16 mg PO (or equivalent parenteral dose) promptly, then 16 mg/day while awaiting surgery/radiotherapy** (NICE NG234). **Start on suspicion, even before imaging**; taper after definitive treatment. Stop if compression/metastasis is excluded. Monitor glucose and provide gastric protection.
       Steroids are a bridge to surgery and/or radiotherapy. In unexplained epidural
       lesions, possible lymphoma is a reason for caution — hold steroids if lymphoma is
       possible and the patient is stable enough to wait for tissue, because chemosensitive
@@ -178,9 +177,9 @@ clinically isolated syndrome is established and alternatives are unlikely.
       surgical-site infection, sepsis, or substantial neurologic deficits. Dosing
       (verify renal function; pharmacy to dose): **vancomycin 15–20 mg/kg IV q8–12h**
       by actual body weight in normal renal function; **cefepime 2 g IV q8h** when
-      CrCl >60 mL/min, reduced or interval-extended in renal impairment. **Urgent
-      decompression for new or progressive deficits** — outcomes are best within about
-      72 hours, and recovery is best if decompressed within 48–72 hours of onset.
+      CrCl >60 mL/min, reduced or interval-extended in renal impairment. **Urgent decompression for new/progressive deficits or significant compression** —
+      consult immediately. **Do not wait 48–72 hours**; neurological status and delay to
+      source control affect recovery.
       Withholding antibiotics until image-guided biopsy is reasonable *only* when the
       patient is neurologically intact, not septic, has no cord compression on MRI, and
       can be closely monitored.
@@ -188,16 +187,17 @@ clinically isolated syndrome is established and alternatives are unlikely.
     - **Disc herniation / spondylosis** (the commonest extrinsic compression, mostly
       cervical) — decompression per spine surgery; contributing factors include
       malalignment, instability, and a congenitally narrow canal.
-    - **Spinal cord infarction — support perfusion and find the cause.** No proven
-      reperfusion therapy and no consensus treatment; one cohort used **aspirin 75 mg
-      plus dalteparin 7,500 IU/day** with vascular risk-factor workup. Evaluate the aorta
+    - **Spinal cord infarction — support perfusion and find the cause.** No established universal reperfusion/antithrombotic regimen. Use neurology/vascular
+      assessment and the suspected mechanism; an observational aspirin-plus-LMWH regimen
+      is not a standard prescription. Evaluate the aorta
       (CTA if dissection possible). Avoid hypotension.
     - **Dural AV fistula — do NOT give steroids** (rapid deterioration in about half of
       patients). DSA is the gold standard; treatment is embolization or surgical
       disconnection. Surgery is permanent; embolization is not possible if the feeder
       also supplies the anterior spinal artery.
 
-    → Compression, abscess, hematoma, and ischemia excluded on MRI → **Step 2**.
+    → Urgent imaging and clinical assessment support inflammatory myelitis, with compression
+    excluded and infection/vascular mimics addressed → **Step 2**.
 
 !!! orderset "Step 2 — inflammatory myelitis: IVMP, then disease-specific escalation and taper"
     - **IVMP — methylprednisolone 1,000 mg IV daily for 3–5 days** (children:
@@ -209,7 +209,7 @@ clinically isolated syndrome is established and alternatives are unlikely.
       2–3 weeks**, with low-dose maintenance for **3–6 months** to prevent early relapse
       until long-term immunotherapy takes effect. Untreated NMOSD attacks leave only
       21.6% fully recovered — do not wait.
-    - **MOGAD — IVMP; PLEX needed only occasionally.** Rescue with **PLEX or IVIG**
+    - **MOGAD — IVMP; add early PLEX for severe or inadequately responding attacks.** Rescue with **PLEX or IVIG**
       (IVIG **2 g/kg total over 2–5 days**); apheresis within 4.5 days improved recovery,
       and early escalation was linked to fewer relapses in children. **Slow taper over up
       to 6 months is common** — relapses cluster below about **10 mg prednisone** and
@@ -259,12 +259,10 @@ clinically isolated syndrome is established and alternatives are unlikely.
     - **Anchoring on enhancement or CSF pleocytosis** to call something myelitis — see
       Pitfalls above.
 
-!!! tip "TRICARE — acute myelopathy prescribing"
-    Acute IVMP, PLEX, and IVIG for myelitis are given as inpatient/acute care; long-term
-    NMOSD and MOGAD maintenance biologics are specialty, PA-gated therapies prescribed
-    through neurology — see the [NMOSD](ms/nmosd.md) and [MOGAD](ms/mogad.md) pages for
-    agent-specific pathways. *Verify current status at the TRICARE Formulary Search — DoD
-    P&T revises tiers.*
+!!! tip "TRICARE — verified rules and the current form"
+    Urgent MRI, surgery and inpatient rescue treatment should not wait for routine outpatient PA. Continuing immune treatment, outpatient PLEX/infusions and rehabilitation require their own benefit/site review. Use the cause-specific diagnosis and evidence; “myelopathy” alone does not establish every drug indication.
+
+    [Current PA/MN details, benefit routing and packet](military/tricare.md) · [Live Formulary Search](https://www.express-scripts.com/frontend/open-enrollment/tricare/fst). Check the exact product, beneficiary and venue on the prescribing date.
 
 ## Disposition
 
@@ -278,14 +276,8 @@ dysfunction, and pressure-injury prevention.
   retention in the acute phase; move to intermittent catheterization (or suprapubic
   catheter when needed) plus a scheduled laxative and bowel program. (Specific PVR
   thresholds and timing of catheter removal were not addressed in the sources used here.)
-- **DVT prophylaxis:** start LMWH within 72 hours of onset unless contraindicated — for
-  example active hematoma or the immediate postoperative period, when mechanical
-  prophylaxis bridges until LMWH can start. A proposed regimen from the spinal cord
-  literature is **enoxaparin 40 mg SC daily** for ambulatory patients weighing ≥50 kg,
-  with dose reduction in renal failure and longer courses (about 12 weeks, up to 24 weeks
-  in non-ambulatory patients with extra risk factors) as proposals, not validated
-  standards; evidence for DOACs is lacking. *The weight-based split of that proposal was
-  only partially captured — verify against the primary source before prescribing.*
+- **DVT prophylaxis:** use mechanical prophylaxis while bleeding risk prohibits anticoagulant prophylaxis, then start LMWH when the spine/surgical team judges it safe. Adjust for renal function, weight, procedures, and bleeding. Select duration with the spinal cord rehabilitation team according to mobility and VTE risk; do not prescribe an extended course from an incompletely captured research regimen.
+
 - **Rehabilitation:** start mobilization and rehabilitation once the patient is medically
   and surgically stable, ideally during the acute admission in a spinal cord unit, then
   move to secondary rehabilitation. Specific timing trials for non-traumatic myelopathy
@@ -293,36 +285,18 @@ dysfunction, and pressure-injury prevention.
 
 | Cause | Prognosis |
 |---|---|
-| Epidural abscess | Recovery best if decompressed within 48–72 h of onset; better than traumatic cord injury |
+| Epidural abscess | **Emergency spine/ID assessment and prompt source control**; do not use a 48–72h window as permission to wait |
 | Metastatic compression | Prompt treatment prevents paralysis; function before treatment drives outcome |
-| Spinal cord infarction | Fair or poor outcome in 91% at 12 months; rapid worsening means a worse prognosis |
+| Spinal cord infarction | Outcome varies with initial severity and cause; substantial late recovery is possible. Avoid applying a single cohort’s outcome percentage to every patient |
 | Dural AV fistula | Treatable; strength and gait improve more than pain or sphincter function; delay causes permanent deficit |
 | B12 / copper deficiency | Halts or improves with replacement; delayed treatment leaves residual deficits |
 
-!!! military "Military medicine — acute myelopathy"
-    *Framework — verify against current **AR 40-501**, **DoDI 6130.03**, **DoDI 1332.18**, service
-    deployment/aeromedical policy (and any relevant JTS CPG) before counseling.*
-
-    - **Deployability:** acute myelopathy is not deployable during the acute phase or while
-      the cause is unestablished; demyelinating causes carry their own deployment limits —
-      see [NMOSD](ms/nmosd.md) and [MOGAD](ms/mogad.md). Regimens requiring PLEX, inpatient
-      infusions, or close monitoring do not travel downrange.
-    - **Profile (DA Form 3349):** temporary profile during the acute phase and rehabilitation;
-      permanent profile for residual weakness, sensory loss, or sphincter dysfunction with
-      functional limits documented.
-    - **EPTS / LOD:** document onset, pre-service history, and any trauma, infection, or
-      procedure in the line-of-duty record; demyelinating disease often predates service
-      and affects existed-prior-to-service determinations.
-    - **Retention (AR 40-501 / DoDI 6130.03):** demyelinating disease falls under
-      **AR 40-501 para 3-31e** and the DoD floor **DoDI 6130.03 Vol 2 para 5.26.f** (gated by
-      5.26.a) — see the NMOSD/MOGAD pages for how those paragraphs apply. Residual visual
-      or motor deficit also engages para 5.26.c (CNS sequelae).
-    - **MEB / IDES:** refer on diagnosis of a demyelinating cause, or when residual deficits
-      persist after treatment and rehabilitation; document attack dates, MRI levels, and
-      residual deficits objectively — that documentation carries a board.
-    - **Aeromedical / special duty:** acute myelopathy and its causes are disqualifying for
-      flying duty pending evaluation; confirm current aeromedical policy and waiver
-      requirements before counseling.
+!!! military "Military medicine — duty, retention and deployment"
+    - **Profile / function:** A new cord syndrome requires urgent care/transfer. Subsequently document mobility, hand function, bladder/bowel, sensation and respiratory support.
+    - **Retention / MEB–MAR2:** Retention depends on cause, residual function and recovery; inflammatory demyelination, trauma, tumor and permanent paralysis invoke different standards. Use the [retention framework](military/deployability.md); permanent P3/4 does not by itself select DES versus MAR2.
+    - **Deployment / medications:** Assess recurrence, need for assistance, autonomic risk and access to rehabilitation/specialty care. Immunotherapy and anticoagulation create separate medication issues. See [the disease AND drug screen](military/deployment-medications.md) for the current CENTCOM rules and waiver packet.
+    - **Special duty:** flight, diving and other special assignments have separate standards and waiver authorities; a general duty profile does not clear them.
+    - **LOD / EPTS:** document onset, duty status, exposures and aggravation objectively. The designated authority determines LOD/EPTS; neither in-service diagnosis nor a genetic finding settles it automatically.
 
 ---
 
@@ -351,7 +325,7 @@ dysfunction, and pressure-injury prevention.
 - **Supportive care is outcome care.** Bladder/bowel programs, LMWH within 72 hours when
   safe, a spinal cord unit, and rehabilitation starting once stable — with prognosis set
   by cause and by function before treatment, especially in metastatic compression and
-  infarction (91% fair/poor at 12 months).
+  infarction (severity at nadir strongly influences recovery; a single cohort percentage is not a universal prognosis).
 
 **Key sources:** ACR Appropriateness Criteria Myelopathy 2026 Update; Wingerchuk et al.
 2015 NMOSD criteria; 2023 international MOGAD panel criteria (Banwell et al., *Lancet
@@ -390,38 +364,6 @@ AV fistulas (*Neurology* 2023).
    DAVF clues, missing-piece sign, DSA and disconnection.
 10. *Long-Term Outcomes After Periprocedural and Spontaneous Spinal Cord Infarctions:
     A Population-Based Cohort Study* — infarction prognosis.
-11. **TRICARE / DoD Uniform Formulary:** acute inpatient therapies vs PA-gated specialty
-    maintenance biologics for NMOSD/MOGAD — see the [NMOSD](ms/nmosd.md) and
-    [MOGAD](ms/mogad.md) pages for agent-specific pathways. *Verify at the TRICARE
-    Formulary Search.*
+- [Official TRICARE sources, retrieved forms and access limits](military/tricare.md).
 
-*Verified November 2026: the emergency sequence (compression first; MRI spine without and
-with IV contrast; whole spine when cancer is suspected), tempo classification (hyperacute
-minutes–hours, subacute hours–days under 3 weeks, beyond 3 weeks not transverse myelitis),
-red-flag thresholds (CRP often >100 mg/L, ESR >60 mm/h in epidural abscess), the MS/NMOSD/
-MOGAD comparison table, the 2015 NMOSD and 2023 MOGAD criteria, IVMP 1,000 mg × 3–5 days,
-PLEX ~5 exchanges daily or every other day with NMOSD escalation ideally within 2 days,
-the NMOSD prednisone taper (1 mg/kg/day to 10–15 mg/day over 2–3 weeks, low-dose 3–6 months),
-the MOGAD slow taper (up to 6 months; relapses below ~10 mg and within 2 months of stopping),
-IVIG 2 g/kg over 2–5 days, MSCC dexamethasone (10–16 mg bolus then 4–6 mg q6h; NCCN minimum
-4 mg q6h), abscess vancomycin + ceftriaxone (cefepime instead for IVDU, surgical-site
-infection, sepsis, or substantial deficits) with vancomycin 15–20 mg/kg q8–12h and
-cefepime 2 g q8h (CrCl >60 mL/min) dosing from clinician ChatGPT Q3, DAVF
-steroid-worsening (~50%) and DSA gold standard, the glatiramer distinction (ineffective
-at preventing NMOSD attacks, not a reported exacerbation trigger — clinician ChatGPT Q3),
-B12/copper diagnostic workup (MMA/homocysteine; copper/ceruloplasmin/zinc), LMWH
-within 72 hours, and the prognosis table were all checked against OpenEvidence (Osler)
-answers to four acute-myelopathy questions on 2026-11-02, cross-checked against clinician
-ChatGPT answers to the identical questions where captured. **Not independently verified in
-this round:** the dexamethasone 100 mg loading-dose comparison and the exact category-1
-surgery-plus-radiotherapy population wording (both scroll fragments); the PLEX
-"full recovery when started within 2 days" percentage (truncated); B12/copper replacement
-doses (not captured — use local protocol); the weight-based split of the proposed DVT
-prophylaxis regimen (partially captured — the enoxaparin 40 mg daily ambulatory dose and
-the 12-week / up to-24-week durations are captured, the 0.8 mg/kg/day subgroup split is
-not); OpenEvidence evidence-grade badges (not captured); and ChatGPT Q4 body (still
-generating when the draft was written — see the research file for its status at push
-time). Retention standards are
-quoted from AR 40-501 para 3-31e and DoDI 6130.03 Vol 2 para 5.26.f/5.26.a as used on the
-repo's NMOSD/MOGAD pages; confirm current editions and service-specific aeromedical policy
-before counseling. Educational clinical decision-support only — not medical advice.*
+*Evidence/policy audit: 21 November 2026. Material changes were checked against the linked primary sources; this is an AI-assisted review, not certification of every dose or claim. [Review scope and source limits](evidence-review.md).*

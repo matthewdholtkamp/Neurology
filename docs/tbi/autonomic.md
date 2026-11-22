@@ -23,11 +23,12 @@ is a **severe-TBI ICU** emergency — different population, setting, and drugs. 
     - **Symptoms:** orthostatic intolerance/lightheadedness, **exertional symptom exacerbation**,
       palpitations/tachycardia, sweating and temperature dysregulation.
     - **Orthostatic vitals / POTS:** sustained **HR rise ≥30 bpm** (**≥40 in adolescents**) within
-      10 min of standing/tilt, **without** orthostatic hypotension. **Concussion is a recognized POTS
+      10 min of standing/tilt, **without** orthostatic hypotension, with orthostatic symptoms **≥3 months** and no alternative
+      cause such as dehydration, anemia, hyperthyroidism, medication effects, or prolonged bed rest.
+      Acute post-concussion tachycardia alone is not established POTS. **Concussion is a recognized POTS
       trigger**, and POTS **resolution tends to parallel return to activity** — reinforcing exercise as
       treatment.
-    - **Buffalo Concussion Treadmill Test (BCTT)** — the validated exercise-tolerance test (**~94%
-      sensitivity, ~95% specificity** for concussion): walk at **3.3 mph / 0% incline**, **increase
+    - **Buffalo Concussion Treadmill Test (BCTT)** — an exercise-tolerance assessment, **not a standalone diagnostic test for concussion**: walk at **3.3 mph / 0% incline**, **increase
       incline 1° per minute**, rate symptoms every minute; **stop at a ≥3-point symptom rise (0–10
       scale)** or volitional exhaustion. In community (non-athlete) adults, ~56% show exercise
       intolerance at 1 week and ~48% at 1 month.
@@ -50,11 +51,13 @@ is a **severe-TBI ICU** emergency — different population, setting, and drugs. 
     Drugs here are **borrowed from the general OH/POTS literature**, not TBI-specific. **Exhaust
     non-pharmacological measures first** (they are the cornerstone):
 
-    - **First-line (non-drug):** **fluids 2–3 L/day**, **salt 10–12 g/day**, **compression garments**,
+    - **First-line (non-drug):** **fluids 2–3 L/day**, **salt up to 10–12 g/day when appropriate** (not 10–12 g sodium; avoid indiscriminate loading
+      in hypertension, cardiac, or renal disease), **compression garments**,
       and the **graded exercise program** above.
     - **If insufficient, symptom-directed:** **beta-blocker or ivabradine** (palpitation-dominant);
-      **midodrine** (hypotension-dominant); **atomoxetine** (an NRI — for brain fog with low
-      catecholamines); **pyridostigmine** as an adjunct. **Fludrocortisone** for refractory volume
+      **midodrine** (hypotension-dominant); **pyridostigmine** as an adjunct. **Avoid atomoxetine as routine POTS treatment**: a
+      randomized crossover trial found worse standing tachycardia and symptoms. NRI use in selected
+      neurogenic orthostatic hypotension is a different indication. **Fludrocortisone** for refractory volume
       support.
 
 !!! note "Temperature dysregulation — practical, and military-relevant"
@@ -118,11 +121,8 @@ consideration. See the [TBI hub](index.md) and the exercise prescription on the
    2019); Wieling W, et al. *Diagnosis and treatment of orthostatic hypotension* (Lancet Neurol 2022);
    Sicard V, et al. *Orthostatic autonomic dysregulation in pediatric concussion* (JAMA Netw Open 2025).
 
-*Verified July 2026: the separation of mTBI autonomic dysfunction from PSH, the pathophysiology
-(cerebrovascular-autoregulation basis of exercise intolerance), the BCTT protocol and diagnostic
-accuracy, the SSTAE prescription (80% of symptom-threshold HR, 20 min, 5–6 d/wk, retest q2–3 wk) with
-adult-RCT nuance, POTS criteria and concussion-trigger data, the non-drug-first orthostatic
-pharmacotherapy algorithm, and the PSH-AM tool plus management ladder (triggers/opioids/propranolol/
-alpha-2/gabapentin/nutrition) reflect the 2017 Lancet Neurology review, 2024 ACS Best Practices, 2014
-PSH-AM consensus, and the peer-reviewed sources cited above. Confirm current ICU protocols and
-specialty-referral pathways before applying.*
+- [Atomoxetine randomized crossover trial in POTS](https://pubmed.ncbi.nlm.nih.gov/24002370/).
+
+**Military follow-through:** [retention/profile framework](../military/deployability.md), [disease and medication deployment screen](../military/deployment-medications.md), and [TRICARE access](../military/tricare.md). Apply the diagnosis-specific assessment rather than clearing duty from symptom improvement alone.
+
+*Evidence/policy audit: 21 November 2026. Material changes were checked against the linked primary sources; this is an AI-assisted review, not certification of every dose or claim. [Review scope and source limits](../evidence-review.md).*

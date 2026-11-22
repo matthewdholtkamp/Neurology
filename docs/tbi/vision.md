@@ -5,8 +5,8 @@
 *Part of the [TBI work-up & comorbidities](index.md) hub.*
 
 **One-liner:** **convergence insufficiency and oculomotor dysfunction** are common after TBI and drive
-reading difficulty, headache, and "screen intolerance" — screen routinely, because **office-based
-vision therapy has now-strong (Level 1) evidence.** Convergence insufficiency runs **~36%** and
+reading difficulty, headache, and "screen intolerance" — screen routinely, because **targeted vergence/accommodative therapy has randomized evidence for a defined
+concussion-related convergence-insufficiency population.** Convergence insufficiency runs **~36%** and
 accommodative dysfunction **~43%** after TBI, visual-field loss **~18%** overall; **69%** of persisting
 concussions have **≥1** vision disorder, and **>40%** of blast-TBI veterans report diplopia.
 
@@ -56,16 +56,16 @@ concussions have **≥1** vision disorder, and **>40%** of blast-TBI veterans re
 
 !!! orderset "Convergence / accommodative insufficiency — office-based therapy (Level 1)"
     - **Refer for office-based vergence/accommodative therapy with movement (OBVAM)** — the **CONCUSS
-      RCT (BJSM 2026)**, the first randomized trial for **concussion-related CI**, found **88% success
-      with immediate therapy vs 8% delayed** at 6 weeks (NPC improved 7.9 vs 1.8 cm; PFV +17.5Δ vs
+      RCT**, in **11–25-year-olds with symptomatic CI 4–24 weeks after concussion**, found
+      **88% successful-or-improved vs 8% with delayed treatment** on a composite NPC/PFV outcome at 6 weeks (NPC improved 7.9 vs 1.8 cm; PFV +17.5Δ vs
       2.5Δ; **79% symptom improvement vs 13%**), and a secondary analysis showed **86% resolution of
       accommodative insufficiency vs 28%.** **Refer early** — immediate therapy shortens the
       symptomatic period and speeds return to activity.
     - **Evidence hierarchy — prescribe the right thing:**
         - **Office-based** vergence/accommodative therapy is **best** (CITT high-certainty; CONCUSS
           extends it to concussion CI).
-        - **Home pencil push-ups alone = placebo** — a common misconception; **do not** prescribe as
-          standalone treatment.
+        - **Home pencil push-ups alone have weaker evidence** and should not be presented as
+          equivalent to the studied office-based program; discuss an accessible specialist plan.
         - **Saccade and pursuit training** have **insufficient** evidence; there is **no rationale** for
           **binasal occlusion, yoked prisms, or monocular vertical prisms** (AAN/NANOS 2022).
         - **Trial, then reassess** — VA/DoD rates the evidence low and cautions against **prolonged**
@@ -76,9 +76,8 @@ concussions have **≥1** vision disorder, and **>40%** of blast-TBI veterans re
     - **But** prolonged tinted-lens use **may impede long-term adaptation** — 1-year light-intolerance
       recovery was **less** likely in tinted-lens wearers (AAN/NANOS 2022). **Pair with graded light
       exposure; avoid indefinite dark-adaptation behavior.**
-    - **Treat the underlying migraine phenotype** — individualized spectral filters in a military cohort
-      (n=392) cut monthly migraines **14.8 → 1.9** with **74%** migraine-free and **>70%** less
-      medication (see [headache](headache.md)).
+    - **Treat the underlying migraine phenotype.** Uncontrolled spectral-filter cohorts cannot
+      establish that filters cause large migraine reductions or replace standard prevention.
 
 !!! orderset "Diplopia / strabismus — prisms first"
     - For **small-angle strabismus or decompensated phorias**, **prism glasses give immediate relief**
@@ -127,12 +126,8 @@ oculomotor deficits; document objective findings (NPC, VOMS, King-Devick, fields
 11. Simpson-Jones ME, Hunt AW. *Vision rehabilitation interventions following mTBI — scoping review*
     (Disabil Rehabil 2019) — prisms.
 
-*Verified July 2026: prevalence (CI ~36%, AI ~43%, visual-field loss ~18%; 69% of persisting concussions
-with ≥1 vision disorder), the AAN/NANOS diagnostic spectrum, assessment cutoffs (VOMS ≥2/NPC >5 cm,
-King-Devick, accommodative amplitude), the CONCUSS RCT (Level 1 evidence for office-based
-vergence/accommodative therapy in concussion CI), the evidence hierarchy (office-based > home; pencil
-push-ups = placebo; saccade/pursuit training and yoked/binasal prisms unsupported), the nuanced
-photophobia guidance (FL-41 relief but graded exposure; individualized spectral filters), prisms for
-diplopia, and the VA/DoD urgent-referral red flags reflect the 2022 AAN/NANOS statement, VA/DoD (2021)
-CPG, and the peer-reviewed sources cited above. Confirm current specialty-referral pathways before
-disposition.*
+- [CONCUSS randomized trial (population and composite outcome)](https://bjsm.bmj.com/content/early/2025/09/30/bjsports-2025-109807).
+
+**Military follow-through:** [retention/profile framework](../military/deployability.md), [disease and medication deployment screen](../military/deployment-medications.md), and [TRICARE access](../military/tricare.md). Apply the diagnosis-specific assessment rather than clearing duty from symptom improvement alone.
+
+*Evidence/policy audit: 21 November 2026. Material changes were checked against the linked primary sources; this is an AI-assisted review, not certification of every dose or claim. [Review scope and source limits](../evidence-review.md).*

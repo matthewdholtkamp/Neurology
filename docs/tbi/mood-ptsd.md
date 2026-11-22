@@ -58,8 +58,7 @@ non-TBI military), **depression ~30% in the first year** (~80% of episodes begin
     Guideline-recommended agents are **specific** — not all SSRIs qualify:
 
     - **First-line (VA/DoD 2023, Strong for): paroxetine 20 → 60 mg**, **sertraline 50 → 200 mg**, or
-      **venlafaxine XR 75 → 225 mg.** **Escitalopram is *not* PTSD-recommended** (no PTSD-specific
-      evidence), and **fluoxetine was dropped** from the recommended list on updated evidence.
+      **venlafaxine XR 75 → 225 mg.** **Escitalopram has insufficient evidence for a VA/DoD recommendation for PTSD**, and **fluoxetine was dropped** from the recommended list on updated evidence.
     - **Prazosin — nuance the evidence.** The large **PACT trial (NEJM 2018, n=304 veterans) was
       negative** for nightmares/PTSD at 26 weeks. But a 2025 meta-analysis (10 RCTs, n=648) found
       prazosin **improves nightmares (SMD −0.64) and insomnia (SMD −0.65)** — **not overall PTSD.**
@@ -85,7 +84,8 @@ non-TBI military), **depression ~30% in the first year** (~80% of episodes begin
     active-duty)** found **two right-sided SGBs cut CAPS-5 by −12.2 points vs sham**; a 2026 VA series
     (n=579) reported **68% clinically meaningful improvement at 1 week.** **Hyperarousal symptoms
     respond best**, effects last **~3–6 months**, and it can be **repeated.** The **VA actively offers
-    SGB** — reasonable **adjunct** for refractory hyperarousal.
+    SGB** in selected settings; VA/DoD finds **insufficient evidence for or against** it.
+    Discuss uncertainty, procedural risk, and coverage with a specialist.
 
 !!! warning "MDMA-assisted therapy — not FDA-approved"
     The **FDA declined to approve** MDMA-assisted psychotherapy for PTSD in **August 2024** (trial-
@@ -101,19 +101,18 @@ non-TBI military), **depression ~30% in the first year** (~80% of episodes begin
     transgression, not threat.
 
 !!! tip "Treat the domains together — they're bidirectional"
-    - **SSRIs/SNRIs also reduce headache frequency** (2025 AAPM&R) — a **dual-purpose** choice when
-      mood **and** [headache](headache.md) coexist.
+    - **Venlafaxine may serve both mood and migraine prevention.** Do not assume every SSRI is an
+      established headache preventive; select each drug for its supported indication and the patient.
     - **Treating [sleep](sleep.md)** (CBT-I; prazosin for nightmares) substantially improves mental
       health — treat concurrently or prioritize by severity.
     - **Refer for *headache-specific* CBT**, not just PTSD care: it improved **both** the headache and
       PTSD in veterans (McGeary 2022), whereas treating PTSD alone did **not** fix the headache (see the
       [PTH page](../headache/post-traumatic.md)).
 
-!!! tip "TRICARE — mood/PTSD prescribing"
-    **Sertraline, paroxetine, escitalopram, venlafaxine, prazosin, amantadine, propranolol**, and
-    **generic methylphenidate** (**Schedule II** — stimulant rules apply) are formulary/generic.
-    **CPT/PE/EMDR/WET**, and **SGB** go through behavioral-health / pain or anesthesia referral. *Verify
-    at the TRICARE Formulary Search.*
+!!! tip "TRICARE — verified rules and the current form"
+    Most drugs here treat a specific comorbid symptom, often off label after TBI. Document that diagnosis, the trial and functional response. Do not promise coverage for stimulants, sleep drugs, devices, SGB or rehabilitation from the TBI label alone; obtain the current drug/service-specific rule.
+
+    [Current PA/MN details, benefit routing and packet](../military/tricare.md) · [Live Formulary Search](https://www.express-scripts.com/frontend/open-enrollment/tricare/fst). Check the exact product, beneficiary and venue on the prescribing date.
 
 *Military note:* PTSD, depression, and **suicide risk** are central to deployability, profile, and
 MEB/DES decisions — document screening, diagnosis, treatment trials, and response. See the
@@ -154,11 +153,8 @@ MEB/DES decisions — document screening, diagnosis, treatment trials, and respo
     Ragsdale KA, Voss Horrell SC. *PE and CPT in veterans with TBI history* (J Trauma Stress 2016) —
     trauma-focused therapy effective in comorbid TBI.
 
-*Verified July 2026: prevalence (military PTSD ~36–37%, depression ~30% first year; JAMA Netw Open 2024
-decade-long risk), screening tools/timing (PHQ-9/GAD-7/PCL-5/C-SSRS/AUDIT-C, standard cutoffs, ~1-month +
-repeat), PTSD psychotherapy hierarchy (CPT/PE/EMDR Strong-for + WET) and pharmacotherapy (paroxetine/
-sertraline/venlafaxine; escitalopram not PTSD-indicated; fluoxetine dropped), the nuanced prazosin
-position (PACT negative overall; Weak-for nightmares), methylphenidate for depression (ACRM 2026),
-amantadine-led agitation management, SGB, and MDMA regulatory status reflect the 2023 VA/DoD, 2025 APA,
-2025 AAPM&R, and 2026 ACRM sources cited above. Confirm current TRICARE formulary/PA status and
-Schedule II/IV constraints before prescribing.*
+- [VA/DoD PTSD CPG](https://www.healthquality.va.gov/guidelines/MH/ptsd/).
+
+**Military follow-through:** [retention/profile framework](../military/deployability.md), [disease and medication deployment screen](../military/deployment-medications.md), and [TRICARE access](../military/tricare.md). Apply the diagnosis-specific assessment rather than clearing duty from symptom improvement alone.
+
+*Evidence/policy audit: 21 November 2026. Material changes were checked against the linked primary sources; this is an AI-assisted review, not certification of every dose or claim. [Review scope and source limits](../evidence-review.md).*

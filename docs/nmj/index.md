@@ -52,15 +52,15 @@ disposition is not automatic.
 
     !!! warning "Two intubation traps specific to MG"
         - **The two paralytic classes go in OPPOSITE directions — do not treat them as one rule.**
-            - **Succinylcholine: MG patients are RESISTANT** (fewer endplate receptors; ED95 ≈2.6×
-              normal). If you use it, **dose UP — 1.5–2 mg/kg — not down.** An under-dosed RSI in a
-              patient with no respiratory reserve is the disaster. Pyridostigmine also inhibits
-              plasma cholinesterase, so block may be prolonged and phase-II block more likely on
-              repeat dosing.
-            - **Non-depolarizing blockers: MG patients are exquisitely SENSITIVE** — 10–50% of the
-              normal dose, titrated to twitch monitoring.
-            - **Preferred where available: rocuronium 0.6 mg/kg with sugammadex immediately at
-              hand.** Tell anesthesia the patient has MG *before* induction, every time.
+            - **Succinylcholine:** resistance can coexist with prolonged block from pyridostigmine;
+              the net response is unpredictable. Do not apply a simple “always dose up” rule.
+            - **Nondepolarizing blockers:** sensitivity is increased. Elective titrated doses may
+              be much smaller than standard; **emergency RSI is a different decision**.
+            - Involve an experienced airway/anesthesia clinician, prepare **quantitative
+              neuromuscular monitoring** and postoperative ventilation, and use a deliberate
+              rocuronium/sugammadex plan where appropriate. Sugammadex does not reverse the
+              underlying myasthenic respiratory weakness or guarantee successful extubation.
+
         - **Do not give IV magnesium** to a crashing MG patient (e.g. for a coincident indication)
           — it blocks neuromuscular transmission and can precipitate or deepen crisis. See the
           pregnancy/eclampsia caveat in the drug list below.
@@ -149,7 +149,7 @@ The trials this page cites are written in this language, so the page uses it too
 | **II** | **Mild** generalized weakness |
 | **III** | **Moderate** generalized weakness |
 | **IV** | **Severe** generalized weakness |
-| **V** | **Intubation**, or NIV to avoid intubation |
+| **V** | **Intubation**, excluding routine postoperative intubation; NIV alone does not define class V |
 
 Subclass **a** = limb/axial predominant; **b** = oropharyngeal/respiratory predominant.
 *MGTX enrolled Class II–IV.*
@@ -233,16 +233,17 @@ Subclass **a** = limb/axial predominant; **b** = oropharyngeal/respiratory predo
         can lead to inadvertent induction of cholinergic crisis.** A patient on scheduled
         glycopyrrolate can be walked into depolarizing block with a dry mouth.
 
-    **When it is unclear, holding pyridostigmine is the safe move** — it is symptomatic only, and
-    nothing is lost by stopping it while you secure the airway.
+    **In respiratory failure or suspected cholinergic toxicity, secure the airway and hold
+    pyridostigmine under monitored care.** It is not harmless to stop effective symptomatic therapy
+    casually in a stable nonintubated patient; reassess the diagnosis, renal function, and dosing.
 
 !!! warning "No ICU, no spirometer, no IVIG — the far-forward version"
     Everything above assumes a hospital. If you are in an aid station, afloat, or forward:
 
-    - **Single-breath count is your FVC.** Count it hourly and write down every value — the trend
+    - **Single-breath count is a bedside surrogate, not a measured FVC.** Count it hourly and write down every value — the trend
       is the whole signal.
     - **Request urgent MEDEVAC** the moment the count is ≤20, the patient cannot manage secretions,
-      or **the count has fallen at all between checks.** Do not wait for a number, and do not wait
+      or there is a **credible downward trend or clinical deterioration**. Do not wait for a number, and do not wait
       for daylight.
     - **Intubate before transport, not during.** A patient who is marginal on the ground is
       unmanageable in an aircraft or a small boat.
@@ -266,11 +267,12 @@ Subclass **a** = limb/axial predominant; **b** = oropharyngeal/respiratory predo
     - **Plasma exchange — 5 sessions over 7–10 days**, 1.0–1.5 plasma volumes (40–60 mL/kg) each.
       **First-line in crisis absent a contraindication**, and particularly effective in **MuSK
       disease.** Daily vs alternate-day showed no efficacy difference. Improvement is usually
-      evident **by the 2nd–3rd session.** Unusable in sepsis; carries haemodynamic and access risk.
-    - **IVIG 2 g/kg total, divided over 2–5 days.** Easier logistically, no vascular access issue.
+      evident **by the 2nd–3rd session.** **Sepsis/hemodynamic instability and vascular-access risk may favor IVIG**; assess individually.
+    - **IVIG 2 g/kg total, divided over 2–5 days.** Easier logistically; **still requires suitable IV access**.
       Improvement usually **by the 4th–5th day**; effect lasts ~4–8 weeks. *Off-label — no immune
-      globulin product carries an FDA myasthenia indication.* Contraindicated in hypercoagulable
-      states, renal failure, and IgG hypersensitivity.
+      globulin product carries an FDA myasthenia indication.* **Thrombosis and renal failure are major risk factors/warnings**, not universal absolute
+      contraindications. Check the chosen product’s contraindications (including relevant severe
+      hypersensitivity/IgA-antibody history), use an appropriate preparation and infusion plan.
     - **Start or intensify chronic immunotherapy in parallel** — IVIG/PLEX is a bridge, not a
       maintenance plan. Steroids are usually begun or increased now (watch the early-worsening
       window, below).
@@ -284,7 +286,7 @@ Subclass **a** = limb/axial predominant; **b** = oropharyngeal/respiratory predo
     - **Check baseline renal function, ensure adequate hydration, and use the lowest practicable
       dose and infusion rate** in at-risk patients. Watch for aseptic meningitis and haemolysis.
 
-!!! warning "If a patient on a C5 inhibitor gets PLEX or IVIG, you owe them a supplemental dose"
+!!! warning "PLEX / IVIG can alter C5-drug exposure — check the specific label"
     This page's own crisis pathway creates exactly this sequence. **PLEX, plasmapheresis and IVIG
     strip circulating drug and abolish complement blockade.** Both labels require make-up dosing:
 
@@ -423,8 +425,7 @@ Subclass **a** = limb/axial predominant; **b** = oropharyngeal/respiratory predo
         MG-ADL; a German real-world propensity-matched comparison of C5 vs efgartigimod (n=153)
         found the same, **with insufficient response in 20–49% of patients in both arms.**
         **Choose on serostatus, route, dosing architecture and cost — not on presumed potency.**
-        Two practical differentiators: **cyclical FcRn dosing requires symptom worsening to trigger
-        the next cycle**, which creates timing uncertainty, whereas nipocalimab and the complement
+        Two practical differentiators: **cyclical FcRn dosing uses clinical evaluation to schedule subsequent cycles**, which creates timing uncertainty, whereas nipocalimab and the complement
         agents run on fixed schedules; and **B-cell depletion accrues effect over time** — MINT's
         AChR-positive benefit widened between week 26 and week 52.
 
@@ -461,22 +462,21 @@ Subclass **a** = limb/axial predominant; **b** = oropharyngeal/respiratory predo
 
     - **Eculizumab (Soliris)** — **900 mg IV weekly × 4, then 1,200 mg IV at week 5, then 1,200 mg
       IV every 2 weeks.** *Do not start at q2wk — that skips the entire induction month.*
-      **Now also approved in children ≥6 (AChR+, Feb 2025)** — the only MG biologic approved in
-      children. **Biosimilars are marketed and carry the same gMG indication** (BKEMV,
-      interchangeable; EPYSQLI) — expect step-therapy through one.
+      **Now also approved in children ≥6 (AChR+, Feb 2025)** — alongside nipocalimab’s adolescent indication. **Biosimilars are marketed and carry the same gMG indication** (BKEMV,
+      interchangeable; EPYSQLI). Check product-specific authorization requirements with the payer.
     - **Ravulizumab (Ultomiris)** — **weight-based load, then q8wk maintenance starting 2 weeks
       after the load** (gMG, ≥40 kg): 40–<60 kg **2,400 → 3,000 mg**; 60–<100 kg **2,700 → 3,300
       mg**; ≥100 kg **3,000 → 3,600 mg.**
     - **Zilucoplan (Zilbrysq)** — **SC once daily, weight-banded: <56 kg 16.6 mg; 56–<77 kg 23 mg;
       ≥77 kg 32.4 mg**, self-injected after training. **Obtain baseline amylase and lipase before
       starting** — pancreatitis and pancreatic cysts are labelled; stop for suspected pancreatitis.
-    - **The prescriber must enrol in a REMS** for all three. This gates access — start it before
+    - **Gefurulimab (Klygefa)** — **FDA-approved 13 November 2026** for **adult AChR-positive gMG**. SC dosing is weight-based: **<80 kg, 600 mg on day 1 then 300 mg weekly from day 8; ≥80 kg, 900 mg on day 1 then 600 mg weekly from day 8**. Each device contains **300 mg/2 mL**. It has a boxed meningococcal-infection warning and a REMS. Complete MenACWY/MenB vaccination at least two weeks beforehand, or give label-directed antibacterial prophylaxis and vaccination when urgent treatment cannot wait. Check supplemental dosing after plasma exchange. [FDA label](https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/761488s000lbl.pdf).
+    - **The prescriber must enrol in the product’s REMS** for these four C5 inhibitors. This gates access — start it before
       the patient needs the drug.
 
     !!! danger "C5 inhibitors — boxed warning: life-threatening and fatal meningococcal infection"
         - **Vaccinate against serogroups A, C, W, Y *and* B — that is two separate vaccines
-          (MenACWY + MenB) — ≥2 weeks before the first dose**, per current ACIP schedules for
-          complement-inhibitor recipients, which differ from the package insert. *MenACWY alone
+          (MenACWY + MenB) — ≥2 weeks before the first dose**, using current ACIP schedules for complement-inhibitor recipients. Current product labels direct clinicians to ACIP recommendations. *MenACWY alone
           leaves the patient exposed to the serogroup that classically kills them.*
         - **If therapy is urgent and the patient is not up to date, do not delay two weeks.** The
           labels are explicit: give **antibacterial prophylaxis** and vaccinate as soon as
@@ -484,6 +484,16 @@ Subclass **a** = limb/axial predominant; **b** = oropharyngeal/respiratory predo
         - **Vaccination does not eliminate the risk** — breakthrough meningococcal disease occurs
           in vaccinated patients. Counsel on symptoms and evaluate immediately if suspected.
         - Same rules as in [NMOSD](../ms/nmosd.md).
+
+    **C5 production silencing — newly approved:**
+
+    - **Cemdisiran (Livsayis)** — FDA-approved **18 November 2026** for **adult AChR-positive gMG**.
+      **567 mg SC (three 189-mg/1-mL vials) every 3 months, administered by a healthcare provider.**
+      This is an **siRNA**, not a C5 antibody. It carries a **boxed meningococcal-infection warning
+      and a REMS**; update **MenACWY and MenB ≥2 weeks before starting**, or use label-directed
+      antibacterial prophylaxis if urgent treatment cannot wait. **Do not initiate with unresolved
+      serious meningococcal infection.** New approval does not establish TRICARE coverage or
+      deployment clearance. [Full prescribing information](https://www.regeneron.com/downloads/livsayis_fpi.pdf).
 
     **B-cell depletion:**
 
@@ -513,7 +523,7 @@ Subclass **a** = limb/axial predominant; **b** = oropharyngeal/respiratory predo
 |---|---|
 | **AChR+ generalized** | Pyridostigmine + steroids/steroid-sparing; **discuss thymectomy** if non-thymomatous; escalate to **FcRn, complement, or inebilizumab** — the only group with all three classes available |
 | **MuSK+** | Pyridostigmine often poorly tolerated; **rituximab early**; **FcRn (efgartigimod, rozanolixizumab, nipocalimab)** or inebilizumab; **complement inhibitors do not work**; **thymectomy does not help** |
-| **Seronegative generalized** | **Send a clustered-AChR CBA first — most "seronegative" patients are assay-negative, not antibody-negative.** If truly triple-seronegative: pyridostigmine + steroids/steroid-sparing (not serostatus-restricted), then **efgartigimod — the only FDA-approved biologic for this group** (all-serotype label, May 2026). Complement inhibitors, rozanolixizumab, nipocalimab and inebilizumab all remain serostatus-restricted. IVIG/PLEX and off-label rituximab are the fallbacks. *Efficacy data in true triple-seronegative disease are small and largely uncontrolled — say so to the patient.* |
+| **Seronegative generalized** | **Send a clustered-AChR CBA first — some conventionally seronegative patients have antibodies detected by cell-based assays.** If truly triple-seronegative: pyridostigmine + steroids/steroid-sparing (not serostatus-restricted), then **efgartigimod — the only FDA-approved biologic for this group** (all-serotype label, May 2026). Complement inhibitors, rozanolixizumab, nipocalimab and inebilizumab all remain serostatus-restricted. IVIG/PLEX and off-label rituximab are the fallbacks. *Efficacy data in true triple-seronegative disease are small and largely uncontrolled — say so to the patient.* |
 | **Any thymoma** | **Surgical resection regardless** of severity or serostatus — but see the exceptions and the timing rule below |
 | **Ocular-only** | Pyridostigmine first; **add corticosteroids (~15 mg/day is often enough) if symptoms are functionally limiting or troublesome** — this is a positive recommendation, not a coin-flip. Whether it *prevents generalization* is supported by consistent observational data awaiting randomized confirmation |
 | **Crisis / refractory** | **PLEX first-line in crisis** (IVIG if PLEX unavailable); escalate chronic therapy in parallel |
@@ -646,149 +656,19 @@ manifestation status at 36 months of **20% (95% CI 1.6–37%).**
       **mycophenolate and methotrexate are contraindicated**, so review the regimen *before*
       conception.
 
-!!! tip "TRICARE — MG prescribing"
-    Pyridostigmine, prednisone, azathioprine, and mycophenolate are **generic/formulary.** The
-    **targeted biologics** (all FcRn inhibitors, all complement inhibitors, inebilizumab) are
-    **high-cost specialty drugs, PA-gated.** Expect a **specialist-prescriber or
-    neurologist-consultation requirement** and documentation of serostatus and failed conventional
-    therapy.
+!!! tip "TRICARE — verified rules and the current form"
+    **Zilbrysq** has a pharmacy PA flag. The **Vyvgart Hytrulo 1,000-mg/5-mL prefilled syringe** has a new-to-market pharmacy PA flag, with product-specific criteria. IV/vial formulations and other clinician-administered therapies need a benefit/site check. **Klygefa and Livsayis were approved after the October file**; obtain current coverage and REMS access directly. Do not use LEMS or NMOSD PA criteria for gMG.
 
-    - **Start with the generics and document them.** Pyridostigmine, prednisone, and azathioprine
-      or mycophenolate are the conventional trials every biologic PA will ask you to have failed —
-      **record drug, dose, and duration for each from the first visit**, not retrospectively.
-    - **Serostatus drives coverage as well as efficacy.** Complement C5 inhibitors are FDA-labeled
-      for **AChR-antibody-positive** gMG only, and payer criteria generally track the label —
-      expect an AChR+ requirement on any complement request and route the MuSK patient accordingly.
-      **Efgartigimod is now the exception: its all-serotype label (May 2026) removes the serostatus
-      argument entirely**, which matters most for MuSK and seronegative patients. Published
-      criteria for this class typically also require **MGFA class II–IV** and failure of or
-      contraindication to **≥2 conventional therapies**, and bar concurrent use of two gMG
-      biologics.
-    - **Rituximab is off-label in MG — argue it as off-label, not as formulary.** TRICARE evaluates
-      off-label use on **medical necessity plus support from medical literature and national
-      organizations**, not on formulary tier. For MuSK disease that argument is available: cite the
-      2020 International Consensus Guidance, the MuSK-specific response data, and the mechanistic
-      reason complement inhibitors are unavailable.
-    - **Benefit split decides where the drug is given and who bills.** Infused agents (eculizumab,
-      ravulizumab, inebilizumab, **IV nipocalimab**, IV efgartigimod) typically run through the
-      **medical benefit**; self-administered SC agents (zilucoplan, SC efgartigimod,
-      rozanolixizumab) through **specialty pharmacy**, which sets the copay tier.
-    - **Eculizumab is a biosimilar market now** (BKEMV, interchangeable; EPYSQLI) — both carry the
-      adult AChR+ gMG indication and cost substantially less, so expect step-therapy through one.
-      The **meningococcal boxed warning and REMS apply identically** to all three.
-    - **IVIG — split the two settings.** **Inpatient crisis IVIG runs under the inpatient benefit;
-      do not delay it for an authorization.** **Outpatient maintenance or bridging IVIG** is a
-      medical-benefit authorization — open it the day you decide the patient will need it, because
-      the lag is unprotected time.
-    - **Verify every agent and its criteria at the [TRICARE Formulary Search](https://www.express-scripts.com/frontend/open-enrollment/tricare/fst)
-      before counseling — the DoD P&T Committee revises tiers and PA criteria without notice.**
-      *The specifics above are the general payer pattern; TRICARE-specific criteria were not
-      independently verified for this page.*
+    [Current PA/MN details, benefit routing and packet](../military/tricare.md) · [Live Formulary Search](https://www.express-scripts.com/frontend/open-enrollment/tricare/fst). Check the exact product, beneficiary and venue on the prescribing date.
 
 ---
 
-!!! military "Military medicine — myasthenia gravis"
-    *Framework — verify against current **AR 40-501**, **DoDI 6130.03 Vol 2**, **DoDI 1332.18**, and
-    service aeromedical policy. See [Profiles, MEB/MAR2 & deployability](../military/deployability.md).*
-
-    - **Retention — and the carve-out that decides the case.** **AR 40-501 para 3-31c** lists
-      **myasthenia gravis, *"Unless clinically restricted to extraocular muscles."*** The DoD floor
-      is **DoDI 6130.03 Vol 2 para 5.26.l**, *"myasthenia gravis, unless only involving extraocular
-      muscles."* Both retain purely ocular disease and disqualify generalized disease — but they
-      are **not structurally identical**, and the difference matters:
-        - **MG is *not* an "upon diagnosis" condition.** Unlike epilepsy (5.26.k) and dementia
-          (5.26.d), which carry *"Paragraph 5.26.a. does not apply,"* MG **stays gated by 5.26.a**:
-          the condition must *persist despite appropriate treatment* **and** *preclude satisfactory
-          performance of required duties.* **Document both prongs explicitly** — a board memo that
-          skips them is the mis-cited document.
-        - Add the **AR 40-501 3-1** criteria generalized MG most readily meets: **3-1b**
-          (medication requiring frequent physician monitoring) and **3-1d** (dependence on frequent
-          special treatments or clinical monitoring).
-    - **The ocular carve-out does not end the retention analysis.** Check and document three more
-      standards before concluding "retains": **AR 40-501 3-7b / DoDI 6130.03 V2 5.4.e** (binocular
-      diplopia "not correctable by surgery, that is severe, constant, and in a zone less than 20
-      degrees from primary position" — **in MG the fluctuating character usually defeats
-      "constant," so say so rather than leaving it unaddressed**); **3-31k**, residual symptoms
-      after adequate treatment meeting the para 3-1 definition; and **3-1b/3-1d**, which chronic
-      immunotherapy or scheduled infusion can meet **even in ocular-only disease.**
-    - **Deployability: generalized MG is non-deployable**, on multiple independent grounds:
-        - **Crisis risk** — a respiratory emergency that needs IVIG/PLEX and an ICU is
-          incompatible with an austere or afloat environment.
-        - **Infusion/monitoring-dependent therapy** and **immunosuppression.**
-        - **Cold chain is the hard constraint.** Every approved biologic here — and IVIG — requires
-          continuous **2–8 °C** storage. That fails before the infusion schedule does.
-        - **Live vaccines vs immunosuppression.** Theater-entry immunization requirements commonly
-          include live vaccines that are contraindicated on immunosuppressive therapy — a
-          theater-entry blocker independent of how well the MG is controlled.
-        - **Complement inhibitors create a standing meningococcal risk** (boxed warning, REMS,
-          revaccination schedule) that is hard to manage forward and dangerous in a crowded field
-          environment.
-        - **Nerve-agent pretreatment conflict.** A Soldier already on therapeutic pyridostigmine
-          cannot take standard **pyridostigmine bromide** pretreatment and is hypersensitive to
-          cholinesterase inhibition generally — see [nerve agent / organophosphate](nerve-agent.md).
-          Raise it before a CBRN-threat assignment.
-        - **Heat, exertion, and sleep deprivation all worsen fatigable weakness** — the operational
-          environment is a direct provocation.
-        - A long list of **common field/formulary drugs are contraindicated** (fluoroquinolones and
-          aminoglycosides especially) — a real constraint on deployed medical support.
-        - *If retention is being contemplated, **zilucoplan** is the only self-administered daily SC
-          regimen and the only one with any field plausibility — and it still needs the cold chain.*
-    - **Profile (DA Form 3349).** MG profiles on the **P** factor (DA Pam 40-502 4-3c(1) — nervous
-      system falls under *physical capacity/stamina*); add **E** where there is visual impairment.
-        - **Temporary** during induction, titration, or post-thymectomy recovery — ≤90 days per
-          instrument, and **link every extension** so the days-on-profile count is real.
-        - Convert to **permanent** at clinical MRDP or the **12-month administrative MRDP**,
-          whichever comes first. Generalized disease → **permanent P-3** (a permanent 3 or 4 is
-          itself the DES referral, AR 40-501 3-4). Jumping straight to permanent invites a
-          premature referral.
-        - Section 4 limits should be functional and specific: no sustained overhead or repetitive
-          exertion; no sustained load-carriage; no duty requiring uninterrupted alertness or
-          reliable speech/swallow; no high-heat exposure; **no sustained wear of a protective mask**
-          where respiratory reserve is reduced.
-    - **Ocular-only: retain on a documented surveillance plan, not on an assumption.** Roughly
-      **4 in 10 generalize** (fewer in treated cohorts), most **within 1–2 years.** Carry the
-      Soldier on a **linked temporary profile** through that window at a stated interval —
-      **q3 months for 24 months**, matching the DA Pam 40-502 3-month functional-reassessment
-      requirement — recording at each visit **baseline and serial FVC and single-breath count**, a
-      bulbar screen (speech, swallow, chew, neck flexion), limb fatigability, and repeat serology
-      if initially seronegative. **Conversion triggers** — any bulbar or respiratory symptom, any
-      limb fatigability, a falling FVC, or a crisis — end the carve-out: the disease is no longer
-      "clinically restricted to extraocular muscles," 3-31c applies, and you write the permanent
-      **P-3.**
-    - **EPTS / LOD — and the 6-month fork.** MG symptoms often predate diagnosis by years; date the
-      **first attributable symptom** (fluctuating ptosis/diplopia, chewing fatigue, exertional
-      dyspnea) and review pre-accession records. **AR 40-501 3-2, Note:** for conditions predating
-      enlistment, **accession standards govern the first 6 months of AD** (separation via
-      **EPSBD**); after 6 months Chapter 3 retention standards govern. **This matters more in MG
-      than almost anywhere else, because the two standards do not match** — DoDI 6130.03 **Vol 1
-      6.26.q** disqualifies a *history* of MG with **no extraocular exception**, while AR 40-501
-      3-31c retains ocular-only disease. Also check **3-3c**: a condition known and **waived at
-      accession**, essentially unchanged in severity and not meeting para 3-1, is **not** a DES
-      referral. If the diagnosis was made in service, state LOD affirmatively and say what you
-      reviewed.
-    - **MEB/DES:** refer generalized MG. Document serostatus, crisis history, respiratory function
-      (FVC), medication trials, and duty impact. **A first crisis is a sentinel event** — crisis is
-      respiratory or bulbar **by definition**, so the disease is no longer "clinically restricted to
-      extraocular muscles" and the 3-31c carve-out is unavailable as a matter of text. **Whether the
-      Soldier is ultimately found fit is the PEB's decision, not yours — write the standard and the
-      evidence, not the outcome.**
-    - **Aeromedical: disqualifying for flying duty — and the retention carve-out does not carry
-      over.** **AR 40-501 Chapter 4 never names myasthenia gravis.** The chain is **4-27
-      (Neurological)** → *"the causes in the accession standards plus the following"* → the
-      accession standard **DoDI 6130.03 Vol 1 para 6.26.q**, which disqualifies a **history** of
-      myasthenia gravis with **no extraocular exception.** **So a Soldier retained under the 3-31c
-      ocular carve-out is still aeromedically disqualified — on the history alone, with or without
-      current diplopia.** **4-24** (systemic) and **4-24a** (therapeutic medications; see the
-      medication APLs) apply independently, as do the ocular-motility standards at **4-4g**.
-      Disposition and any waiver run through **USAAMA** and the applicable **Aeromedical Policy
-      Letters** (4-1c), not through Chapter 3. Non-Army Services follow their own aeromedical
-      policy — confirm before counseling.
-    - **Vaccination collides with every drug on this page.** Get **all live vaccines done before
-      starting** — inebilizumab requires them **≥4 weeks** ahead and none afterwards until B-cell
-      repletion; FcRn agents and rituximab exclude live vaccines during treatment. For complement
-      inhibitors the requirement runs the other way: **MenACWY + MenB ≥2 weeks before the first
-      dose.** Non-live vaccine responses are blunted on FcRn blockade — time them to the end of a
-      cycle, and re-evaluate vaccine status before each new cycle.
+!!! military "Military medicine — duty, retention and deployment"
+    - **Profile / function:** Bulbar or respiratory weakness is an evacuation/airway problem before it is a profile problem. After stabilization document fatigability, strength, swallowing, autonomic effects and task endurance.
+    - **Retention / MEB–MAR2:** Generalized MG: DoDI V2 **5.26.l**, Army **3-31c**; ocular-only disease has a specific exception. LEMS, botulism and toxic paralysis require the applicable neuromuscular/functional standard, trajectory and recovery assessment. Use the [retention framework](../military/deployability.md); permanent P3/4 does not by itself select DES versus MAR2.
+    - **Deployment / medications:** Assess crisis risk, treatment interruption, infection, monitoring, immunosuppression and injection/infusion support. Acute botulism/nerve-agent injury needs treatment/evacuation and exposure reporting, followed by cause-specific clearance. See [the disease AND drug screen](../military/deployment-medications.md) for the current CENTCOM rules and waiver packet.
+    - **Special duty:** flight, diving and other special assignments have separate standards and waiver authorities; a general duty profile does not clear them.
+    - **LOD / EPTS:** document onset, duty status, exposures and aggravation objectively. The designated authority determines LOD/EPTS; neither in-service diagnosis nor a genetic finding settles it automatically.
 
 ---
 
@@ -816,8 +696,7 @@ status, which left the **triple-seronegative** patient — perhaps 10–15% of g
 nothing approved. **On 8 May 2026 the FDA removed efgartigimod's AChR-positive restriction**, on the
 strength of **ADAPT SERON**, making it the only approved therapy covering MuSK-positive,
 LRP4-positive and seronegative disease alike. Before reaching for it, though, send a
-**clustered-AChR cell-based assay**: most "seronegative" patients are assay-negative rather than
-antibody-negative, and finding the antibody reopens every other option.
+**clustered-AChR cell-based assay**: some conventionally seronegative patients have antibodies detectable by more sensitive assays, and finding the antibody reopens every other option.
 
 **Not every immune target works at the endplate.** The winners are easy to list; the failures are
 the more useful lesson. Since 2024, **IL-6 blockade** (satralizumab — statistically positive but
@@ -831,10 +710,8 @@ complement.**
 randomized trials (n=2,318) found FcRn inhibitors, C5 inhibitors and CD19 depletion **comparable**
 on QMG and MG-ADL, and a real-world propensity-matched comparison agreed — **while noting
 insufficient response in 20–49% of patients in both arms.** Sequencing is therefore driven by
-serostatus, route, dosing rhythm and cost. Two more complement agents are at the FDA door, and both
-would change the logistics rather than the efficacy: **cemdisiran**, an siRNA silencing hepatic C5
-dosed **subcutaneously every 12 weeks** (FDA action date November 2026), and **gefurulimab**, a
-self-administered SC nanobody. Neither is approved.
+serostatus, route, dosing rhythm and cost. **Cemdisiran (Livsayis) was FDA-approved on 18 November 2026**; its quarterly, provider-administered
+SC schedule still requires complement-infection precautions. **Gefurulimab (Klygefa) received FDA approval on 13 November 2026**, adding a weekly SC C5-antibody option for adult AChR-positive gMG. Compare the exact label, treatment evidence, burden and access with the specialist. [FDA approval list](https://www.fda.gov/drugs/novel-drug-approvals-fda/novel-drug-approvals-2026).
 
 **Thymectomy earned its place by trial.** MGTX was the randomized evidence that settled a
 decades-old practice: in non-thymomatous AChR-positive generalized MG, **thymectomy plus prednisone
@@ -926,29 +803,8 @@ other causes that are treated completely differently:
     **6.26.q** (aeromedical accession standard, no extraocular exception); **AR 40-501 4-27**,
     **3-2 Note**, **3-3c**, **3-7b**; **DA Pam 40-502 4-3c(1)** (P factor).
 
-*Verified August 2026: this page has been through a five-reviewer evidence audit plus an independent
-clinical-literature check. **Every drug's dosing, boxed warnings and contraindications were pulled
-from its current FDA label** (openFDA, labels effective 2025-05 through 2026-07) rather than written
-from memory. **Approval status was checked agent by agent against the label text itself:**
-efgartigimod's gMG indication carries **no serostatus restriction** (VYVGART eff. 2026-05-13,
-VYVGART Hytrulo eff. 2026-07-15) following the **8 May 2026 all-serotype expansion** on ADAPT SERON;
-rozanolixizumab, nipocalimab, eculizumab, ravulizumab, zilucoplan and inebilizumab **do** retain
-serostatus language. **Nipocalimab is intravenous only** — openFDA returns a single label, route
-INTRAVENOUS (an earlier "IV or SC" claim on this page was wrong). **Batoclimab's phase 3 succeeded
-but the sponsor is not filing in MG.** Complement dosing now reflects the labelled induction
-regimens, the **PLEX/IVIG supplemental-dose tables**, and the **MenACWY + MenB** requirement with
-its urgent-start exception. **MGTX** figures are from the NEJM 2016 trial and *Lancet Neurology*
-2019 extension, with the **post hoc absence of benefit at age ≥50** and the **AAN Level B**
-transsternal-vs-minimally-invasive caveat now stated. Crisis thresholds follow the 20/30/40 rule
-with its lack of prospective validation stated explicitly; the single-breath count is given at ~30
-normal / ≤20 abnormal with the counting rate, noting a 2023 systematic review places normal at ≥25.
-The IVIG-vs-PLEX response figure is attributed to **Barth 2011 in moderate-to-severe worsening MG,
-not intubated crisis.** Retention standards are quoted verbatim from **AR 40-501 3-31c** and
-**DoDI 6130.03 Vol 2 5.26.l**, and the aeromedical basis corrected to **DoDI 6130.03 Vol 1 6.26.q**
-via **AR 40-501 4-27** — all verified against source PDFs. **Not independently verified:** TRICARE
-formulary tiers and prior-authorization criteria for individual biologics (the militaryrx
-PA-criteria path returns 404 and the Formulary Search is a dynamic tool — verify there before
-counseling); the specialist-prescriber requirement is stated as an expectation, not a confirmed
-TRICARE rule; non-Army service aeromedical waiver specifics could not be confirmed from public
-sources; and ocular-generalization rates are given as a range because pooled estimates blend treated
-and untreated cohorts.*
+- [Cemdisiran FDA prescribing information, November 2026](https://www.regeneron.com/downloads/livsayis_fpi.pdf).
+
+- [CDC complement-inhibitor meningococcal risk and boosters](https://www.cdc.gov/meningococcal/hcp/clinical-guidance/complement-inhibitor.html).
+
+*Evidence/policy audit: 21 November 2026. Material changes were checked against the linked primary sources; this is an AI-assisted review, not certification of every dose or claim. [Review scope and source limits](../evidence-review.md).*

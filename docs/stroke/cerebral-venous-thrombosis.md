@@ -61,8 +61,11 @@ anticoagulate even when there's hemorrhage.**
 !!! orderset "Manage the complications"
     - **Seizures:** treat clinical seizures; **give an ASM if there's a supratentorial lesion +
       seizure** (high recurrence). No routine prophylaxis without a lesion/seizure.
-    - **Raised ICP / papilledema threatening vision:** **acetazolamide**, therapeutic **LP**, monitor
-      visual fields/acuity; shunt or optic-nerve-sheath fenestration if vision is failing.
+    - **Raised ICP / papilledema threatening vision:** urgent neurology/ophthalmology review,
+      visual-field/acuity monitoring, and treatment matched to the cause. Acetazolamide may help
+      selected intracranial-hypertension presentations. **LP is not a routine order in an
+      anticoagulated patient**: exclude mass effect/obstruction and coordinate anticoagulant timing
+      and neuraxial bleeding risk. Shunt/optic-nerve procedures require specialist assessment.
     - **Large venous infarct with mass effect / herniation:** **decompressive craniectomy is
       life-saving — operate EARLY (within ~48 h);** delay worsens outcomes. **DECOMPRESS2** (n=118):
       **~36% independent (mRS 0–2) and ~34% mortality at 12 months**, and **~79% of survivors judged
@@ -87,8 +90,8 @@ anticoagulate even when there's hemorrhage.**
       base has grown well beyond dabigatran: **DOAC-CVT** (Lancet Neurol 2025, prospective, n=619) and
       **ACTION-CVT** (Stroke 2022, n=845) show **similar recurrence with equal or *less* bleeding** vs
       VKA. **Apixaban is now the most commonly used agent in practice**; dabigatran (RE-SPECT CVT) and
-      rivaroxaban (SECRET) are also studied. **Use warfarin for antiphospholipid syndrome** (DOACs
-      underperform there).
+      rivaroxaban (SECRET) are also studied. **Use warfarin for high-risk antiphospholipid syndrome. Pregnancy generally requires LMWH;
+      do not extrapolate DOAC data to pregnancy or breastfeeding.**
     - **Duration:**
         - **Provoked (transient factor, e.g., estrogen):** **3–6 months.**
         - **Unprovoked:** **6–12 months.**
@@ -101,11 +104,10 @@ anticoagulate even when there's hemorrhage.**
     - **Stop estrogen-containing contraception permanently;** in future pregnancies, give **LMWH
       prophylaxis** through pregnancy and postpartum (highest-risk window).
 
-!!! tip "TRICARE — CVST prescribing"
-    **Enoxaparin (LMWH), warfarin, and acetazolamide are generic/formulary.** **DOACs** are covered —
-    apixaban is the most-used agent in practice (DOAC-CVT/ACTION-CVT), and a **preferred DOAC** exists
-    on the Uniform Formulary. *Verify the current preferred agent and any PA at the TRICARE Formulary
-    Search.*
+!!! tip "TRICARE — verified rules and the current form"
+    Determine outpatient drug coverage separately from emergency stroke treatment. Anticoagulant, antiplatelet, lipid-drug, dose and quantity rules are product/indication specific; do not infer “no PA” from generic status. Reversal agents and inpatient reperfusion use the facility pathway. Medical authorization for procedures is distinct from pharmacy coverage.
+
+    [Current PA/MN details, benefit routing and packet](../military/tricare.md) · [Live Formulary Search](https://www.express-scripts.com/frontend/open-enrollment/tricare/fst). Check the exact product, beneficiary and venue on the prescribing date.
 
 ## Long-term outcomes & follow-up
 
@@ -129,23 +131,12 @@ Admit (stroke unit / ICU if depressed consciousness, large infarct, or refractor
 Neurosurgery available for decompression. Outpatient hematology/thrombophilia work-up and
 anticoagulation follow-up; repeat venous imaging to document recanalization.
 
-!!! military "Military medicine — cerebral venous thrombosis"
-    *Framework — verify against current **AR 40-501**, **DoDI 6130.03**, **DoDI 1332.18**, and
-    aeromedical policy before counseling.*
-
-    - **Demographics fit the force:** young service members, **estrogen contraception**, dehydration
-      (field/heat), and peripartum are all in play — keep CVST on the differential for a service
-      member with a new persistent headache and papilledema.
-    - **Deployability:** acute CVST and the anticoagulation that follows are **deployment-limiting**;
-      **estrogen contraception should be changed** after CVST.
-    - **Retention / MEB:** CVST isn't named verbatim, but its consequences are — a venous
-      **infarct/hemorrhage** and any persistent sequelae (**severe headaches, seizures, sensory/motor
-      or cognitive deficit**) fall under **DoDI 6130.03 Vol 2 para 5.26.b/5.26.c** (cerebrovascular /
-      CNS sequelae, gated by 5.26.a; Army **AR 40-501 3-31f/k**). Residual deficit, seizures, or a
-      thrombophilia requiring **indefinite anticoagulation** generally triggers the **DES (MEB/PEB)**.
-      Document etiology, imaging, anticoagulation plan, and duration.
-    - **Aeromedical:** CVST history, seizures, and chronic anticoagulation are **disqualifying/
-      waiver-dependent** for flying duty.
+!!! military "Military medicine — duty, retention and deployment"
+    - **Profile / function:** Restrict hazardous duties while evaluating a new vascular event; document residual vision, strength, language, cognition, recurrence risk and bleeding risk.
+    - **Retention / MEB–MAR2:** DoDI V2 **5.26.b** and Army **3-31f** guide cerebrovascular retention assessment. Workup for a clotting disorder alone does not establish a permanent disability. Use the [retention framework](../military/deployability.md); permanent P3/4 does not by itself select DES versus MAR2.
+    - **Deployment / medications:** Therapeutic anticoagulation is a major CENTCOM exclusion; nonaspirin antiplatelets create a separate waiver issue. Do not stop indicated treatment to make a member deployable. See [the disease AND drug screen](../military/deployment-medications.md) for the current CENTCOM rules and waiver packet.
+    - **Special duty:** flight, diving and other special assignments have separate standards and waiver authorities; a general duty profile does not clear them.
+    - **LOD / EPTS:** document onset, duty status, exposures and aggravation objectively. The designated authority determines LOD/EPTS; neither in-service diagnosis nor a genetic finding settles it automatically.
 
 ---
 
@@ -185,16 +176,6 @@ ACTION-CVT recurrence analysis; EXCOA-CVT (ongoing).
 4. **Surgery / recurrence / VITT:** Aaron S, et al. *DECOMPRESS2* (Stroke 2024); Shu L, et al.
    *ACTION-CVT recurrence predictors* (Neurology 2022); Scutelnic A, et al. *VITT-CVT management*
    (Ann Neurol 2022); *EXCOA-CVT* (ongoing, ISRCTN25644448).
-5. **TRICARE / DoD:** enoxaparin/warfarin/acetazolamide generic-formulary; preferred DOAC per Uniform
-   Formulary — *verify at the TRICARE Formulary Search.*
+- [Official TRICARE sources, retrieved forms and access limits](../military/tricare.md).
 
-*Verified July 2026: venous imaging (MRV/CTV; SWI/GRE for cortical vein) for diagnosis, therapeutic
-anticoagulation **including in the presence of venous hemorrhage** (LMWH preferred over UFH), and
-non-routine endovascular therapy (TO-ACT negative) reflect current AHA and ESO guidance. Newer
-additions — **DOAC-CVT/ACTION-CVT** (DOACs a reasonable alternative, apixaban most-used),
-recurrence predictors, **DECOMPRESS2**, the **VITT-CVT** protocol, long-term-sequelae data, and
-**EXCOA-CVT** (ongoing) — were supplied by expert review with citations; confirm the specific figures
-before relying on them. **Retention framing confirmed against the source: CVST's cerebrovascular/
-hemorrhage and persistent-sequelae consequences fall under DoDI 6130.03 Vol 2 para 5.26.b/5.26.c
-(Army AR 40-501 3-31f/k) — CVST is not named verbatim.** The **TRICARE preferred DOAC was not pinned
-to a citable source — verify before counseling.**
+*Evidence/policy audit: 21 November 2026. Material changes were checked against the linked primary sources; this is an AI-assisted review, not certification of every dose or claim. [Review scope and source limits](../evidence-review.md).*

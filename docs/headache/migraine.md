@@ -3,9 +3,8 @@
 <span class="reviewed-stamp">Last reviewed: November 2026</span>
 
 **One-liner:** recurrent, disabling headache — usually lateralized, throbbing, moderate-to-severe,
-worse with activity, with photophobia/phonophobia, nausea, and sometimes aura. For a general
-provider: if a headache patient reaches neurology with a normal exam and no red flags, treat as
-migraine — it is almost never "just tension."
+worse with activity, with photophobia/phonophobia, nausea, and sometimes aura. Diagnose the headache phenotype; a normal examination and absent red flags support a primary
+headache diagnosis but do not establish migraine. Tension-type and other primary headaches still exist.
 
 !!! danger "🚩 Before you call it migraine"
     Clear the [headache red flags](index.md) first. Thunderclap onset, fever/neck stiffness,
@@ -20,7 +19,8 @@ migraine — it is almost never "just tension."
 3. **Treat the attack** — stratified care: match drug strength to attack severity, treat early.
 4. **Decide on prevention** — if attacks are frequent or disabling, or acute meds are overused.
 5. **Screen for and unwind medication overuse.**
-6. **Disposition:** almost always outpatient. Avoid admitting known migraineurs.
+6. **Disposition:** outpatient when secondary causes have been addressed, symptoms are controlled,
+   oral intake is adequate, and follow-up is safe. A migraine history does not override a new red flag.
 
 ## Diagnosis (ICHD-3, summarized)
 
@@ -68,15 +68,17 @@ medication-overuse headache (MOH)** — and note the *prevention cap* is stricte
 - **ICHD-3 diagnostic threshold for MOH** (a higher bar — this is when you *label* it, see MOH
   section): **≥10 days/month** for triptans/ergots/opioids/combinations, **≥15 days/month** for
   simple NSAIDs/acetaminophen.
-- **Gepants are exempt — they are not associated with MOH, so no monthly cap applies.** This makes
-  them the acute agent of choice for patients who are already overusing or who need frequent
-  treatment.
+- **Gepants have not shown the established MOH signal of triptans/opioids, but this does not mean
+  unlimited treatment.** Follow each label: safety beyond **8 treated attacks/30 days** is not
+  established for ubrogepant or zavegepant, or beyond **18 rimegepant doses/30 days**. Frequent rescue
+  use still prompts a prevention review; prescription quantity limits are a separate issue.
 
 !!! orderset "Step 1 — mild-to-moderate attack (start here for most)"
     Any one of these, taken **early**, with an antiemetic if nauseated:
 
     - **Naproxen 500–550 mg**, **ibuprofen 400–600 mg**, or **aspirin 900–1000 mg** PO.
-    - **APAP/aspirin/caffeine** (250/250/65 mg, 2 tabs) for those who can't take an NSAID.
+    - **APAP/aspirin/caffeine** (250/250/65 mg, 2 tabs) is another acute option **only when aspirin
+      is appropriate**. It contains an NSAID; do not substitute it for an NSAID contraindication.
     - **Antiemetic adjunct:** **metoclopramide 10 mg** or **prochlorperazine 10 mg** — these
       treat the *headache*, not just the nausea, and speed oral-drug absorption.
 
@@ -102,12 +104,15 @@ medication-overuse headache (MOH)** — and note the *prevention cap* is stricte
 
     !!! danger "Do NOT give a triptan (or ergot) if:"
         Coronary, cerebrovascular, or peripheral vascular disease; uncontrolled hypertension;
-        **hemiplegic or brainstem-aura migraine**; pregnancy (relative). In any of these, **skip
-        Step 2 and go straight to Step 3** — the non-vasoconstrictors.
+        **hemiplegic or brainstem-aura migraine** under current product labeling. If a triptan is
+        contraindicated, consider a non-vasoconstrictor after its own safety review. **Pregnancy needs
+        a separate obstetric-informed plan; do not automatically substitute a gepant or lasmiditan.**
 
 !!! orderset "Step 3 — triptan failed (≥2 tried) OR contraindicated: gepant or ditan"
-    Neither class causes vasoconstriction, so both are **safe in vascular disease**; **gepants do
-    not cause MOH** (useful when a patient is already overusing).
+    These agents do not cause triptan-like vasoconstriction, but **absence of that contraindication
+    is not proof of safety in every vascular patient**. Check hypertension/Raynaud warnings, drug
+    interactions, organ function, and pregnancy. Gepants have a lower observed MOH concern; label
+    exposure limits still apply.
 
     - **Gepants (small-molecule CGRP-receptor antagonists — oral/nasal):**
         - **Ubrogepant (Ubrelvy) 50–100 mg** PO; may repeat once after ≥2 h (max 200 mg/day).
@@ -118,8 +123,8 @@ medication-overuse headache (MOH)** — and note the *prevention cap* is stricte
       contraindication, **but sedating with a hard ≥8-hour driving/operating restriction** and CNS
       depression — poor fit for pilots, drivers, and duty. Don't stack with other serotonergic/CNS
       depressants.
-    - **DHE (nasal/SC/IV)** for prolonged or refractory attacks — see the status-migrainosus order
-      set below.
+    - **DHE is a separate vasoconstricting ergot option**, not a substitute when vascular disease
+      contraindicates triptans. See the specialist status-migrainosus section and its exclusions.
 
     !!! tip "TRICARE — the acute gepant is Ubrelvy, and it needs a PA"
         On TRICARE, **ubrogepant (Ubrelvy)** is the **preferred** acute gepant, but it is **not
@@ -179,7 +184,7 @@ medication-overuse headache (MOH)** — and note the *prevention cap* is stricte
 6. **Still refractory:** neurology referral, combine Botox + CGRP, consider **IV eptinezumab**.
 
 === "Tier 1 — oral first-line (pick by comorbidity)"
-    Well-established, low-cost, **on the TRICARE formulary with no PA**. Let the comorbidity choose
+    Well-established, low-cost options. **Check the exact TRICARE product and dispensing rules**. Let the comorbidity choose
     the drug — that's how you get a two-for-one and the best adherence. (2026 AAN/AHS confidence:
     **propranolol, topiramate, and valproate are moderate-confidence** for episodic migraine;
     **amitriptyline and metoprolol are low-confidence**; **candesartan's evidence was judged
@@ -210,7 +215,7 @@ medication-overuse headache (MOH)** — and note the *prevention cap* is stricte
       (240 mg loading dose), **eptinezumab 100–300 mg IV quarterly**. Best adherence, cleanest
       tolerability — **watch constipation and BP with erenumab**, injection-site reactions
       with all.
-    - **Oral gepants for prevention:** **atogepant (Qulipta) 10–60 mg daily**, or **rimegepant
+    - **Oral gepants for prevention:** **atogepant (Qulipta): episodic migraine 10, 30, or 60 mg daily; chronic migraine 60 mg daily**, or **rimegepant
       (Nurtec) 75 mg every other day** — rimegepant **uniquely doubles as acute + preventive**.
       Good for needle-averse patients; gepants **do not cause MOH**. Note the 2026 split:
       **atogepant** is in the guideline's efficacy-priority list; **rimegepant is not** (moderate
@@ -309,30 +314,16 @@ three bind the CGRP peptide (ligand) itself.** The oral **gepants** are all smal
 !!! tip "How to choose and switch"
     - **Efficacy is comparable across the antibodies** — choose on **route/interval, comorbidity,
       and formulary** (on TRICARE that means **start Emgality**, see below).
-    - **If the first antibody fails after an adequate ~3-month trial, switch *mechanism*:** a
-      **ligand** mAb (Emgality/Ajovy/Vyepti) → the **receptor** mAb (**Aimovig**), or vice-versa.
-      Switching within the same target is lower-yield than crossing to the other mechanism.
+    - **After an adequate trial, switching antibodies may help some patients.** A receptor-to-ligand
+      switch or the reverse is reasonable, as is an alternative within the ligand group. Evidence is
+      largely observational; it does **not** establish that crossing targets is consistently superior.
     - **Antibody class failing entirely?** Try an **oral gepant** (Qulipta/Nurtec) — different
       pharmacology, and a reasonable next mechanism before Botox/combination therapy.
 
-!!! tip "TRICARE — start Emgality; it's the one CGRP with no prior authorization"
-    Verified against the DoD Uniform Formulary and Express Scripts PA criteria (2025):
+!!! tip "TRICARE — verified rules and the current form"
+    For migraine, **Emgality 120 mg** had no PA displayed in the live lookup; the **100 mg episodic-cluster formulation requires PA**. Ubrelvy/Qulipta have PA or claims-history rules; Nurtec is nonformulary with separate PA/MN requirements; Zavzpret is nonformulary with PA. See the **retrieved forms and exact failure/renewal criteria** below. A PTH/NDPH phenotype does not automatically establish covered Botox treatment.
 
-    - **Emgality (galcanezumab) is the *preferred* CGRP antibody and needs NO prior authorization**
-      — $0 at an MTF/home delivery. **This is your go-to first CGRP on TRICARE**: you can start it
-      without fighting a step-therapy PA, which also lines up with AHS's first-line stance.
-    - **Aimovig (erenumab) and Ajovy (fremanezumab) are non-preferred → PA + step therapy:** the
-      patient must have **failed Emgality** *and* **failed ≥1 drug from two oral prophylactic
-      classes** (AEDs: valproate/topiramate · beta-blockers · TCAs/SNRIs), **age ≥18**, **neurologist
-      involvement**. So Aimovig is exactly where you land when you need to **switch a ligand→receptor
-      mechanism** after Emgality fails — the failed-Emgality trial *is* the PA justification.
-    - **Oral gepant preventive — Qulipta (atogepant):** **preferred but PA-required.** DoD criteria:
-      **≥18**, **neurologist consult**, **failed ≥1 drug from two oral classes**, *and* **failed ≥1
-      CGRP injectable** — i.e., TRICARE seats Qulipta **behind** the injectable mAb. **Nurtec ODT**
-      (rimegepant) is **non-preferred**.
-    - **Bottom line for a TRICARE panel:** oral first-line (formulary, no PA) → **Emgality** (no PA)
-      → **Aimovig/Ajovy or Qulipta** (PA, after Emgality) → Botox (chronic) / combination. Keep
-      **neurology named on the CGRP and gepant scripts** — every one of these PAs requires it.
+    [Current PA/MN details, benefit routing and packet](../military/tricare.md) · [Live Formulary Search](https://www.express-scripts.com/frontend/open-enrollment/tricare/fst). Check the exact product, beneficiary and venue on the prescribing date.
 
 ## Order set — status migrainosus / ER
 
@@ -342,18 +333,18 @@ block** are now **Level A "must offer,"** and **opioids are to be avoided** (IV 
 Level A *"must NOT offer"*). Nerve blocks are opioid-sparing, fast, and safe in pregnancy — reach
 for them early, not just as a last resort.
 
-**Escalation cadence:** give the whole of Tier 1 together up front, then **reassess pain every
-30 minutes**. At **30 min**, if only partial relief, you may **repeat the dopamine antagonist once**
-(prochlorperazine 10 mg or metoclopramide 10 mg). If still inadequate at **~60 min**, move to
-**Tier 2**; reassess again at **~30–60 min** before **Tier 3**. Nerve blocks act within 10–15 min,
-so they help decide escalation quickly.
+**Choose an appropriate first-line option, then reassess pain, function, BP, sedation, and adverse
+effects at about 30–60 minutes.** The guideline grades individual treatments; it does not require
+every patient to receive an NSAID, dopamine antagonist, and block together. Avoid automatic early
+redosing or stacking dopamine antagonists: review total dose, QT risk, hypotension, and akathisia
+before any additional treatment. A worsening or atypical course reopens the diagnosis.
 
 !!! orderset "Tier 1 — first-line (offer to everyone; exclude red flags first)"
-    Give a dopamine antagonist **+** an NSAID **+ a nerve block**, not one drug in isolation.
+    Offer a guideline-supported option matched to contraindications and patient preference.
+    A second modality may be added after reassessment; combination treatment is individualized.
 
     - **Prochlorperazine 10 mg IV** *(Level A — first choice)*, or **metoclopramide 10–20 mg IV**
-      *(Level B — if prochlorperazine unavailable)*. Infuse each over ~15 min. **May repeat once at
-      30 min** if partial response.
+      *(Level B — if prochlorperazine unavailable)*. Give using the institution’s administration protocol; reassess before further dosing.
         - *Akathisia/dystonia:* many co-give **diphenhydramine 25 mg IV**; note the 2025 guideline
           rates diphenhydramine "may not offer" as a *migraine treatment* and evidence that it
           prevents akathisia is mixed — use it for the reaction, not for the headache.
@@ -363,7 +354,7 @@ so they help decide escalation quickly.
     - **IV fluids — normal saline ~1 L** only if the patient is dehydrated (or before chlorpromazine);
       fluids alone are **not** a migraine treatment.
 
-!!! orderset "Tier 1 — nerve blocks (do these early; opioid-sparing, pregnancy-safe)"
+!!! orderset "Tier 1 — nerve blocks (opioid-sparing options)"
     - **Greater occipital nerve block (GONB)** *(Level A — must offer)*. **Bilateral**, ~**2–3 mL of
       bupivacaine 0.5%** (or 1–2% lidocaine) per side over the greater occipital nerve — landmark:
       ~1/3 of the way from the occipital protuberance toward the mastoid, medial to the occipital
@@ -378,16 +369,15 @@ so they help decide escalation quickly.
 !!! orderset "Tier 2 — add if inadequate at ~60 min; reassess again at 30–60 min"
     - **Magnesium sulfate 1–2 g IV** over ~15–30 min — best evidence in **migraine with aura**.
     - **Dexamethasone 10 mg IV** *(Level C)* — modest acute benefit **and** reduces 24–72 h
-      recurrence (NNT ~9); give before discharge regardless.
+      recurrence (NNT ~9); consider for recurrence prevention after weighing contraindications and recent steroid exposure.
     - **Valproate 500–1000 mg IV** *(Level C)* — avoid in pregnancy/childbearing potential.
-    - **Chlorpromazine 12.5–25 mg IV** *(Level C)* — alternative neuroleptic; **give a ~1 L saline
-      preload** and watch sedation/orthostatic hypotension. May repeat after ~30 min.
+    - **Chlorpromazine 12.5–25 mg IV** *(Level C)* — alternative neuroleptic. Use the monitored local protocol, assess volume status and BP, and account for preceding dopamine-antagonist doses. Avoid automatic repeat dosing.
 
 !!! orderset "Tier 3 — refractory / status migrainosus (monitored; consider neurology)"
-    - **Droperidol 2.5 mg IV** *(Level C)* or **haloperidol 2.5–5 mg IV** *(Level C)* — potent
-      neuroleptics (droperidol relieves ~90% of refractory attacks). **Get a baseline ECG for QT**
-      (droperidol carries a QT black-box warning); co-treat akathisia. May repeat once after
-      ~30–60 min.
+    - **Droperidol: the guideline’s Level C recommendation is for IM dosing, not IV** or **haloperidol 2.5–5 mg IV** *(Level C)* — alternative neuroleptics when preferred agents are unsuitable.
+      Use a local protocol for dose/route and cumulative exposure. **Check ECG/QT and electrolytes**,
+      consider prior dopamine-antagonist doses, and monitor hypotension, sedation, and extrapyramidal
+      reactions. Do not automatically stack or redose these drugs.
     - **Dihydroergotamine (DHE) 0.5–1 mg IV**, preceded by an **antiemetic** (e.g., metoclopramide
       10 mg or ondansetron 4 mg IV); may repeat **0.5–1 mg q8h**. **Contraindicated** in coronary/
       peripheral vascular disease, uncontrolled HTN, a triptan/ergot within 24 h, or pregnancy. For
@@ -405,8 +395,8 @@ so they help decide escalation quickly.
     for 2-h headache freedom (23.5% vs 12.0%), but the pivotal RCT was run **mostly outpatient**. So
     the guideline rates it **Level B ("should offer") *only* for patients matching that trial
     population**, and **Level U (no recommendation) for the general ED population**. Practically:
-    **don't reach for it in a typical ED visit** — it's slow-onset, costly, and unproven for acute
-    ED use. Its real role is **outpatient prevention** (see the preventive ladder).
+    **do not use it routinely for a typical ED visit** — infusion logistics, cost,
+    and limited ED-specific evidence constrain its role. Its real role is **outpatient prevention** (see the preventive ladder).
 
 !!! orderset "Before discharge & what to avoid"
     - **Dexamethasone 10 mg IV/IM once** if not already given — reduces early recurrence.
@@ -431,50 +421,18 @@ reviewed, starting a preventive **alone** performed as well as preventive-plus-w
 with prevention rather than detox alone — **cap or withdraw the overused agent**, bridge symptoms
 (e.g., NSAID/antiemetic course ± short steroid taper), and counsel. **Taper butalbital and opioids
 under supervision** (abrupt withdrawal risks seizures and withdrawal syndromes; the trial evidence
-barely covers those two classes). **Gepants do not cause MOH** and are useful acute agents in this
-setting.
+barely covers those two classes). **Gepants may be useful acute options when overuse is a concern.** Respect the product’s exposure limits and reassess the need for frequent rescue treatment.
 
 ## Disposition
 
-Migraine is an **outpatient diagnosis.** Treat the attack, start/adjust prevention, arrange
-follow-up, and give a written acute-med limit. Admission is rarely helpful for a known migraineur.
+Discharge when secondary causes have been addressed, symptoms and oral intake are manageable, and follow-up is reliable. Give an acute plan, return precautions, and a prevention review. Persistent inability to hydrate, an unresolved red flag, or a concerning change in pattern warrants observation, admission, or further evaluation.
 
-!!! military "Military medicine — migraine"
-    *Standards below are quoted from **DoDI 6130.03 Vol 1 (accession) / Vol 2 (retention)** and
-    **AR 40-501 (27 June 2019)**; the DES process is governed by **DoDI 1332.18 / DoDM 1332.18**.
-    Confirm current editions and service-specific aeromedical policy before you counsel or document.*
-
-    - **Deployability:** most controlled migraine is deployable. **Frequent/incapacitating** attacks,
-      or a regimen not maintainable in theater, can be deployment-limiting. Consider environment:
-      **topiramate** (heat intolerance, cognitive effects), sedating TCAs, **lasmiditan** (≥8-h
-      driving/duty restriction — poor fit for drivers/aircrew), and **CGRP mAbs** (cold-chain/
-      refrigeration and resupply) all matter downrange.
-    - **TRICARE prescribing (see acute/preventive boxes):** acute — triptans are formulary/no-PA;
-      **Ubrelvy** (acute gepant) needs a PA (≥2 failed triptans + neurologist). Preventive — orals
-      are formulary/no-PA; **Emgality** is the **only CGRP with no PA** (start here); **Aimovig/
-      Ajovy/Qulipta** need a PA and neurologist, after Emgality. Name **neurology** on every CGRP/
-      gepant script.
-    - **Profile (DA Form 3349):** temporary profile during titration or a flare; **permanent
-      profile** for chronic/refractory disease with functional limits documented.
-    - **EPTS / LOD:** migraine often predates service — document **onset and pre-service history**;
-      it affects existed-prior-to-service and line-of-duty determinations.
-    - **Retention — DoD & Army:** the joint standard (**DoDI 6130.03 Vol 2, para 5.26.g**) places
-      migraine, tension, **or** cluster headaches with **frequent incapacitating attacks** below
-      retention standards. **AR 40-501 para 3-31g** operationalizes "frequent" for the Army as
-      **incapacitating attacks interfering with duty or social activities ≥3 days/month** →
-      **mandatory neurologist referral**, up to **6 months** of prophylaxis, and **referral to the
-      DES** (MEB/PEB) if not adequately controlled at 6 months (or directly, if unlikely to respond).
-    - **Accession — DoDI 6130.03 Vol 1, para 6.26.e:** for *applicants*, a history in the prior
-      24 months of headaches that caused missed activity >2×/12 months, required prescription meds
-      >2×/12 months, or needed prophylaxis is **disqualifying for entry** (relevant to recruiting/
-      waivers).
-    - **Document what the standard turns on:** a **headache diary** showing ≥3 incapacitating
-      days/month, the **neurology referral**, the prophylaxis trial and its outcome, and concrete
-      **duty impact**.
-    - **Aeromedical / special duty:** a **history of chronic, recurrent, or incapacitating headaches
-      — including ocular or acephalic migraine with visual disturbance — is disqualifying for flying
-      duty** (AR 40-501, ch. 4). Many migraine medications are independently disqualifying/waiver-
-      dependent; confirm current aeromedical policy before prescribing.
+!!! military "Military medicine — duty, retention and deployment"
+    - **Profile / function:** Record incapacitating headache days, abortive success, preventive trials and drug effects. Grounding or hazardous-duty restrictions depend on attacks and treatment effects.
+    - **Retention / MEB–MAR2:** Headache: DoDI V2 **5.26.g** and Army **3-31g**; trigeminal neuralgia and other diagnoses need their applicable standard, rather than automatically borrowing the migraine threshold. Use the [retention framework](../military/deployability.md); permanent P3/4 does not by itself select DES versus MAR2.
+    - **Deployment / medications:** CENTCOM disruptive migraine may require waiver; injectable CGRP therapy/Botox is separately relevant. Valproate, carbamazepine and lamotrigine are named medication exceptions even when used for pain/headache. See [the disease AND drug screen](../military/deployment-medications.md) for the current CENTCOM rules and waiver packet.
+    - **Special duty:** flight, diving and other special assignments have separate standards and waiver authorities; a general duty profile does not clear them.
+    - **LOD / EPTS:** document onset, duty status, exposures and aggravation objectively. The designated authority determines LOD/EPTS; neither in-service diagnosis nor a genetic finding settles it automatically.
 
 ---
 
@@ -514,22 +472,18 @@ follow-up, and give a written acute-med limit. Admission is rarely helpful for a
   days and worsen quality of life *(B)*.
 - **Gepants and ditans expand acute options.** Gepants (ubrogepant, rimegepant, zavegepant) and the
   ditan lasmiditan work **without vasoconstriction**, making them options in cardiovascular/
-  cerebrovascular disease where triptans are contraindicated. **Gepants do not cause MOH.**
+  cerebrovascular disease where triptans are contraindicated. **Gepants have a lower observed MOH concern; label exposure limits still apply.**
 - **Receptor vs. ligand antibodies.** Only **erenumab (Aimovig)** blocks the CGRP *receptor*;
   **fremanezumab (Ajovy), galcanezumab (Emgality), eptinezumab (Vyepti)** bind the CGRP *ligand*.
   Efficacy is comparable, so choose on route/interval, comorbidity, and formulary — and when one
-  fails, **switch mechanism (ligand ⇄ receptor)** rather than swap two agents with the same target.
-- **Formulary steering is now part of the decision (TRICARE).** On the DoD Uniform Formulary,
-  **galcanezumab (Emgality) is the preferred, no-PA CGRP antibody** — the frictionless first CGRP —
-  while **erenumab/fremanezumab, atogepant (Qulipta), and ubrogepant (Ubrelvy)** are PA-gated and
-  **require neurologist involvement**; rimegepant (Nurtec) is non-preferred. This makes "start
-  Emgality" both the clinically first-line and the administratively easiest move.
+  fails, consider another antibody; observational evidence does **not establish that switching targets is superior** to switching within the ligand group.
+- **TRICARE access affects the choice:** the live lookup showed no PA for **Emgality 120 mg for migraine**, while other products have PA/history rules or nonformulary requirements. This does not make it the best clinical choice for every patient or establish coverage for every phenotype. Use the [actual criteria and forms](../military/tricare.md#headache-current-forms-actually-retrieved).
+
 - **OnabotulinumtoxinA (PREEMPT)** remains a first-tier preventive for **chronic** migraine only.
 - **ED care leads with dopamine antagonists + nerve blocks, not opioids.** The **2025 AHS
   parenteral-ED guideline** (Robblee et al.) elevated **prochlorperazine** and the **greater
   occipital nerve block** to **Level A "must offer,"** kept metoclopramide/ketorolac/SC sumatriptan
-  as "should offer," and made **IV hydromorphone a Level A "must-NOT-offer."** Nerve blocks are
-  fast, opioid-sparing, and safe in pregnancy.
+  as "should offer," and made **IV hydromorphone a Level A "must-NOT-offer."** Nerve blocks can offer a rapid, opioid-sparing option. In pregnancy, review the procedure and local anesthetic with the treating obstetric team.
 - **Avoid opioids and butalbital** — they worsen the disease and drive medication-overuse headache.
 - **Prevention only works if trialed adequately** — 8–12 weeks at target dose before judging failure.
 
@@ -551,7 +505,7 @@ follow-up, and give a written acute-med limit. Admission is rarely helpful for a
 2. Potrebic S, Tanveer S, Becker WJ, et al. [*Pharmacologic Treatment for Migraine Prevention in
    Adults: Practice Guideline Recommendations: Report of the AAN Guidelines Subcommittee and the
    American Headache Society.* Neurology. 2026;107(7):e214881](https://doi.org/10.1212/WNL.0000000000214881)
-   — **the August 2026 prevention guideline** (simultaneously published in *Headache*; endorsed by
+   — **the August 2026 prevention guideline** (also published [in *Headache*](https://doi.org/10.1111/head.70199); endorsed by
    the AAFP): initiation thresholds, priority-based selection (Rec 3), special populations,
    medication-overuse and tapering recommendations, trial-duration and monitoring rules.
 3. Pringsheim T, Smith DB, Tanveer S, et al. [*Pharmacologic Treatment for Migraine Prevention in
@@ -568,11 +522,7 @@ follow-up, and give a written acute-med limit. Admission is rarely helpful for a
    migraine treatments into clinical practice.* Headache. 2021;61(7):1021–1039](https://headachejournal.onlinelibrary.wiley.com/doi/10.1111/head.14153)
    — stratified acute care; **failure of ≥2 triptans is the trigger to move to a gepant or ditan**;
    acute/preventive initiation thresholds.
-6. **TRICARE / DoD Uniform Formulary and Express Scripts prior-authorization criteria (2025):**
-   galcanezumab (Emgality) preferred with **no PA**; erenumab (Aimovig)/fremanezumab (Ajovy),
-   atogepant (Qulipta), and ubrogepant (Ubrelvy) PA-gated with neurologist and step-therapy
-   requirements; rimegepant (Nurtec) non-preferred. *Verify current status at the TRICARE Formulary
-   Search before counseling — DoD P&T updates the tiers periodically.*
+- [Official TRICARE sources, retrieved forms and access limits](../military/tricare.md).
 7. Robblee J, et al. [*2025 guideline update to acute treatment of migraine for adults in the
    emergency department: the AHS evidence assessment of parenteral pharmacotherapies.* Headache.
    2026](https://headachejournal.onlinelibrary.wiley.com/doi/full/10.1111/head.70016).
@@ -581,32 +531,4 @@ follow-up, and give a written acute-med limit. Admission is rarely helpful for a
 9. PREEMPT clinical program — onabotulinumtoxinA for chronic migraine (155 units/31 sites q12wk;
    up to 195 units/39 sites with follow-the-pain).
 
-*Verified November 2026: **the prevention content is now anchored to the August 2026 AAN/AHS
-prevention guideline** (Potrebic et al., *Neurology* 2026;107(7):e214881; systematic review
-Pringsheim et al., e218112) — initiation thresholds (≥4 migraine days/month, ≥4 moderate-to-severe
-headache days/month, or substantial disability at any frequency, all Level B), priority-based drug
-selection with no step therapy (Rec 3), the per-drug confidence tiers, the special-population
-recommendations (pregnancy, older adults, hypertension/fibromyalgia/BMI comorbidity picks, PCOS and
-hormonal-contraception counseling), the medication-overuse definitions and prevention-first
-management, and the trial-duration/monitoring/tapering rules (Recs 14–17) were cross-checked
-against the guideline's published content and the clinician-ChatGPT and OpenEvidence syntheses.
-Two caveats ride with the update: **candesartan** is flagged insufficient-evidence by the review
-because its largest RCT (Øie et al., *Lancet Neurology* 2025) post-dates the June 2024 evidence
-search — it remains on this page as a reasonable comorbidity pick; and **rimegepant's** confidence
-is outcome-split (moderate for headache-day reduction, low for ≥50% response) and it sits outside
-the guideline's efficacy-priority list. All four research questions were put to both OpenEvidence
-and the clinician ChatGPT account, and the two syntheses agreed on every graded recommendation
-used here (the ChatGPT medication-overuse answer additionally anchors its thresholds to ICHD-3 and
-the MOTS trial).
-Unchanged from the July 2026 verification: the acute agents (zavegepant nasal, ubrogepant,
-rimegepant, lasmiditan with its ≥8-hour driving restriction) and preventives named here match
-current FDA approvals; **the ER protocol is graded to the 2025 AHS parenteral-ED guideline**
-(prochlorperazine and greater occipital nerve block are Level A "must offer," hydromorphone Level A
-"must-not-offer"); and gepants are not associated with medication-overuse headache. **TRICARE
-formulary steering** (Emgality preferred/no-PA; Aimovig/Ajovy/Qulipta/Ubrelvy PA-gated with a
-neurologist requirement; Nurtec non-preferred) is taken from the 2025 DoD Uniform Formulary and
-Express Scripts PA criteria and **should be re-checked at the TRICARE Formulary Search before
-counseling**, as DoD P&T revises tiers periodically. The retention/accession standards are quoted
-from DoDI 6130.03 Vol 2 (5.26.g) / Vol 1 (6.26.e) and AR 40-501 (3-31g); the DES process is governed
-by DoDI 1332.18 / DoDM 1332.18. Service-specific aeromedical waiver specifics still warrant
-confirmation before final sign-off.*
+*Evidence/policy audit: 21 November 2026. Material changes were checked against the linked primary sources; this is an AI-assisted review, not certification of every dose or claim. [Review scope and source limits](../evidence-review.md).*

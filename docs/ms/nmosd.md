@@ -118,19 +118,17 @@ disability is entirely relapse-driven, this is the intervention that changes the
 
 | Agent | Target | Dosing | Notes |
 |---|---|---|---|
-| **Eculizumab (Soliris)** | **C5** complement | IV **every 2 weeks** | PREVENT trial. **Meningococcal vaccination mandatory** |
-| **Ravulizumab (Ultomiris)** | **C5** complement | IV **every 8 weeks** | **Approved 2024** (CHAMPION-NMOSD). Same target as eculizumab, engineered for a longer half-life — **q8wk instead of q2wk** |
-| **Inebilizumab (Uplizna)** | **CD19** B cells | IV **every 6 months** | N-MOmentum. Broader B-cell depletion than anti-CD20 (includes plasmablasts) |
-| **Satralizumab (Enspryng)** | **IL-6 receptor** | **Subcutaneous**, monthly after loading | SAkuraSky/SAkuraStar. Self-administered — the most deployable-friendly option |
+| **Eculizumab (Soliris)** | **C5** complement | **900 mg IV weekly ×4; 1,200 mg at week 5, then q2wk** | PREVENT trial. **Meningococcal vaccination mandatory** |
+| **Ravulizumab (Ultomiris)** | **C5** complement | **Weight-based IV loading; first maintenance 2 weeks later, then q8wk** (use current adult weight table) | **Approved 2024** (CHAMPION-NMOSD). Same target as eculizumab, engineered for a longer half-life — **q8wk instead of q2wk** |
+| **Inebilizumab (Uplizna)** | **CD19** B cells | **300 mg IV on days 1 and 15; then 300 mg q6mo from first infusion** | N-MOmentum. Broader B-cell depletion than anti-CD20 (includes plasmablasts) |
+| **Satralizumab (Enspryng)** | **IL-6 receptor** | **120 mg SC at weeks 0, 2, 4, then q4wk** | SAkuraSky/SAkuraStar. Self-administered after loading; refrigeration, immunosuppression, monitoring and theater clearance still apply |
 
-!!! note "Eculizumab biosimilars do not carry the NMOSD indication"
-    Two interchangeable eculizumab biosimilars are FDA-approved — **Bkemv (eculizumab-aeeb)** and
-    **Epysqli (eculizumab-aagh)** — but both were approved under a **"skinny label"** covering only
-    **PNH and atypical HUS.** **NMOSD remains a Soliris-only indication** among eculizumab products,
-    as does generalised myasthenia gravis.
-
-    This matters for formulary navigation: a payer or pharmacy substituting a biosimilar for an
-    NMOSD patient would be dispensing off-label. Specify the reference product.
+!!! note "Eculizumab biosimilar indications have expanded — check the current product label"
+    The original approvals were restricted, but the **current 2026 FDA labels for Bkemv and
+    Epysqli include adult AQP4-IgG-positive NMOSD and adult AChR-positive gMG**, in addition to
+    PNH/aHUS. Do not use an old approval announcement to deny the newer indication. Verify the
+    exact product, indication, interchangeability, REMS requirements, and benefit authorization
+    with pharmacy; biosimilar status alone does not guarantee payer substitution or approval.
 
 **Off-label but genuinely useful options:**
 
@@ -215,7 +213,11 @@ disability is entirely relapse-driven, this is the intervention that changes the
     - If treatment cannot wait 2 weeks, vaccinate and give **antibiotic prophylaxis** to cover
       the interval.
     - Give the patient a **wallet card** and explicit instructions: **any fever is an emergency.**
-    - Revaccinate on schedule for the duration of therapy.
+    - **Vaccination and antibiotics do not eliminate the risk.** Evaluate possible meningitis/
+      meningococcemia urgently even with mild initial symptoms, a completed vaccine series, or
+      prophylaxis. CDC advises **MenACWY boosters every 5 years** and **MenB booster 1 year after
+      the primary series, then every 2–3 years** while risk persists. Consider ongoing antibiotic
+      prophylaxis with the treating specialist.
 
 !!! warning "Do not use in NMOSD"
     **Interferon-beta, natalizumab, and fingolimod** are associated with **worsening NMOSD** and
@@ -227,16 +229,10 @@ disability is entirely relapse-driven, this is the intervention that changes the
     **sequestration** rather than depletion) is shared across the class. There is no reason to
     take the risk when effective alternatives exist.
 
-!!! tip "TRICARE — NMOSD prescribing"
-    All four approved agents are **high-cost biologics requiring prior authorisation**, with a
-    neurologist prescriber requirement and documentation of AQP4 seropositivity. The infused agents
-    (eculizumab, ravulizumab, inebilizumab) typically run through the **medical benefit**;
-    subcutaneous **satralizumab** through **specialty pharmacy**.
+!!! tip "TRICARE — verified rules and the current form"
+    **Enspryng** has a pharmacy PA flag. C5-antibody infusions and inebilizumab need product/indication-specific medical-benefit review. Obtain AQP4 serostatus, previous treatment, required safety screening and the current regional continuation criteria. Use the actual formulation and biosimilar label; a pharmacy list does not establish authorization for an infusion.
 
-    **Start the authorisation the day you make the diagnosis.** In a relapse-driven disease, an
-    authorisation delay is not administrative friction — it is unprotected time during which an
-    attack can cost vision or ambulation. Bridge with steroids if there is any lag.
-    **Verify current criteria at the TRICARE Formulary Search.**
+    [Current PA/MN details, benefit routing and packet](../military/tricare.md) · [Live Formulary Search](https://www.express-scripts.com/frontend/open-enrollment/tricare/fst). Check the exact product, beneficiary and venue on the prescribing date.
 
 ## Monitoring and long-term care
 
@@ -279,30 +275,12 @@ disability is entirely relapse-driven, this is the intervention that changes the
 
 ---
 
-!!! military "Military medicine — NMOSD"
-    *Framework — verify against current **AR 40-501**, **DoDI 6130.03 Vol 2**, and **DoDI 1332.18**.
-    See [Profiles, MEB/MAR2 & deployability](../military/deployability.md).*
-
-    - **Retention:** **AR 40-501 para 3-31e** covers **"multiple sclerosis, optic neuritis,
-      transverse myelitis, and similar demyelinating disorders"** — NMOSD falls squarely within it,
-      and its two defining syndromes are named in the paragraph explicitly. The DoD floor is
-      **DoDI 6130.03 Vol 2 para 5.26.f**, gated by **5.26.a**. Residual visual or motor deficit also
-      engages **5.26.c** (CNS sequelae) and, for diplopia, **AR 40-501 3-7b**.
-    - **Deployability: assume non-deployable.** NMOSD is materially less compatible with the
-      operational environment than MS:
-        - **Relapse-driven catastrophic disability** — an attack in theatre can cost vision or
-          ambulation before evacuation completes.
-        - **Infusion-dependent maintenance** on a fixed schedule (q2wk to q6mo).
-        - **Complement inhibitors create a standing meningococcal risk** that is difficult to manage
-          forward and dangerous in a crowded field environment.
-        - *If retention is being contemplated, **satralizumab** is the only self-administered
-          subcutaneous option and the only regimen with any field plausibility.*
-    - **Profile:** **permanent**, with functional limits reflecting visual acuity, gait, bladder,
-      and heat tolerance.
-    - **MEB/DES:** refer on diagnosis. Document attack dates and residual deficits objectively —
-      **visual acuity and fields, EDSS or timed walk** — since NMOSD disability is stepwise and the
-      board needs the increments, not a narrative.
-    - **Aeromedical:** disqualifying for flying duty.
+!!! military "Military medicine — duty, retention and deployment"
+    - **Profile / function:** Record relapse date, residual disability, visual/motor function, fatigue and heat sensitivity; protect against tasks that amplify those deficits.
+    - **Retention / MEB–MAR2:** DoDI V2 **5.26.f** and Army **3-31e** address demyelinating disease. Apply the specific Army standard; a monophasic syndrome and a chronic relapsing disorder are not interchangeable. Use the [retention framework](../military/deployability.md); permanent P3/4 does not by itself select DES versus MAR2.
+    - **Deployment / medications:** CENTCOM MS requires stability/heat/medication assessment for waiver. SC self-injection still triggers the injectable rule; immunosuppression, infection risk and lab/infusion support require separate review. See [the disease AND drug screen](../military/deployment-medications.md) for the current CENTCOM rules and waiver packet.
+    - **Special duty:** flight, diving and other special assignments have separate standards and waiver authorities; a general duty profile does not clear them.
+    - **LOD / EPTS:** document onset, duty status, exposures and aggravation objectively. The designated authority determines LOD/EPTS; neither in-service diagnosis nor a genetic finding settles it automatically.
 
 ---
 
@@ -377,37 +355,11 @@ forfeited, highly effective treatment.
     *J Neurol.* 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36066625) — source of the GFAP
     threshold.
 14. [FDA — Bkemv and Epysqli eculizumab biosimilars](https://www.fda.gov/news-events/press-announcements/fda-approves-first-interchangeable-biosimilar-two-rare-diseases)
-    (skinny label: PNH and aHUS only).
+    (historical initial approval; see current product labels for expanded indications).
 15. **AR 40-501** para **3-31e**; **DoDI 6130.03 Vol 2** para **5.26.f** (gated by **5.26.a**).
 
-*Verified July 2026: **four** FDA-approved agents for AQP4-IgG-seropositive NMOSD — eculizumab,
-inebilizumab, satralizumab, and **ravulizumab (approved 2024, CHAMPION-NMOSD)** — with the
-ravulizumab q8-week versus eculizumab q2-week dosing distinction confirmed. **Eculizumab
-biosimilars Bkemv and Epysqli are approved under a skinny label (PNH and aHUS only) and do NOT
-carry the NMOSD indication** — verified against the FDA announcement. The comparative figures are
-now attributed to their primary source — **Bilodeau et al., *Neurol Neuroimmunol Neuroinflamm*
-2026;13(2):e200536**, a **single-centre retrospective cohort of 176 patients**, verified directly
-from the paper — and the **composite endpoint is reported alongside the relapse-free-survival
-headline**, because it materially changes the conclusion: only the **C5 inhibitors** clearly
-separate from rituximab (91% vs 55%), while **inebilizumab (HR 1.23, 95% CI 0.24–3.12)** and
-**satralizumab (HR 1.01, 95% CI 0.16–2.68)** were **not statistically superior** to rituximab on
-the composite. *One discrepancy is flagged for the reader: a frequently cited figure of >70%
-hypogammaglobulinaemia on long-term rituximab could not be confirmed in this source, which reports
-13% of rituximab treatment periods complicated by hypogammaglobulinaemia (and 28% by serious
-infection); the page uses the figures verified in the paper.* The **Bayesian network meta-analysis**
-ranking (*J Neurol* 2025; 8 RCTs, 851 patients; ravulizumab SUCRA 0.99) is **indirect comparison**
-and is labelled as such. **TANGO** is a **phase 2, open-label** trial (n=118, six Chinese centres)
-with a 2025 published correction — tocilizumab is presented as **off-label**. The 2015
-international consensus criteria remain current and are explicitly endorsed by the **2026
-MENACTRIMS guidelines**; no successor criteria had been published as of this review.
-**Complement-inhibitor discontinuation rebound** is described from published case reports and
-series — the risk is real but **not universal** (other series report uneventful switches), and the
-page frames it as requiring a planned bridge rather than as an absolute contraindication to
-switching. **GFAP is explicitly labelled not-yet-standard-of-care.** The contraindication of interferon-beta,
-natalizumab, and fingolimod in NMOSD reflects established case-series evidence. Meningococcal
-vaccination requirements before complement inhibition follow the agents' boxed warnings.
-**Not independently verified:** TRICARE tiers and PA criteria for the individual biologics —
-verify at the TRICARE Formulary Search. Retention standards quoted from **AR 40-501 3-31e** and
-**DoDI 6130.03 Vol 2 5.26.f/5.26.a**, verified against source PDFs; note that NMOSD is not named
-as a distinct entity in either regulation and is captured under the demyelinating-disorder
-language — **cite it that way rather than implying a dedicated paragraph exists.***
+- [Bkemv current FDA label](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=002f9748-b0e8-4b6e-a38b-56930a839491).
+
+- [Epysqli current FDA label](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1fa1aa80-1c59-44d4-9841-b6c52882651b).
+
+*Evidence/policy audit: 21 November 2026. Material changes were checked against the linked primary sources; this is an AI-assisted review, not certification of every dose or claim. [Review scope and source limits](../evidence-review.md).*

@@ -24,9 +24,11 @@ effective preventive while unwinding the overused drug.**
 | Combination analgesics | **≥10 days/month** |
 | **Ditans (lasmiditan)** | **≥10 days/month** — **NOT MOH-safe** (FDA label warning + preclinical data); count it like a triptan |
 
-**Gepants (ubrogepant, rimegepant, atogepant, zavegepant) do not cause MOH** and carry **no monthly
-cap** — they are the acute agent of choice in this population. **Ditans are the exception among the
-new agents — lasmiditan *can* cause MOH**, so don't treat it as interchangeable with a gepant.
+**Gepants have not demonstrated the established MOH pattern seen with triptans/opioids, but
+they are not unlimited-use drugs.** FDA-label exposure limits still matter: safety beyond 8
+ubrogepant/zavegepant-treated attacks or 18 rimegepant doses in 30 days is not established.
+Atogepant is a daily **preventive**, not an acute rescue. Frequent attacks warrant prevention
+review and an individualized rescue plan. Lasmiditan carries an MOH warning.
 
 ## Rapid approach
 
@@ -95,7 +97,7 @@ new agents — lasmiditan *can* cause MOH**, so don't treat it as interchangeabl
 
     - Replace with a **capped rescue plan: a non-overused acute agent limited to ≤2 days/week.**
     - **Prefer a gepant** (ubrogepant, rimegepant, or **zavegepant nasal** — useful with nausea/
-      vomiting during withdrawal) for rescue — no MOH, no monthly cap. Rimegepant also doubles as a
+      vomiting during withdrawal) for rescue — lower observed MOH concern, **with label dose/exposure limits**. Rimegepant also doubles as a
       preventive. **Do not swap in lasmiditan as a "safe" alternative — ditans carry MOH risk.**
 
 !!! orderset "Step 3 — bridge the withdrawal window (2–4 weeks)"
@@ -114,13 +116,10 @@ new agents — lasmiditan *can* cause MOH**, so don't treat it as interchangeabl
     drugs. Don't start them; **prioritize tapering** patients already on them. They are also the
     classes most likely to require a structured withdrawal program.
 
-!!! tip "TRICARE — MOH prescribing"
-    - **Preventives:** oral agents (topiramate, amitriptyline, propranolol, candesartan) are
-      generic/formulary, no PA. **Galcanezumab (Emgality) is the preferred, no-PA CGRP** — the go-to
-      antibody when you want a CGRP early in MOH.
-    - **Rescue:** triptans are formulary; the **gepants (Ubrelvy acute, Qulipta preventive, Nurtec)**
-      require a **PA + neurologist** — but they're the ideal MOH rescue because they carry no cap.
-    - **Bridge:** naproxen, prednisone, antiemetics are all generic/formulary.
+!!! tip "TRICARE — verified rules and the current form"
+    For migraine, **Emgality 120 mg** had no PA displayed in the live lookup; the **100 mg episodic-cluster formulation requires PA**. Ubrelvy/Qulipta have PA or claims-history rules; Nurtec is nonformulary with separate PA/MN requirements; Zavzpret is nonformulary with PA. See the **retrieved forms and exact failure/renewal criteria** below. A PTH/NDPH phenotype does not automatically establish covered Botox treatment.
+
+    [Current PA/MN details, benefit routing and packet](../military/tricare.md) · [Live Formulary Search](https://www.express-scripts.com/frontend/open-enrollment/tricare/fst). Check the exact product, beneficiary and venue on the prescribing date.
 
 ## Disposition
 
@@ -135,22 +134,12 @@ from a **structured withdrawal / infusion program** (inpatient or day-hospital).
     headache** (vs migraine). Counter it with **structured follow-up, a written acute-day cap, and
     behavioral support** — and be most vigilant in the opioid/butalbital group.
 
-!!! military "Military medicine — medication overuse headache"
-    *Framework only — verify against current AR 40-501, DoDI 6130.03, DoDI 1332.18, and aeromedical
-    policy.*
-
-    - **Common and under-recognized** — service members self-treat frequent headaches with OTC
-      analgesics or leftover opioids/butalbital; screen acute-med days deliberately.
-    - **Opioid/butalbital overuse** carries fitness-for-duty, drug-testing, and readiness
-      implications — an added reason to avoid these classes and taper existing use.
-    - **Deployability:** the **underlying primary headache** (usually migraine) drives
-      deployability; treating MOH often restores function.
-    - **Retention — AR 40-501 para 3-31g:** frame around the **underlying primary headache** once
-      overuse is corrected — if incapacitating attacks still interfere with duty ≥3 days/month after
-      an adequate neurology-directed trial (up to 6 months prophylaxis), the standard directs
-      **referral to the DES** (MEB/PEB).
-    - **Aeromedical / special duty:** sedating acute meds and opioids/barbiturates are
-      **disqualifying/waiver-dependent**; correcting overuse can support return to status.
+!!! military "Military medicine — duty, retention and deployment"
+    - **Profile / function:** Record incapacitating headache days, abortive success, preventive trials and drug effects. Grounding or hazardous-duty restrictions depend on attacks and treatment effects.
+    - **Retention / MEB–MAR2:** Headache: DoDI V2 **5.26.g** and Army **3-31g**; trigeminal neuralgia and other diagnoses need their applicable standard, rather than automatically borrowing the migraine threshold. Use the [retention framework](../military/deployability.md); permanent P3/4 does not by itself select DES versus MAR2.
+    - **Deployment / medications:** CENTCOM disruptive migraine may require waiver; injectable CGRP therapy/Botox is separately relevant. Valproate, carbamazepine and lamotrigine are named medication exceptions even when used for pain/headache. See [the disease AND drug screen](../military/deployment-medications.md) for the current CENTCOM rules and waiver packet.
+    - **Special duty:** flight, diving and other special assignments have separate standards and waiver authorities; a general duty profile does not clear them.
+    - **LOD / EPTS:** document onset, duty status, exposures and aggravation objectively. The designated authority determines LOD/EPTS; neither in-service diagnosis nor a genetic finding settles it automatically.
 
 ---
 
@@ -163,8 +152,9 @@ from a **structured withdrawal / infusion program** (inpatient or day-hospital).
   drug was **non-inferior** for headache frequency (switching yielded more MOH-free patients). The
   dedicated CGRP phase-4 trials seal it: **erenumab** (JAMA Neurol 2024) → **69% MOH remission at 6 mo
   without withdrawal**; **eptinezumab + education** (RESOLUTION, 2026) → sustained benefit through
-  24 weeks. Mandatory "detox" is **largely optional** in the CGRP era.
-- **Gepants carry no MOH risk and no monthly cap** — the preferred rescue. **Ditans (lasmiditan) are
+  24 weeks. These trials do **not** make opioid/barbiturate withdrawal optional: dependence,
+  withdrawal seizures, and safety require a separate supervised plan.
+- **Gepants have lower observed MOH concern, but product-specific exposure limits still apply** — the preferred rescue. **Ditans (lasmiditan) are
   NOT MOH-safe** (FDA warning) — don't treat them like gepants.
 - **OnabotulinumtoxinA** helps modestly but adds nothing over withdrawal alone; **CGRP mAbs are the
   stronger choice** in CM-MOH.
@@ -187,16 +177,6 @@ MOH trials; lasmiditan MOH-risk data.
 4. Koonalintip P, et al. *Network meta-analysis of MOH strategies* (J Headache Pain 2025) —
    combination best, withdrawal-alone insufficient. onabotulinumtoxinA MOH trials (incl. Pijpers 2019).
 5. **Lasmiditan MOH risk:** Reyvow FDA label warning; preclinical MOH-model data (Rau/Saengjaroentham).
-6. **TRICARE / DoD Uniform Formulary:** galcanezumab (Emgality) preferred/no-PA; gepants (Ubrelvy,
-   Qulipta, Nurtec) PA + neurologist; oral preventives and bridge agents generic-formulary. *Verify
-   at the TRICARE Formulary Search.*
+- [Official TRICARE sources, retrieved forms and access limits](../military/tricare.md).
 
-*Verified July 2026: ICHD-3 overuse thresholds (≥15 days/month simple analgesics; ≥10 days/month
-triptans/ergots/opioids/combinations/ditans) are current; **gepants (incl. zavegepant) are not
-associated with MOH, but ditans (lasmiditan) ARE.** Contemporary evidence supports starting a
-preventive early and shows **CGRP monoclonal antibodies induce and sustain MOH remission without
-mandatory withdrawal** (erenumab phase-4 RCT; RESOLUTION), that **combination strategies beat
-withdrawal alone** (2025 network meta-analysis), and that **relapse is ~30%/year** (opioid overuse
-worst). The specific trial figures were supplied by expert review with citations — confirm before
-relying on them. Service-specific aeromedical/retention specifics warrant confirmation before final
-sign-off.*
+*Evidence/policy audit: 21 November 2026. Material changes were checked against the linked primary sources; this is an AI-assisted review, not certification of every dose or claim. [Review scope and source limits](../evidence-review.md).*

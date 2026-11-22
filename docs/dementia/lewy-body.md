@@ -73,7 +73,8 @@ atonia.**
 3. **Test visuospatial and attentional domains**, not just memory.
 4. **Screen for and treat orthostatic hypotension** — it drives falls, and it is treatable.
 5. **Deprescribe** — anticholinergics, dopamine blockers (including antiemetics), benzodiazepines.
-6. **Start a cholinesterase inhibitor.** This class works better here than in Alzheimer's disease.
+6. **Start an appropriate cholinesterase inhibitor.** It may help cognition and neuropsychiatric
+   symptoms; do not promise greater benefit than in AD for an individual patient.
 7. **Treat the symptom that most impairs function**, one at a time: hallucinations, RBD,
    parkinsonism, orthostasis, or sleepiness.
 8. **Address falls, driving and caregiver support.** **Do not apply the Alzheimer's driving
@@ -175,39 +176,19 @@ atonia.**
     - **Surgery without a plan** — anaesthesia, opioids and antiemetics all conspire here.
       **Tell the surgical and anaesthetic teams the diagnosis in advance.**
 
-!!! tip "TRICARE — DLB/PDD prescribing"
-    - **The workhorses are generic and formulary** — rivastigmine (capsule and patch), donepezil,
-      memantine, carbidopa/levodopa, melatonin. **Nothing in the first two steps should require a
-      prior authorization.**
-    - **Quetiapine and clozapine are generic**; clozapine's constraint is the **ANC monitoring and
-      registry requirement**, not the formulary.
-    - **Pimavanserin is a branded specialty agent** — assume prior authorization, and note that a
-      PA written for **DLB rather than Parkinson's disease psychosis is off-label** and should be
-      argued as such, with the literature and the clinical rationale, rather than filed as a
-      formulary request.
-    - **Verify current status at the
-      [TRICARE Formulary Search](https://www.express-scripts.com/frontend/open-enrollment/tricare/fst)
-      before counselling.** *TRICARE-specific criteria were not independently verified for this page.*
+!!! tip "TRICARE — verified rules and the current form"
+    Separate diagnostic-service authorization from medication coverage. **Leqembi IQLIK initiation and maintenance products have pharmacy PA flags**; lecanemab IV and donanemab require benefit/site-specific medical review. Nuplazid is PA/nonformulary in the October files. Biomarker eligibility, MRI safety and payer authorization are separate requirements; do not promise anti-amyloid access from FDA approval alone.
+
+    [Current PA/MN details, benefit routing and packet](../military/tricare.md) · [Live Formulary Search](https://www.express-scripts.com/frontend/open-enrollment/tricare/fst). Check the exact product, beneficiary and venue on the prescribing date.
 
 ---
 
-!!! military "Military medicine — DLB and PDD"
-    *Section-wide framing on the [hub](index.md#military-medicine--cognitive-impairment-and-dementia).
-    Only the deltas are here.*
-
-    - **The military value of this page is safety, not disposition.** These are beneficiary-age
-      diseases; active-duty cases would be extraordinary. What matters is stopping an MTF, ED,
-      peri-operative or deployed provider who has never met the patient from giving **haloperidol or
-      another D2 blocker.** **Flag neuroleptic sensitivity on the problem list and in the allergy
-      field**, not in a progress note.
-    - **Named Army hook beats the catch-all:** **AR 40-501 3-31d** — *"progressive degenerative
-      disorders of the basal ganglia and cerebellum, including Parkinson's disease"* — cited
-      alongside 3-31k. Aeromedical **4-27i** names Parkinson's disease and basal ganglia disease
-      directly.
-    - **Profile is unambiguously P** (parkinsonism, orthostasis, falls), with **S** added for the
-      neuropsychiatric burden.
-    - **Do not apply the Alzheimer's driving thresholds** — DLB impairs driving fitness more
-      severely at milder stages.
+!!! military "Military medicine — duty, retention and deployment"
+    - **Profile / function:** Restrict safety-sensitive work while cognition or alertness is impaired; establish collateral and task-based function. Treat reversible causes before labeling a progressive dementia.
+    - **Retention / MEB–MAR2:** DoDI V2 **5.26.d** calls for action on diagnosis of permanent/progressive dementia; a reversible encephalopathy requires its own diagnosis and reassessment. Use Army **3-31k** and the applicable cause-specific standard. Use the [retention framework](../military/deployability.md); permanent P3/4 does not by itself select DES versus MAR2.
+    - **Deployment / medications:** Cognitive impairment may itself prevent deployment. Anti-amyloid injections/infusions require MRI/specialty support and medication review; symptom benefit does not restore operational capacity automatically. See [the disease AND drug screen](../military/deployment-medications.md) for the current CENTCOM rules and waiver packet.
+    - **Special duty:** flight, diving and other special assignments have separate standards and waiver authorities; a general duty profile does not clear them.
+    - **LOD / EPTS:** document onset, duty status, exposures and aggravation objectively. The designated authority determines LOD/EPTS; neither in-service diagnosis nor a genetic finding settles it automatically.
 
 ---
 
@@ -249,18 +230,6 @@ the antipsychotic class boxed warning for dementia-related psychosis.
    α-synuclein has been proposed but is **not yet in the diagnostic criteria.**
 5. **AR 40-501** para **3-31k**, **3-1**, **3-4**, **4-27**; **DoDI 6130.03 Vol 2** para **5.26.d**.
 
-*Verified August 2026: rivastigmine and pimavanserin dosing and indications are from current FDA
-labels. Corrections applied: the **neuroleptic-sensitivity frequency was softened** — the **Fourth
-Consensus Criteria (McKeith 2017)** list it as a **supportive feature and assign no percentage**, so
-"up to about half" is presented as the commonly quoted figure rather than a criterion; **cholinesterase
-inhibitors are now stated as first-line for psychosis and agitation**, ahead of any antipsychotic;
-**pimavanserin's boxed warning is attached to the drug**, and the page now records that a
-dementia-related-psychosis basket trial was positive but **the FDA did not grant a broad indication**;
-and **the Alzheimer's driving thresholds are explicitly disclaimed here**, because DLB impairs driving
-fitness at milder stages. The **Army hook was corrected to the named AR 40-501 3-31d**, and the
-**profile factor from S to P.***
+- [FDA clozapine REMS removal](https://www.fda.gov/drugs/drug-safety-communications/fda-removes-risk-evaluation-and-mitigation-strategy-rems-program-antipsychotic-drug-clozapine).
 
-***Not independently verified:** the comparative tolerability ranking among atypical antipsychotics
-(supported but on a weak evidence base); melatonin and clonazepam dosing in RBD, deliberately not
-quoted because neither is FDA-labelled for it; carbidopa/levodopa dosing, titrated to a psychiatric
-rather than motor ceiling; and TRICARE criteria.*
+*Evidence/policy audit: 21 November 2026. Material changes were checked against the linked primary sources; this is an AI-assisted review, not certification of every dose or claim. [Review scope and source limits](../evidence-review.md).*

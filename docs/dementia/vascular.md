@@ -4,8 +4,8 @@
 
 *Part of [Approach to cognitive impairment](index.md).*
 
-**One-liner:** cognitive impairment caused by cerebrovascular disease — the **only common dementia
-with a genuinely modifiable cause**, which is why it is worth identifying even when it coexists with
+**One-liner:** cognitive impairment caused by cerebrovascular disease — a common cognitive syndrome
+with important modifiable vascular contributors, which is why it is worth identifying even when it coexists with
 Alzheimer's pathology, as it usually does.
 
 **Who this is for:** the provider looking at a scan full of white matter change wondering whether it
@@ -111,49 +111,25 @@ brings [CAA](../stroke/cerebral-amyloid-angiopathy.md) into the frame.
     - **Anticholinergics and benzodiazepines** — as everywhere in this section.
     - **Assuming "vascular" excludes Alzheimer's.** It usually does not.
 
-!!! tip "TRICARE — vascular cognitive impairment"
-    - **Everything with evidence behind it is generic and formulary** — antihypertensives, statins,
-      metformin, antiplatelets, and the SSRIs. **This is the cheapest dementia to treat well**,
-      because the treatment is cardiovascular risk management.
-    - **Anticoagulants** for atrial fibrillation follow the [stroke pages](../stroke/prevention.md);
-      DOAC tier and PA status change, so verify.
-    - **Cholinesterase inhibitors used off-label** for presumed mixed pathology are generic and
-      unlikely to be challenged, but **document the mixed-pathology reasoning** rather than coding
-      an AD indication you have not established.
-    - **Cardiac rehabilitation, physiotherapy and falls programmes** are usually the higher-value
-      authorization requests here.
-    - **Verify current status at the
-      [TRICARE Formulary Search](https://www.express-scripts.com/frontend/open-enrollment/tricare/fst).**
-      *Not independently verified for this page.*
+!!! tip "TRICARE — verified rules and the current form"
+    Separate diagnostic-service authorization from medication coverage. **Leqembi IQLIK initiation and maintenance products have pharmacy PA flags**; lecanemab IV and donanemab require benefit/site-specific medical review. Nuplazid is PA/nonformulary in the October files. Biomarker eligibility, MRI safety and payer authorization are separate requirements; do not promise anti-amyloid access from FDA approval alone.
+
+    [Current PA/MN details, benefit routing and packet](../military/tricare.md) · [Live Formulary Search](https://www.express-scripts.com/frontend/open-enrollment/tricare/fst). Check the exact product, beneficiary and venue on the prescribing date.
 
 ---
 
-!!! military "Military medicine — vascular cognitive impairment"
-    *Section-wide framing on the [hub](index.md#military-medicine--cognitive-impairment-and-dementia).
-    Only the deltas are here.*
-
-    - **This is the one page in the section where 5.26.d is often NOT the operative standard.**
-      Below the dementia threshold this is an ordinary post-stroke disposition running **MRDP → the
-      MAR2-versus-DES fork, gated normally by 5.26.a**. **Only when *permanent or progressive*
-      cognitive impairment is established does 5.26.d take over and the gate disappear.**
-    - **Named Army hook: AR 40-501 3-31f** — *"stroke… when residuals affect performance"* — cited
-      ahead of 3-31k, with **DoDI 6130.03 Vol 2 5.26.b** as the DoD floor.
-    - **The risk factors carry their own standards.** The stroke, the hypertension and the atrial
-      fibrillation each have retention implications independent of the cognition — cite them
-      separately; see [stroke](../stroke/index.md).
-    - **The realistic active-duty case is post-stroke cognitive impairment in a 40s–50s service
-      member**, not late-life small vessel disease. **Formal cognitive assessment is routinely
-      omitted from stroke follow-up** — and in a service member that omission decides whether a real
-      deficit is documented before a return-to-duty decision. **Test it deliberately.**
-    - **This is the only page in the section where the military box can legitimately be about
-      prevention.** Blood pressure, lipids, tobacco and weight management in mid-career service
-      members are cognitive interventions as well as cardiovascular ones.
+!!! military "Military medicine — duty, retention and deployment"
+    - **Profile / function:** Restrict safety-sensitive work while cognition or alertness is impaired; establish collateral and task-based function. Treat reversible causes before labeling a progressive dementia.
+    - **Retention / MEB–MAR2:** DoDI V2 **5.26.d** calls for action on diagnosis of permanent/progressive dementia; a reversible encephalopathy requires its own diagnosis and reassessment. Use Army **3-31k** and the applicable cause-specific standard. Use the [retention framework](../military/deployability.md); permanent P3/4 does not by itself select DES versus MAR2.
+    - **Deployment / medications:** Cognitive impairment may itself prevent deployment. Anti-amyloid injections/infusions require MRI/specialty support and medication review; symptom benefit does not restore operational capacity automatically. See [the disease AND drug screen](../military/deployment-medications.md) for the current CENTCOM rules and waiver packet.
+    - **Special duty:** flight, diving and other special assignments have separate standards and waiver authorities; a general duty profile does not clear them.
+    - **LOD / EPTS:** document onset, duty status, exposures and aggravation objectively. The designated authority determines LOD/EPTS; neither in-service diagnosis nor a genetic finding settles it automatically.
 
 ---
 
 ## 📚 Discover — evidence brief
 
-**The only dementia you can meaningfully prevent.** Alzheimer's disease has a modifiable component;
+**A major opportunity to reduce preventable vascular brain injury.** Alzheimer's disease has a modifiable component;
 vascular cognitive impairment is *mostly* modifiable component. Blood pressure control has the
 strongest supporting evidence, and the interventions are the same ones already being pushed for
 cardiovascular reasons — which makes this the rare neurology page whose main therapeutic message is
@@ -183,24 +159,13 @@ CAA.
    regimens behind Step 1 live there and are verified on that page.
 2. **Cerebral amyloid angiopathy** — [this site](../stroke/cerebral-amyloid-angiopathy.md); Boston
    v2.0 criteria and the lobar-microbleed significance.
-3. **Vascular cognitive impairment criteria** — **there is no single universally adopted edition.**
-   The two most commonly cited are the **VASCOG criteria (Sachdev et al., 2014)** and the
-   **AHA/ASA statement (Gorelick et al., 2011)**. Cite whichever you use, and say that no consensus
-   standard exists.
+3. **VasCog-2-WSO revised criteria (2025)** update the 2014 VASCOG framework and are endorsed
+   by the World Stroke Organization. Use objective cognitive impairment, functional staging, and
+   a credible vascular relationship; executive-predominant or stepwise decline is supportive, not
+   mandatory in every case. [Primary consensus](https://jamanetwork.com/journals/jamaneurology/fullarticle/2839119).
+
 4. **Cholinesterase inhibitors and memantine** — current FDA labels; **no vascular dementia
    indication exists** and use here is off-label.
 5. **AR 40-501** para **3-31k**, **3-1**, **3-4**, **4-27**; **DoDI 6130.03 Vol 2** para **5.26.d**.
 
-*Verified August 2026: **no doses are quoted on this page by design** — the vascular risk-factor
-regimens defer to [stroke prevention](../stroke/prevention.md), which is separately verified, and the
-cholinesterase inhibitors are named only to say their use here is **off-label with no vascular
-dementia indication**. Corrections applied: the **criteria citation is now explicit** — there is **no
-universally adopted edition**, and **VASCOG (Sachdev 2014)** and **AHA/ASA (Gorelick 2011)** are the
-two to cite. A military review established that **this is the one page in the section where 5.26.d is
-often not the operative standard**: below the dementia threshold this runs as an ordinary post-stroke
-disposition through **MRDP and the MAR2-versus-DES fork, gated normally by 5.26.a.** The **named Army
-hook is AR 40-501 3-31f** (stroke with residuals), and the **profile factor was corrected to P.***
-
-***Not independently verified:** the blood-pressure evidence claims and mixed-pathology prevalence
-statements (both confirmed as current consensus in the evidence round, neither traced to a primary
-source here); the strategic-infarct locations; and TRICARE criteria.*
+*Evidence/policy audit: 21 November 2026. Material changes were checked against the linked primary sources; this is an AI-assisted review, not certification of every dose or claim. [Review scope and source limits](../evidence-review.md).*

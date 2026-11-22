@@ -7,11 +7,11 @@
 !!! danger "🚩 Red flags — don't let the workup delay the treatment"
     | Pattern | Worry | Do now |
     |---|---|---|
-    | Arterial thrombosis (stroke, MI, limb ischemia) in a patient <50 y with no atherosclerotic explanation | Antiphospholipid syndrome | Anticoagulate; send the **full APS panel** (LA + aCL + anti-β2GPI) — do **not** order the inherited panel for an arterial event |
+    | Arterial thrombosis (stroke, MI, limb ischemia) in a patient <50 y with no atherosclerotic explanation | Antiphospholipid syndrome | **Use the acute stroke/arterial-ischemia pathway**; send the full APS panel when indicated. **Do not automatically heparinize acute ischemic stroke for suspected APS**; antithrombotic choice/timing depends on the event, imaging, and specialist review |
     | Cerebral venous thrombosis or splanchnic-vein thrombosis | APS, JAK2-positive MPN, PNH | Venous imaging now (MRV/CTV for CVT; contrast CT for splanchnic); anticoagulate — see [Cerebral venous thrombosis](stroke/cerebral-venous-thrombosis.md) |
     | Recurrent VTE, or VTE + thrombocytopenia / livedo racemosa / valve disease | APS (often triple-positive) | Anticoagulate; send the APS panel; **do not start a DOAC** until APS is excluded — triple-positive APS needs warfarin |
     | Thrombosis + cytopenias, hemolysis, or unexplained erythrocytosis/thrombocytosis | PNH, JAK2-positive myeloproliferative neoplasm | CBC, LDH, haptoglobin, reticulocytes; JAK2 V617F; PNH flow cytometry — hematology |
-    | Any acute thrombosis | The workup itself | **Anticoagulate first. Do not delay treatment to draw the panel** — DNA and antibody tests can be sent anytime; functional tests (protein C/S, antithrombin, lupus anticoagulant) are unreliable acutely and on anticoagulation, so they wait |
+    | Any acute thrombosis | The workup itself | **Treat the event first. VTE usually needs anticoagulation; arterial stroke follows its own pathway. Do not delay indicated treatment to draw the panel** — DNA and antibody tests can be sent anytime; functional tests (protein C/S, antithrombin, lupus anticoagulant) are unreliable acutely and on anticoagulation, so they wait |
 
 ## Diagnosis / classification
 
@@ -77,7 +77,8 @@ These are **research classification criteria, not diagnostic criteria** — a pa
 
 ## Rapid approach
 
-1. **Anticoagulate now.** Never delay treatment to draw the panel.
+1. **Treat the thrombotic event now.** Anticoagulate VTE when indicated; acute arterial stroke
+   needs the stroke pathway. Never choose immediate anticoagulation solely because APS is suspected.
 2. **Ask the one question that decides whether to test at all: "Will a positive or negative result change something I am actually going to do?"** If the answer is no, don't test.
 3. **Send the anytime tests now** (DNA + antibody immunoassays). **Defer the functional tests** (protein C, protein S, antithrombin, lupus anticoagulant) until the acute phase has passed and anticoagulation is off or bridged.
 4. **Act on the result that matters most: APS.** A positive inherited test after a first unprovoked VTE usually changes nothing; APS changes the drug.
@@ -86,7 +87,7 @@ These are **research classification criteria, not diagnostic criteria** — a pa
 
 ## The prescriptive flow (what I want done, in order)
 
-1. **Anticoagulate for the event itself** — primary treatment is generally 3–6 months; the duration decision comes after. Do not wait for any test result.
+1. **For VTE, anticoagulate for the event itself** — primary treatment is generally 3–6 months; the duration decision comes after. Do not wait for any test result.
 2. **Decide test vs no-test by scenario** (table below). Default: **do not test** after a first unprovoked VTE or a surgery-provoked VTE. **Test** when the default is to stop anticoagulation and a positive result would extend it.
 3. **Send Step 1 tests now** (DNA + aCL/anti-β2GPI — valid anytime, even anticoagulated).
 4. **Send Step 2 tests later** (protein C, protein S, antithrombin, lupus anticoagulant) — ≥3 months into treatment, off interfering anticoagulants, with the washouts in the table below. Repeat any low result off confounders before labeling a hereditary deficiency.
@@ -114,7 +115,7 @@ These are **research classification criteria, not diagnostic criteria** — a pa
     - **Anticardiolipin IgG and IgM** — ELISA; generally valid anytime (transient positivity possible with acute illness — confirm persistence at ≥12 weeks).
     - **Anti-β2-glycoprotein-I IgG and IgM** — ELISA; same.
     - **Lupus anticoagulant — defer if possible.** LA is the most anticoagulant-sensitive test in the panel: UFH/LMWH, warfarin, and DOACs all distort dRVVT/aPTT assays (false positives and negatives). If it must be sent on anticoagulation, the result needs review/validation by an expert laboratory.
-    - → If Step 1 is normal and the plan is to stop anticoagulation, **stop the drug, wait out the washout, then send Step 2**. Two-stage approach: DNA + aCL/anti-β2GPI on anticoagulation, then LA + protein C/S + antithrombin off it.
+    - → If Step 1 is normal and the plan is to stop anticoagulation, **confirm with the treating clinician that stopping is safe and indicated before any washout/testing**. Two-stage approach: DNA + aCL/anti-β2GPI on anticoagulation, then LA + protein C/S + antithrombin off it.
 
 !!! orderset "Step 2 — send later (functional tests, off interfering anticoagulants)"
     - **Timing:** protein C, protein S, and antithrombin no sooner than **≥3 months** into anticoagulation for the acute thrombosis (BSH Grade 2B). An alternative is to test **2–4 weeks off anticoagulation**, which fits the usual timing of a D-dimer for stop/continue decisions.
@@ -187,8 +188,10 @@ These are **research classification criteria, not diagnostic criteria** — a pa
     - **Testing functional assays during the acute event or on interfering anticoagulants and calling the result a hereditary deficiency** — repeat off confounders first.
     - **Ordering the inherited panel for arterial thrombosis** — send the APS panel instead.
 
-!!! tip "TRICARE — anticoagulant prescribing"
-    **Warfarin and enoxaparin (LMWH) are generic/formulary.** **DOACs are covered** — a preferred DOAC exists on the Uniform Formulary. *Verify the current preferred agent and any PA at the TRICARE Formulary Search — DoD P&T revises tiers.* Warfarin needs INR monitoring (a deployment and access consideration — see the military box); a DOAC avoids monitoring but is the wrong drug in triple-positive APS regardless of formulary status.
+!!! tip "TRICARE — verified rules and the current form"
+    Determine outpatient drug coverage separately from emergency stroke treatment. Anticoagulant, antiplatelet, lipid-drug, dose and quantity rules are product/indication specific; do not infer “no PA” from generic status. Reversal agents and inpatient reperfusion use the facility pathway. Medical authorization for procedures is distinct from pharmacy coverage.
+
+    [Current PA/MN details, benefit routing and packet](military/tricare.md) · [Live Formulary Search](https://www.express-scripts.com/frontend/open-enrollment/tricare/fst). Check the exact product, beneficiary and venue on the prescribing date.
 
 ## Disposition
 
@@ -196,15 +199,12 @@ These are **research classification criteria, not diagnostic criteria** — a pa
 - **Follow-up:** repeat/confirmatory testing at **≥12 weeks** for APS persistence (LA, aCL, anti-β2GPI) and at **≥3 months** for protein C/S/antithrombin. Hematology referral for APS, triple positivity, unusual-site thrombosis, or a confirmed deficiency. Document the provoked/unprovoked classification — it, not the panel, drives the duration decision.
 - **Counseling points:** a positive inherited test after unprovoked VTE does not make the patient "more clot-prone" in a way that changes their own treatment — its value is mostly for family planning and relatives. A negative test does not make them low-risk.
 
-!!! military "Military medicine — hypercoagulable workup"
-    *Framework — verify against current **AR 40-501**, **DoDI 6130.03**, **DoDI 1332.18**, service deployment/aeromedical policy (and any relevant JTS CPG) before counseling.*
-
-    - **Deployability:** acute VTE and the anticoagulation that follows are **deployment-limiting**. Indefinite anticoagulation is a deployment problem in itself — warfarin needs INR monitoring that does not travel well downrange; a DOAC avoids monitoring but the patient on indefinite therapy is still non-deployable in most settings. Estrogen contraception should be changed after VTE.
-    - **Profile (DA Form 3349):** temporary profile during the acute event and anticoagulation titration; **permanent profile** if indefinite anticoagulation or persistent functional limits are documented.
-    - **EPTS / LOD:** hereditary thrombophilia usually predates service — document **onset and pre-service history**; it affects existed-prior-to-service and line-of-duty determinations. A VTE during service is a line-of-duty event unless a pre-existing defect is the sole cause.
-    - **Retention (AR 40-501 / DoDI 6130.03):** recurrent VTE, and a thrombophilia requiring **indefinite anticoagulation**, generally triggers referral to the **DES (MEB/PEB)**. Document etiology, imaging, the provoked/unprovoked classification, anticoagulation plan, and duration — that packet is what the board decides on.
-    - **MEB / IDES:** refer when indefinite anticoagulation is the plan, when there is residual deficit from the event (infarct, hemorrhage, post-thrombotic syndrome), or when seizures or other sequelae follow a cerebral event.
-    - **Aeromedical / special duty:** a history of VTE, cerebral venous thrombosis, seizures, and **chronic anticoagulation are disqualifying / waiver-dependent** for flying duty. Confirm current aeromedical policy before prescribing — many anticoagulants are independently disqualifying.
+!!! military "Military medicine — duty, retention and deployment"
+    - **Profile / function:** Restrict hazardous duties while evaluating a new vascular event; document residual vision, strength, language, cognition, recurrence risk and bleeding risk.
+    - **Retention / MEB–MAR2:** DoDI V2 **5.26.b** and Army **3-31f** guide cerebrovascular retention assessment. Workup for a clotting disorder alone does not establish a permanent disability. Use the [retention framework](military/deployability.md); permanent P3/4 does not by itself select DES versus MAR2.
+    - **Deployment / medications:** Therapeutic anticoagulation is a major CENTCOM exclusion; nonaspirin antiplatelets create a separate waiver issue. Do not stop indicated treatment to make a member deployable. See [the disease AND drug screen](military/deployment-medications.md) for the current CENTCOM rules and waiver packet.
+    - **Special duty:** flight, diving and other special assignments have separate standards and waiver authorities; a general duty profile does not clear them.
+    - **LOD / EPTS:** document onset, duty status, exposures and aggravation objectively. The designated authority determines LOD/EPTS; neither in-service diagnosis nor a genetic finding settles it automatically.
 
 ---
 
@@ -229,6 +229,6 @@ These are **research classification criteria, not diagnostic criteria** — a pa
 5. British Society for Haematology. *Guideline on antiphospholipid syndrome / thrombophilia testing.* — Against starting DOACs in triple-positive APS (1B); aPL screening after unprovoked VTE (Grade 1B); long-term anticoagulation even after VTE with minor provoking factors in triple-positive patients (2C); no routine low-dose aspirin for primary prevention (2B).
 6. ISTH Scientific and Standardization Committee. *Laboratory detection and interpretation of antiphospholipid antibodies (2024/2025 update).* — Assay-specific local cutoffs (>99th percentile); LA per ISTH methodology; aPS/PT and anti-domain-I β2GPI not routine first-line assays.
 7. Connors JM. *Thrombophilia testing and venous thrombosis. New England Journal of Medicine. 2017.* — NEJM testing algorithm (Figure 1, September 21, 2017): who to test after a first VTE; washout intervals (warfarin ≥2 weeks; DOACs ≥5 half-lives).
-8. **TRICARE / DoD Uniform Formulary:** warfarin and enoxaparin generic/formulary; a preferred DOAC exists on the Uniform Formulary. *Verify at the TRICARE Formulary Search.*
+- [Official TRICARE sources, retrieved forms and access limits](military/tricare.md).
 
-*Verified November 2026: ASH 2023 recommendations (Rec 1 against testing after unprovoked VTE; Recs 3–5 for nonsurgical major transient / pregnancy / postpartum / COC-associated VTE; Recs 7–10 for CVT/splanchnic) checked against Middeldorp et al., Blood Advances 2023;7(22):7101-7138 (doi:10.1182/bloodadvances.2023010177), via OpenEvidence (Osler) and clinician ChatGPT run in parallel with identical questions. 2023 ACR/EULAR APS point values, titer thresholds (moderate 40–79, high ≥80 ELISA units), persistence (≥12 weeks), 3-year window, and triple-positivity definition checked against Barbhaiya et al. 2023 via both tools — no contradictions. Washout intervals (warfarin ≥2 weeks; DOACs ≥48 h / 5 half-lives; heparin/LMWH ≥24 h; fondaparinux ≥48 h; BSH ≥3 months for PC/PS/AT) and the per-test interference table checked against both tools. MTHFR non-recommendation checked against ASH, ACMG 2025, ISTH-affiliated 2022 consensus, ACOG, and BSH via both tools. Warfarin target INR 2–3 for thrombotic APS is the only drug target verified in this run. **Could NOT be pinned in this run and still needs confirmation before relying on it:** DOAC doses (not restated here — see the VTE/CVT treatment pages); current TRICARE preferred-DOAC agent and PA status (verify at TRICARE Formulary Search); military-box paragraph numbers specific to thrombophilia/VTE (verify against the current AR 40-501 / DoDI 6130.03 text); the exact EULAR 2019 low-dose-aspirin wording for high-risk aPL carriers (source sentence cut off at the screen edge); the NEJM 2017 algorithm figure contents (figure not transcribed); DOIs/URLs for references 2–7 (cited by author/journal/year only — not captured in this run).*
+*Evidence/policy audit: 21 November 2026. Material changes were checked against the linked primary sources; this is an AI-assisted review, not certification of every dose or claim. [Review scope and source limits](evidence-review.md).*

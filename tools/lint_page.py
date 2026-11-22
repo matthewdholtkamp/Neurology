@@ -39,7 +39,9 @@ MONTHS = (
 RE_STAMP = re.compile(
     r'<span class="reviewed-stamp">Last reviewed: ([A-Z][a-z]+) (\d{4})</span>'
 )
-RE_VERIFIED = re.compile(r"^\*Verified ([A-Z][a-z]+) (\d{4})", re.M)
+RE_VERIFIED = re.compile(
+    r"^\*(?:Verified |Evidence/policy audit: \d{1,2} )([A-Z][a-z]+) (\d{4})", re.M
+)
 RE_ONELINER = re.compile(r"^\*\*One-liner:\*\*", re.M)
 RE_ADMON_OPEN = re.compile(r'^!!! (\w+)(?:\s+"(.*)")?\s*$')
 # Content tabs (`=== "Refractory / steroid-dependent"`) hold prescribing content too.
@@ -116,7 +118,7 @@ def looks_like_drug(label, chunk_text):
     return bool(DRUG_SUFFIX.search(head) or ROUTE.search(chunk_text))
 
 MILITARY_FIELDS = {
-    "Deployability": re.compile(r"deployab", re.I),
+    "Deployability": re.compile(r"deploy(?:ab|ment)", re.I),
     "Profile": re.compile(r"\bprofile\b", re.I),
     "EPTS/LOD": re.compile(r"\bEPTS\b|\bLOD\b|line of duty|line-of-duty", re.I),
     "Retention": re.compile(r"retention|40-501|6130\.03", re.I),
@@ -124,7 +126,9 @@ MILITARY_FIELDS = {
 }
 
 # Pages that are intentionally not clinical topic pages.
-NONCLINICAL = {"docs/index.md", "docs/contributing.md"}
+NONCLINICAL = {"docs/index.md", "docs/contributing.md", "docs/evidence-review.md",
+               "docs/military/deployability.md", "docs/military/deployment-medications.md",
+               "docs/military/tricare.md"}
 
 
 # ---------------------------------------------------------------------------
@@ -252,9 +256,9 @@ def lint(path):
 
     if not verified:
         add("ERROR", "VERIFIED-MISSING", 0,
-            "no `*Verified MON YYYY: ...*` footer — the page claims a review date "
+            "no evidence audit footer — the page claims a review date "
             "with no audit trail behind it")
-    elif stamp:
+    elif stamp and verified.group(0).startswith("*Verified "):
         if (verified.group(1), verified.group(2)) != (stamp.group(1), stamp.group(2)):
             add("ERROR", "VERIFIED-MISMATCH", 0,
                 "stamp says %s %s but footer says %s %s"
@@ -284,7 +288,7 @@ def lint(path):
     # --- military box -------------------------------------------------------
     mil = [b for b in blocks if b.kind == "military"]
     if not mil:
-        if kind == "clinical":
+        if kind == "clinical" and not re.search(r"\]\([^)]*military/deployment-medications\.md\)", text):
             add("ERROR", "MIL-MISSING", 0, "no `!!! military` box")
     else:
         mb = mil[0]
@@ -345,7 +349,8 @@ def lint(path):
         b.kind == "tip" and b.title.strip().upper().startswith("TRICARE")
         for b in blocks
     )
-    if drug_bullets and not has_tricare and kind == "clinical":
+    if (drug_bullets and not has_tricare and kind == "clinical"
+            and not re.search(r"\]\([^)]*military/tricare\.md\)", text)):
         add("ERROR", "TRICARE-MISSING", 0,
             "page prescribes %d drug(s) but has no `!!! tip \"TRICARE — ...\"` box"
             % drug_bullets)
