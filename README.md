@@ -23,8 +23,10 @@ See [docs/contributing.md](docs/contributing.md) and copy [includes/topic-templa
 
 ## Deploy
 
-Pushing to `main` triggers `.github/workflows/deploy.yml`, which runs `mkdocs gh-deploy` and
-publishes to the `gh-pages` branch. Before the first deploy:
+Pushing to `main` triggers `.github/workflows/deploy.yml`, which builds the site, publishes it to
+the `gh-pages` branch, **and** copies the built HTML into the root of `main` (GitHub Pages serves
+`main` / root). Edit only the Markdown in `docs/` — never the generated HTML at the repo root;
+it is overwritten on every deploy. Run `git pull` before pushing, since the deploy adds a commit. Before the first deploy:
 
 1. Set `site_url` and `repo_url` in `mkdocs.yml` to your real GitHub username/repo.
 2. Create the GitHub repo (start **private**), push this folder to `main`.
