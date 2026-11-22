@@ -13,8 +13,10 @@
         <link rel="canonical" href="https://matthewdholtkamp.github.io/Neurology/contributing/">
       
       
-        <link rel="prev" href="../military/deployability/">
+        <link rel="prev" href="../military/tricare/">
       
+      
+        <link rel="next" href="../evidence-review/">
       
       
         
@@ -78,7 +80,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#how-to-add-a-topic" class="md-skip">
+        <a href="#adding-or-updating-a-topic" class="md-skip">
           Skip to content
         </a>
       
@@ -3025,6 +3027,62 @@
 
               
             
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../military/deployment-medications/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Deployment — disease AND medications
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../military/tricare/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    TRICARE — coverage and prior authorization
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
           </ul>
         </nav>
       
@@ -3156,10 +3214,10 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#format-hallmarks-the-headache-style-dont-drop-these" class="md-nav__link">
+  <a href="#clinical-structure" class="md-nav__link">
     <span class="md-ellipsis">
       
-        Format hallmarks (the "Headache" style — don't drop these)
+        Clinical structure
       
     </span>
   </a>
@@ -3167,10 +3225,10 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#the-standard-sections-in-order" class="md-nav__link">
+  <a href="#evidence-and-tone" class="md-nav__link">
     <span class="md-ellipsis">
       
-        The standard sections (in order)
+        Evidence and tone
       
     </span>
   </a>
@@ -3178,32 +3236,10 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#custom-callout-boxes" class="md-nav__link">
+  <a href="#preview-and-publication" class="md-nav__link">
     <span class="md-ellipsis">
       
-        Custom callout boxes
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#ground-rules" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Ground rules
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#abbreviations" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Abbreviations
+        Preview and publication
       
     </span>
   </a>
@@ -3214,6 +3250,34 @@
   
 </nav>
       
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../evidence-review/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Evidence and update policy
+  
+
+    
+  </span>
+  
+  
+
+      </a>
     </li>
   
 
@@ -3253,10 +3317,10 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#format-hallmarks-the-headache-style-dont-drop-these" class="md-nav__link">
+  <a href="#clinical-structure" class="md-nav__link">
     <span class="md-ellipsis">
       
-        Format hallmarks (the "Headache" style — don't drop these)
+        Clinical structure
       
     </span>
   </a>
@@ -3264,10 +3328,10 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#the-standard-sections-in-order" class="md-nav__link">
+  <a href="#evidence-and-tone" class="md-nav__link">
     <span class="md-ellipsis">
       
-        The standard sections (in order)
+        Evidence and tone
       
     </span>
   </a>
@@ -3275,32 +3339,10 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#custom-callout-boxes" class="md-nav__link">
+  <a href="#preview-and-publication" class="md-nav__link">
     <span class="md-ellipsis">
       
-        Custom callout boxes
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#ground-rules" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Ground rules
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#abbreviations" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Abbreviations
+        Preview and publication
       
     </span>
   </a>
@@ -3324,80 +3366,24 @@
 
 
 
-<h1 id="how-to-add-a-topic">How to add a topic<a class="headerlink" href="#how-to-add-a-topic" title="Permanent link">&para;</a></h1>
-<p><strong>Every clinical page follows the "Headache" format</strong> — the tiered, prescriptive style used across
-the Headache and Stroke pages. The canonical reference implementation is
-<a href="../headache/migraine/"><code>docs/headache/migraine.md</code></a>; the fill-in skeleton is
-<code>includes/topic-template.md</code>. To add a page:</p>
+<h1 id="adding-or-updating-a-topic">Adding or updating a topic<a class="headerlink" href="#adding-or-updating-a-topic" title="Permanent link">&para;</a></h1>
+<p>Use the <a href="../headache/migraine/">migraine page</a> as a style reference and <code>includes/topic-template.md</code> as a starting skeleton. Keep the bedside action easy to find. A reader should know what to do now, what can wait, what defines failure and who needs a call.</p>
+<h2 id="clinical-structure">Clinical structure<a class="headerlink" href="#clinical-structure" title="Permanent link">&para;</a></h2>
 <ol>
-<li>Copy <code>includes/topic-template.md</code> to <code>docs/&lt;area&gt;/&lt;topic&gt;.md</code>.</li>
-<li>Fill in each section. Delete sections that truly don't apply, but keep the <strong>order</strong> and the
-   <strong>format hallmarks</strong> below.</li>
-<li>Add the page to the <code>nav:</code> list in <code>mkdocs.yml</code>.</li>
-<li>Preview locally (<code>mkdocs serve</code>), build with <code>mkdocs build --strict</code>, then commit and push — the
-   site redeploys automatically.</li>
+<li>Title, owner-approved review date, one-liner and intended reader. Record the evidence audit separately.</li>
+<li>Red flags and immediate action; diagnosis/classification with the important exclusions.</li>
+<li>Rapid approach, workup and a numbered management flow.</li>
+<li>Dosed adult first-line options, escalation criteria, contraindications and disposition. Label pediatric or off-label regimens explicitly; do not imply that every listed alternative belongs in one combined order set.</li>
+<li>A short condition-specific military assessment, linked to <a href="../military/deployability/">retention</a>, <a href="../military/deployment-medications/">deployment/medications</a> and <a href="../military/tricare/">TRICARE</a>.</li>
+<li>A plain-language evidence brief and matching primary references. State what is uncertain when it changes the decision.</li>
 </ol>
-<h2 id="format-hallmarks-the-headache-style-dont-drop-these">Format hallmarks (the "Headache" style — don't drop these)<a class="headerlink" href="#format-hallmarks-the-headache-style-dont-drop-these" title="Permanent link">&para;</a></h2>
-<ul>
-<li><strong>Prescriptive, not just comprehensive.</strong> The reader should know <strong>exactly what to do at each
-  step</strong> — this is "what the neurologist wants you to do first, second, third."</li>
-<li><strong>A "The prescriptive flow (what I want done, in order)" numbered block</strong> near the top of
-  management.</li>
-<li><strong>Tiered <code>!!! orderset</code> boxes — Step 1 → 2 → 3 — with a DOSE on every drug</strong> and an explicit
-  "what defines failure / when to escalate" between tiers.</li>
-<li><strong>Decision tables</strong> (comorbidity → agent, situation → target) and <code>=== "tabs"</code> for parallel
-  option sets.</li>
-<li><strong>A <code>!!! tip "TRICARE — …"</code> box wherever drugs are prescribed</strong> — name the preferred/no-<abbr title="Prior Authorization">PA</abbr> go-to
-  vs the <abbr title="Prior Authorization">PA</abbr>-gated agents (and what the <abbr title="Prior Authorization">PA</abbr> requires); always tell the reader to verify at the TRICARE
-  Formulary Search.</li>
-<li><strong>The standardized <code>!!! military</code> box</strong> (fixed 5 fields).</li>
-<li><strong>A "📚 Discover" evidence brief, linked References, and a <code>*Verified MON YYYY: …*</code> footer</strong> that
-  states what was source-checked and flags anything that could not be confirmed.</li>
-</ul>
-<h2 id="the-standard-sections-in-order">The standard sections (in order)<a class="headerlink" href="#the-standard-sections-in-order" title="Permanent link">&para;</a></h2>
-<ol>
-<li>Title + <code>Last reviewed: MON YYYY</code> stamp</li>
-<li>One-liner + who it's for</li>
-<li>🚩 Red flags / when to image now (<code>!!! danger</code>)</li>
-<li>Diagnosis / classification (quote criteria exactly)</li>
-<li>Rapid approach (numbered)</li>
-<li><strong>The prescriptive flow (what I want done, in order)</strong></li>
-<li>Workup (labs / imaging / <abbr title="Lumbar Puncture">LP</abbr> — an <code>!!! orderset</code> if there's a mandatory set)</li>
-<li>Management — <strong>tiered <code>!!! orderset</code> Step 1→2→3 with doses</strong>, decision tables, <code>Avoid</code> box</li>
-<li><strong>TRICARE prescribing box</strong> (<code>!!! tip</code>) wherever drugs appear</li>
-<li>Disposition</li>
-<li>Military box (<code>!!! military</code>)</li>
-<li>📚 Discover — evidence brief</li>
-<li>References + <code>*Verified MON YYYY*</code> footer</li>
-</ol>
-<h2 id="custom-callout-boxes">Custom callout boxes<a class="headerlink" href="#custom-callout-boxes" title="Permanent link">&para;</a></h2>
-<p>This site defines two custom admonitions in addition to the Material defaults:</p>
-<div class="highlight"><pre><span></span><code>!!! danger "🚩 Red flags"
-    Emergent / must-not-miss items.
-
-!!! orderset "Step 1 — first-line"
-    Copy-pasteable, dosed orders. Tier as Step 1 → 2 → 3.
-
-!!! tip "TRICARE — &lt;topic&gt; prescribing"
-    Preferred/no-PA go-to vs PA-gated agents; verify at the TRICARE Formulary Search.
-
-!!! military "Military medicine — &lt;topic&gt;"
-    The five fields: deployability, profile, EPTS/LOD, retention, MEB/IDES.
-</code></pre></div>
-<h2 id="ground-rules">Ground rules<a class="headerlink" href="#ground-rules" title="Permanent link">&para;</a></h2>
-<ul>
-<li><strong>Copyright:</strong> write Discover briefs <strong>in your own words</strong> and cite. Source PDFs are a reading
-  list — never paste from Continuum, UpToDate, or similar.</li>
-<li><strong>Currency:</strong> update content to current evidence <strong>before</strong> stamping a review date. No
-  hand-waved dates.</li>
-<li><strong>De-identify:</strong> no PII, no real lot numbers, no patient specifics.</li>
-<li><strong>Military content:</strong> published-doctrine level only; verify against current <abbr title="Army Regulation">AR</abbr> 40-501 / <abbr title="Department of Defense Instruction">DoDI</abbr>
-  1332.18 / aeromedical policy; nothing sensitive.</li>
-<li><strong>Disclaimer:</strong> the site-wide educational-use disclaimer applies to every page.</li>
-</ul>
-<h2 id="abbreviations">Abbreviations<a class="headerlink" href="#abbreviations" title="Permanent link">&para;</a></h2>
-<p>Common acronyms are defined once in <code>includes/abbreviations.md</code> and auto-expand on hover across
-every page. Add new ones there rather than redefining them per page.</p>
+<h2 id="evidence-and-tone">Evidence and tone<a class="headerlink" href="#evidence-and-tone" title="Permanent link">&para;</a></h2>
+<p>Follow the <a href="../evidence-review/">evidence and update policy</a>. Use current issuing-society guidance, original trials, FDA labeling and official policy. Separate a clinical recommendation from a payer requirement and from deployment eligibility. Record actual form/version dates and distinguish <abbr title="Prior Authorization">PA</abbr>, MN, quantity limits and medical-benefit authorization.</p>
+<p>Write in your own words. Dry humor is welcome when it makes the point memorable; give the useful action first and keep emergencies, doses and patients out of the punchline. Avoid presenting an AI answer or a review stamp as proof that every claim was independently verified.</p>
+<p>Do not publish patient details, Army restricted material or personnel information. Common abbreviations belong in <code>includes/abbreviations.md</code>.</p>
+<h2 id="preview-and-publication">Preview and publication<a class="headerlink" href="#preview-and-publication" title="Permanent link">&para;</a></h2>
+<p>Add the page to <code>mkdocs.yml</code>, preview it, and build with <code>mkdocs build --strict</code> into a separate preview directory. Check internal links and mobile readability. Have a clinician review material clinical changes and resolve or visibly bound source gaps.</p>
+<p><strong>Obtain the site owner’s explicit approval before pushing or publishing.</strong> This repository updates a public website. Keep a reviewable change log with the source and reason for each material correction.</p>
 
 
 
@@ -3433,7 +3419,7 @@ every page. Add new ones there rather than redefining them per page.</p>
       <nav class="md-footer__inner md-grid" aria-label="Footer" >
         
           
-          <a href="../military/deployability/" class="md-footer__link md-footer__link--prev" aria-label="Previous: Profiles, MEB/MAR2 &amp; deployability">
+          <a href="../military/tricare/" class="md-footer__link md-footer__link--prev" aria-label="Previous: TRICARE — coverage and prior authorization">
             <div class="md-footer__button md-icon">
               
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
@@ -3443,11 +3429,27 @@ every page. Add new ones there rather than redefining them per page.</p>
                 Previous
               </span>
               <div class="md-ellipsis">
-                Profiles, MEB/MAR2 & deployability
+                TRICARE — coverage and prior authorization
               </div>
             </div>
           </a>
         
+        
+          
+          <a href="../evidence-review/" class="md-footer__link md-footer__link--next" aria-label="Next: Evidence and update policy">
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                Next
+              </span>
+              <div class="md-ellipsis">
+                Evidence and update policy
+              </div>
+            </div>
+            <div class="md-footer__button md-icon">
+              
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg>
+            </div>
+          </a>
         
       </nav>
     
