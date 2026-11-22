@@ -46,12 +46,13 @@ brief** and a standardized **military-medicine layer**.
 
     ---
 
-    Nine pages, from the acute thrombolysis/thrombectomy window through prevention and the
-    less-common vasculopathies.
+    Ten pages, from the acute thrombolysis/thrombectomy window through prevention, the
+    less-common vasculopathies, and the hypercoagulable workup.
 
     [Acute ischemic stroke](stroke/index.md) · [TIA](stroke/tia.md) ·
     [Prevention](stroke/prevention.md) · [ICH](stroke/intracerebral-hemorrhage.md) ·
     [SAH](stroke/subarachnoid-hemorrhage.md) · [CVST](stroke/cerebral-venous-thrombosis.md) ·
+    [Hypercoagulable workup](hypercoag-workup.md) ·
     [Dissection](stroke/cervical-artery-dissection.md) ·
     [CAA](stroke/cerebral-amyloid-angiopathy.md) · [Carotid disease](stroke/carotid-disease.md)
 
@@ -126,6 +127,27 @@ brief** and a standardized **military-medicine layer**.
 
     [:octicons-arrow-right-24: Motor neuron disease](motor-neuron-disease/index.md)
 
+-   :material-vector-polyline:{ .lg .middle } **Spinal cord, root & peripheral nerve**
+
+    ---
+
+    Localize the lesion, then treat — acute myelopathy, radiculopathy and plexopathy, and
+    CIDP with its IVIG order set.
+
+    [Acute myelopathy](acute-myelopathy.md) ·
+    [Radiculopathy & plexopathy](radiculopathy-plexopathy.md) · [CIDP & IVIG](cidp.md)
+
+    [:octicons-arrow-right-24: Acute myelopathy](acute-myelopathy.md)
+
+-   :material-needle:{ .lg .middle } **Neuroimmunology therapeutics**
+
+    ---
+
+    Ready-to-use IVIG, PLEX and rituximab order sets — dosing, premedication, monitoring and
+    the checks before the first infusion.
+
+    [:octicons-arrow-right-24: IVIG / PLEX / Rituximab order sets](immunotherapy-order-sets.md)
+
 -   :material-brain:{ .lg .middle } **Dementia & cognitive impairment**
 
     ---
@@ -149,10 +171,14 @@ brief** and a standardized **military-medicine layer**.
 
     ---
 
-    Death by neurologic criteria under the 2023 AAN/AAP/CNS/SCCM guideline — prerequisites,
-    exam, apnea test and ancillary testing.
+    The altered or comatose patient and the swelling brain — AMS and coma workups, tiered
+    ICP management, and death by neurologic criteria under the 2023 guideline.
 
-    [:octicons-arrow-right-24: Brain death (BD/DNC)](neurocritical-care/brain-death.md)
+    [AMS workup](neurocritical-care/ams-workup.md) · [Coma](neurocritical-care/coma-workup.md) ·
+    [Increased ICP](neurocritical-care/increased-icp.md) ·
+    [Brain death](neurocritical-care/brain-death.md)
+
+    [:octicons-arrow-right-24: Coma — approach & workup](neurocritical-care/coma-workup.md)
 
 </div>
 
@@ -192,7 +218,8 @@ the condition — deployability, profile, EPTS/LOD, retention standards, and MEB
     peer-reviewed, and what still needs confirmation before you act on it. Where a
     recommendation rests on observational rather than randomized evidence, the page says so.
 
-    **50 pages** across headache, cerebrovascular disease, seizure, traumatic brain injury,
+    **57 pages** across headache, cerebrovascular disease, seizure, traumatic brain injury,
     demyelinating disease, neuromuscular-junction disorders, movement disorders, motor neuron
-    disease, myopathy, dementia, neuroinfections, neurocritical care and military medicine.
+    disease, myopathy, spinal cord, root and peripheral nerve, neuroimmunology therapeutics,
+    dementia, neuroinfections, neurocritical care and military medicine.
     Pages marked **Draft** at the top have not yet been through the review pipeline.
