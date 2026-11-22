@@ -66,6 +66,14 @@ markdown_extensions:
 
 nav:
   - Home: index.md
+  - By presentation:
+    - Start with the symptom: presentation/index.md
+    - Focused neuro exam and localization: presentation/neuro-exam.md
+    - Acute dizziness and vertigo: presentation/dizziness.md
+    - Vision loss, double vision, and facial palsy: presentation/neuro-ophthalmology.md
+    - Acute weakness and Guillain–Barré syndrome: presentation/acute-weakness.md
+    - Peripheral neuropathy and entrapment: presentation/peripheral-neuropathy.md
+    - Spells, syncope, and functional neurologic disorder: presentation/spells.md
   - By disorder:
     - Headache:
       - Overview & triage: headache/index.md

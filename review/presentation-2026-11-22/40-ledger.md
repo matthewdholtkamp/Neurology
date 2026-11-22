@@ -1,0 +1,23 @@
+# By presentation source ledger
+
+Reviewed 22 November 2026. Source anchors for the clinical decisions introduced in the six new guides and the linked CIDP correction.
+
+| Decision or threshold | Source |
+|---|---|
+| Focused exam, localization by distribution and time course, and concise handoff | [AAN clinical neurology curriculum](https://pmc.ncbi.nlm.nih.gov/articles/PMC6453766/) |
+| Sudden focal deficits, last known well and glucose assessment | [AHA/ASA acute ischemic stroke guideline](https://doi.org/10.1161/STR.0000000000000513) |
+| Dizziness patterns, trained HINTS in acute vestibular syndrome with nystagmus, gait assessment without nystagmus, MRI/MRA after central or equivocal HINTS, early steroids for vestibular neuritis as a low-certainty shared decision | [GRACE-3](https://www.saem.org/publications/grace/grace-3) |
+| Positional testing, repositioning, avoiding routine suppressants and imaging, reassessment within one month | [AAO-HNS BPPV guideline](https://pubmed.ncbi.nlm.nih.gov/28248609/) |
+| Emergency stroke evaluation for acute symptomatic retinal arterial occlusion, suspicion for GCA in older adults and urgent treatment for threatened vision | [AAO preferred practice pattern](https://www.aao.org/education/preferred-practice-pattern/retinal-ophthalmic-artery-occlusions-ppp), [ACR/VF GCA guideline](https://pmc.ncbi.nlm.nih.gov/articles/PMC12344528/) |
+| Orbit MRI for suspected optic nerve disease, urgent vascular imaging for acute third nerve palsy or acute painful Horner syndrome | [ACR vision loss](https://acsearch.acr.org/docs/3196640/Narrative), [third nerve cohort](https://pmc.ncbi.nlm.nih.gov/articles/PMC8727561/), [ACR Horner syndrome](https://acsearch.acr.org/docs/3195156/Narrative) |
+| Papilledema assessment, neuroimaging and venography before LP when appropriate | [IIH consensus](https://pmc.ncbi.nlm.nih.gov/articles/PMC6166610/) |
+| Typical Bell palsy: prednisolone 25 mg twice daily for 10 days started within 72 hours, corneal protection, no routine lab/imaging or antiviral monotherapy, incomplete recovery at three months triggers referral | [Sullivan trial](https://doi.org/10.1056/NEJMoa072006), [AAO-HNS guideline](https://doi.org/10.1177/0194599813505967) |
+| GBS: classic progression within four weeks, early CSF/NCS limitations, ICU respiratory assessment as FVC approaches 20 mL/kg, IVIG 0.4 g/kg daily for five days, severity-specific treatment windows, plasma exchange four to five sessions over one to two weeks, limits on repeat/sequential immunotherapy | [EAN/PNS GBS guideline](https://doi.org/10.1111/ene.16073) |
+| Reassess for acute-onset CIDP after worsening beyond eight weeks or at least three treatment-related fluctuations | [EAN/PNS GBS guideline](https://doi.org/10.1111/ene.16073), [EAN/PNS CIDP guideline](https://doi.org/10.1111/ene.14959) |
+| High-yield polyneuropathy labs and clinical diagnosis with CTS-6 in typical carpal tunnel | [AAN/AANEM/AAPM&R lab parameter](https://pubmed.ncbi.nlm.nih.gov/19056666/), [AAOS carpal tunnel guideline](https://www.aaos.org/quality/quality-programs/upper-extremity-programs/carpal-tunnel-syndrome/) |
+| Painful diabetic neuropathy: nonopioid treatment and class switch if needed, duloxetine 60 mg daily and avoid at GFR below 30 mL/min or in chronic liver disease or substantial alcohol use | [AAN guideline](https://doi.org/10.1212/WNL.0000000000013038), [duloxetine label](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=05a744a5-64ef-42d7-a19c-568be5a272d4) |
+| Blackout evaluation with ECG and witness history, high-risk cardiac features, avoid routine EEG for uncomplicated syncope | [NICE CG109](https://www.nice.org.uk/guidance/cg109/chapter/Recommendations) |
+| Convulsive status treatment threshold of five minutes | [AES guideline](https://pmc.ncbi.nlm.nih.gov/articles/PMC4749120/) |
+| Functional seizures: typical-event video-EEG when feasible, coexisting epilepsy, respectful explanation, psychological interventions and supervised review of medications without another indication | [AAN guideline](https://doi.org/10.1212/WNL.0000000000214466) |
+| Hoover sign as a positive clue to functional weakness in context | [Prospective cohort](https://pubmed.ncbi.nlm.nih.gov/22118379/) |
+| Military and TRICARE routing | [Retained deployment references](../../docs/military/deployment-medications.md), [TRICARE source and authorization boundaries](../../docs/military/tricare.md), [JTS deployed teleconsultation](https://jts.health.mil/assets/docs/cpgs/Telemedicine_Deployed_Setting_19_Sep_2023_ID94_v1.1.pdf). New guides refer to the exact product and governing benefit or duty authority. |

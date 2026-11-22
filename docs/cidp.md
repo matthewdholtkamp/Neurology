@@ -15,7 +15,7 @@ eligibility against current labeling and guidelines before ordering.
 !!! danger "🚩 Red flags — reconsider CIDP, or act now"
     | Pattern | Worry | Do now |
     |---|---|---|
-    | **Course <8 weeks to nadir, or rapidly progressive weakness** | Acute inflammatory demyelinating polyneuropathy (GBS/AIDP), not CIDP — CIDP requires ≥8 weeks | Treat as GBS: admit, respiratory/bulbar monitoring, IVIG or PLEX urgently |
+    | **Rapidly progressive weakness** | Consider GBS, acute-onset CIDP and other mimics. Classic GBS usually reaches nadir within four weeks. Further worsening beyond eight weeks or three or more treatment-related fluctuations should prompt reassessment for acute-onset CIDP. | Use the [acute weakness pathway](presentation/acute-weakness.md) for urgent respiratory and bulbar assessment and syndrome-specific treatment. |
     | **Respiratory or bulbar weakness** | Ventilatory failure — rare in CIDP, dangerous whenever present | Admit, forced vital capacity / negative inspiratory force, ICU triage |
     | **Marked asymmetry, severe pain, or stepwise deficits** | Vasculitic neuropathy or multifocal CIDP mimics (vasculitis, HNPP, multifocal motor neuropathy) | Urgent vasculitis workup; do not default to "CIDP" on asymmetry alone |
     | **IgM paraprotein, especially with distal sensory-predominant disease** | Anti-MAG neuropathy — no longer classed as CIDP, and it responds poorly to standard CIDP therapy | Anti-MAG antibody; reframe the diagnosis before escalating immunotherapy |
@@ -38,7 +38,7 @@ second.
 - Symmetric weakness affecting **proximal and distal** muscles of the **upper and
   lower** limbs
 - Sensory involvement in **≥2 limbs**
-- **Progressive or relapsing** course developing over **≥8 weeks**
+- **Progressive or relapsing** course developing over **≥8 weeks** in typical CIDP. Acute-onset CIDP can initially resemble GBS.
 - **Reduced or absent tendon reflexes throughout** the limbs
 
 For a variant, the distribution or modality differs as below; reflexes may remain
@@ -110,8 +110,8 @@ time. At least one of the following, with nerve counts by phenotype:
 
 ## Rapid approach
 
-1. **Exclude the dangerous thing first:** course <8 weeks, respiratory/bulbar
-   involvement, or severe pain/asymmetry → GBS or vasculitis pathway, not routine
+1. **Exclude the dangerous thing first:** rapidly progressive weakness, respiratory/bulbar
+   involvement, or severe pain/asymmetry → [acute weakness](presentation/acute-weakness.md) or vasculitis pathway, not routine
    CIDP workup.
 2. **Classify the phenotype** from the table above — the phenotype decides which
    electrodiagnostic counts apply and which mimic to chase.

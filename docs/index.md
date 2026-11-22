@@ -10,9 +10,25 @@ patient with neurological symptoms in the clinic, ER, or on the wards, the way a
 would. Every topic pairs a prescriptive **consult workflow** with a plain-language **evidence
 brief** and a standardized **military-medicine layer**.
 
-[:material-head-flash: Headache triage](headache/index.md){ .md-button }
-[:material-heart-pulse: Acute stroke](stroke/index.md){ .md-button }
-[:material-shield-star-outline: Military medicine](military/deployability.md){ .md-button }
+[:material-stethoscope: By presentation](presentation/index.md){ .md-button .md-button--primary }
+[:material-clipboard-text-outline: TRICARE prior authorization](military/tricare.md){ .md-button }
+[:material-shield-star-outline: Deployment by disease and medication](military/deployment-medications.md){ .md-button }
+
+## On-call quick links
+
+- [Sudden focal deficit → acute stroke](stroke/index.md) · [Ongoing seizure → status epilepticus](seizure/index.md#status-epilepticus-the-timed-escalation-ladder-the-code)
+- [Won’t wake up → coma workup](neurocritical-care/coma-workup.md) · [New confusion → altered mental status](neurocritical-care/ams-workup.md)
+- [Thunderclap headache → headache triage](headache/index.md) · [Suspected CNS infection → neuroinfections](neuroinfections/index.md)
+- [Rapidly progressive weakness → GBS and mimics](presentation/acute-weakness.md) · [Back pain with new deficits → acute myelopathy](acute-myelopathy.md)
+
+## What are you seeing?
+
+- [New deficit → focused exam and localization](presentation/neuro-exam.md)
+- [Dizziness or vertigo → sort by timing and triggers](presentation/dizziness.md)
+- [Vision loss, double vision, or a weak face → urgent eye and cranial nerve triage](presentation/neuro-ophthalmology.md)
+- [Acute weakness → localize and assess respiratory risk](presentation/acute-weakness.md)
+- [Burning feet, numb hands, or foot drop → neuropathy and entrapment](presentation/peripheral-neuropathy.md)
+- [Blackout, shaking, or a recurrent spell → syncope, epilepsy, and functional symptoms](presentation/spells.md)
 
 !!! tip inline end "Fastest way in"
     Press <kbd>/</kbd> anywhere and type a symptom, drug, or trial name.
@@ -213,6 +229,6 @@ the condition — deployability, profile, EPTS/LOD, retention standards, and MEB
 - **Search** — press `/` anywhere and type a symptom, drug, or trial name.
 
 !!! note "How current is this?"
-    **Site-wide evidence/policy review: 21 November 2026.** All 59 existing Markdown pages were read; material corrections were checked against accessible primary guidelines, FDA labels, trials and official military/TRICARE sources. The site now contains **62 pages**, including **56 clinical pages** and the new shared references.
+    **Site-wide evidence/policy review: 21–22 November 2026.** All 59 pages in the initial review were read, with material corrections checked against accessible primary guidelines, FDA labels, trials and official military/TRICARE sources. The six new presentation guides list their own sources and review dates.
 
     This is an **AI-assisted evidence review**, not clinician certification of every claim. See [review scope and source limits](evidence-review.md), [TRICARE PA/MN requirements](military/tricare.md), and [deployment — disease AND medications](military/deployment-medications.md). Some specialty PA criteria and controlled policy procedures still need current-source confirmation.
