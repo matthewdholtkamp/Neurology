@@ -8,14 +8,20 @@ antibody changes the plan, the IMNM induction regimens that actually get used
 the August 2026 brepocitinib (Lisraya) approval, myositis-associated ILD from
 chronic to rapidly progressive, and inclusion body myositis under the new 2024
 ENMC framework. For the neurologist or rheumatologist seeing progressive weakness,
-a hot CK, or a myositis antibody panel that just resulted.
+a hot CK, or a myositis antibody panel that just resulted — and for the trainee with exertional
+rhabdomyolysis, the ICU patient who will not wean, and the young man with episodic paralysis.
+
+!!! warning "Draft — not yet through the review pipeline"
+    This page has not had its `/page` review (FDA-label diff, OpenEvidence round, safety and
+    military agents). The October 2026 corrections are listed in the Verified footer; treat
+    anything the footer does not name as unconfirmed.
 
 !!! danger "🚩 Red flags — don't miss these"
     | Pattern | Worry | Do now |
     |---|---|---|
     | **Rapidly progressive ILD**, especially anti-MDA5 DM — rising O₂ needs over days to weeks | Death from respiratory failure; this moves in days, not months | Inpatient, multidisciplinary, **upfront combination immunosuppression** — do not wait for the complete antibody panel |
     | **Dysphagia with aspiration risk** (coughing on swallows, prolonged mealtimes, weight loss) in any myopathy | Aspiration pneumonia — the killer in IBM and severe IMNM/DM | Same-visit swallow screen → videofluoroscopy; dietitian; consider early IVIG in inflammatory disease |
-    | **CK >5,000 IU/L with myoglobinuria** (tea-colored urine) | Rhabdomyolysis → acute kidney injury | Aggressive IV fluids, monitor CK/creatinine/electrolytes, admit — this is not "just myositis" |
+    | **CK >5,000 IU/L with myoglobinuria** (tea-colored urine) — classically a **trainee after PT** | Rhabdomyolysis → acute kidney injury, hyperkalemia, compartment syndrome | Aggressive IV fluids, monitor CK/creatinine/potassium, admit — [exertional rhabdomyolysis](#rhabdomyolysis-toxic-critical-illness-and-metabolic-myopathy) |
     | **Statin-exposed patient with severe proximal weakness and CK in the thousands** | **Anti-HMGCR IMNM** — stopping the statin alone does not treat it | Anti-HMGCR antibody, muscle biopsy, start immunosuppression (early IVIG for moderate–severe) |
     | **Inflammatory muscle biopsy labeled "polymyositis"** in a patient over 45 with finger-flexor/quadriceps weakness | **IBM misdiagnosed as polymyositis** — immunosuppression will not help and may harm | Reconcile biopsy with the clinical pattern (2024 ENMC framework); only 43% of IBM biopsies show all three classic findings |
     | **Systemic-sclerosis overlap** about to get high-dose steroids for myositis | **Scleroderma renal crisis** precipitated by steroids | Rethink the steroid dose; involve rheumatology — the routine high-dose myositis approach does not apply |
@@ -134,6 +140,7 @@ cancer assessment proceed **in parallel** with send-out testing.
     - **Do not use methotrexate as an ILD treatment.** With active ILD,
       mycophenolate, tacrolimus, or rituximab is the choice; methotrexate treats
       muscle/skin, not lung.
+
 ## Immune-mediated necrotizing myopathy (IMNM)
 
 IMNM is the myopathy where **early combination therapy beats prolonged steroid
@@ -192,8 +199,11 @@ for severe muscle or bulbar disease — not after multiple drug failures. Most
 sequencing recommendations remain low-certainty evidence and expert consensus.
 "Polymyositis" is a diagnosis of exclusion (see above).
 
-!!! tip "2026 update — brepocitinib (Lisraya) FDA-approved for adult DM"
-    **Brepocitinib (Lisraya) received FDA approval on August 27, 2026, for adult
+!!! tip "2026 update — brepocitinib (Lisraya) for adult DM — confirm the label first"
+    *This box rests on one research answer; the label was not pulled for this page. Confirm the
+    indication, dose and boxed warning on DailyMed before prescribing.*
+
+    **Brepocitinib (Lisraya) was reported FDA-approved on August 27, 2026, for adult
     dermatomyositis at 30 mg PO once daily** — the first new oral DM therapy in
     this space. Phase 3 (n=241): mean week-52 Total Improvement Score 46.5 vs
     31.2 placebo; skin, functional, and steroid-sparing outcomes favored 30 mg;
@@ -277,6 +287,7 @@ sequencing recommendations remain low-certainty evidence and expert consensus.
       lengthen toward 6–8 weeks — one change at a time. Rituximab: repeat ~every
       24 weeks when needed, individualized. Post-cyclophosphamide: transition to
       mycophenolate or azathioprine.
+
 ## Myositis-associated interstitial lung disease
 
 ILD is a **separate treatment pathway**, titrated to lung severity — not a footnote
@@ -340,8 +351,8 @@ including glucocorticoids for IIM-ILD (very-low-certainty evidence for much of i
     - Reasonable expert-center combinations: steroid + rituximab + tacrolimus, or
       classical steroid + tacrolimus + cyclophosphamide. ACR/CHEST conditionally
       favored rituximab over cyclophosphamide for anti-MDA5 RP-ILD — but **no
-      single combination is established as universally superior**, and a 2025
-      multicenter cohort did **not** reproduce the historical Japanese triple-therapy
+      single combination is established as universally superior**, and a multicenter
+      cohort (Clin Exp Rheumatol 2024) did **not** reproduce the historical Japanese triple-therapy
       survival benefit (higher mortality in the triple group). Treat true RP-ILD
       with early combination and individualized selection — not automatic
       cyclophosphamide triple for every MDA5-positive patient.
@@ -469,6 +480,7 @@ management — **not** the immunosuppressive ladder used above.
       recurrent aspiration, orthopnea or resting dyspnea, ineffective cough during
       infection, unexpectedly rapid weakness — sudden deterioration warrants a
       search for a superimposed problem, not automatic attribution to IBM.
+
 !!! tip "TRICARE — myopathy prescribing"
     Prednisone, methotrexate, azathioprine, mycophenolate, and hydroxychloroquine
     are generic with minimal barriers — they should never be the drugs that wait
@@ -479,6 +491,73 @@ management — **not** the immunosuppressive ladder used above.
     agents. *Verify current status at the TRICARE Formulary Search before
     counseling — DoD P&T revises tiers periodically, and new approvals lag
     formulary updates.*
+
+## Rhabdomyolysis, toxic, critical-illness and metabolic myopathy
+
+The non-inflammatory myopathies that most often reach a military neurologist — and the first one
+is an occupational disease of initial-entry training.
+
+!!! orderset "Exertional rhabdomyolysis — the trainee with dark urine"
+    - **Recognize it:** muscle pain, swelling and weakness out of proportion to the workout,
+      often after unaccustomed eccentric exercise, heat, dehydration or a new PT program;
+      **tea-colored urine** with a **heme-positive dipstick but few RBCs** on microscopy.
+    - **Labs now:** CK, BMP (**potassium**, creatinine), calcium, phosphate, uric acid, LFTs,
+      urinalysis with microscopy; ECG if potassium is high. Check **core temperature** and
+      **sickle cell trait** status — exertional heat illness changes the disposition.
+    - **Fluids:** isotonic crystalloid titrated to a urine output of roughly **200–300 mL/h**
+      until CK is clearly falling and the urine clears; watch for volume overload once AKI is
+      established. Bicarbonate and mannitol have no proven benefit.
+    - **Admit** for AKI, hyperkalemia, CK rising on fluids, inability to take oral fluids, heat
+      illness, or **compartment syndrome** (pain on passive stretch, tense compartment —
+      surgical consult for pressures and fasciotomy).
+    - **No NSAIDs** until renal function is known to be normal; no further exertion until
+      cleared.
+    - **Return to duty:** follow the DoD **CHAMP/USU clinical practice guideline for exertional
+      rhabdomyolysis**, which stratifies low vs high risk and sets a phased return. High-risk
+      features include **AKI, delayed recovery, a recurrent episode, rhabdomyolysis after
+      minimal exertion, exertional heat illness, sickle cell trait, or a personal or family
+      history of rhabdomyolysis or malignant hyperthermia** → look for an underlying myopathy
+      (below) before full duty.
+
+!!! orderset "Recurrent or unexplained rhabdomyolysis — find the metabolic myopathy"
+    - **Triggers for workup:** recurrent episodes, rhabdomyolysis after trivial exertion, fasting
+      or fever, exercise intolerance with cramps or a **second wind**, CK persistently raised
+      between episodes, or a family history.
+    - **Order:** **acylcarnitine profile**, **free and total carnitine**, urine organic acids,
+      and a **metabolic myopathy / rhabdomyolysis gene panel** that includes **PYGM** (McArdle),
+      **CPT2**, **RYR1** and the fatty-acid-oxidation genes. Biopsy and forearm exercise testing
+      are now second-line to genetics.
+    - **The usual answers:** **CPT2 deficiency** (episodes with prolonged exercise, fasting or
+      fever; normal CK between) and **McArdle disease** (cramps and contractures in the first
+      minutes of exercise; second-wind phenomenon). **RYR1 variants** link exertional
+      rhabdomyolysis, exertional heat illness and **malignant hyperthermia susceptibility** —
+      flag the anesthesia record.
+
+!!! orderset "Statin, steroid, critical-illness and periodic paralysis"
+    - **Statin myopathy:** myalgia with normal or mildly raised CK resolves within weeks of
+      stopping the statin. **Weakness that progresses after stopping, or CK in the thousands =
+      anti-HMGCR IMNM** — see [IMNM](#immune-mediated-necrotizing-myopathy-imnm).
+    - **Steroid myopathy:** proximal, hip-flexor-first weakness with a **normal CK** after weeks
+      of glucocorticoids. The trap is reading it as a myositis relapse and raising the dose —
+      normal CK with rising steroid exposure → taper, rehabilitate, reassess.
+    - **Critical illness myopathy:** flaccid, often proximal weakness and **failure to wean**
+      after sepsis, high-dose steroids or neuromuscular blockade; CK normal or mildly raised;
+      **sensation spared** (unlike critical illness polyneuropathy). NCS show low CMAP amplitude
+      with **prolonged CMAP duration**; direct muscle stimulation separates myopathy from
+      neuropathy. Treat sepsis, control glucose, minimize steroids and NMBAs, mobilize early;
+      recovery over weeks to months is usual.
+    - **Hypokalemic / thyrotoxic periodic paralysis:** episodic flaccid weakness in a young man,
+      often after a carbohydrate load or rest after exercise, with **low K⁺ during the attack**.
+      Replete **cautiously — oral when possible, IV no faster than 10 mEq/h, on a cardiac
+      monitor** — rebound hyperkalemia is common as potassium shifts back. Check **TSH and free
+      T4**: thyrotoxic periodic paralysis also responds to **propranolol** while the
+      thyrotoxicosis is treated.
+
+!!! tip "TRICARE — rhabdomyolysis and metabolic myopathy"
+    IV fluids, potassium and propranolol are generic ward stock. Genetic panels run through the
+    **medical benefit** and may need authorization — document the recurrent or exertional
+    trigger and the duty question it answers. *Verify current status at the TRICARE Formulary
+    Search — DoD P&T revises tiers periodically.*
 
 ## Disposition
 
@@ -496,31 +575,51 @@ management — **not** the immunosuppressive ladder used above.
   and ceilings of care discussed early.
 
 !!! military "Military medicine — myopathy"
-    *Framework — verify against current **AR 40-501**, **DoDI 6130.03**, **DoDI 1332.18**,
-    service deployment/aeromedical policy (and any relevant JTS CPG) before counseling.*
+    *Framework — verify against current **AR 40-501**, **DoDI 6130.03 Vol 1 and Vol 2**,
+    **DoDI 1332.18** and service aeromedical policy. See
+    [Profiles, MEB/MAR2 & deployability](../military/deployability.md). Paragraph citations are
+    carried from that page and the [LEMS page](../nmj/lems.md), not re-extracted for this one.*
 
-    - **Deployability:** active inflammatory myopathy with weakness, ILD, dysphagia,
-      or immunosuppression is not deployable; IBM is progressive and not
-      deployable. Duty limitations begin at the workup stage.
-    - **Profile (DA Form 3349):** temporary P3 during induction/workup; permanent
-      P3 typical once chronic — functional limits on lifting, carrying, marching,
-      running, and duties requiring reliable swallow or respiratory reserve.
-    - **EPTS / LOD:** document onset, exposures (including statin history for
-      anti-HMGCR IMNM — the LOD determination differs from idiopathic disease),
-      and duty status carefully; the clinical timeline is the evidence.
-    - **Retention (AR 40-501 / DoDI 6130.03):** progressive or
-      treatment-refractory myopathy with functional limitation fails retention
-      standards → MEB/IDES referral; initiate promptly rather than watching decline.
-    - **MEB / IDES:** refer at diagnosis for IBM or when inflammatory myopathy
-      declares itself chronic/refractory; the documentation that carries the board
-      is the longitudinal record — MMT-8/functional trends, PFT trends when ILD
-      is present, antibody results, and the biopsy report.
-    - **Aeromedical / special duty:** not waiverable for continued flight or
-      special duty with active disease, ILD, respiratory-muscle weakness, or
-      chronic immunosuppression; ground/remove from status.
-    - **VA note:** unlike ALS there is no presumptive service connection for
-      myopathy — document the in-service onset, exposures, and functional impact
-      thoroughly so the veteran's claim file is complete at separation.
+    - **Retention — AR 40-501 3-31b covers the primary muscle disorders**, which is where
+      inflammatory myopathy, IMNM, IBM and metabolic myopathy sit; DoD floor DoDI 6130.03 Vol 2
+      **5.26.e** (neuromuscular disorders — non-exhaustive). Both run through the **5.26.a**
+      gate: document that weakness **persists despite appropriate treatment** (drug, dose,
+      duration) **and** precludes duty. A Soldier in remission on methotrexate has not failed
+      the muscle standard — but **3-1b/3-1d** (medication needing frequent monitoring;
+      dependence on frequent special treatment) can carry the case for **IVIG, rituximab or
+      ongoing immunosuppression**.
+    - **ILD and cancer run on their own standards.** Myositis-ILD is judged under the pulmonary
+      paragraphs (confirm the current number — this site does not carry it), and
+      cancer-associated DM under AR 40-501 **3-34** / DoDI 6130.03 **5.29**. Cite them beside
+      the muscle paragraph, as the LEMS page does for SCLC.
+    - **Exertional rhabdomyolysis** is usually a **temporary profile** with a guideline-driven
+      return to duty, not a board. It becomes a retention question only when it recurs, reveals
+      a metabolic myopathy, or leaves residual weakness — then **3-31b**.
+    - **Profile (DA Form 3349):** **P** factor (add **L/U** for documented limb weakness).
+      **Temporary** through induction and workup (≤90 days per instrument; link extensions);
+      **permanent** at MRDP — a permanent 3 is the DES referral (AR 40-501 **3-4**). Functional
+      limits: lifting, carrying, marching, running, heat exposure, and duty requiring reliable
+      swallow or respiratory reserve.
+    - **EPTS / LOD:** document onset, exposures and duty status. For **statin-associated
+      anti-HMGCR IMNM**, record who prescribed the statin and when. **Exertional
+      rhabdomyolysis in training is in line of duty**; a metabolic myopathy found afterwards is
+      genetic, so record the first symptomatic episode without implying pre-service onset you
+      cannot document. The 6-month accession rule applies (AR 40-501 **3-2**).
+    - **MEB / IDES:** refer at MRDP when weakness, ILD or treatment burden fails retention; refer
+      **IBM at diagnosis** (progressive, no disease-modifying therapy). The packet: MMT-8 and
+      functional trends, PFTs when ILD is present, antibody results, the biopsy report, and
+      every treatment by drug, dose and duration.
+    - **Deployability:** non-deployable with active weakness, ILD, dysphagia, IVIG/rituximab
+      dependence, or immunosuppression that blocks live theater-entry vaccines; IBM is not
+      deployable.
+    - **Aeromedical / special duty:** disqualifying with active disease, ILD,
+      respiratory-muscle weakness or chronic immunosuppression pending waiver; AR 40-501
+      **4-27** imports the accession neurologic standards. **Malignant hyperthermia
+      susceptibility** (RYR1) belongs on the medical alert record for anyone who may need
+      anesthesia forward.
+    - **VA note:** unlike ALS there is no presumptive service connection for myopathy —
+      document in-service onset, exposures and functional impact so the claim file is complete
+      at separation.
 
 ---
 
@@ -547,7 +646,7 @@ management — **not** the immunosuppressive ladder used above.
   is a rehab prescription, not a drug ladder.
 - **RP-ILD rewards speed and punishes ritual.** The 2023 ACR/CHEST guideline
   conditionally favors rituximab over cyclophosphamide for anti-MDA5 RP-ILD, but
-  a 2025 multicenter cohort failed to reproduce the historical Japanese
+  a multicenter cohort (Clin Exp Rheumatol 2024) failed to reproduce the historical Japanese
   triple-therapy survival benefit — the lesson is early individualized
   combination, not automatic cyclophosphamide triple for every MDA5-positive patient.
 - **"Polymyositis" is now a diagnosis of exclusion on this page** — before
@@ -598,7 +697,7 @@ Ann Neurol 2002); tofacitinib vs CNI in MDA5-ILD (Wu et al., Eur Respir J 2025).
 8. *A Phase 3 Trial of Brepocitinib in Dermatomyositis.* N Engl J Med. May 2026
    (n=241) — week-52 TIS 46.5 (30 mg) vs 31.2 placebo; serious infections ~10%
    vs 1%.
-9. [DailyMed — LISRAYA (brepocitinib) tablet label, August 2026](https://dailymed.nlm.nih.gov/dailymed/)
+9. [DailyMed — LISRAYA (brepocitinib) label search](https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&query=brepocitinib)
    — FDA approval August 27, 2026 for adult DM at 30 mg daily; boxed warning
    (serious infection, malignancy, MACE, thrombosis, mortality); ANC/ALC/Hgb
    cutoffs; no routine combination with JAK/TYK2 inhibitors or biologic DMARDs.
@@ -628,28 +727,27 @@ Ann Neurol 2002); tofacitinib vs CNI in MDA5-ILD (Wu et al., Eur Respir J 2025).
     dermatomyositis: a multicentre longitudinal cohort study.* Clin Exp
     Rheumatol. 2024 — did not reproduce the historical triple-therapy benefit;
     higher mortality in the triple group.
-17. **TRICARE / DoD Uniform Formulary:** prednisone, methotrexate, azathioprine,
+17. O'Connor FG, Deuster PA, et al. *Clinical practice guideline for the management of exertional
+    rhabdomyolysis in warfighters.* Consortium for Health and Military Performance (CHAMP),
+    Uniformed Services University; 2020 update — risk stratification and phased return to duty.
+18. **TRICARE / DoD Uniform Formulary:** prednisone, methotrexate, azathioprine,
     mycophenolate, and hydroxychloroquine are typically generic/preferred; IVIG,
     rituximab, tacrolimus, cyclophosphamide, nintedanib, and brepocitinib are
     generally specialty/PA-gated. *Verify current status at the TRICARE Formulary
     Search before counseling — DoD P&T revises tiers periodically.*
 
-*Verified October 2026: researched via the standard dual-source route — OpenEvidence
-(Osler) and the clinician ChatGPT account on Matthew's Mac Chrome — on October 10,
-2026, with full-text capture of all four answers (two via PDF readback, two via
-manual transcription) and a Same/Different reconciliation. The brepocitinib
-(Lisraya) FDA approval (August 27, 2026, 30 mg daily for adult DM), phase 3 figures
-(week-52 TIS 46.5 vs 31.2; serious infections ~10% vs 1%), label cutoffs
-(ANC <1,000 / ALC <500 / Hgb <8; eGFR <30 and Child-Pugh C not recommended), and
-combination warnings are as captured from the clinician-ChatGPT answer with its
-DailyMed citation. The 2024 ENMC IBM framework details (≥45 years, ≥12 months,
-CK ≤15× ULN, mandatory biopsy + supportive-finding structure, vacuoles not
-mandatory) and the 2026 IBM trial updates (ulviprubart/MUSCLE n=272 failure,
-pioglitazone single-arm) are as captured from the same route. IMNM, DM/PM ladder,
-and myositis-ILD regimens and doses are the converged dual-source figures;
-maintenance/taper schedules and monitoring intervals are practice-based as flagged
-in the text. TRICARE formulary/PA characterizations are general and must be verified
-at the TRICARE Formulary Search before counseling. Military standards are framed at
-the AR 40-501 / DoDI 6130.03 / DoDI 1332.18 document level; specific paragraph
-thresholds were not asserted and should be confirmed in the current editions before
-counseling or documenting.*
+*Verified October 2026 — **DRAFT, NOT YET REVIEWED.** Drafted 2026-10-10 from OpenEvidence and
+clinician-ChatGPT research with a same/different reconciliation of the two. IMNM, DM/PM ladder
+and myositis-ILD regimens and doses are the converged figures from both tools; taper schedules
+and monitoring intervals are practice-based as flagged in the text. **The brepocitinib (Lisraya)
+approval, dose, trial figures and label cutoffs rest on a single research answer and the label
+was not pulled** — confirm on DailyMed before prescribing. The 2024 ENMC IBM framework and the
+2026 IBM trial results (ulviprubart/MUSCLE, pioglitazone) are as captured by the same route.
+Corrected on 2026-10-22: the **Rhabdomyolysis, toxic, critical-illness and metabolic myopathy**
+section was added (written from standard references and the CHAMP/USU exertional rhabdomyolysis
+guideline, whose risk-stratification thresholds should be read from the current edition), the
+anti-MDA5 triple-therapy cohort date aligned to its citation, and the military box rewritten with
+paragraph citations. The FDA-label diff could not be run (openFDA was unreachable from the
+editing environment). TRICARE statuses are not verified against the Uniform Formulary. Military
+paragraph citations are carried from the site's military and LEMS pages, not re-extracted; the
+pulmonary retention paragraph is deliberately not cited.*

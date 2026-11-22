@@ -163,3 +163,21 @@
 *[HBAT]: Heptavalent Botulinum Antitoxin
 *[GBS]: Guillain-Barré Syndrome
 *[TPMT]: Thiopurine Methyltransferase
+*[NMS]: Neuroleptic Malignant Syndrome
+*[PDP]: Parkinson Disease Psychosis
+*[nOH]: Neurogenic Orthostatic Hypotension
+*[IMNM]: Immune-Mediated Necrotizing Myopathy
+*[IBM]: Inclusion Body Myositis
+*[ILD]: Interstitial Lung Disease
+*[TBM]: Tuberculous Meningitis
+*[ALS]: Amyotrophic Lateral Sclerosis
+*[SMA]: Spinal Muscular Atrophy
+*[PEG]: Percutaneous Endoscopic Gastrostomy
+*[ALSFRS-R]: ALS Functional Rating Scale – Revised
+*[BD/DNC]: Brain Death / Death by Neurologic Criteria
+*[TTM]: Targeted Temperature Management
+*[ECMO]: Extracorporeal Membrane Oxygenation
+*[HRZE]: Isoniazid, Rifampin, Pyrazinamide, Ethambutol
+*[CK]: Creatine Kinase
+*[LEDD]: Levodopa Equivalent Daily Dose
+*[RP-ILD]: Rapidly Progressive Interstitial Lung Disease

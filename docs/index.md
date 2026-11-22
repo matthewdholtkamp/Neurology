@@ -106,6 +106,54 @@ brief** and a standardized **military-medicine layer**.
 
     [:octicons-arrow-right-24: Myasthenia gravis](nmj/index.md)
 
+-   :material-human-cane:{ .lg .middle } **Movement disorders**
+
+    ---
+
+    The ward emergencies first — NMS, parkinsonism-hyperpyrexia, the NPO Parkinson patient —
+    then TD, PD adjuncts, nOH, psychosis, chorea and atypical parkinsonism.
+
+    [:octicons-arrow-right-24: Movement disorders](movement-disorder/index.md)
+
+-   :material-arm-flex-outline:{ .lg .middle } **Motor neuron disease & myopathy**
+
+    ---
+
+    ALS, SMA and their mimics; inflammatory myopathy, IBM, and exertional rhabdomyolysis in
+    trainees.
+
+    [Motor neuron disease](motor-neuron-disease/index.md) · [Myopathy](myopathy/index.md)
+
+    [:octicons-arrow-right-24: Motor neuron disease](motor-neuron-disease/index.md)
+
+-   :material-brain:{ .lg .middle } **Dementia & cognitive impairment**
+
+    ---
+
+    The approach to cognitive complaint, then Alzheimer's, Lewy body, frontotemporal, vascular
+    and rapidly progressive dementia.
+
+    [:octicons-arrow-right-24: Approach to cognitive impairment](dementia/index.md)
+
+-   :material-virus-outline:{ .lg .middle } **Neuroinfections**
+
+    ---
+
+    Treat first, prove later — meningitis, HSV, abscess, cryptococcal and TB meningitis,
+    autoimmune encephalitis, and the exposures this force has: barracks meningococcus, Missouri
+    ticks, and cerebral malaria.
+
+    [:octicons-arrow-right-24: Neuroinfections](neuroinfections/index.md)
+
+-   :material-bed-outline:{ .lg .middle } **Neurocritical care**
+
+    ---
+
+    Death by neurologic criteria under the 2023 AAN/AAP/CNS/SCCM guideline — prerequisites,
+    exam, apnea test and ancillary testing.
+
+    [:octicons-arrow-right-24: Brain death (BD/DNC)](neurocritical-care/brain-death.md)
+
 </div>
 
 ## The military layer
@@ -144,6 +192,7 @@ the condition — deployability, profile, EPTS/LOD, retention standards, and MEB
     peer-reviewed, and what still needs confirmation before you act on it. Where a
     recommendation rests on observational rather than randomized evidence, the page says so.
 
-    **39 pages** across headache, cerebrovascular disease, seizure, traumatic brain injury,
-    demyelinating disease, neuromuscular-junction disorders, and military medicine — with more
-    topics added one at a time, each updated to current evidence before it goes up.
+    **50 pages** across headache, cerebrovascular disease, seizure, traumatic brain injury,
+    demyelinating disease, neuromuscular-junction disorders, movement disorders, motor neuron
+    disease, myopathy, dementia, neuroinfections, neurocritical care and military medicine.
+    Pages marked **Draft** at the top have not yet been through the review pipeline.
