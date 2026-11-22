@@ -10,12 +10,15 @@ __pycache__/
 # OS
 .DS_Store
 
-# Local editor / tooling settings stay local — but the review pipeline itself is
-# VERSIONED, so it survives a lost laptop and travels with a fresh clone.
-# (Tracked ≠ runs remotely: these are plain text definitions. Nothing in CI runs them.)
+# Local editor / tooling settings stay local. The shared authoring/review pipeline
+# (skills, slash commands, agents, project settings) is COMMITTED so it travels with
+# a fresh clone. (Tracked != runs remotely: nothing in CI runs these.)
 .claude/*
+!.claude/skills/
 !.claude/commands/
 !.claude/agents/
+!.claude/settings.json
+.claude/settings.local.json
 
 # Source material — copyrighted PDFs / drafts, kept local, never published.
 # Anchored to the repo root and named distinctly so it can NEVER collide with
