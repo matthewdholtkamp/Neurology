@@ -94,7 +94,7 @@ for every GCS 3T or deeply comatose patient):
    injury, or hypoxic injury). Do not label a persistently comatose patient
    "metabolic" or "postictal" without EEG + targeted MRI ± CSF.
 5. **Day 3 and beyond: prognosticate multimodally, never from one exam.** After
-   cardiac arrest, formal prognostic assessment at ≥72 h, off sedation, normothermic.
+   cardiac arrest, use the [post-arrest prognosis pathway](post-cardiac-arrest.md) for timing after ROSC or rewarming and clearance of confounders.
    Consider brain-death evaluation only when the prerequisites in Step 3 are met.
 
 ## Workup

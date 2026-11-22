@@ -1,6 +1,6 @@
 # Deployment — check the disease AND the medication
 
-<span class="reviewed-stamp">Policy checked: 21 November 2026</span>
+<span class="reviewed-stamp">Policy checked: 22 November 2026</span>
 
 **One-liner:** “stable on treatment” starts the discussion. It does not finish the deployment screen. The destination, job, resupply, monitoring and consequences of a missed dose all matter.
 
@@ -12,6 +12,8 @@
 | Medical readiness category | DoDI 6025.19 distinguishes deployable, deployable with limitations, temporarily nondeployable, and permanently nondeployable; use the formal criteria and readiness system |
 | A particular deployment | Current combatant-command/component requirements, assignment and waiver authority |
 | Aviation / dive / other special duty | Separate Service standards and waiver process, even if the member can deploy in another role |
+
+See [aeromedical and Reserve Component routing](special-duty-reserve.md) for special-duty and component decisions. For an acute illness while deployed, open [deployed neurology and evacuation](deployed-neurology.md).
 
 **The table below is specifically CENTCOM MOD 18 Tab A.** Do not export its time intervals or drug exclusions to every theater. The controlling theater/component publication at the time of screening takes precedence over this summary.
 
@@ -28,6 +30,9 @@
 | **Stroke / TIA / CVST / dissection** | Assess deficits, recurrence, cause and monitoring; therapeutic anticoagulation or nonaspirin antiplatelet therapy creates a separate medication issue below. A healed image alone does not settle clearance |
 | **MG / LEMS / CIDP / NMOSD / MOGAD / inflammatory myopathy** | No blanket clearance based on outpatient stability. Apply general condition criteria plus infusion/injection, immunosuppression, infection, lab, cold-chain and missed-dose risks. Explain rescue needs and whether the receiving location can actually provide them |
 | **Progressive neurologic disease / dementia** | Duty and retention assessment comes first. Respiratory, bulbar, mobility or cognitive impairment and dependence on specialty care can preclude deployment even without a named theater paragraph |
+| **Pregnancy** | Listed in MOD 18 Tab A §7.A.13 as a condition precluding routine clearance. Route through obstetrics and the component medical authority. After birth, check the separate Service deferment. [Army Directive 2025-02 §4.d](https://h2f.army.mil/Portals/141/pdfs/ARN43152-ARMY_DIR_2025-02-000-WEB-1.pdf) provides a 365-day operational and training deferment for Soldiers who give birth, including deployment and mobilization |
+| **Neuro-oncology / cancer** | MOD 18 Tab A §7.E lists continuing treatment, need for specialist exam or lab/imaging during the planned deployment, or less than one year of complete remission as conditions precluding routine clearance. Document remission dates, residual deficits and treatment or surveillance needs |
+| **Recovery after cardiac arrest** | Assess the cause and recurrence risk under the applicable theater criteria. Document ongoing cardiac care, any device or medication requirements, and residual cognitive, motor or endurance limitations. The cause and ability to perform duties drive the disposition |
 | **OSA** | **Mild** (AHI and RDI <15/h) generally requires no waiver. **Moderate** (AHI 15–30/h) can proceed without waiver when asymptomatic, adherent, and Epworth <10. **Severe** (AHI >30/h) requires a waiver. **AHI >60/h** also needs a deployment recommendation from a pulmonologist, neurologist or sleep specialist. Symptomatic OSA is not waiverable. Complex/central apnea and ASV/AVAPS are nondeployable under this policy. Document PAP ≥4 hours on >70% of nights over 30 days for moderate/severe OSA, and bring rechargeable backup and supplies |
 | **Acute encephalitis / meningitis / botulism / nerve-agent injury / new cord syndrome** | Stabilize, treat and evacuate as indicated. Return-to-duty/deployment decisions follow recovery, residual deficits, treatment and current theater requirements; discharge from hospital is not deployment clearance |
 
@@ -67,7 +72,7 @@ MOD 18 general criteria include stability, low likelihood of deterioration/evacu
 ## Sources
 
 - [CENTCOM current theater medical requirements](https://www.centcom.mil/CONTACT/THEATRE-MEDICAL-REQUIREMENTS/).
-- [MOD 18 Tab A — official Army-hosted public copy](https://api.army.mil/e2/c/downloads/2025/12/11/aa159f14/mod18-tab-a-amplification-of-the-minimal-standards-of-fitness-for.pdf), sections 1, 7A and 7I. Source checked 21 November 2026; verify the theater’s latest version before screening.
+- [MOD 18 Tab A — official Army-hosted public copy](https://api.army.mil/e2/c/downloads/2025/12/11/aa159f14/mod18-tab-a-amplification-of-the-minimal-standards-of-fitness-for.pdf), sections 1, 7A, 7E and 7I. Verify the theater’s latest version before screening.
 - [DoDI 6025.19, current 2026 change](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/602519p.pdf).
 - [DoDI 6130.03 Volume 2](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/613003_vol2.PDF).
 

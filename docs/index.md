@@ -20,6 +20,8 @@ brief** and a standardized **military-medicine layer**.
 - [Won’t wake up → coma workup](neurocritical-care/coma-workup.md) · [New confusion → altered mental status](neurocritical-care/ams-workup.md)
 - [Thunderclap headache → headache triage](headache/index.md) · [Suspected CNS infection → neuroinfections](neuroinfections/index.md)
 - [Rapidly progressive weakness → GBS and mimics](presentation/acute-weakness.md) · [Back pain with new deficits → acute myelopathy](acute-myelopathy.md)
+- [After cardiac arrest → post-ROSC care](neurocritical-care/post-cardiac-arrest.md) · [Cancer with a new deficit → neuro-oncology emergencies](neuro-oncology.md)
+- [Limited local resources → deployed neurology and evacuation](military/deployed-neurology.md)
 
 ## What are you seeing?
 
@@ -29,6 +31,8 @@ brief** and a standardized **military-medicine layer**.
 - [Acute weakness → localize and assess respiratory risk](presentation/acute-weakness.md)
 - [Burning feet, numb hands, or foot drop → neuropathy and entrapment](presentation/peripheral-neuropathy.md)
 - [Blackout, shaking, or a recurrent spell → syncope, epilepsy, and functional symptoms](presentation/spells.md)
+- [Headache, seizure, or weakness in pregnancy or postpartum](presentation/pregnancy-postpartum.md)
+- [Child with seizure, headache, or new ataxia](presentation/pediatric-neurology.md)
 
 !!! tip inline end "Fastest way in"
     Press <kbd>/</kbd> anywhere and type a symptom, drug, or trial name.
@@ -213,6 +217,14 @@ brief** and a standardized **military-medicine layer**.
 
     [:octicons-arrow-right-24: Open the military reference](military/deployability.md)
 
+-   :material-airplane:{ .lg .middle } **Aeromedical, Guard, and Reserve**
+
+    ---
+
+    Where to route flight restrictions and waiver questions, Guard and Reserve profiles, and line-of-duty documentation.
+
+    [:octicons-arrow-right-24: Open the special-duty and Reserve guide](military/special-duty-reserve.md)
+
 </div>
 
 Every clinical page carries a **Military medicine** box or links to the relevant shared framework, applying it to
@@ -229,6 +241,6 @@ the condition — deployability, profile, EPTS/LOD, retention standards, and MEB
 - **Search** — press `/` anywhere and type a symptom, drug, or trial name.
 
 !!! note "How current is this?"
-    **Site-wide evidence/policy review: 21–22 November 2026.** All 59 pages in the initial review were read, with material corrections checked against accessible primary guidelines, FDA labels, trials and official military/TRICARE sources. The six new presentation guides list their own sources and review dates.
+    **Site-wide evidence/policy review: 21–22 November 2026.** All 59 pages in the initial review were read, with material corrections checked against accessible primary guidelines, FDA labels, trials and official military/TRICARE sources. New guides list their own sources and review dates.
 
     This is an **AI-assisted evidence review**, not clinician certification of every claim. See [review scope and source limits](evidence-review.md), [TRICARE PA/MN requirements](military/tricare.md), and [deployment — disease AND medications](military/deployment-medications.md). Some specialty PA criteria and controlled policy procedures still need current-source confirmation.

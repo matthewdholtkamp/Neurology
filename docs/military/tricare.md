@@ -1,6 +1,6 @@
 # TRICARE — getting the treatment to the patient
 
-<span class="reviewed-stamp">Coverage sources checked: 21 November 2026</span>
+<span class="reviewed-stamp">Coverage sources checked: 22 November 2026</span>
 
 **One-liner:** first identify the exact product, strength, indication and benefit. “FDA-approved,” “formulary,” “no PA” and “deployable” answer four different questions. The fax machine, regrettably, still has opinions.
 
@@ -101,12 +101,35 @@ The October 2026 files confirm the restrictions listed above. These older commit
 - Continuation evidence using the same baseline measure and actual response; approval dates and impending renewal deadline.
 - If denied, read the reason: wrong benefit/site, missing data, nonformulary MN and lack of coverage are different problems. Use the plan’s reconsideration/appeal route with the relevant records and evidence.
 
+## Specialty pharmacy: initiation and renewal
+
+These are **dated DoD criteria for packet preparation**. Confirm the current form and prior approval in the live tool before submission. A new indication or device on the FDA label can precede an updated payer form. Use the exact presentation. Pharmacy rules for a prefilled syringe cannot be carried over to an infusion.
+
+| Product | Initial documentation in the cited source | Continuation in that version |
+|---|---|---|
+| **Vyvgart Hytrulo prefilled syringe, 1,000 mg/5 mL** | August 2025 minutes: adult, neurologist, CIDP or AChR-positive gMG. For gMG the record required inadequate response or intolerance to pyridostigmine **and** a steroid-sparing agent, plus a restriction on concurrent FcRn/C5 treatment. Recheck serostatus because subsequent FDA labeling changed. [Committee minutes, Appendix C](https://www.health.mil/Reference-Center/Meeting-References/2025/08/15/August-2025--P-and-T-committee-minutes) | **6 months initially**. Prior approval and documented improvement and stabilization to justify continued treatment. |
+| **Austedo IR/XR and Ingrezza** | November 2023 minutes: adult, indication-specific specialist and diagnosis. TD requires documented functional impact, mood/suicide assessment and consideration of changing the culprit drug. For Huntington chorea, check the tetrabenazine prerequisite in the current form. [Committee minutes, Appendix C](https://health.mil/Reference-Center/Meeting-References/2024/01/30/November-2023-PT-Meeting-Minutes) | **1 year initially**. Then prior approval and treatment response, including **AIMS improvement of at least 2 points for TD** or clinician-assessed improvement for Huntington chorea, with continued mood/suicide monitoring. |
+| **Radicava ORS** | August 2022 record: adult with ALS, neurologist, disease duration **≤2 years**, **ALSFRS-R ≥2 on every item** and **FVC ≥80%**. These are the dated payer thresholds, separate from the FDA indication. [DoD August 2022 background record](https://health.mil/Reference-Center/Meeting-References/2022/09/13/Background-Advisory-Panel-Meeting-Minutes-for-Sept-29-PT-Committee-Meeting) | No expiry specified in the 2022 criteria. Confirm the current form and submit dated baseline measures. |
+| **Kesimpta** | November 2020 minutes: adult relapsing MS, neurologist, no active HBV or concomitant disease-modifying therapy. The old record also addressed previous Ocrevus failure. Check current criteria before applying any sequencing restriction. [Committee minutes, Appendix C](https://health.mil/Reference-Center/Meeting-References/2021/01/29/PT-Minutes-November-2020) | No expiry specified in the 2020 criteria. Confirm current approval terms and the correct product. |
+| **Enspryng** | May 2025 committee recommendation, published in the 2026 advisory packet: adult, neurologist, documented AQP4-positive NMOSD and attack dates. The recommendation counted the presenting attack and required at least two in two years, with at least one in the preceding year. Check the current form for its safety, concurrent-biologic and preferred-product questions. [Advisory packet, pp. 16–17](https://health.mil/Reference-Center/Meeting-References/2026/05/28/Background-Information-May-2025-PT-Committee-recommendations) | No expiry in the recommendation. Confirm the implemented criteria and approval terms with the pharmacy benefit. |
+| **Leqembi IQLIK maintenance** | November 2025 minutes: specialist, MCI or mild dementia due to Alzheimer disease and documentation of **18 months of initial IV lecanemab**. That record predates the 500-mg SC initiation option. Confirm the initiation and maintenance packs separately. [Committee minutes, Appendix C](https://health.mil/Reference-Center/Meeting-References/2025/11/06/November-2025-PandT-Committee-Meeting-Minutes) | No expiry specified for that maintenance form. Confirm current terms and provide baseline clinical stage, therapy dates and safety monitoring when requested. |
+
+**Start the renewal from the approval letter.** Record the expiration date, approved product and units, site of care, and whether a change in dose, formulation or site needs a new request. Attach the baseline and current score using the same instrument, along with adverse effects, missed doses and relevant safety monitoring. If the current product form is missing, call the pharmacy benefit team for it. Ask for initial and continuation criteria separately.
+
+## Medical benefit, East botulinum, and US Family Health Plan
+
+| Route | What to request |
+|---|---|
+| **East medical benefit** | Use [Humana Military provider referrals and authorizations](https://www.humanamilitary.com/provider/refsauths) and the plan's current policy. The public [MP22-030E botulinum policy](https://www.humanamilitary.com/content/dam/sites/humana-military-com/provider/clinical/Botulinum%20Toxins_MP22-030E.pdf) specifies chronic migraine eligibility. Request separate reauthorization instructions from East. Send baseline versus current headache/migraine days, response, treatment dates, dose/units and requested service period. |
+| **West medical benefit** | Confirm drug/HCPCS, diagnosis, site and whether the West medical list or Express Scripts applies. Use [TriWest prior authorization resources](https://tricare.triwest.com/en/provider/tricare-provider-handbook/tricare-referrals-and-authorizations) and the current drug or regional policy. Apply West’s botulinum continuation criteria only to West. |
+| **US Family Health Plan** | Identify the designated USFHP organization from the [official service-area directory](https://www.tricare.mil/Plans/HealthPlans/USFHP). Use its pharmacy network and its own medication PA, renewal and specialty-referral forms. Direct the request through the member’s designated plan. Express Scripts and military pharmacy routing do not apply to USFHP prescriptions. |
+
 ## Primary sources and remaining access limits
 
 - [TRICARE pharmacy prior authorization](https://tricare.mil/CoveredServices/Pharmacy/Drugs/PriorAuth) and [medical authorization overview](https://tricare.mil/Authorization).
 - [Official PA medication list, 29 October 2026](https://health.mil/Reference-Center/Meeting-References/2026/10/29/Prior-Auth-Medication-List) and [nonformulary drug file](https://health.mil/Reference-Center/Meeting-References/2026/10/29/Non-Formulary-Drugs).
 - [West medical-drug/ESI benefit-routing policy, revised 31 July 2026](https://www.triwest.com/globalassets/TRICARE/provider/PolicyKeys/Unlisted-and-ESI-Drugs-T-5-PK.pdf).
 
-**Unresolved on this review:** current specialty-drug clinical PA forms beyond those linked above, some current formulary tiers, Ajovy’s live service result, East botulinum continuation detail, US Family Health Plan-specific rules and individual benefit eligibility. They are deliberately not replaced with guessed failure counts or guaranteed approvals. Recheck the live tool and contractor when the prescription is written.
+**Still needs benefit confirmation:** current specialty-drug clinical forms beyond those retrieved, some product tiers and quantities, the live Ajovy result, separate written East botulinum continuation criteria, and each USFHP plan’s drug-specific rules. Use the current form or contractor decision for these items.
 
 Deployment is a separate question: [disease and medication screening](deployment-medications.md). See [Evidence and update policy](../evidence-review.md) for the review scope.

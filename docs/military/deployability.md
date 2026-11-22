@@ -10,7 +10,7 @@
 2. **Use retention standards for someone already serving.** DoDI 6130.03 **Volume 2** and the member’s Service regulation apply. Volume 1 is for accession; do not import its exclusions into an established Soldier’s retention decision.
 3. **Identify an immediate retention trigger.** Under current DoDI V2 **5.26.k**, diagnosed epilepsy prompts medical/personnel action on diagnosis; **5.26.d** likewise addresses permanent/progressive dementia. Do not defer these actions solely to finish an arbitrary treatment clock. Provoked seizures are addressed separately in **5.26.j**.
 4. **For other conditions, assess the actual governing standard.** The general DoD neurologic functional/treatment framework in **5.26.a** does not cancel a more specific or stricter Army standard. Record diagnosis, adequate treatment, trajectory, and duty effects. Seek the profiling/MEB physician’s help when standards intersect.
-5. **Check the destination and every medication.** Use the [deployment and medication guide](deployment-medications.md). A condition may meet retention standards while still requiring a theater waiver.
+5. **Check the destination and every medication.** Use the [deployment and medication guide](deployment-medications.md). A condition may meet retention standards while still requiring a theater waiver. See [aeromedical, Guard and Reserve pathways](special-duty-reserve.md) for separate decision authorities.
 
 ## Army: choose the correct pathway
 
@@ -20,7 +20,7 @@
 | Meets retention standards but permanent restrictions may prevent PMOS performance | Consider **MAR2**, the administrative MOS-retention/reclassification process |
 | Fails retention standards at the medical retention determination point (MRDP), or another governing referral trigger applies | Coordinate **DES referral**, using the appropriate permanent profile and approval-authority process |
 | Permanent PULHES 3/4 | Requires the proper approval/review pathway; the number alone does not establish whether the member belongs in MAR2 or DES |
-| Guard/Reserve member | Determine duty status, component-specific processing and any required LOD determination before promising the active-duty pathway or benefits |
+| Guard/Reserve member | Establish duty status and [route the profile, LOD and disability decision through the component](special-duty-reserve.md#guard-and-reserve) |
 
 **MRDP is a decision point, not a requirement to wait a year.** It may be reached earlier when further functional improvement is not expected. Twelve months on temporary profile for the same condition is an administrative threshold requiring disposition review under Army procedures. Do not keep restarting an unlinked profile to hide the clock, and do not wait for every coexisting condition to stabilize once a qualifying referral is due.
 

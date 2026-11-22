@@ -12,6 +12,8 @@ Start with what the patient, nurse, or medic tells you. Open the relevant guide 
 | Weakness over hours to days, weak cough, or trouble swallowing | [Acute weakness and Guillain–Barré syndrome](acute-weakness.md) |
 | Burning feet, numb fingers, or foot drop | [Peripheral neuropathy and entrapment](peripheral-neuropathy.md) |
 | Blackout, shaking, or recurrent unexplained spells | [Spells, syncope, and functional neurologic disorder](spells.md) |
+| Headache, seizure, or weakness during pregnancy or postpartum | [Neurology in pregnancy and postpartum](pregnancy-postpartum.md) |
+| A child with seizure, headache, or new ataxia | [Pediatric neurology essentials](pediatric-neurology.md) |
 
 ## Time-critical pathways
 
@@ -23,7 +25,11 @@ Start with what the patient, nurse, or medic tells you. Open the relevant guide 
 | Thunderclap headache | [Headache triage](../headache/index.md) |
 | Possible spinal cord or cauda equina syndrome | [Acute myelopathy](../acute-myelopathy.md) |
 | Suspected meningitis or encephalitis | [Neuroinfections](../neuroinfections/index.md) |
+| Unresponsive after return of circulation | [Post–cardiac arrest care](../neurocritical-care/post-cardiac-arrest.md) |
+| New neurologic symptoms in a patient with cancer | [Neuro-oncology emergencies](../neuro-oncology.md) |
 
 ## Military and prescribing references
 
 [TRICARE coverage and prior authorization](../military/tricare.md) · [Deployment by disease and medication](../military/deployment-medications.md) · [Profiles, retention, and MEB/MAR2](../military/deployability.md)
+
+[Deployed neurology and evacuation](../military/deployed-neurology.md) · [Aeromedical, Guard, and Reserve pathways](../military/special-duty-reserve.md)

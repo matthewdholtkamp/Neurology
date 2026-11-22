@@ -74,6 +74,8 @@ nav:
     - Acute weakness and Guillain–Barré syndrome: presentation/acute-weakness.md
     - Peripheral neuropathy and entrapment: presentation/peripheral-neuropathy.md
     - Spells, syncope, and functional neurologic disorder: presentation/spells.md
+    - Neurology in pregnancy and postpartum: presentation/pregnancy-postpartum.md
+    - Pediatric neurology essentials: presentation/pediatric-neurology.md
   - By disorder:
     - Headache:
       - Overview & triage: headache/index.md
@@ -144,12 +146,16 @@ nav:
       - Altered mental status (AMS) — workup & management: neurocritical-care/ams-workup.md
       - Brain death (death by neurologic criteria): neurocritical-care/brain-death.md
       - Coma — approach, workup & management: neurocritical-care/coma-workup.md
+      - Post–cardiac arrest care and neuroprognostication: neurocritical-care/post-cardiac-arrest.md
       - Increased intracranial pressure (ICP): neurocritical-care/increased-icp.md
     - Neuroinfections:
       - Neuroinfections (incl. autoimmune encephalitis, military exposures): neuroinfections/index.md
+    - Neuro-oncology emergencies: neuro-oncology.md
   - Military medicine:
       - Profiles, MEB/MAR2 & deployability: military/deployability.md
       - Deployment — disease AND medications: military/deployment-medications.md
+      - Deployed neurology and evacuation: military/deployed-neurology.md
+      - Aeromedical, Guard, and Reserve pathways: military/special-duty-reserve.md
       - TRICARE — coverage and prior authorization: military/tricare.md
   - About:
       - How to add a topic: contributing.md
