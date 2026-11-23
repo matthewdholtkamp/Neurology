@@ -43,12 +43,12 @@ Base movement urgency on clinical trajectory and the time to an intervention una
 
 ## Discover
 
-JTS separates clinical consultation, patient packaging and interfacility transport. Documenting what is unavailable and what the patient needs next helps the receiving team choose resources and prepare for arrival.
+JTS resources cover clinical consultation, patient packaging and interfacility transport. The 2024 deployed stroke paper linked below was written by its listed authors and hosted on the JTS website. Documenting what is unavailable and what the patient needs next helps the receiving team choose resources and prepare for arrival.
 
 ## References
 
 - [JTS clinical practice guideline directory](https://jts.health.mil/index.cfm/cpgs/cpgs), including deployed TBI/neurosurgery, patient packaging, interfacility transport and en route care.
-- [JTS stroke and cerebrovascular emergencies in the deployed setting](https://jts.health.mil/assets/docs/cpgs/Stroke_Cerebrovascular_Emergencies_Deployed_Setting_03_July_2024.pdf).
-- [JTS teleconsultation in the deployed setting](https://jts.health.mil/assets/docs/cpgs/Telemedicine_Deployed_Setting_19_Sep_2023_ID94_v1.1.pdf).
+- [Deployed stroke and cerebrovascular emergency guidance, hosted by JTS](https://jts.health.mil/assets/docs/cpgs/Stroke_Cerebrovascular_Emergencies_Deployed_Setting_03_July_2024.pdf). The document identifies its authors and states that JTS hosted it for deployed access. Use the current stroke pathway for time-sensitive treatment eligibility.
+- [JTS teleconsultation in the deployed setting, version 1.2](https://jts.health.mil/assets/docs/cpgs/Telemedicine_Deployed_Setting_19_Sep_2023_ID94_v1.2.pdf).
 
 *Evidence/policy audit: 22 November 2026. Clinical escalation, consultation and transport workflow checked against public JTS guidance. Apply theater procedures and available capabilities.*

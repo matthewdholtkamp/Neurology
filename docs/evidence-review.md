@@ -16,6 +16,8 @@ Research-identifier checks establish that the citation names the intended paper;
 
 ## How to use a clinical page
 
+The two subsequent releases added twelve guides, including the aeromedical and Reserve pathway. A focused literature recheck on 22 November covered those guides, the linked CIDP and coma changes, and the seizure treatment text used by the new pathways. The record in `review/literature-check-2026-11-22/40-ledger.md` maps each page to sources and findings. Corrections clarify pediatric dosing, checkpoint inhibitor toxicity, trial interpretation, reversibility of coma, and deployed-source attribution and access. Specialty coverage and case-specific duty determinations remain subject to the stated source limits.
+
 - Start with red flags and the first actions. Drug doses are generally **adult** unless a pediatric regimen is explicitly identified; do not scale an adult order set to a child.
 - Check indication, route, organ function, pregnancy, interactions and local administration protocol before ordering. A table is not an individualized prescription.
 - New or conflicting safety information should prompt review of the current product label and relevant specialist guidance.

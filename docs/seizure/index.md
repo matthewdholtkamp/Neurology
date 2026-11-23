@@ -48,14 +48,14 @@ picking an antiseizure medication (ASM).
       IV lorazepam** and faster to give; also **intranasal/buccal midazolam.**
     - **IV diazepam 0.15–0.2 mg/kg (max 10 mg)**, or **rectal diazepam 0.2 mg/kg** if no IV.
 
-!!! orderset "Step 2 — Second-line ASM (20–40 min) — the three are EQUIVALENT (ESETT)"
+!!! orderset "Step 2 — Second-line ASM (20–40 min) — choose by the patient (ESETT)"
     **ESETT (NEJM 2019) found levetiracetam, fosphenytoin, and valproate stop ~45–47% of
     benzo-refractory status — no winner.** So **pick by the patient**, give the full load IV:
 
     - **Levetiracetam 60 mg/kg IV (max 4500 mg)** — fewest interactions/contraindications; a good
       default (esp. cardiac/hepatic disease, pregnancy).
     - **Fosphenytoin 20 mg PE/kg IV (ESETT maximum 1500 mg PE; ≤150 mg PE/min)** — **avoid** in hypotension/arrhythmia; watch
-      the BP and QT.
+      BP and continuous ECG.
     - **Valproate 40 mg/kg IV (ESETT maximum 3000 mg)** — **avoid** in hepatic disease and
       pregnancy/childbearing potential.
     - *(Phenobarbital 15 mg/kg IV if none of the above is available.)*
@@ -228,9 +228,9 @@ unsafe home situation.
 
 - **Treat status on a clock, not on a hunch.** The **AES 2016** algorithm: stabilize (0–5 min) →
   **full-dose benzo (5–20 min)** → **second-line ASM (20–40 min)** → **anesthetize + cEEG (>40 min).**
-- **The second-line three are equivalent (ESETT 2019)** — levetiracetam ≈ fosphenytoin ≈ valproate
-  (~45–47% each); **choose by comorbidity**, and give the **full** weight-based load. Levetiracetam is
-  the cleanest default.
+- **ESETT 2019 found similar second-line success rates** of about 45–47% with
+  levetiracetam, fosphenytoin and valproate. No agent was established as superior.
+  **Choose by contraindications and comorbidity**, and give the full recommended load.
 - **Benzos are under-dosed** — that's the commonest "refractory status" that wasn't. **RAMPART**:
   IM midazolam ≥ IV lorazepam when there's no IV.
 - **"Won't wake up" → cEEG** for nonconvulsive status.

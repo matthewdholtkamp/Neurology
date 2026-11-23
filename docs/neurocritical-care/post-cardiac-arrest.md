@@ -37,9 +37,12 @@ Patients requiring ventilatory, hemodynamic, temperature or seizure management n
 
 Temperature targets are a range within an active protocol. Prognostication is a separate decision that depends on timing, confounders and the agreement of several findings. See [death by neurologic criteria](brain-death.md) for that distinct determination.
 
+The 2026 two-year TTM2 follow-up found no significant difference in societal participation or cognitive outcomes between its temperature groups. Individual survivors could improve or decline over time. Plan rehabilitation and reassessment around the patient's actual trajectory.
+
 ## References
 
 - [2025 AHA adult post–cardiac arrest care guideline](https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/post-cardiac-arrest-care).
 - [Neurocritical Care Society neuroprognostication guideline](https://doi.org/10.1007/s12028-023-01688-3).
+- [TTM2 two-year outcomes, 2026](https://pubmed.ncbi.nlm.nih.gov/41697682/).
 
 *Evidence/policy audit: 22 November 2026. Adult physiologic targets, temperature duration, EEG recommendations and prognosis timing checked against AHA and Neurocritical Care Society guidance.*

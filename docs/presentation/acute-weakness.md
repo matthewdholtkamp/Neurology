@@ -48,6 +48,6 @@ EAN/PNS guidance pairs early recognition and serial respiratory monitoring with 
 ## References
 
 - [EAN/PNS Guillain–Barré syndrome guideline](https://doi.org/10.1111/ene.16073).
-- [JTS teleconsultation in the deployed setting](https://jts.health.mil/assets/docs/cpgs/Telemedicine_Deployed_Setting_19_Sep_2023_ID94_v1.1.pdf).
+- [JTS teleconsultation in the deployed setting, version 1.2](https://jts.health.mil/assets/docs/cpgs/Telemedicine_Deployed_Setting_19_Sep_2023_ID94_v1.2.pdf).
 
 *Evidence/policy audit: 22 November 2026. Diagnostic approach, respiratory escalation and treatment windows checked against the linked EAN/PNS guideline.*

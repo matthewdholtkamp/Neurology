@@ -331,7 +331,7 @@ and respiratory arrest can occur with relatively preserved pupils.
       obstructive hydrocephalus. For refractory ICP: barbiturate coma to burst
       suppression, mild hypothermia 35–36 °C, or decompressive craniectomy.
     - **Status epilepticus:** first-line benzodiazepine (above). Second-line at
-      ~20 min — ESETT showed equivalence, so choose by patient factors: **levetiracetam
+      ~20 min — ESETT found similar success rates without establishing a superior agent, so choose by patient factors: **levetiracetam
       60 mg/kg IV max 4,500 mg**; **fosphenytoin 20 mg PE/kg IV max 1,500 mg PE** at
       ≤150 mg PE/min; **valproate 40 mg/kg IV max 3,000 mg** (avoid in liver disease,
       POLG, pregnancy, hyperammonemia). Refractory = intubate + **midazolam, propofol,
@@ -378,8 +378,8 @@ and respiratory arrest can occur with relatively preserved pupils.
     - **MRI** if CT is unrevealing or the cause is still unclear at 24–48 h (above).
     - **LP** once CT excludes mass effect and coagulopathy is corrected (above).
     - **Prognosis — multimodal, never from a single exam:** etiology is the strongest
-      determinant. Toxic/metabolic causes (including early-treated hypoglycemia) carry
-      a good prognosis even in deep coma with absent brainstem reflexes. **Avoid the
+      determinant. Toxic/metabolic causes can be reversible even in deep coma with absent
+      brainstem reflexes. Outcome depends on the cause, duration and associated brain injury. **Avoid the
       self-fulfilling prophecy.** After cardiac arrest, defer formal prognostication until **≥72 h
       after ROSC**, or **≥72 h after rewarming if hypothermia was used**, with sedation and other
       confounders excluded. Use an explicit **multimodal guideline algorithm**, not a tally of
@@ -465,9 +465,9 @@ toxic-metabolic) with EEG, MRI, and LP by the clock.
   mental status; about 80–95% of nonconvulsive seizures are detected within the first
   24–48 hours of continuous EEG. Both sources in this run agreed that a persistently
   comatose patient should not be labeled "metabolic" or "postictal" without EEG.
-- **Status epilepticus dosing is settled.** The ESETT trial showed levetiracetam,
-  fosphenytoin, and valproate are equivalent as second-line agents — choice should be
-  by comorbidity, not by a false efficacy hierarchy. First-line benzodiazepine dosing
+- **Second-line status treatment has several supported options.** ESETT found similar
+  success rates with levetiracetam, fosphenytoin and valproate and did not establish a
+  superior agent. Choose by contraindications, comorbidity and local availability. First-line benzodiazepine dosing
   (lorazepam 0.1 mg/kg, midazolam 10 mg IM, diazepam 0.15–0.2 mg/kg) is consistent
   across the ACEP and AES guidelines.
 - **Herniation management is a bundle, not a single drug:** HOB 30–45°, midline neck,
@@ -523,5 +523,6 @@ toxic-metabolic) with EEG, MRI, and LP by the clock.
     in Critically Ill Adults and Children." 2015.
 
 - [NCS cardiac-arrest neuroprognostication guideline](https://link.springer.com/article/10.1007/s12028-023-01688-3).
+- [Functional outcome after prolonged hypoglycemic encephalopathy, multicenter cohort](https://pmc.ncbi.nlm.nih.gov/articles/PMC5440422/). Persistent coma after glucose correction can reflect brain injury and requires individualized assessment.
 
 *Evidence/policy audit: 21 November 2026. Material changes were checked against the linked primary sources; this is an AI-assisted review, not certification of every dose or claim. [Review scope and source limits](../evidence-review.md).*

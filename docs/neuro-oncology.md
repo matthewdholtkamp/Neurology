@@ -10,7 +10,7 @@
     | Sudden deficit or abrupt severe headache | Activate [stroke or hemorrhage evaluation](stroke/index.md). Check anticoagulants, platelets, procedures and recent treatment in parallel. |
     | Declining consciousness, new pupil asymmetry or signs of obstructive hydrocephalus | Emergency CT, critical care and neurosurgery. Use the [raised ICP pathway](neurocritical-care/increased-icp.md). |
     | Cancer plus back pain and new weakness, sensory level, gait decline or bladder/bowel dysfunction | Treat as suspected metastatic spinal cord compression. Contact spine/neurosurgery and oncology immediately. Arrange urgent whole-spine MRI. |
-    | New weakness, dysphagia, ptosis, dyspnea or chest symptoms after immune checkpoint inhibition | Consider myasthenia, myositis and myocarditis overlap. Assess ventilation and swallowing, obtain ECG, troponin and CK, and call oncology and the relevant specialists. |
+    | New weakness, dysphagia, ptosis, dyspnea or chest symptoms after immune checkpoint inhibition | Consider myasthenia, myositis and myocarditis overlap. Withhold further checkpoint inhibitor pending urgent oncology/neurology assessment. Check airway protection, vital capacity and inspiratory force serially as feasible. Obtain ECG, troponin and CK and evaluate for all three toxicities. Bulbar or respiratory involvement needs hospital and possible ICU care. |
 
 ## What to do in order
 
@@ -19,6 +19,7 @@
     - Use emergent CT for acute deterioration, suspected blood, hydrocephalus or when speed is critical. Obtain contrast-enhanced brain MRI when safe and indicated to characterize a suspected tumor or treatment effect. Discuss contrast and protocol with radiology.
     - Treat active seizure through the [status pathway](seizure/index.md). Consider EEG when recovery is delayed. For ongoing treatment after a tumor-related seizure, review drug interactions with oncology/pharmacy. Routine prophylactic antiseizure medication is generally unnecessary in seizure-free adults with brain metastases.
     - For new focal findings or suspected raised ICP, defer LP until safe and appropriate. If leptomeningeal disease is suspected, coordinate imaging and CSF studies with the treating team.
+    - **Suspected checkpoint inhibitor neuromuscular toxicity:** seek an immediate specialist treatment plan. ICI-related MG may require IVIG or plasma exchange with corticosteroids and other syndrome-specific treatment. ICI-related GBS can also require corticosteroids alongside IVIG or exchange. The [classic GBS recommendation](presentation/acute-weakness.md) against corticosteroids applies to that separate clinical setting. Do not wait for antibody results to escalate a deteriorating patient.
 
 !!! orderset "Step 2 — Symptomatic brain metastasis with edema"
     - For adults with symptoms due to metastatic mass effect, **dexamethasone 4–8 mg/day** is a guideline-supported starting range for mild symptoms. Severe symptoms consistent with increased ICP may require **16 mg/day or higher** with specialist guidance. Choose route and regimen by acuity and ability to take oral medication.

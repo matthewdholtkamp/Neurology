@@ -26,7 +26,7 @@
 
 !!! orderset "Step 3 — Headache or new ataxia"
     - **Headache:** check BP, developmentally appropriate neurologic exam, gait, vision and fundus if feasible. Escalate sudden severe onset, progressive symptoms with vomiting, focal findings, papilledema, infection or altered mental status. A typical primary headache with normal exam and no red flags usually does not need imaging.
-    - **Typical migraine:** treat early with hydration and an age-appropriate acute plan. **Ibuprofen 10 mg/kg PO once** is an AAN/AHS first option for an eligible child. Apply the local pediatric formulary maximum and avoid when contraindicated, including significant dehydration or renal risk. If a triptan is needed, select by pediatric age, product label and contraindications with the treating clinician.
+    - **Typical migraine:** treat early with hydration and an age-appropriate acute plan. **Ibuprofen 10 mg/kg PO once, maximum 400 mg for this regimen**, is a practical initial option for an eligible child. AAN/AHS supports the weight-based dose. Check age, prior doses, liquid concentration and contraindications, including significant dehydration or renal risk. If a triptan is needed, select by pediatric age, product label and contraindications with the treating clinician.
     - **Acute ataxia:** distinguish cerebellar incoordination from weakness, pain, vertigo and sensory loss. Ask about recent infection, medication/ingestion, trauma and headache. Persistent altered alertness, focal deficits, severe headache or progressive inability to walk needs urgent evaluation. MRI generally best characterizes suspected posterior fossa disease when feasible. Use CT or a stroke pathway when speed or suspected hemorrhage makes it appropriate.
 
 ## Disposition
@@ -49,6 +49,7 @@ The low-testing pathway for simple febrile seizures depends on matching the phen
 - [CHOP first unprovoked seizure ED pathway](https://www.chop.edu/clinical-pathway/unprovoked-seizure-clinical-pathway) and [AES infantile epilepsy guideline](https://pmc.ncbi.nlm.nih.gov/articles/PMC13061853/).
 - [NICE infantile spasms recommendations, §6.3](https://www.nice.org.uk/guidance/ng217/resources/epilepsies-in-children-young-people-and-adults-pdf-66143780239813).
 - [AAN/AHS pediatric migraine acute treatment](https://pubmed.ncbi.nlm.nih.gov/31529481/) and [ACR child headache](https://acsearch.acr.org/docs/69439/Narrative).
+- [Royal Children's Hospital headache pathway](https://www.rch.org.au/clinicalguide/guideline_index/headache/), including the 400-mg single-dose ceiling for the initial ibuprofen regimen.
 - [ACR ataxia in children](https://acsearch.acr.org/docs/3158172/Narrative/).
 - [AES convulsive status guideline](https://pmc.ncbi.nlm.nih.gov/articles/PMC4749120/).
 
